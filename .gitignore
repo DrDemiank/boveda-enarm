@@ -12,3 +12,23 @@ public/
 content/mocepbass_entregables_a14_21/
 content/02_wiki/dataset_egresos_hsmo/
 content/mocepbass_entregables_tap/
+
+# LIMPIEZA_SENSIBLES_2026-09-25 — no publicar (decisión del doctor)
+# CRÍTICO: datos de pacientes
+content/EGRESO_*.docx
+content/Hoja_Egreso_*.docx
+content/**/EGRESO_*.docx
+content/**/Hoja_Egreso_*.docx
+content/02_wiki/banco_preguntas/respaldos/ENARM_Datos_Respuesta_Exacta*.docx
+# ALTO: información técnica personal / de agentes
+content/codigo vnc.docx
+content/_logs/
+content/_procesamiento/
+content/CLAUDE.md
+content/PROMPT MAESTRO - Sistema Multi-IA.md
+content/HABILIDADES_LA_MOLE_SKILLS_PRINCIPALES.md
+content/Panel Servicios Conectados.html
+content/bitacora_acentos.txt
+BITACORA_CLAUDE.md
+reporte-build.txt
+limpieza_datos_sensibles.sh
