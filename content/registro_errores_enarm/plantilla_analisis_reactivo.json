@@ -1,0 +1,12 @@
+{
+ "reactivo": "N (número en el examen)",
+ "tema_enarm": "",
+ "especialidad": "",
+ "mi_respuesta": "",
+ "respuesta_correcta": "",
+ "tipo_error": "conceptual | descuido | no_estudiado | tiempo | ansiedad",
+ "como_debia_resolver": "paso a paso con el conocimiento clínico correcto",
+ "tecnica_aplicable": "T# del documento de 13 técnicas",
+ "como_la_tecnica_lo_habria_resuelto": "simulación: qué habría pasado aplicando la técnica",
+ "lecciones_para_el_banco": "contenido para textoFacil/textoDificil"
+}

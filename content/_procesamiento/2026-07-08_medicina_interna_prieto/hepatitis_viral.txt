@@ -1,0 +1,731 @@
+===PAGE 306===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 65 (continuación). Profilaxis secundaria de infecciones oportunistas
+Enfermedad Indicaciones Tratamiento 
+recomendado
+Tratamiento alternativo Comentarios
+Pneumocystis
+jirovecii
+Antecedente de neumonía
+atípica o intersticial 
+confirmada o con sospecha de
+P. jirovecii
+TMP/SMX Dapsona o dapsona + 
+pirimetamina + ácido 
+folínico.
+Suspender profilaxis: CD4 >200 cél/mm3 por £3 meses con CV 
+indetectable por >6 meses. Si se diagnóstica PJP con CD4 £200 
+cél/mm3 la profilaxis se continuará de por vida o hasta 
+recuperación inmune sostenida con TAR y por o menos 2 CV 
+indetectable. El reinicio de profilaxis es igual a las indicaciones 
+de profilaxis primaria.
+Salmonella
+spp.
+Bacteriemia recurrente 
+sintomática o diarrea severa 
+recurrente con o sin 
+bacteriemia
+Ciprofl oxa ciño No existe recomendación específica de profilaxis continua, ni 
+un marcador para suspenderla. El tiempo de profilaxis sugerido 
+es de 2-6 meses. Se requiere identificación en cultivo y 
+evidencia de susceptibilidad para uso de antibiótico tanto en 
+episodio agudo como para profilaxis.
+Toxoplasma 
+gondii
+Antecedente de masa 
+ocupativa, enfermedad ocular, 
+meningitis o encefalitis 
+confirmada o con sospecha de 
+toxoplasma.
+Pirimetamina + 
+sulfadiazina + ácido 
+folínico,
+Clindamicina + 
+pirimetamina + ácido 
+folínico o dapsona + 
+pirimetamina + ácido 
+folínico.
+Suspender profilaxis: éxito completo con terapia inicial, 
+asintomático y CD4 >200 cél/mm3. Reiniciar profilaxis con CD4 
+<200 cél/mm3 independiente de la CV.
+Virus herpes 
+simple
+Infección por herpes simple 
+genital, mucocutáneo, 
+encefalitis
+Solo indicado en casos 
+de recurrencias 
+frecuentes o severas de 
+herpes genital. 
+Valaciclovir o
+Famciclovir o aciclovir.
+Suspender profilaxis: se deberá continuar de por vida, o hasta 
+que exista recuperación inmune sostenida en personas con TAR 
+y por lo menos 2 CV indetectables.
+CV: carga viral, cél/mm3: células/milímetro cúbico, TAR: terapia antirretroviral, TMP/SMX: trimetoprim/sulfametoxazol.
+Cuadro 66. Indicaciones para inicio de TAR en pacientes de diagnóstico de infecciones oportunistas
+Escenario CD4 Inicio de TAR Comentarios
+Recomendaciones generales 
+(excluyendo TB, criptococosis meníngea 
+o infección grave por CMV)
+Cualquiera
+Tan pronto como sea posible y dentro de las primeras 2 
+semanas posterior al inicio del tratamiento para la Infección 
+oportunista identificada o sospechada.
+La infección por Candida spp, infección no 
+grave por CMV o diarrea subaguda no es 
+indicación para retraso de TAR.
+Tuberculosis
+<50 
+cél/mm3
+Tan pronto como sea posible y dentro de las 2 semanas 
+posteriores al inicio del tratamiento para la TB.
+Un umbral de CD4 100 cél/mm3 puede ser 
+apropiado debido a la variabilidad en las 
+evaluaciones de recuento de CD4.
+>50 
+cél/mm3
+Se puede retrasar hasta 8 semanas después de comenzar el 
+tratamiento contra TB, especialmente si hay dificultades con 
+la adherencia, interacciones farmacológicas o toxicidad.
+Los umbrales de CD4 también se aplican la 
+meningitis porTB, con un control estrecho 
+debido al mayor riesgo de efectos adversos.
+Criptococosis meníngea Cualquiera
+Aplazar el inicio de TAR por al menos 4 semanas (algunos 
+expertos recomiendan un retraso de 6-10 semanas en la 
+criptococosis meníngea grave).
+Infección grave por CMV Cualquiera Un retraso máximo de 2 semanas puede ser considerado. Especialmente para personas con coriorretinitis 
+y encefalitis debido al riesgo de SIRI.
+cél/mm3: células/milímetro cúbico, CMV: citomegalovirus, TAR: terapia antirretroviral, TB: tuberculosis.
+VIRUS DE LA HEPATITIS
+Es un grupo heterogéneo de virus hepatotropos que causan 
+síntomas de hepatitis semejantes. Dado que no son virus citolíticos, 
+se cree que el daño hepático es originado por una potente reacción 
+mediada por linfocitos T citotóxicos contra los hepatocitos 
+infectados que expresan los antígenos virales en su superficie.
+La eliminación inmunológica exitosa puede llevar a la depuración 
+vírica, que puede o no asociarse al desarrollo de inmunidad vitalicia, 
+dependiendo del agente infectante. Ocasionalmente la respuesta 
+inmune es tan potente que el paciente desarrolla hepatitis 
+fulminante o subfulminante, requiriendo trasplante hepático. Las 
+manifestaciones clínicas y estudios de laboratorio de la enfermedad 
+varían dependiendo del estadio de la enfermedad.
+La fase de incubación varía entre 10-180 días, el virus es 
+detectadle en la sangre, pero no se encuentran anticuerpos y los 
+niveles de aminotransferasas y bilirrubina son normales. La fase 
+preictérica dura 3-10 días y se manifiesta con fatiga, anorexia, 
+náusea y dolor vago en el hipocondrio derecho (10-20% puede 
+presentar una reacción similar a la enfermedad del suero, con 
+exantema, urticaria, artralgias y fiebre); los títulos víricos llegan a su 
+pico y comienza la elevación de aminotransferasas. La fase ictérica 
+dura 1-3 semanas y se manifiesta con ictericia, coluria, acolia, 
+empeoramiento de los síntomas inespecíficos, pérdida ponderal, 
+disgeusia, prurito y hepatoesplenomegalia, con manifestaciones 
+extrahepáticas raras (meningitis aséptica, encefalitis, convulsiones, 
+parálisis flácida ascendente, síndrome nefrótico, artritis 
+seronegativa); las aminotransferasas llegan a niveles >10 veces del 
+límite superior normal, aparecen los anticuerpos y el título viral
+281
+
+===PAGE 307===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+declina. La fase de convalecencia puede durar hasta 6 meses y los 
+síntomas se resuelven gradualmente, los niveles de anticuerpos se 
+elevan y los de aminotransferasas y bilirrubina se normalizan. La fase 
+crónica comienza 6 meses después de la infección.
+Cuadro 67. Características de los virus hepatotropos
+ADN: ácido desoxirribonucleico, anti: anticuerpo, Ag: antígeno, ARN: ácido ribonucleico, be: bicatenario, IVIG: inmunoglobulina intravenosa específica, me: monocatenario, 
+PCR: reacción en cadena de polimerasa. 
+Virus
+VHA 
+(ARN/mc)
+VHB 
+(ADN/parcialmente be circular)
+VHC 
+(ARN/mc)
+VHD
+(ARN/mc circular)
+VHE 
+(ARN/mc)
+Familia Picornavirus Hepadnavirus Flavivirus Deltavirus Flavivirus
+Transmisión Fecal-oral, 
+parenteral (raro) Parenteral, transfusión, sexual, perinatal Parenteral, transfusión, 
+sexual Fecal-oral
+Incubación 10-30 días 60-180 días 30-60 días Coinfección con VHB 35-60 días
+Marcadores 
+séricos Anti-VHA HBsAg, HBeAg, Anti-HBsAg, Anti- 
+HBc, Anti-HBeAg, PCR
+Anti-VHC (IgM, IgG, 
+RIBA, PCR HDAg, Anti-VHD, PCR Anti-VHE, PCR
+Insuficiencia Rara <1% a menos que haya coinfección Poco común 2-20% 20%hepática aguda conVHD
+Infección 
+persistente No 5-10% (90% con infección perinatal) 85% 2-70% Ocasionalmente en pacientes 
+inmunosuprimidos
+Riesgo de 
+hepatocarcinoma No Sí Sí No No
+Profilaxis Vacuna, IVIG Vacuna, IVIG No No No
+Prevención Vacuna, Higiene Vacuna, escrutinio de la sangre 
+donada
+Escrutinio de la 
+sangre donada
+Vacuna de VHB, escrutinio 
+de la sangre donada Higiene
+VIRUS DE LA HEPATITIS A
+Inflamación aguda y autolimitada del hígado que rara vez
+provoca hepatitis fulminante. La transmisión es fecal-oral (ingesta de 
+agua o alimentos contaminados, contacto sexual, compartir objetos 
+o superficies contaminadas como el retrete), eliminándose grandes 
+cantidades del virus vía gastrointestinal, aproximadamente 10 días 
+antes del inicio de la fase ictérica. Posterior a la infección se desarrolla 
+inmunidad natural de por vida.
+El riesgo de hepatitis fulminante es mayor en pacientes con
+VHB y VHC crónica o en mayores de 50 años. La prevalencia en 
+México es del 90%. Puede permanecer viable por días o semanas en 
+mariscos, agua, tierra o sedimento marino. Puede sobrevivir hasta 4 
+horas en las manos. Los factores de riesgo para infección son: 
+hombres que tienen sexo con hombres (HSH), usuarios de drogas 
+intravenosas (UDIV), personas con trastornos de la coagulación que 
+requieren la administración de factores de coagulación, contacto 
+cercano con personas infectadas.
+Puede ser asintomática y subclínica en la mayoría de los casos. 
+Tres cuartos de la población adulta presentan síntomas, 90% de los 
+menores de 2 años son asintomáticos. La presencia de vómito, 
+deshidratación e intolerancia a la vía oral es indicativa para referencia 
+a segundo nivel de atención. En caso de alteración del estado de 
+alerta, prolongación de los tiempos de coagulación, sangrado y datos 
+de falla hepática se debe hacer referencia al tercer nivel de atención.
+Los anticuerpos anti-VHA IgM se utilizan para el diagnóstico de 
+infección aguda (sensibilidad 100%), reciente o subclínica. Se 
+detectan a partir de los 15 días de la aparición de los síntomas y 
+persisten hasta 6 meses después de la infección. Los anticuerpos anti- 
+VHA IgG solo sirven para documentar el antecedente de infección.
+El tratamiento es de sostén y se debe evitar el uso de 
+paracetamol. La aplicación de la vacuna o de inmunoglobulina está 
+indicada como profilaxis post-exposición, dentro de las primeras 2 
+semanas del inicio de los síntomas o del contacto con el caso índice 
+en pacientes con alto riesgo de hepatitis fulminante. En pacientes 
+inmunosuprimidos o con hepatopatía crónica se prefiere la 
+inmunoglobulina sobre la vacuna, de no contar con inmunoglobulina, 
+la aplicación de la vacuna es adecuada.
+Lavar frutas y verduras, tomar agua hervida o clorada, lavado de 
+manos y evitar comer alimentos crudos, son medidas preventivas. La 
+aplicación de la vacuna en población susceptible es la medida 
+preventiva de elección. Se aplica en el primer año de vida a los 0, 6 y 
+12 meses (HAVRIX), o a los 0, 6 y 18 meses (VAQTA); en adultos se 
+puede aplicar si no se aplicó en la infancia en aquellos con anticuerpos 
+anti-VHA IgG negativos.
+VIRUS DE LA HEPATITIS B
+Virus de ADN que codifica una transcriptasa inversa y se replica 
+mediante un intermediario de ARN. Existen 9 genotipos denominados 
+de la A la I, el genotipo H predomina en México, y somos un país con 
+baja prevalencia (<2% HBsAg). La transmisión vertical ocurre en 90% 
+de los embarazos de las madres HBeAg positivo y 10% de las que 
+282
+
+===PAGE 308===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+tienen HBsAg positivo y HBeAg negativo. Más del 90% de los 
+neonatos infectados llegan a ser portadores crónicos. En el adulto, el 
+riesgo de desarrollar infección crónica por el VHB es del 5%. De los 
+portadores crónicos 15-40% presentarán cirrosis hepática y/o 
+carcinoma hepatocelular.
+Z'+S
+Los grupos de alto riesgo para la infección son: nacer en áreas 
+de alta prevalencia (China, regiones de África, Alaska, islas del 
+Pacífico), neonatos con madres infectadas crónicamente, múltiples 
+parejas sexuales, antecedente de infecciones de transmisión sexual 
+(ITS), HSH, reclusos, UDIV, pacientes en hemodiálisis, receptores de 
+sangre y órganos, personas en tratamiento inmunosupresor, personal 
+sanitario en contacto con sangre, residentes y miembros del personal 
+de instituciones para discapacitados mentales.
+Para el diagnóstico se debe solicitar inicialmente HBsAg y Anti- 
+HBs en todos los pacientes con sospecha de infección. Se debe incluir 
+Anti-HBc en personas inmunosuprimidas. Un paciente con HBsAg 
+positivo por >6 meses se considera con infección crónica, en caso de 
+que el panel serológico sea compatible con infección crónica se debe 
+completar el abordaje con los siguientes: HBeAg, anti-HBeAg, carga 
+viral, anti-HBc IgM y totales. Citometría hemática, química sanguínea, 
+química hepática, tiempos de coagulación, ultrasonido abdominal, 
+endoscopia (en pacientes con manifestaciones clínicas de cirrosis).
+Cuadro 68. Interpretación del panel serológico de VHB
+Perfil Interpretación
+HBsAg {-), anti-HBc (-), anti-HBs (-) Susceptible (require vacunación)
+HBsAg (-), anti-HBc (+), anti-HBs (+) Infección previa
+HBsAg (-), anti-HBc (-), anti-HBs (+) Vacunado
+HBsAg (+), anti-HBc IgM e IgG (+), 
+anti-HBs (-) Infección aguda
+HBsAg (+), anti-HBc IgM (-), anti-HBc 
+totales (+), anti-HBs (-) Infección crónica
+HBsAg (-), anti-HBc (+), anti-HBs (-)
+Recuperación de infección aguda, 
+infección previa sin producción 
+de anti-HBs, falso positivo, 
+infección crónica con niveles 
+indetecta bles de HBsAg
+Cuadro 69. Puntaje METAVIR
+Descripción Estadio Interpretación
+Sin fibrosis F0 Sin fibrosis
+Fibrosis portal sin 
+formación de septos / 
+cicatrización mínima
+F1 Fibrosis leve-moderada
+Fibrosis portal con 
+formación de septos 
+infrecuente o rara 
+(cicatrización periférica 
+a los vasos hepáticos)
+F2 Fibrosis significativa
+Numerosos septos, 
+pero sin cirrosis 
+(puentes fibróticos)
+F3 Fibrosis severa
+Cirrosis / cicatrización 
+avanzada F4 Cirrosis
+Considerar biopsia hepática en todos los pacientes para determinar 
+el grado de necroinflamación, excepto en pacientes con cirrosis 
+hepática o en los que tienen indicación de tratamiento 
+independientemente del grado de actividad o de fibrosis. El reporte 
+histológico debe reportarse con la clasificación METAVIR. Se puede 
+valorar el grado de fibrosis de forma indirecta con Fibrotest, APRI, FIB- 
+4 y elastografía.
+Usualmente no se requiere un tratamiento específico en la 
+infección aguda ya que suele ser eliminada. Se puede utilizar 
+inmunoglobulina específica para VHB (HBIG) o lamivudina en algunos 
+escenarios. La transmisión vertical se reduce 90% con HBIG y la 
+vacuna. Después de una exposición de alto riesgo a VHB (contacto 
+sexual, exposición a objetos punzocortantes o hemoderivados) la 
+aplicación de HBIG en las primeras 48 horas disminuye el riesgo de 
+infección. Sin embargo, en la infección crónica suele requerirse el 
+tratamiento en algunos casos. El tratamiento con interferón pegilado 
+alfa (PegINF-a) es una opción de tratamiento solamente en pacientes 
+inmunocompetentes sin cirrosis, que desean un tratamiento finito, 
+HBeAg positivos, jóvenes, mujeres con plan de embarazo, con 
+genotipo A. Se reserva el tratamiento para pacientes con estas 
+indicaciones por el alto riesgo de efectos adversos durante el 
+tratamiento, está contraindicado en pacientes con cirrosis.
+La GPC recomienda lamivudina (3TC), adefovir (ADV), telbivudina 
+(TLV), y emtricitabina (FTC) como parte del tratamiento, sin embargo, 
+en guías internacionales recientes estos tratamientos ya no son 
+utilizados debido a la alta tasa de resistencia durante el primer año 
+de tratamiento. Actualmente se recomienda el tratamiento con 
+tenofovir disoproxil fumarato (TDF) o succinato (TDS), tenofovir 
+alafenamida (TAF) y entecavir (ETV). En embarazadas el único 
+tratamiento permitido es el TDF. En pacientes con cirrosis se prefiere 
+el uso de ETV, se puede usar TDF con vigilancia estrecha de la función 
+renal. La última alternativa es TAF por la falta de información sobre 
+seguridad en pacientes con cirrosis descompensada. El seguimiento 
+de los pacientes con infección crónica debe complementarse con 
+ultrasonido hepático cada 6 meses +/- alfafetoproteína. Los 
+pacientes infección crónica sin antecedente de VHA deben ser 
+vacunados para esta.
+La vacuna se aplica al nacimiento y a los 2,4,6 y 18 meses como parte 
+de la vacuna hexavalente acelular. En los que no estén vacunados o 
+que se desconozca la aplicación se deben aplicar 2 dosis de 20 pg para 
+£11 años con separación mínima de 4 semanas. Si se usa la vacuna de 
+10 pg se aplicarán 3 dosis (0, 1 y 6 meses). Los títulos protectores de 
+anticuerpos (Anti-HBs) son de >10 Ul/L, idealmente >100 Ul/L. La 
+respuesta a la vacunación debe medirse en 4-12 semanas después de 
+la última dosis en: hijos de madres con infección crónica, 
+profesionales de la salud, pacientes en hemodiálisis, compañeros 
+sexuales de pacientes con infección crónica, pacientes que se 
+someterán a trasplante o que recibirán medicamentos 
+inmunosupresores.
+283
+
+===PAGE 309===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 70. Pruebas diagnósticas para determinar la fase aguda o crónica de la infección por VHB
+HBsAg HBeAg Anti-HBc
+IgM
+Anti-HBc
+totales
+Anti-HBs Anti-HBe Carga viral ALT Fase
+Infección aguda por VHB
++ + + +/- +++ Elevada Temprana
++ +/- + Elevada Ventana
++ + + +/- Normal Recuperación
+Infección crónica por VHB (HBsAg positivo >6 meses)
++ + + • - +++
+Normal o 
+ligeramente 
+elevada
+Inmunotolerante
++ + + • • +++ Elevada Inmunoactiva HBeAg+
++ - + - + ++ Elevada Inmunoactiva HBeAg-
++ - + + ++ 0 -
+Normal o 
+ligeramente 
+elevada
+Crónica inactiva
+- - +/- +/- +/- +/- Normal Oculta
+En la fase inmunotolerante la carga viral suele ser >1 millón Ul/L, en la inmunoactiva HBeAg+ >20 mil Ul/L, en la inmunoactiva HBeAg- >2 mil Ul/L, en la inactiva crónica £2 mil 
+Ul/L, y en la oculta la carga viral es positiva en tejido hepático, pero en sangre puede ser negativa o positiva. Los anti-HBc totales suelen ser positivos generalmente en la 
+oculta.
+Cuadro 71. Recomendaciones para inicio de tratamiento en pacientes con Infección crónica por VHB
+HBeAg | Carga viral | ALT | Tratamiento
+Pacientes sin cirrosis
++ >2 mil UI/mL <2 LSN
+No recomendado. Considerar en >40 años o antecedentes familiares de hepatocarcinoma.
+Monitorizar y tratar en caso de elevación de ALT >2 LSN, biopsia hepática con inflamación moderada/severa o 
+fibrosis y/o estudios no invasivos que demuestren fibrosis moderada/severa.
++ >20 mil
+UI/mL >2 LSN
+Observar por 3-6 meses, tratar si no hay pérdida espontánea de HBeAg.
+Tratamiento inmediato si hay brote (ictericia o descompensación).
+ETV, TAF, TDF, o PegINF-a se prefieren para el tratamiento inicial.
+El objetivo del tratamiento es la seroconversión de HBeAg a anti-HBe*.
+Duración del tratamiento: PegINF-a: 48 semanas. ETV, TAF, o TDF: continuar por 12 meses después de la lograr el 
+objetivo
+- >2 mil UI/mL
+>2 LSN o 1-2 
+LSN§
+ETV, TAF, TDF, o PeglNF-ot se prefieren para el tratamiento inicial.
+El objetivo del tratamiento es la pérdida de HBsAg.
+Duración del tratamiento: PegINF-a: 1 año. ETV, TAF, o TDF: indefinido^.
+- <2 mil UI/mL Normal Monitorizar y tratar si hay incremento de carga viral o ALT como se ha descrito previamente.
+Pacientes con cirrosis
++/- Detecta ble Cualquiera
+Compensado:
+Carga viral >2 mil UI/mL: tratar con ETV, TAF, o TDF. El tratamiento es por tiempo indefinido**.
+Carga viral <2 mil UI/mL: considerar tratamiento con ALT elevado, de lo contrario se debe monitorizar de forma 
+estrecha.
+Descompensado:
+Tratar inmediatamente. Se prefiere ETV. TDF se puede considerar con monitoreo estrecho de la función renal. Enviar 
+a trasplante hepático.
++/- Indetectable Cualquiera
+Compensado: observar, monitorizar carga viral en el seguimiento, buscar otras casusas de cirrosis en caso de que la 
+carga viral se mantenga indetectable.
+Descompensado: referir a trasplante hepático, repetir carga viral en el seguimiento, evaluar otras causas de cirrosis.
+ETV: entecavir, LSN: límite superior normal, TAF: tenofovir alafenamida, TDF: tenofovir disoproxil fumarato.
+*50% de los pacientes que logran seroconversión de HBeAg pueden presentar recaída virológica al suspender el tratamiento con antivirales orales, algunos médicos 
+suspenden el tratamiento hasta lograr la pérdida de HBsAg.
+§ Si la biopsia hepática muestra inflamación moderada/severa o fibrosis significativa (>F2 METAVIR) o los estudios no invasivos muestran fibrosis significativa. 
+U Se puede considerar la suspensión del tratamiento en pacientes con pérdida de HBsAg o en pacientes que han estado indetecta bles >3 años y aceptan monitorización 
+estrecha después de suspender el tratamiento (cada mes los primeros 6 meses).
+**lncluye a los pacientes que presentan seroconversión de HBeAg y lograron anti-HBe durante el tratamiento.
+284
+
+===PAGE 310===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+VIRUS DE LA HEPATITIS C
+Existen 6 genotipos y más de 50 subtipos. El genotipo 1, es
+responsable de 70-75% de todas las infecciones por VHC en Estados 
+Unidos y México. En México se reporta una prevalencia de 1-1.9%. La 
+infección por el VHC se ha situado como la principal causa de 
+hepatopatía crónica en el mundo, cerca del 27% de los casos de 
+cirrosis y el 25% de los casos de hepatocarcinoma.
+La evolución clínica de la infección por VHC es variable, 
+aproximadamente 55-85% tienen un curso crónico, de ellos, entre 5- 
+25% desarrollan cirrosis hepática en un lapso de 20-25 años y con un 
+riesgo aproximado de 1-2% por año de aparición de carcinoma 
+hepatocelular. Los factores de riesgo son: receptores de sangre o 
+tejidos, pacientes en hemodiálisis, trabajadores de la salud, UDIV, 
+personas que viven con VIH y/o VHB, relaciones sexuales de riesgo, 
+tatuajes, perforaciones, reutilización de agujas, HSH, vertical, 
+compartir objetos punzocortantes de uso personal, reclusos.
+La mayoría de los pacientes son asintomáticos. Una parte
+refiere fatiga o ataque al estado general. Puede haber 
+manifestaciones extrahepáticas (crioglobulinemia, porfiria cutánea 
+tarda, liquen plano). El 25% (10-40%) tiene aminotransferasas 
+normales, el resto de los pacientes presenta elevación por encima del 
+límite superior normal.
+El estudio inicial son anticuerpos anti-VHC (sensibilidad 97-
+100%). Los resultados falsos negativos se presentan en pacientes con 
+inmunosupresión grave (VIH y trasplantados), pacientes en 
+hemodiálisis e hipo o agammaglobulinemia. La prueba confirmatoria 
+es la PCR, se debe solicitar de forma directa en paciente con sospecha 
+de infección aguda o en aquellos con riesgo de falsos negativos en el 
+estudio inicial. La PCR puede detectar al virus desde la 1-2° semana 
+de la infección. Los anticuerpos se pueden detectar hasta 7-8 semanas 
+después. Los pacientes con anti-VHC positivos, pero PCR negativa 
+tuvieron una infección aguda sin desarrollar infección crónica o se 
+trata de un falso positivo.
+Acorde con la última GPC el tratamiento de elección es la
+combinación de ¡nterferón pegilado y ribavirina. Los tratamientos 
+pueden ir de 24-48 semanas dependiendo del genotipo. Sin embargo, 
+actualmente el tratamiento simplificado es con antivirales de acción 
+directa con actividad pan genotípica.
+Evaluación previa al inicio del tratamiento:
+• Citometría hemática, química sanguínea, química hepática, 
+tiempos de coagulación. Coinfección con VIH y VHB.
+• Hemoglobina glucosilada (pacientes con diabetes mellitus) y 
+electrocardiograma (pacientes con antecedente de enfermedad 
+cardíaca). Evaluar posibles enfermedades psiquiátricas
+(depresión y riesgo de suicidio). Prueba de embarazo (mujeres 
+en edad fértil).
+• Ultrasonido abdominal, endoscopia (en pacientes con 
+manifestaciones clínicas de cirrosis).
+• El grado de fibrosis hepática puede ser medido con elastografía 
+y marcadores serológicos directos (FibroSure, Enhanced Liver 
+Fibrosis, Fibrosis Test) e indirectos (FIB-4, APRI). El mejor método 
+es la bíopsia hepática, pero solo se recomienda cuando hay 
+sospecha de otra condición hepática coexistente.
+Los regímenes de primera elección son glecaprevir/pibrentasvir por 
+8 semanas o sofosbuvir/velpatasvir por 12 semanas, el tratamiento 
+alternativo es con ledipasvir/sofosbuvir (solo genotipos 1,4, 5 o 6) por 
+12 semanas. Al finalizar el tratamiento (12 semanas) se realiza una 
+PCR, 12 semanas después de finalizar el tratamiento se solicita una 
+nueva PCR, si la carga viral es indetectable se considera una respuesta 
+viral sostenida (cura virológica).
+Pacientes no elegibles para el tratamiento simplificado: tratamiento 
+previo de VHC sin respuesta viral sostenida, cirrosis descompensada 
+(Child-Pugh B o C), infección por VHB, embarazo, hepatocarcinoma, 
+trasplante hepático previo. Este grupo de pacientes debe ser valorado 
+por un gastroenterólogo o infectólogo para determinar el mejor 
+esquema de tratamiento y la duración de este.
+Pacientes con cirrosis descompensada (Child-Pugh B o C) que son 
+elegibles para recibir tratamiento con ribavirina pueden ser tratados 
+con: sofosbuvir/velpatasvir o ledipasvir/sofosbuvir (solo genotipos 
+1, 4, 5 o 6), ambos en combinación con ribavirina por 12 semanas. 
+Los que no son elegibles a ribavirina recibirán los mismos 
+tratamientos, pero por 24 semanas. A los pacientes con riesgo de 
+reinfección por exposición a factores de riesgo se les debe solicitar 
+PCR de forma anual como prueba de escrutinio. En pacientes con 
+cirrosis el seguimiento debe incluir ultrasonido hepático +/- 
+alfafetoproteína cada 6 meses.
+VIRUS DE LA HEPATITIS D
+Virión de ARN que requiere la presencia de VHB para su
+ensamble y secreción. Se estima que 5% de todos los pacientes con 
+infección crónica por VHB tienen coinfección con VHD.
+Es responsable del 40% de las hepatitis fulminantes e 
+incrementa la gravedad de las infecciones por el VHB. Existe una alta 
+prevalencia en el mediterráneo, Mongolia, Moldovia, algunos países 
+del África subsahariana y de Asia. Los factores de riesgo son: UDIV, 
+antecedente de múltiples transfusiones, HSH, múltiples parejas 
+sexuales, emigrantes de países con alta prevalencia.
+• Coinfección aguda VHB/VHD: puede ocurrir en individuos 
+susceptibles a infección por VHB. Es clínicamente indistinguible 
+de una infección aguda por VHB. Es transitoria y generalmente 
+autolimitada. La mayoría de los pacientes se recuperan de ambas 
+infecciones, sin embargo, hay mayor riesgo de falla hepática que 
+285
+
+===PAGE 311===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+en la monoinfección por VHB. La progresión a infección crónica 
+por VHD es igual que en VHB por su dependencia con este virus.
+• Superinfección aguda por VHD: puede ocurrir en individuos con 
+infección crónica por VHB y se presenta como una hepatitis 
+aguda severa en un portador crónico de VHB no conocido o como 
+una exacerbación en un paciente con infección crónica por VHB 
+ya reconocida. La progresión a infección crónica por VHD ocurre 
+en casi todos los pacientes. La presentación es indistinguible de 
+los que presentan una coinfección aguda por VHB/VHD, pero 
+serológicamente puede hacerse la distinción.
+• Infección crónica por VHD: usualmente exacerba la infección 
+crónica por VHB. Se asocia con progresión más rápida a cirrosis y 
+a hepatocarcinoma.
+I Cuadro 72. Diagnóstico de VHD en diferentes escenarios clínicos
+Marcadores
+Coínfección
+aguda 
+VHB/VHD
+Superinfección
+aguda por VHD
+Infección 
+crónica por VHD
+HBsAg + + +
+Anti-HBc 
+IgM + - •
+Antígeno 
+VHD (HDag)
+Temprano y 
+transitorio,
+usualmente 
+negativo.
+Temprano y 
+transitorio,
+usualmente
+negativo.
+Indetectable.
+Carga viral 
+VHD
+Temprano, 
+transitorio, 
+pero positivo 
+por más tiempo 
+que HDag.
+Temprano y 
+persistente. +
+Anti-HDV 
+total
+Tardío, títulos 
+bajos.
+Títulos que 
+incrementan 
+rápidamente.
+Títulos altos.
+Anti-HDV
+IgM
+Transitorio, 
+puede ser el 
+único marcador 
+positivo.
+Títulos que 
+incrementan 
+rápidamente y 
+persisten.
+Variable,
+usualmente alto.
+HDag
+hepático No indicado. Positivo.
+Usualmente 
+positivo, puede 
+estar negativo 
+en etapas 
+tardías.
+El tratamiento es de soporte. En pacientes con infección 
+VHB/VHD crónica se recomienda tratamiento en aquellos con niveles 
+elevados de ALT y/o hepatitis crónica en biopsia hepática, y carga viral 
+de VHD detectable. Se puede usar PegINF-a (48 semanas). El objetivo 
+del tratamiento es lograr una carga viral indetectable de VHD. La 
+monitorización debe ser cada 6-12 meses para valorar si un paciente 
+es candidato para recibir tratamiento. Los pacientes que cumplan 
+criterios para tratamiento de VHB lo deben recibir, incluyendo 
+pacientes con cirrosis avanzada, aunque no cumplan otros criterios 
+para tratamiento de VHB. La mejor medida preventiva es la 
+vacunación para VHB y evitar las conductas de alto riesgo.
+VIRUS DE LA HEPATITIS E
+Hepatitis aguda autolimitada, la presentación fulminante es 
+rara. La mayoría de los pacientes son asintomáticos o presentan 
+síntomas leves. Los síntomas varían por la edad y exposiciones 
+previas al virus, es causa común de hepatitis, pero es poco 
+diagnosticada. Tiene distribución global, existen 4 genotipos, el 2 
+prevalece en México. La transmisión se da por el consumo de agua o 
+comida contaminada, transfusiones o vertical. La transmisión 
+persona-persona es rara, se da por la excreción viral a través de las 
+heces.
+En mujeres embarazadas la mortalidad va del 15-25%, la 
+exposición previa disminuye el riesgo de falla hepática aguda. Los 
+pacientes con enfermedad hepática previa pueden presentar 
+descompensación. Los pacientes trasplantados pueden presentar 
+enfermedad crónica, con el consecuente desarrollo de fibrosis y 
+cirrosis hepática. Pacientes con VIH, inmunosupresión por otras 
+causas o uso de inmunosupresores (rituximab), también pueden 
+presentar enfermedad crónica.
+El estudio inicial son los anticuerpos anti-VHE IgM. La 
+confirmación se realiza con un estudio alterno de anticuerpos anti- 
+VHE IgM, elevación de los títulos de anti-VHE IgG (elevación >5 veces 
+del basal en 2 semanas) o PCR en suero o heces. Si el estudio inicial es 
+negativo y la sospecha es alta, se confirma el diagnóstico con PCR, 
+sobre todo en pacientes inmunosuprimidos (alto porcentaje de falsos 
+negativos para pruebas de anticuerpos).
+El manejo es de soporte. En pacientes con hepatitis E crónica 
+pudiese utilizarse ribavirina por 12 semanas. La prevención consiste 
+en evitar el consumo de agua no potable, alimentos preparados con 
+poca higiene, mariscos, carnes o vegetales crudos.
+SPOROTHRIX SCHENCKII
+Hongo dimórfico ubicuo en el suelo y la vegetación en 
+descomposición; es el agente etiológico de la esporotricosis 
+linfocutánea (micosis granulomatosa). La pared está compuesta de 
+glucanos p y glucopéptidos (péptido-ramnomananos), que son las 
+fracciones antigénicas. Los principales hidratos de carbono 
+identificados son ramnosa y mañosa. Su morfología típica en los 
+tejidos corresponde a levaduras pleomorfas (esféricas, ovaladas, en 
+forma de puro) y yemas solitarias o múltiples (infrecuentes)
+O + A' Representa la micosis subcutánea más frecuente en México, 
+encontrándose en la Ciudad de México, Puebla, Guanajuato, Jalisco, 
+Hidalgo, Veracruz, Oaxaca, San Luis Potosí y el Estado de México. 
+Afecta a todos los grupos étnicos por igual, aunque la afectación se 
+286
+
+===PAGE 312===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+relaciona con la exposición laboral o recreacional (campesinos, 
+jardineros, floristas, carpinteros, amas de casa), adquiriéndose por 
+inoculación traumática. Casi nunca penetra por inhalación y deja 
+inmunidad a la infección. Se consideran factores predisponentes a la 
+desnutrición y el alcoholismo. En los inmunodeficientes puede 
+comportarse como un agente oportunista, observándose formas 
+diseminadas, osteoarticulares e involucramiento del sistema nervioso 
+central (frecuentemente letales) en los infectados por el VIH.
+E2J Las formas clínicas de la micosis se manifiestan después de un 
+periodo de incubación de unos días a tres meses; son las siguientes 
+(la forma linfangítica es la más frecuente):
+• Fija (10-30%): placa infiltrada eritematosa de forma semilunar, 
+verrugosa o ulcerada que suele ser indolora; suele afectar cara, 
+cuello y tronco. La forma superficial o dermoepidérmica origina 
+pequeñas lesiones satélite.
+• Linfangítica (65-82%): nodulo indoloro rojo o púrpura (chancro, 
+pueden ser múltiples) que sufre necrosis central y puede 
+ulcerarse; en semanas o meses persiste o cicatriza y, entre 5 días 
+y 2 semanas después, aparecen lesiones nodulares o gomas 
+eritematosas que siguen el trayecto de los vasos linfáticos. 
+Suele afectar las extremidades superiores, cara y extremidades 
+inferiores. Los chancros múltiples originan las formas 
+micetomatoides y crónicas verrugosas.
+• Mucocutánea: es una forma excepcional, conformada por 
+lesiones granulomatosas vegetantes o ulceradas y dolorosas. 
+Puede afectar zonas como boca, faringe, cuerdas vocales, nariz y 
+senos etmoidales.
+• Extracutánea o sistémica (2-5%): comprende formas 
+infrecuentes como la afectación de articulaciones, pulmones, 
+sistema nervioso central, aparato genitourinario, tracto 
+digestivo, bazo, páncreas, miocardio, senos paranasales, 
+riñones, testículos y tiroides. Las alteraciones radiológicas en 
+pulmones, huesos y articulaciones son inespecíficas; en los 
+pulmones puede observarse una afectación difusa, adenopatías 
+o nodulos y cavitación, especialmente en los lóbulos superiores.
+Las complicaciones corresponden al desarrollo de formas verrugosas, 
+linfostasis y, en casos muy crónicos, carcinoma espinocelular.
+El abordaje diagnóstico puede incluir la intradermorreacción 
+con esporotricina (constituida por ramnomananos, positiva con 
+induración >5 mm, puede haber pacientes anérgicos), tinción PAS de 
+biopsias cutáneas o cultivo (agar Sabouraud, agar sangre) a partir de 
+material aspirado de una lesión, biopsia, esputo o fluido corporal (el 
+método más efectivo).
+El agente de elección para el tratamiento en formas no 
+diseminadas es itraconazol. En las formas diseminadas, 
+especialmente las pulmonares, se emplea anfotericina B. En la forma 
+linfocutánea se puede utilizar también una solución saturada de 
+yoduro de potasio. En la forma fija puede ser útil agregar el uso de 
+compresas tibias.
+COCCIDIOIDES
+C. immitis y C. posadasii son hongos dimórficos indistinguibles 
+que en su estado vegetativo se encuentran como un micelio septado 
+que madura para producir artroconidios. Después de la infección, los 
+artroconidios crecen para formar una esférula que entra en septación 
+interna para producir endoesporas. Cuando las esférulas se rompen, 
+los paquetes de endoesporas son liberados y producen más esférulas 
+en los tejidos infectados o vuelven al estado micelial si son retiradas 
+del organismo. La coccidioidomicosis es una micosis sistémica 
+adquirida por inhalación, afecta los pulmones y puede ser 
+asintomática (en dos tercios de los casos), benigna, grave o letal. C. 
+immitis es el agente causal en California, mientras que C. posadasii lo 
+es fuera de esta área. En las presentaciones moderadas, la 
+recuperación deja inmunidad a la reinfección. La enfermedad 
+también se conocecomo granuloma coccidioidal, fiebre del valle de 
+San Joaquín, y enfermedad de California o de Posadas-Wernicke.
+V Es la micosis respiratoria más frecuente y grave; lo casos más 
+severos se encuentran en afroamericanos, filipinos y mexicanos, 
+además de hombres, gestantes en el tercer trimestre, sujetos con 
+inmunodeficiencias celulares o en los extremos de la vida. Presenta 
+una distribución geográfica restringida a las zonas de clima árido o 
+semiárido, con alto contenido en sales, pH alcalino y vegetación 
+escasa de tipo espinoso. La infección depende de la exposición, por 
+lo que es más frecuente en campesinos, soldados, arqueólogos y 
+puede ser accidental en laboratorios. Las tasas de infección aumentan 
+en los meses secos y cuando la superficie del suelo es alterada (obras 
+de construcción, ventiscas).
+En México hay tres zonas endémicas, una en la faja fronteriza del 
+norte (Chihuahua, Coahuila, Nuevo León, Tamaulipas, norte de 
+Durango, Zacatecas y San Luis Potosí), otra en el litoral del Pacífico 
+(Sonora, Sinaloa y Nayarit) y una región semidesértica entre Colima, 
+Michoacán y Guerrero, con un predominio evidente de C. posadasii 
+como el agente causal y la mayoría de los casos reportados en 
+menores de 5 años y mayores de 45.
+La inhalación de un artroconidio hasta los bronquiolos terminales 
+suele iniciar las infecciones. La proliferación fúngica ocasiona 
+inflamación granulomatosa (relacionada con esférulas intactas) e 
+inflamación aguda con eosinófilos (relacionada con la ruptura de las 
+esférulas). La neumonía focal frecuentemente está asociada a 
+adenopatía biliar ipsilateral; menos frecuentemente provoca 
+adenopatías paratraqueales, supraclaviculares y cervicales. Las 
+lesiones desarrolladas en otras localizaciones son producidas por la 
+diseminación hematógena, volviéndose aparentes en los primeros 2 
+años siguientes. Aunque la diseminación progresiva ocurre en menos 
+del 1% de las infecciones, hasta el 8% de las personas con infección 
+autolimitada presenta cicatrices coriorretinianas asintomáticas, 
+287
+

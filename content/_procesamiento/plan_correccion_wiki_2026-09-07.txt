@@ -1,0 +1,37 @@
+PLAN DE CORRECCIÓN DEL WIKI — para decisión de Demian (07/09/2026)
+=====================================================================
+
+GRUPO A — Enlaces a fuentes 00_raw que NO existen con ese nombre (7 enlaces)
+    «DSM-5 espanol (00_raw)», «Demiank Brain - Cirugía/Ginecología/Medicina
+    Interna/Pediatría/Psiquiatría», «Manual Dr. Prieto ENARM 14a ed. (00_raw)»
+    HALLAZGO: lo único real en 00_raw es "00_raw/Medicina/Demiank Brain.rar/.zip"
+    (comprimido, sin extraer) — los wikilinks apuntaban a una estructura que nunca
+    se materializó como archivos sueltos.
+    ACCIÓN RECOMENDADA: quitar esos wikilinks o cambiarlos por el enlace al .rar/.zip.
+    Requiere su decisión: ¿extrae el Demiank Brain.zip para que las fuentes sean navegables?
+
+GRUPO B — Temas ENARM citados pero sin nota (6): crearlas
+    Epiglotitis · Gonorrea · Síndrome de Klinefelter · Síndrome de Turner ·
+    Vacunas del Esquema Nacional · VPH
+    ACCIÓN RECOMENDADA: las redacto yo con fuentes curadas de 00_raw + GPC.
+    Si no hay fuente curada, se marcan "borrador" con la fuente señalada.
+
+GRUPO C — Referencias a documentos de estudio que no existen (5)
+    investigacion_razonamiento_clinico · investigacion_sesgos_medicos ·
+    neuroplasticidad_aprendizaje_medico · tecnicas_estudio_evidence_ENARM ·
+    "preguntas enrm 2026.pdf"
+    HALLAZGO: no existen en ninguna parte de la bóveda. Posiblemente viven en la
+    bóveda vieja o en Drive.
+    ACCIÓN RECOMENDADA: decirme dónde están (o si quiere que existan aquí).
+
+GRUPO D — Duplicado del mismo tema (1 par)
+    «Síndrome Neuroléptico Maligno» (enlace desde MOC-Urgencias) ↔
+    «Sindrome_Neuroleptico_Maligno (00_raw raíz Medicina)»
+    HALLAZGO: el real es 00_raw/Medicina/Sindrome_Neuroleptico_Maligno.md (fuente).
+    Falta la NOTA de wiki compilada.
+    ACCIÓN RECOMENDADA: crear la nota de wiki "Síndrome Neuroléptico Maligno.md"
+    en 02_wiki (compilada desde la fuente) y arreglar el enlace del MOC.
+
+NOTA: 99 notas huérfanas quedan listadas en auditoria_wiki_2026-09-07.txt — la mayoría
+son notas base aún no conectadas a los MOC. La corrección natural es un pase de
+"connect" que las enlace a sus MOC, pero solo con su visto bueno.

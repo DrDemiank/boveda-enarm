@@ -1,0 +1,1153 @@
+===PAGE 118===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+albúmina/creatinina en muestra matutina de orina como prueba 
+inicial para la detección de daño renal. La presencia de dos 
+determinaciones anormales con un intervalo de al menos tres meses 
+confirma el diagnóstico. No se recomienda utilizar exclusivamente la 
+creatinina sérica como marcador de función renal, ya que su 
+sensibilidad es baja, especialmente en etapas tempranas. La TFG debe 
+estimarse al menos una vez al año en pacientes diabéticos, y con 
+mayor frecuencia si se detectan alteraciones. En casos con etiología 
+incierta o datos atípicos, puede estar indicada la realización de 
+ultrasonido renal para evaluar estructura, tamaño y presencia de 
+enfermedad renal irreversible o uropatía obstructiva.
+El tratamiento de la nefropatía diabética se centra en el control 
+estricto de la glucemia, la presión arterial, y la proteinuria, así como 
+en la reducción del riesgo cardiovascular. El manejo farmacológico 
+incluye el uso de inhibidores de la enzima convertidora de 
+angiotensina (IECA) o bloqueadores del receptor de angiotensina 
+(ARA II), los cuales han demostrado eficacia en reducir la progresión 
+de la enfermedad. No se recomienda la combinación de ambos 
+debido a la falta de beneficio adicional y el riesgo aumentado de 
+eventos adversos.
+En pacientes con diabetes tipo 2, normoalbuminuria y factores de 
+riesgo, el uso de IECA o ARA II puede prevenir el desarrollo de 
+microalbuminuria. Asimismo, los inhibidores del cotransportador 
+sodio-glucosa tipo 2 (SGLT2), como empagliflozina, canagliflozina y 
+dapagliflozina, han demostrado reducir la progresión de la nefropatía 
+y los desenlaces cardiovasculares. El control glucémico intensivo 
+también contribuye a la reducción de la albuminuria y del deterioro 
+de la función renal.
+El tratamiento no farmacológico incluye la reducción de peso en caso 
+de obesidad, la suspensión del tabaquismo, la reducción en la ingesta 
+de sal, y el incremento en el consumo de frutas, verduras y fibra. La 
+actividad física regular y la restricción de proteínas solo se 
+recomiendan bajo supervisión especializada.
+El pronóstico depende del estadio al momento del diagnóstico, del 
+grado de control metabólico y de la implementación oportuna de 
+medidas terapéuticas. Se debe referir a segundo o tercer nivel a 
+pacientes con TFG menor de 30 mL/min/1.73 m2, progresión 
+acelerada de la enfermedad, proteinuria severa o refractaria, 
+hematuria persistente o sospecha de etiología no diabética. La 
+prevención primaria mediante el control adecuado de la diabetes y 
+los factores de riesgo es fundamental para reducir la carga de 
+enfermedad renal en la población.
+HIPOTIROIDISMO
+Es un síndrome producido por un grupo heterogéneo de 
+trastornos que ocasionan alteraciones en la producción o acción de 
+las hormonas tiroideas. La enfermedad tiroidea es más frecuente 
+entre mujeres, ancianos, pacientes con trastornos autoinmunes y 
+personas con una fuerte historia familiar de disfunción tiroidea. La 
+ingestión diaria de yodo recomendada es 150-250 pg para los adultos, 
+250 pg para gestantes y lactantes y 90-120 pg para niños.
+La secreción de TSH puede verse inhibida por opioides, 
+glucocorticoides, dopaminérgicos y somatostatina, mientras que 
+puede exacerbarse por la vasopresina de arginina y prostaglandinas.
+' El hipotiroidismo primario es causado por un defecto en la 
+función de la glándula tiroides y representa el 99% de los casos. Se 
+puede subclasificar en clínico, definido por concentraciones de TSH 
+elevadas, con niveles séricos de T4L bajos, o subclínico con elevación 
+de TSH fuera del rango normal y con niveles séricos de T4L normales.
+El hipotiroidismo secundario o central, causado por alteraciones en 
+el hipotálamo o hipófisis, representa <1% de los casos (la GPC 
+reconoce como hipotiroidismo terciario al producido por 
+alteraciones a nivel hipotalámico).
+Cuadro 23. Causas de hipotiroidismo
+Causa Mecanismo Exploración 
+tiroidea
+Tiroiditis de
+Hashimoto
+Destrucción
+autoinmune.
+Glándula firme y 
+prominente con 
+lóbulo piramidal
+Ablación o 
+resección
+Remoción de tejido 
+tiroideo funcional.
+Glándula atrófica o 
+cicatriz cervical
+Hipotiroidismo 
+central
+Fracaso hipofisario o 
+hipotalámico.
+Glándula atrófica
+Deficiencia de 
+yodo
+Disminución del sustrato 
+para la producción 
+hormonal.
+Bocio
+Litio Disminución de la 
+síntesis de hormonas 
+tiroideas.
+Bocio
+Amiodarona Efecto Wolff-Chaikoff, 
+tiroiditis.
+Bocio o normal
+Resistencia 
+periférica
+Defecto genético raro en 
+el receptor nuclear de T3
+Normal
+Una población especial es la de las gestantes, en quienes los criterios 
+diagnósticos para hipotiroidismo clínico se definen por 
+concentraciones de TSH mayores de 10 mU/L independientemente 
+de las concentraciones de T4L, el hipotiroidismo subclínico en esta 
+población se define como nivel de TSH mayor de 2.5 mU/L pero 
+menor de 10 mU/L con niveles normales de T4L.
+La elevación de los niveles de globulina de unión a hormonas 
+tiroideas se caracteriza por el aumento de los niveles totales de 
+hormonas tiroideas totales, mientras que los niveles de las fracciones 
+libres y los de TSH se mantienen normales. La hipertiroxinemia 
+eutiroidea o hipertiroxinemia disalbuminémica familiar es una 
+condición hereditaria caracterizada por el aumento en la afinidad de 
+93
+
+===PAGE 119===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+la albúmina por T4 y T3, provocando un perfil hormonal similar al del 
+aumento de globulina de unión a tiroxina.
+Las tres causas más frecuentes de hipotiroidismo son la tiroiditis 
+autoinmune (tiroiditis de Hashimoto), el hipotiroidismo postablativo 
+(después del tratamiento de hipertiroidismo con yodo radiactivo) y el 
+hipotiroidismo postquirúrgico (posterior a la resección de una 
+cantidad crítica de tejido tiroideo). El tratamiento con amiodarona 
+puede asociarse con hipotiroidismo o tirotoxicosis. La tiroiditis de 
+Hashimoto es la causa de hipotiroidismo con tiroiditis más común en 
+áreas suficientes de yodo; se ha identificado un patrón de 
+susceptibilidad genética y la asociación con el HLA-DR3. Su incidencia 
+es mayor entre los sujetos con los síndromes de Down y Turner.
+Cuadro 24. Disfunción tiroidea inducida por amiodarona
+Hipotiroidismo
+• Incidencia de hasta 25% en regiones suficientes en yoduro; 
+los pacientes con condiciones de autoinmunidad tiroidea se 
+encuentran en mayor riesgo.
+• El mecanismo es una combinación de disminución de la 
+conversión periférica de tiroxina en triyodotironina y 
+disminución de la secreción hormonal en el contexto de 
+exceso de yodo (efecto Wolff-Chaikoff).
+• Frecuentemente se encuentran anticuerpos antitiroides, la 
+captación de I123 suele ser baja en regiones suficientes en 
+yodo, los hallazgos en el ultrasonido Doppler color son 
+variables.
+• El tratamiento requiere el reemplazo de hormonas tiroideas. 
+Tirotoxicosis tipo I
+• Se presenta en 2-23% de los pacientes tratados con 
+amiodarona; comúnmente se observa en regiones 
+deficientes en yodo, particularmente en pacientes con bocio 
+nodular preexistente.
+• Depende de la producción y liberación excesivas de 
+hormonas tiroideas en respuesta a la carga de yodo 
+(fenómeno Jod-Basedow).
+• Frecuentemente se encuentran anticuerpos antitiroides, la 
+captación de I123 es baja en regiones suficientes en yodo, el 
+ultrasonido Doppler color puede revelar hipervascularidad.
+• El tratamiento requiere la administración de dosis altas de 
+metimazol o propiltiouracilo; puede requerirse perclorato 
+de potasio para bloquear la captación adicional de yodo.
+Tirotoxicosis tipo II
+• Puede coexistir con la tirotoxicosis tipo I.
+• Depende de una tiroiditis destructiva inducida por el 
+fármaco, con liberación de la hormona almacenada.
+• Los anticuerpos antitiroides generalmente están ausentes, la 
+captación de I123 es baja, el ultrasonido Doppler color 
+demuestra disminución del flujo sanguíneo.
+• El tratamiento consta de la administración de corticoides y 
+ácido iopanoico.
+Los síntomas asociados con el hipotiroidismo pueden incluir 
+fatiga, ganancia ponderal, intolerancia al frío, disfonía, 
+estreñimiento, xerosis, artralgias y mialgias. Los hallazgos físicos
+pueden incluir bradicardia, piel fría y seca, cabello y uñas quebradizas, 
+macroglosia y retardo en la relajación terminal de los reflejos 
+tendinosos profundos. La T3 aumenta el inotropismo y cronotropismo 
+cardiacos mientras disminuye el tono vascular periférico, por lo que 
+la deficiencia relativa podría explicar el aumento en las resistencias 
+vasculares periféricas que caracteriza la falla cardiaca hipotiroidea; 
+las efusiones pericárdicas y la ascitis pueden complicar la insuficiencia 
+cardiaca congestiva. El hipotiroidismo grave puede culminaren coma 
+mixedematoso, una condición caracterizada por hipotermia, 
+hipotensión, bradicardia y alteración del estado mental; los factores 
+de riesgo para su presentación incluyen edad mayor, acceso 
+inadecuado a los servicios de salud y disfunción tiroidea de evolución 
+prolongada.
+Cuadro 25. Clasificación simplificada del bocio (incluida en la 
+NOM)
+Grado 0 Ausencia de bocio palpable o visible.
+Grado 1 Masa cervical compatible con tiroides agrandada, 
+palpable pero que no es visible en el cuello en 
+posición normal. Se mueve hacía arriba cuando el 
+paciente deglute. Pueden ocurrir alteraciones 
+nodulares aun cuando la glándula no esté 
+visiblemente agrandada.
+Grado 2 Masa cervical visible con el cuello en posición normal, 
+compatible con bocio cuando se palpa el cuello.
+Cuadro 26. Variables en las pruebas de función tiroidea
+Medición Normal Hipotiroideo Hipertiroideo
+T4 (kig/dl) 4.5-12.5 <4.5 >12.5
+T4 libre (ng/dl) 0.9-2 <0.9 >2
+T3 (ng/dl) 80-220 <80 >220
+T3 inversa (ng/dl) 20-40 <20 >40
+TSH (|ill/ml) 0.45-4.5 >4.5 <0.45
+Tiroglobulina 20-25 Variables
+sérica (ng/dl)
+Los estudios de laboratorio pueden revelar hiponatremia, 
+anemia macrocítica, anormalidades en las pruebas de función 
+hepática y aumento en las concentraciones de PRL fosfocinasa de 
+creatina y colesterol. La GPC indica que el diagnóstico de 
+hipotiroidismo (primario, secundario o subclínico) requiere la 
+determinación de hormona tirotropa (thyroid stimulating hormone, 
+TSH) y T4 libre. El nivel de TSH es el indicador más sensible de la 
+función tiroidea; sin embargo, no se considera confiable en el 
+contexto del hipotiroidismo central. Los niveles de TSH y T4 pueden 
+no reflejar de forma precisa la función tiroidea en el contexto de 
+enfermedades no tiroideas graves. Finalmente, la NOM añade el valor 
+de la detección de niveles <100 mg/dl de yodo urinario como un 
+indicador de deficiencia en la ingesta de yodo. El hipotiroidismo 
+primario se caracteriza por la elevación del nivel de TSH y la 
+disminución del de T4. En el caso de la tiroiditis de Hashimoto, se ha 
+descrito la sensibilidad de la determinación de los anticuerpos
+94
+
+===PAGE 120===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+antimicrosomales (90%), antitiroglobulina (20-50%) o los anticuerpos 
+bloqueantes del receptor deTSH (10%).
+El hipotiroidismo debe tratarse con terapia sustitutiva con 
+levotiroxina. La GPC indica que debe iniciarse a dosis de 1.6-1.8 
+pg/kg/día con evaluaciones periódicas de los parámetros clínicos 
+(cada 2 semanas) y bioquímicos (cada 8-12 semanas) para realizar 
+ajustes a razón de 12.5-25 pg/día en cada ocasión. La levotiroxina 
+debe iniciarse a dosis de reemplazo completo en pacientes menores 
+de 50 años sin evidencia de enfermedad cardiaca; los pacientes con 
+hipotiroidismo leve o recientemente diagnosticado pueden iniciar 
+casi siempre con dosis completas. En el adulto mayor sano se inicia 
+con dosis de 12.5-25 pg/día, mientras que en que tiene cardiopatía 
+establecida se inicia con 0.5 pg/kg/día. El nivel de TSH es el indicador 
+más preciso de reemplazo adecuado.
+Sigue siendo controversia! el tratamiento del hipotiroidismo 
+subclínico (elevación del nivel de TSH con niveles normales de T4 
+libre), por lo que la GPC recomienda que debe ofrecerse tratamiento 
+a los pacientes con síntomas que puedan ser atribuidos al 
+hipotiroidismo o con hipercolesterolemia significativa. La NOM añade 
+la indicación de tratamiento quirúrgico en los casos de bocio cuando 
+la glándula tiene un peso >100 g, comprime estructuras cervicales 
+(disfonía, disfagia, odinofagia) o en presencia de nodulos 
+hipocaptantes y cuya biopsia por aspiración revele células sugestivas 
+de malignidad. En el caso del hipotiroidismo secundario al consumo 
+de amiodarona debe instaurarse la sustitución hormonal sin 
+suspender el uso del antiarrítmico.
+Cuadro 27. Indicaciones para el tratamiento con levotiroxina de 
+los pacientes con hipotiroidismo subclínico
+Niños
+Gestantes
+TSH >10 pU/ml
+TSH 4.5-10 pU/ml con manifestaciones clínicas
+Títulos elevados de anticuerpos anti-TPO
+En el caso de las gestantes con hipotiroidismo, es necesario un 
+ajuste terapéutico con aumento de la dosis de levotiroxina en 30% 
+al inicio y cada 6-8 semanas, o una vez en cada trimestre del embarazo 
+y 2 meses después del parto. Los niveles normales de TSH en el 
+embarazo son 0.1-2.5 pU/ml en el primer trimestre, 0.2-3 pU/ml en 
+el segundo y 0.3-3.5 pU/ml en el tercero. La bibliografía extranjera 
+propone que el tamizaje mediante la cuantificación del nivel de TSH 
+debe realizarse en mujeres mayores de 60 años y en cualquier 
+paciente que se presente con demencia, hipercolesterolemia, un 
+trastorno autoinmune o una historia familiar fuerte de disfunción 
+tiroidea; también se recomienda el escrutinio periódico de los 
+pacientes tratados con litio o amiodarona. En el caso de los pacientes 
+con hipotiroidismo subclínico, la función tiroidea debe ser 
+monitorizada cada 6-12 meses.
+Cuadro 28. Criterios de referencia al endocrinólogo en casos de 
+hipotiroidismo
+Segundo nivel Tercer nivel
+Diagnóstico de hipotiroidismo 
+en su primer contacto
+Embarazo
+Fracaso terapéutico (clínico o 
+bioquímico)
+Enfermedades concomitantes 
+descompensadas
+Hipotiroidismo subclínico
+Hipotiroidismo tratado que 
+presenta crecimiento tiroideo 
+abrupto
+Presencia de adenomegalias 
+duras sugestivas de neoplasia
+HIPOTIROIDISMO CONGÉNITO
+El hipotiroidismo congénito usualmente es causado por 
+trastornos en la embriogénesis (agenesia, aplasia, ectopia), aunque 
+también existen trastornos en el metabolismo intratiroídeo. Las 
+manifestaciones del hipotiroidismo congénito en el periodo 
+neonatal inmediato son sutiles. Algunos hallazgos tempranos son 
+una edad gestacional postérmino, peso al nacer >4 kg, hipotermia, 
+acrocianosis, dificultad respiratoria, fontanela posterior grande, 
+distensión abdominal, letargo y alimentación pobre, ictericia por más 
+de 3 días después del nacimiento, hernia umbilical, piel moteada, 
+estreñimiento, macroglosia, piel seca y llanto tosco. Las hormonas 
+tiroideas son cruciales en la maduración y diferenciación de tejidos 
+como el óseo (frecuentemente se encuentra una edad ósea retardada 
+al nacimiento en caso de hipotiroidismo intrauterino) y el cerebral (la 
+mayor parte de la maduración cerebral dependiente de las hormonas 
+tiroideas ocurre en los primeros 2-3 años).
+Cuadro 29. Factores de riesgo (mencionados en la GPC) para el 
+desarrollo de hipotiroidismo congénito
+Maternos Neonato
+Nivel socioeconómico bajo Prematuridad
+Desnutrición Exposición a yodo en el
+Dieta deficiente en yodo y selenio periodo perinatal
+Edad <16 o >38 años Malformaciones
+Ingesta de amiodarona, salicilatos y congénitas (cardiopatías,
+difenilhidantoína durante el queilopalatosquisis,
+embarazo digestivas y
+Antecedente de embarazo múltiple musculoesqueléticas)
+Antecedente de aborto de Trisomía 21
+repetición Síndrome deTurner
+Enfermedades autoinmunes Hipopituitarismo
+Alteración en las pruebas de Errores innatos del
+función tiroidea metabolismo que
+Hijos previos con trisomía 21, interfieren con el
+hipoparatiroidismo o funcionamiento de la
+hipotiroidismo hormona tiroidea
+Exposición a disruptores Encefalopatía hipóxico-
+endocrinos como pesticidas isquémica
+Enfermedad tiroidea durante el
+embarazo
+95
+
+===PAGE 121===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Los hallazgos de laboratorio incluyen la disminución en la 
+concentración de T4 y la elevación en la de TSH (hipotiroidismo 
+primario). La GPC recomienda que se investigue la presencia de 
+malformaciones cardiacas debido a la frecuencia de su coexistencia. 
+También se indican las siguientes especificaciones diagnósticas:
+• Caso sospechoso:
+o Cuadro clínico de hipotiroidismo congénito. 
+o Presencia de factores de riesgo, 
+o Resultado sospechoso en el tamizaje neonatal.
+• Caso confirmado:
+o Presencia de datos clínicos de hipotiroidismo congénito. 
+o Perfil tiroideo con TSH >4 pU/ml, T4 libre <0.8 ng/dl y T4 
+total <4 pg/dl.
+Los resultados de las pruebas positivas en el tamizaje
+neonatal deben ser confirmados mediante un perfil tiroideo. 
+Cuando el diagnóstico se ha confirmado debe investigarse su etiología 
+con ultrasonograma y gammagrama tiroideos para determinar si se 
+trata de disgenesia o ectopia. El gammagrama tiroideo con I123 o Te" 
+es el estándar de oro para establecer el diagnóstico de la variedad de 
+hipotiroidismo congénito. Los pacientes con síndrome de Down 
+deben recibir una evaluación periódica de su función tiroidea 
+independientemente de los resultados del tamizaje neonatal debido 
+a la frecuencia con que desarrollan hipotiroidismo. La NOM indica que 
+los casos diagnosticados con hipotiroidismo congénito o bocio 
+endémico deben ser reportados a través del Sistema Único de 
+Información Epidemiológica (SUIVE).
+Cuando el tratamiento con hormonas tiroideas es iniciado
+dentro del primer mes, la expectativa de un desarrollo intelectual es 
+excelente. La vigilancia terapéutica debe realizarse mediante la 
+evaluación de los siguientes parámetros:
+• Nivel de desarrollo.
+• Postura
+• Calidad de los movimientos.
+• Nivel de destreza.
+• Exploración física del aparato locomotor.
+• Detección de limitaciones articulares y deformidades.
+• Alteraciones neurológicas y de la movilidad voluntaria.
+• Funcionalidad manual.
+• Lenguaje.
+Los pacientes con hipotiroidismo congénito deben recibir una 
+evaluación de la agudeza auditiva a la edad de 2-3 meses.
+TIROTOXICOSIS
+Hipertiroidismo es un concepto más estrecho referido a la 
+tirotoxicosis ocasionada por producción y liberación excesivas de 
+hormonas tiroideas por el tejido tiroideo funcional. El hipertiroidismo 
+puede detectarse en 2% de las mujeres y 0.2% de los varones. Las 
+causas subyacentes más frecuentes son la enfermedad de Graves (EG 
+60-70%), adenoma tóxico y bocio tóxico multinodular. La EG puede 
+presentarse a cualquier edad, con un pico de incidencia en la tercera 
+y cuarta décadas de la vida; es típica una fuerte historia familiar de 
+disfunción tiroidea. Algunos desencadenantes de la EG identificados 
+son el incremento súbito en la ingesta de yodo, periodo posparto, 
+reconstitución inmunológica con antirretrovirales y el tratamiento 
+con alemtuzumab. Los adenomas tóxicos pueden presentarse a 
+cualquier edad, pero tienden a ser más comunes entre los individuos 
+jóvenes. El bocio tóxico multinodular suele presentarse en adultos 
+mayores con historia de enfermedad tiroidea nodular. Las 
+condiciones no tiroideas que pueden presentarse con evidencia de 
+tirotoxicosis incluyen la tirotoxicosis iatrogénica, la tiroiditis silente y 
+la tirotoxicosis facticia. La tiroiditis posparto es un tipo de tiroiditis 
+silente que se desarrolla 2-6 meses después del parto; puede 
+presentarse en 5% de las mujeres. Los niveles de gonadotropina 
+coriónica >3000 U/ml tienen la capacidad de estimular la glándula 
+tiroides.
+Cuadro 30. Causas de tirotoxicosis
+Causa Mecanismo Exploración
+Enfermedad Graves Anticuerpos anti­
+receptores de TSH con 
+efecto agonista.
+Bocio
+difuso
+Bocio multinodular tóxico Mutaciones 
+activadoras del 
+receptor de TSH 0 el 
+gen Gs-a.
+Nodulos
+Tiroiditis 
+subaguda
+De
+Quervain
+Destrucción posviral 
+con liberación de la 
+hormona almacenada.
+Sensible
+Indolora Destrucción 
+autoinmune con 
+liberación de la 
+hormona almacenada.
+No es 
+sensible
+Contraste para 
+tomografía 
+computarizada 0 
+amiodarona
+Ingreso excesivo de 
+yodo (fenómeno Jod- 
+Basedow) 0 tiroiditis 
+tóxica.
+Normal 0 
+bocio 
+difuso 0 
+nodular
+Mola hidatiforme Activación cruzada de 
+los receptores de TSH 
+por la hCG.
+Bocio 
+mínimo
+Tumor pituitario Sobreproducción de 
+TSH.
+Bocio 
+mínimo
+Struma ovarii Tejido tiroideo 
+ectópico en un tumor 
+ovárico.
+Normal
+Tirotoxicosis
+exógena
+latrógena Suplementación 
+excesiva de tiroxina.
+Facticia Abuso en la ingesta de 
+tiroxina.
+La tirotoxicosis es un síndrome clínico caracterizado por la 
+exposición a cantidades excesivas de hormonas tiroideas.
+96
+
+===PAGE 122===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Los síntomas asociados a tirotoxicosis incluyen fatiga, 
+intolerancia al calor, pérdida ponderal, palpitaciones, alteraciones 
+en el ejercicio, hiperdefecación, pérdida de cabello, diaforesis, 
+oligomenorrea, ansiedad, irritabilidad y temblor fino. Los síntomas 
+clásicos generalmente disminuyen su intensidad con el avance de la 
+edad, haciendo el diagnóstico más difícil. Los hallazgos pueden incluir 
+taquicardia, una presión de pulso amplia, mirada fija, retracción 
+palpebral, piel tibia y húmeda, debilidad muscular proximal, temblor 
+en reposo e hiperreflexia. Puede encontrarse bocio palpable en 95% 
+de los pacientes con hipertiroidismo. Además, los pacientes con EG 
+pueden presentar proptosis, edema periorbitario, oftalmoplejía, un 
+soplo audible o palpable sobre la glándula y, en casos raros, 
+acropaquia tiroidea. La tirotoxicosis materna bajo tratamiento 
+inadecuado se asocia con un aumento en el riesgo de parto 
+pretérmino, preeclampsia grave e insuficiencia cardiaca.
+El hipertiroidismo, en conjunto con un aumento en la sensibilidad a 
+los efectos de las hormonas tiroideas, puede originar una condición 
+potencialmente mortal conocida como tormenta tiroidea. El 
+síndrome se caracteriza por hallazgos como hipertermia, delirium, 
+taquiarritmias e insuficiencia cardiaca de gasto elevado; los niveles de 
+hormonas tiroideas pueden estar elevados sólo de forma leve o 
+moderada. Los detonadores incluyen estrés fisiológico, trauma, 
+cirugía, inicio de una enfermedad aguda o exposición a una carga de 
+yodo. Los estudios de laboratorio revelan hipercalcemia, elevación de 
+los niveles de fosfatasa alcalina, anemia y granulocitopenia leve.
+Cuadro 31. Diagnóstico diferencial de la enfermedad de Graves 
+y tirotoxicosis gestacional
+Manifestaciones Enfermedad
+Graves
+Tirotoxicosis
+gestacional
+Síntomas pregestacionales ++ -
+Síntomas gestacionales +/++ -/+
+Náusea, vómito -/+ +++
+Bocio y oftalmopatía + -
+Anticuerpos antiperoxidasa 0 + -
+anti-receptor de TSH
+Ultrasonido tiroideo Vascularidad Normal
+El escaneo de absortometría radiográfica de energía dual 
+puede mostrar disminuciones en la medición de la densidad mineral 
+ósea. El hipertiroidismo primario y las formas de tirotoxicosis 
+causadas por tejido tiroideo ectópico o administración de hormonas 
+exógenas se caracterizan por una disminución en el nivel de TSH y la 
+elevación de T4. Es necesario considerar que 5-10% de los pacientes 
+con hipertiroidismo pueden presentar niveles de T3 elevados con 
+niveles normales de T4, por lo que la medición de T3 es importante en 
+el diagnóstico de hipertiroidismo cuando la cuantificación de T4 se 
+encuentra en el rango normal. En los casos raros de hipertiroidismo 
+producido por la hipersecreción de TSH por un adenoma pituitario, 
+los niveles de TSH pueden encontrarse elevados o normales.
+La medición de la captación de yodo radiactivo puede ser útil en la 
+diferenciación entre estados hipertiroideos y no-hipertiroideos. 
+Aunque los títulos de globulina estimulante de tiroides 
+frecuentemente están elevados en los casos de GD, los títulos 
+elevados no son considerados diagnósticos por sí solos. Los métodos 
+modernos para la detección de autoanticuerpos contra el receptor de 
+TSH se desempeñas con sensibilidad de 90-99% y especificidad de 95- 
+100%.
+Los bloqueadores 0 pueden ayudar en el control de los 
+síntomas de tirotoxicosis, incluyendo las palpitaciones, temblor y 
+ansiedad. Aunque propranolol ofrece la ventaja teórica de inhibir la 
+conversión periférica de T4 en T3, debe ser tomado frecuentemente, 
+por lo que suelen emplearse atenolol y metoprolol.
+Los fármacos antitiroideos bloquean la biosíntesis hormonal 
+(propiltiouracilo también inhibe la conversión periférica); los efectos 
+adversos asociados con su uso incluyen dermatitis alérgica, 
+hepatotoxicidad, artritis, vasculitis y agranulocitosis (la detección de 
+disminución en los conteos de granulocitos debe llevar a la 
+descontinuación inmediata del fármaco). Las circunstancias clínicas 
+en que se prefiere el uso de propiltiouracilo con la gestación (primer 
+trimestre), fracaso con metimazol en un paciente sin candidatura al 
+uso de yodo radiactivo, tormenta tiroidea y desarrollo de efectos 
+adversos de metimazol. Las circunstancias en que se prefiere el uso 
+de yodo radiactivo son la edad >50 años (debido a que la efectividad 
+de las tionamidas es menor y son más frecuentes los adenomas), 
+adenoma y bocio tóxico. También puede emplearse solución 
+saturada de yoduro de potasio para inducir un efecto Wolff-Chaikoff 
+(previa administración de antitiroideos para prevenir los efectos en 
+caso de presentarse un fenómeno Jod-Basedow), corticoides 
+sistémicos (bloqueo de la conversión periférica) y paracetamol 
+(control térmico).
+Mientras que los casos leves de EG pueden resolverse con el tiempo, 
+las formas moderadas y graves usualmente necesitan tratamiento 
+con fármacos antitiroideos, terapia radioablativa con yodo o 
+procedimientos de tiroidectomía subtotal.
+Los síntomas de tirotoxicosis desarrollados en el contexto de tiroiditis 
+subaguda y tiroiditis silente usualmente pueden ser manejados con 
+cursos cortos de bloqueadores p; la función tiroidea debe ser 
+evaluada periódicamente en busca de evidencia de hipotiroidismo 
+primario. Es necesario considerar el tratamiento del hipertiroidismo 
+subclínico debido a que se asocia con disminución en la densidad 
+mineral ósea y aumento en el riesgo de desarrollar fibrilación 
+auricular.
+La GPC indica que la tirotoxicosis materna tratada de forma 
+inadecuada se encuentra asociada con un aumento en el riesgo de 
+parto pretérmino, preeclampsia grave y falla cardiaca. Las causas de 
+tirotoxicosis gestacional incluyen embarazo múltiple, hiperemesis 
+gravídica, mola hidatidiforme, hiperreacción luteínica, tirotoxicosis 
+gestacional familiar (mutación del receptor de TSH)- e 
+97
+
+===PAGE 123===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+hiperplacentosis. Durante el embarazo se presenta una disminución 
+fisiológica de los niveles de TSH debido a la función tiroestimulante 
+de hCG (0.2-2.5 mU/l en el primer trimestre, 0.3-3 mU/l en el 
+segundo, >3.5 mU/l en el tercero).
+Cuadro 32. Complicaciones gestacionales de la enfermedad de 
+Graves
+Maternas Fetales
+Aborto involuntario Bajo peso al nacer
+Hipertensión inducida por el • Prematuridad
+embarazo • Producto pequeño para la
+Parto pretérmino edad gestacional
+Falla cardiaca congestiva • Restricción del
+Tormenta tiroidea crecimiento intrauterino
+Desprendimiento placentario Muerte fetal
+prematuro Disfunción tiroidea
+OTRAS FORMAS DE TI ROI DITIS
+Algunos fármacos pueden provocar inflamación tiroidea. La 
+amiodarona puede producir una tiroiditis indolora asociada con 
+tirotoxicosis; cuando sea posible, esta debe ser distinguida de la 
+tirotoxicosis inducida por yodo que también puede asociarse con el 
+consumo de amiodarona, ya que la primera se trata óptimamente con 
+corticoides, mientras que la segunda es manejada con drogas 
+antitiroideas. Interferón-a puede provocar una tiroiditis indolora 
+asociada con tirotoxicosis transitoria; esta debe ser diferenciada de la 
+enfermedad de Graves inducida por interferón-a (¡nterferon-a, IFN- 
+a), ya que el manejo de la primera consta de bloqueadores 0 y, el de 
+la segunda, de drogas antitiroideas.
+La tiroiditis de Riedel o struma es caracterizada por el remplazo 
+fibrótico de la tiroides, con adherencia e infiltración de las 
+estructuras adyacentes que provoca síntomas compresivos locales. 
+En esta condición idiopática, la glándula se encuentra 
+sustancialmente agrandada, endurecida y fija. Los pacientes 
+afectados también pueden desarrollar fibrosis mediastínal y 
+retroperitoneal, colangitis esclerosante o pseudotumor orbitario. El 
+diagnóstico requiere la obtención de una biopsia abierta. La escisión 
+quirúrgica es difícil o imposible; se tienen reportes anecdóticos de la 
+efectividad de tratamientos con glucocorticoides o tamoxifeno.
+NÓDULO TIROIDEO
+El nodulo tiroideo se define como un aumento focal en el 
+volumen o consistencia del tejido tiroideo, identificado mediante la 
+exploración física o un estudio de imagen. Representan un hallazgo 
+común, con prevalencia de 3-7% en la exploración física y de 20-76% 
+en ultrasonidos y necropsias de la población general. Los nodulos son 
+más frecuentes entre mujeres (a razón de 6:1), personas de edad 
+avanzada, residentes de áreas deficientes de yodo y aquellos con 
+antecedente de exposición a radiación de la cabeza y el cuello; el 
+82.4% de los nodulos se encuentran en mujeres. De acuerdo con la
+GPC, 5.9% de los nódulos resultaron ser carcinomas papilares de la 
+tiroides en un estudio mexicano.
+La GPC establece que 90-95% de los nódulos resultan ser 
+benignos y asintomáticos, por lo que no se recomienda el escrutinio. 
+El objetivo del abordaje radica en la identificación de las lesiones 
+malignas, por lo que la anamnesis, exploración y estudios de imagen 
+buscan identificar factores que aumenten la sospecha de cáncer.
+Cuadro 33. Factores considerados de riesgo de malignidad en el 
+abordaje de un nodulo tiroideo
+Antecedentes y hallazgos físicos
+Edad <20 años o >60 años 
+Sexo masculino
+Radioterapia al cuello durante la 
+niñez o adolescencia
+Crecimiento rápido
+Cambios recientes en el habla, 
+respiración o deglución 
+Antecedente familiar de cáncer 
+tiroideo o neoplasia endocrina 
+múltiple tipo 2
+Nodulo firme e irregular
+Fijación a los tejidos circundantes 
+Linfadenopatía regional
+Hallazgos ultrasonográficos
+Lesión hipoecoica
+Márgenes irregulares por 
+infiltración
+Presencia de 
+microcalcificaciones
+Ausencia de halo
+Incremento de la 
+vascularidad interna o 
+central
+Medidas mayores en la 
+altura que anchura en el 
+plano transversal
+El protocolo de abordaje debe ejecutarse de la misma forma, 
+independientemente de si el nodulo se identifica durante la 
+gestación; sin embargo, la evaluación de los nódulos descubiertos en 
+el segundo o tercer trimestre deberá ejecutarse después de la 
+resolución del embarazo.
+Además de la anamnesis y la exploración física, el abordaje 
+siempre debe incluir la determinación de la hormona tirotropa 
+(TSH); los estudios gammagráficos con yodo se recomiendan cuando 
+el nivel de TSH se encuentra suprimido (agregando determinaciones 
+de T4 libre y T3 libre), pero carecen de utilidad cuando el nivel es 
+normal o elevado (debiendo determinarse T4 libre y anticuerpos 
+antiperoxidasa). Las determinaciones de calcitonina sólo se 
+recomiendan ante la sospecha de un carcinoma medular de tiroides o 
+de neoplasia endocrina múltiple tipo 2, mientras que la medición de 
+tiroglobulina no se recomienda en el abordaje de nódulos tiroideos. 
+El diagnóstico diferencial debe incluir a los carcinomas de la glándula 
+tiroides, bocio multinodular, quiste del ducto tirogloso, quiste 
+epidermoide, laringocele, neoplasias cervicales ajenas a la glándula 
+tiroides y al quiste de la hendidura branquial.
+De acuerdo con la GPC, entre 20% y 48% de las personas con un 
+nodulo palpable resultan tener una lesión en la evaluación por 
+ultrasonido. Los nódulos frecuentemente son encontrados en 
+estudios de imagen obtenidos por causas no relacionadas con la 
+tiroides. Las características sonográficas consideradas de alto riesgo 
+de malignidad incluyen a la hipoecogenicidad marcada, los márgenes 
+espiculados o microlobulados, las microcalcificaciones, el crecimiento 
+98
+
+===PAGE 124===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+extratiroideo o la presencia de adenopatías, los bordes irregulares, la 
+hipervascularidad y el aumento en la relación altura/base (forma más 
+alta que ancha). Ante la presencia de cualquiera de estos criterios 
+ecográficos, la probabilidad de malignidad es de 50-90%, por lo que la 
+GPC establece la necesidad del muestreo citológico. La gammagrafía 
+tiroidea se encuentra indicada cuando se determinan niveles 
+disminuidos de TSH o se sospecha de tejido tiroideo ectópico o bocio 
+retroesternal, además de la evaluación de la elegibilidad para el 
+tratamiento con yodo radiactivo. Generalmente se recomienda el 
+empleo de pertecnetato de sodio (tecnecio sestamibi), mientras que 
+el yoduro de sodio sólo se emplea ante la sospecha de tirotoxicosis.
+*Las características de riesgo alto incluyen márgenes irregulares 
+(infiltrativos o microlobulados), microcalcificaciones,
+Cuadro 34. Estimación de riesgo de malignidad de los nodulos 
+tiroideos (adaptado de la GPC)
+Patrón ecográfíco 
+(riesgo de 
+malignidad)
+Características Conducta
+Altamente 
+sospechoso (>70- 
+90%)
+Nodulo o 
+componente 
+hipoecoico sólido 
+con >1 de las 
+características de 
+riesgo alto*.
+Recomendar la BAAF 
+si la lesión es £1 cm.
+Sospecha 
+intermedia (10-
+20%)
+Nodulo sólido e 
+hipoecoico con 
+márgenes lisos, sin 
+características de 
+riesgo alto.
+Recomendarla BAAF 
+si la lesión es >1 cm.
+Sospecha baja (5-
+10%)
+Nodulo isoecoico, 
+hipoecoico o 
+parcialmente 
+quístico con áreas 
+sólidas excéntricas, 
+sin características 
+de riesgo alto.
+Recomendar la BAAF
+si la lesión es >1.5 
+cm.
+Sospecha muy 
+baja (<3%)
+Nodulos 
+espongiformes o 
+parcialmente 
+quísticos, sin 
+características de 
+sospecha alta o 
+intermedia.
+Considerar la BAAF si 
+la lesión es >2 cm 
+La observación es 
+una opción 
+razonable.
+Benigna (<1%) Nodulos puramente
+quísticos.
+Sin biopsia
+Puede considerarse 
+la aspiración con 
+fines estéticos.
+configuración más alta que ancha, calcificaciones de los bordes 
+con componente pequeño de tejido blando extruido, extensión 
+extratiroidea).
+La obtención de tomografía computarizada o resonancia magnética 
+sólo se recomienda en casos de compresión de las vías respiratorias, 
+bocio con extensión subesternal o intratorácica, o lesiones muy 
+extensas. Las lesiones encontradas incidentalmente por estos 
+métodos tienen un riesgo incierto de malignidad, por lo que su 
+abordaje deberá iniciar con el ultrasonido.
+Los estudios de radionucleótidos pueden clasificar a las lesiones de 
+acuerdo con su captación; las lesiones hiperfuncionantes resultan 
+malignas de forma excepcional, mientras que las hipofuncionantes 
+tienen una probabilidad de 8-12% de resultar malignas. Estos estudios 
+se contraindican durante la gestación y la lactancia.
+La citología (biopsia) por aspiración con aguja fina (BAAF) es el 
+método de confirmación histológica recomendado para los nodulos 
+tiroideos considerados sospechosos. La BAAF debe emplearse en el 
+abordaje de nodulos sólidos o mixtos, obteniéndose preferentemente 
+de las áreas vascularizadas; no se recomienda su uso en lesiones 
+puramente quísticas.
+Figura 5. Abordaje diagnóstico de los nodulos tiroideos. GG, 
+gammagrama. HT, hipertiroidismo.
+El 28% de las citologías son concluyentes de malignidad (26% entre 
+las mujeres y 34% entre los varones). La probabilidad de cáncer es 
+mayor cuando la lesión es >4 cm, pero no difiere entre nodulos 
+solitarios y el bocio multinodular. La GPC establece que la BAAF es el 
+método de evaluación histológica de los nodulos tiroideos cuando se 
+satisfacen los criterios de indicación. En el caso de los nodulos <5 mm 
+se recomienda el seguimiento ecográfíco, independientemente de su 
+apariencia. Por otra parte, en el caso de los nodulos de 5-10 mm con 
+apariencia sonográfica de alto riesgo, pueden considerarse la BAAF o 
+la vigilancia, de acuerdo con la preferencia del paciente. La obtención 
+99
+
+===PAGE 125===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+de la BAAF guiada por ultrasonido se encuentra indicada ante la 
+presencia de cualquiera de los siguientes criterios:
+• Lesiones subcapsulares o pretraqueales.
+• Ganglios linfáticos sospechosos o diseminación extratiroidea.
+• Antecedente personal o familiar de cáncer de tiroides.
+• Hallazgos clínicos sospechosos coexistentes, como disfonía.
+• Lesiones >10 mm y con riesgo alto por ultrasonido.
+• Lesiones >20 mm y con riesgo intermedio por ultrasonido.
+• Lesiones >20 mm y con riesgo bajo por ultrasonido, pero han 
+crecido o se asocian con antecedentes de riesgo, antecedente de 
+cirugía tiroidea o terapias de ablación de invasión mínima.
+Figura 6. Abordaje complementario del nodulo tiroideo.
+La hemitiroidectomía o la tiroidectomía son las alternativas a la
+repetición de la BAAF en los pacientes con muestras indeterminadas, 
+especialmente si los hallazgos sonográficos o citológicos confieren 
+una sospecha alta de malignidad. La tiroidectomía total es el 
+procedimiento indicado en caso de una BAAF concluyente de 
+malignidad. La resección quirúrgica también debe considerarse en los 
+casos con un resultado benigno por BAAF, pero que desarrollan 
+cualquiera de los siguientes escenarios:
+• Produce presión en el cuello, con disfagia, sensación de globo, 
+dificultad respiratoria (especialmente en decúbito supino), 
+disnea de esfuerzo y dolor.
+• Desarrolla cambios sospechosos en el patrón ecográfico.
+• Aumenta de volumen y se vuelve sintomático.
+• Tiene un diámetro >4 cm (factor asociado con mayor 
+probabilidad de cáncer).
+El tratamiento supresor de la TSH con levotiroxina no se recomienda 
+rutinariamente para los pacientes con nodulos tiroideos que habitan 
+zonas con consumo suficiente de yodo. No se recomienda el 
+tratamiento del bocio nodular con dosis suprafisiológicas de 
+levotiroxina durante la gestación. El tratamiento con yodo radiactivo 
+debe considerarse en el manejo del bocio hiperfuncionante o 
+sintomático, especialmente en las personas con cirugía tiroidea 
+previa, con riesgo quirúrgico elevado o que declinan la cirugía. Debe 
+considerarse repetir el tratamiento con yodo radiactivo 3-6 meses en 
+los casos de hipertiroidismo persistente o recurrente, o cuanto la 
+reducción en el tamaño resulta inadecuada. La aplicación percutánea 
+de etanol es una alternativa a la vigilancia y a la aspiración terapéutica 
+de los quistes tiroideos de sospecha baja; en algunos casos puede 
+preferirse la hemitiroidectomía. No se recomienda la inyección de 
+etanol en el manejo de las lesiones hiperfuncionantes.
+El seguimiento de los nodulos >1 cm con características ecográficas o 
+citológicas benignas o de sospecha baja se determinará con los 
+factores en el contexto clínico. Las lesiones que no ameritaron la 
+obtención de la BAAF pueden vigilarse en 12 meses con ultrasonido y 
+medición de TSH; si la lesión persiste sin cambios, la evaluación 
+ecográfica se repetirá 24 meses después. En el caso de los nodulos de 
+sospecha muy baja o puramente quísticos, el intervalo de vigilancia 
+será >24 meses. Durante la vigilancia anual de los nodulos benignos, 
+la BAAF deberá repetirse ante cualquiera de las siguientes 
+indicaciones:
+\
+• Aumento >20% en >2 dimensiones del nodulo, con un aumentó 
+mínimo de 2 mm.
+• Cambio >50% en el volumen.
+• Desarrollo de nuevas características ecográficas sospechosas.
+En el caso de los nodulos <1 cm con patrón ecográfico de muy baja 
+sospecha o puramente quísticos no se requiere un seguimiento 
+rutinario. Tampoco se recomienda el seguimiento sonográfico de los 
+nodulos con 2 resultados benignos por BAAF. Los casos que cumplen 
+con todos los siguientes criterios pueden derivarse para su vigilancia 
+en el primer nivel de atención:
+• Seguimiento de 2 años.
+• Resultado benigno por BAAF.
+• Ausencia de cambios clínicos.
+• Patrón ecográfico de sospecha baja o muy baja.
+CÁNCER TIROIDEO
+Las neoplasias tiroideas tienen un espectro de conducta que 
+va de los microcarcinomas detectados incidentalmente con conducta 
+indolente hasta las neoplasias malignas anaplásicas agresivas y 
+virtualmente intratables. Cuando son detectados en forma 
+temprana, el tratamiento es efectivo para la mayoría de los tipos. La 
+incidencia de cáncer es mayor entre los niños, adultos menores de 30 
+años y mayores de 60 años conocidos con nodulos tiroideos (5-10% 
+de los nodulos tiroideos son malignos). Los hallazgos 
+100
+
+===PAGE 126===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+ultrasonográficos sugestivos de malignidad de un nodulo tiroideo son 
+microcalcificaciones, hipoecogenicidad, bordes irregulares, pérdida 
+del halo de seguridad, hipervascularidad intranodal y presencia de 
+linfadenopatía regional sospechosa. Las personas que han recibido 
+radiación en cabeza y cuello tienen un riesgo mayor de desarrollar 
+cáncer tiroideo.
+Cuadro 35. Factores de riesgo para el desarrollo de tumores 
+malignos de la glándula tiroides
+Deficiencia dietética de yodo
+Residencia en regiones de bocio endémico 
+Exposición a radiaciones
+Antecedente familiar de cáncer de tiroides
+Poliposis adenomatosa familiar
+Enfermedad de Cowden
+Cáncer mamario
+CARCINOMAS EPITELIALES DIFERENCIADOS
+Los carcinomas tiroideos papilar y folicular surgen del epitelio 
+folicular y frecuentemente retienen su respuesta a TSH, producen 
+tiroglobulina y concentran yodo; se distinguen por su apariencia 
+histopatológica y sus patrones de progresión característicos. El 
+carcinoma de células Hürtle de la tiroides se compone de tirocitos 
+con citoplasma abundante y se comporta como un cáncer folicular, 
+aunque típicamente no retiene la capacidad concentradora de yodo.
+La mayoría de los cánceres tiroideos se presentan como 
+nodulos que pueden cursar asintomáticos o asociarse con síntomas 
+cervicales locales o adenopatía. Menos frecuentemente debutan con 
+manifestaciones de enfermedad metastásica, como una masa 
+pulmonar o dolor óseo. El 75% de los casos de cáncer tiroideo en 
+pacientes pediátricos se identifica por metástasis ganglionares.
+La mayoría de los carcinomas papilares crecen lentamente y 
+permanecen confinados a la glándula o metastatizan a los ganglios 
+linfáticos cervicales; algunos son más agresivos, con extensión a los 
+tejidos adyacentes, con involucramiento ganglionar extenso y 
+diseminación metastásica a distancia, más comúnmente a los 
+pulmones (esto es más común en los pacientes mayores). Los 
+carcinomas foliculares y de células Hürtle representan el 10% de los 
+cánceres tiroideos; cuando estos tumores muestran evidencia 
+histológica de invadir sólo la cápsula tumoral, se denominan 
+mínimamente invasivos y generalmente se comportan como los 
+carcinomas papilares. Sin embargo, los carcinomas foliculares y de 
+células Hürtle con invasión vascular se asocian más probablemente a 
+enfermedad metastásica a distancia, que frecuentemente involucra 
+los pulmones y el esqueleto.
+El tratamiento fundamental de las formas diferenciadas es 
+quirúrgico. Los carcinomas papilares <1 cm y sin afección ganglionar 
+y los carcinomas foliculares en mujeres menores de 45 años pueden 
+tratarse con hemitiroidectomía. Cuando estas características no se 
+cumplen, hay invasión extratiroidea o se tiene antecedente de 
+exposición a radiaciones, debe practicarse la tiroidectomía total. La 
+vigilancia posquirúrgica debe considerar el desarrollo de hematomas 
+locales, dificultad respiratoria, hipocalcemia y determinación de los 
+niveles de tiroglobulina.
+La radioablación con yodo debe considerarse en todos los casos de 
+carcinomas papilares y foliculares (excepto los casos en estadio I y de 
+riesgo muy bajo), ya que disminuye las recurrencias locales y 
+distantes. Pueden desarrollarse efectos adversos tempranos 
+(sialoadenitis, náusea, dolor en el cuello, disfagia a sólidos, cistitis, 
+gastritis, sangrado, edema cerebral en presencia de metástasis) y 
+tardíos (resequedad de mucosas, sialoadenitis, disfunción de 
+glándulas lagrimales, incremento en el riesgo de neoplasias 
+[leucemia, colon, mama, glándulas salivales] y de aborto [durante el 
+primer año], infertilidad masculina transitoria, fibrosis pulmonar 
+[dosis repetidas para metástasis pulmonares]). Las indicaciones para 
+la administración de radioterapia externa son evidencia microscópica 
+o macroscópica de tumor residual (especialmente si se ha perdido la 
+captación de yodo), enfermedad en estadio IV, invasión extranodal 
+extensa, enfermedad local irresecable y adyuvancia en caso de 
+metástasis óseas. El seguimiento de los pacientes debe ser vitalicio 
+con el objetivo de detectar recurrencias y persistencia de forma 
+temprana. En los casos tratados con tiroidectomía total y terapia 
+radioablativa puede emplearse el nivel de tiroglobulina como 
+marcador de seguimiento.
+CARCINOMA MEDULAR
+Cuadro 36. Factores pronósticos favorables en cáncer tiroideo
+Sexo femenino Márgenes quirúrgicos negativos
+Edad <45 años Ausencia de diseminación extracapsular
+Tumor <4 cm Ausencia de metástasis
+El carcinoma medular tiroideo surge de las células C 
+parafoliculares y representa el 5% de los cánceres tiroideos. Puede 
+presentarse como una neoplasia esporádica o como componente de 
+los síndromes de neoplasia endocrina múltiple (múltiple endocrine 
+neoplasia, MEN) 2a, MEN 2b o de cáncer medular tiroideo familiar. 
+Estos síndromes hereditarios presentan una transmisión autosómica 
+dominante y se relacionan con mutaciones del protooncogén RET; en 
+pacientes sin historia familiar conocida, el examen genético al 
+momento del diagnóstico muestra una prevalencia de 6%. La 
+enfermedad suele presentarse como un nodulo tiroideo, adenopatía 
+cervical o afección metastásica. La hipercalcitoninemia asociada con 
+la diseminación metastásica del cáncer medular tiroideo puede 
+causar prurito, bochornos y diarrea. Es posible identificar las 
+manifestaciones de los síndromes MEN 2a (hipertensión) o MEN 2b 
+(hábito marfanoide, neuromas submucosos).
+Debido al riesgo elevado de enfermedad extratiroidea hace 
+necesario que el manejo inicial sea agresivo, con resección de la 
+glándula y de los ganglios linfáticos locales. Las células neoplásicas
+101
+
+===PAGE 127===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+producen calcitonina y antígeno carcinoembrionario, que pueden 
+usarse como marcadores tumorales para monitorizar la recurrencia y 
+progresión de la enfermedad. El tratamiento con yodo radiactivo es 
+inefectivo. Pueden emplearse análogos de somatostatina para el 
+control de la diarrea y los fenómenos vasomotores.
+CARCINOMA ANAPLÁSICO
+Es una neoplasia maligna rara, histológicamente indiferenciada
+y clínicamente agresiva que suele presentarse en pacientes mayores 
+(un cuarto de ellos presenta evidencia de un carcinoma tiroideo 
+diferenciado precedente). Se presenta como una masa de 
+crecimiento rápido en la superficie anterior o lateral del cuello, 
+asociada con dolor, sensibilidad y manifestaciones compresivas. La 
+biopsia por aspiración con aguja fina usualmente revela células 
+indiferenciadas, pleomórficas y grandes, pero la biopsia abierta es 
+ocasionalmente requerida para la confirmación del diagnóstico.
+La mayoría de los tumores son irresecables al momento de la
+presentación debido a la invasión de estructuras locales; la cirugía 
+no es curativa y tiene como objetivo asegurar la permeabilidad de la 
+vía aérea. Frecuentemente se coloca un tubo percutáneo de 
+gastrostomía para asegurar una nutrición adecuada ante el 
+pinzamiento esofágico. La terapia convencional (radioterapia con haz 
+externo y doxorrubicina con o sin cisplatino) produce una respuesta 
+inicial en 25% de los casos. La sobrevida media es de 3-7 meses.
+LINFOMA TIROIDEO
+Es raro que un linfoma surja de la glándula tiroides,
+encontrándose típicamente en personas mayores como bocio de 
+crecimiento rápido y doloroso. Los pacientes tienen frecuentemente 
+el antecedente de tiroiditis autoinmune. El diagnóstico se sospecha 
+cuando la biopsia por aspiración con aguja fina muestra linfocitos 
+abundantes sin otras características celulares de tiroiditis 
+autoinmune; la tinción inmunohistoquímica y la citometría de flujo 
+caracterizan una población linfocitaria monoclonal. En 50% de los 
+casos, el linfoma es primario de la glándula y usualmente representa 
+un linfoma no Hodgkin de grado intermedio.
+La resección quirúrgica de la glándula no está indicada, pero
+puede considerarse la traqueostomía electiva como medida 
+profiláctica cuando la compresión traqueal es inminente. La mayoría 
+de los pacientes responden al tratamiento con radioterapia de haz 
+externo y quimioterapia. Las tasas de sobrevida libre de enfermedad 
+dependen del estadio de la enfermedad al momento del diagnóstico 
+y de la respuesta inicial a la terapia combinada.
+DISLIPIDEMIAS Y RIESGO CARDIOVASCULAR
+Las dislipidemias son enfermedades asintomáticas 
+caracterizadas por concentraciones anormales de lípidos en sangre, 
+particularmente colesterol total, triglicéridos y colesterol de alta 
+densidad (HDL). Son uno de los factores de riesgo cardiovascular 
+modificables más relevantes, ya que están estrechamente 
+relacionadas con enfermedades como diabetes mellitus tipo 2, 
+obesidad, hipertensión arterial sistémica y síndrome de ovario 
+poliquístico. Su origen es multifactorial y puede clasificarse en 
+dislipidemias primarias (de origen genético) o secundarias 
+(relacionadas con el estilo de vida o enfermedades subyacentes).
+Entre los factores de riesgo más comunes destacan el sedentarismo, 
+una dieta hipercalórica rica en grasas saturadas y azúcares refinados, 
+el tabaquismo, el consumo excesivo de alcohol, la obesidad y la 
+diabetes. También existen causas menos frecuentes como 
+hipotiroidismo, síndrome nefrótico, enfermedades hepáticas 
+colestásicas, fibrosis quística, lupus eritematoso sistémico, mieloma 
+múltiple, síndrome de Cushing, lesión medular aguda y el uso de 
+ciertos medicamentos como diuréticos tiazídicos, glucocorticoides, 
+estrógenos orales, antipsicóticos atípicos, isotretinoína e inhibidores 
+de la proteasa.
+En México, la prevalencia de dislipidemia ha ¡do en aumento. Según 
+datos de la ENSANUT 2018, la prevalencia en personas mayores de 20 
+años es del 19.5%, y alcanza hasta un 28% en personas de 50 a 79 
+años. En algunos registros de medicina familiar, la prevalencia ha 
+llegado a ser del 66%. Esta situación refleja la necesidad de fortalecer 
+la detección y tratamiento oportunos de estas alteraciones 
+metabólicas.
+Las dislipidemias se originan por alteraciones en la síntesis, 
+transporte, metabolismo o eliminación de las lipoproteínas. Las más 
+aterogénicas son aquellas que contienen apolipoproteína B (ApoB), 
+como las LDLy VLDL. Estas partículas tienen la capacidad de atravesar 
+el endotelio vascular, unirse a los proteoglicanos de la matriz 
+extracelular, y dar lugar al desarrollo de placas de ateroma, iniciando 
+un proceso inflamatorio crónico que favorece la progresión de la 
+enfermedad cardiovascular. El estrés oxidativo, la disfunción 
+endotelial y la inflamación de bajo grado desempeñan un papel 
+relevante en la patogenia. Las dislipidemias primarias, como la 
+hipercolesterolemia familiar o la disbetalipoproteinemia, derivan de 
+mutaciones que afectan la función de receptores o enzimas 
+específicas. Por otro lado, las dislipidemias secundarias se relacionan 
+con factores modificables como la dieta, la inactividad física, 
+enfermedades crónicas o el uso de medicamentos.
+Las dislipidemias se clasifican de la siguiente forma:
+102
+Primarias: trastornos caracterizados por defectos en las enzimas, 
+receptores o metabolitos que participan en la síntesis y 
+eliminación de las lipoproteínas. La más frecuente es la
+
+===PAGE 128===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+hipercolesterólemia familiar, seguida por la hiperlipidemia 
+familiar combinada. Otras formas de dislipidemia primaria son la 
+hipercolesterólemia poligénica, la apobetalipoproteinemia, 
+disbetalípoproteinemia, hipoalfalipoproteinemia familiar y la 
+hiperlipoproteinemia lipoproteína-a.
+• Secundarias: alteraciones en los lípidos como consecuencia de 
+otras enfermedades, como diabetes mellitus, hipotiroidismo, 
+síndrome nefrótico y el uso de algunos fármacos. De acuerdo con 
+la GPC, los factores de riesgo más comúnmente asociados con la 
+dislipidemia secundaria son el sedentarismo, el consumo 
+excesivo de grasas saturadas e hidratos de carbono, la obesidad, 
+el tabaquismo, el alcoholismo y la diabetes mellitus.
+En la mayoría de los casos, las dislipidemias no generan 
+síntomas y se detectan de manera incidental mediante pruebas de 
+laboratorio. Sin embargo, en casos graves o prolongados pueden 
+aparecer signos clínicos como anillo corneal antes de los 45 años, 
+xantomas tendinosos en tendones extensores, rotuliano o de Aquiles, 
+xantelasmas, xantomas palmares y xantomas eruptivos, 
+especialmente én casos de hipertrigliceridemia grave (asociándose 
+también con niveles de triglicéridos >500 mg/dl).
+Entre las complicaciones clínicas destacan las manifestaciones de 
+aterosclerosis acelerada, como el infarto agudo de miocardio, 
+enfermedad cerebrovascular isquémica y enfermedad arterial 
+periférica. La hipertrigliceridemia grave también se ha relacionado 
+con pancreatitis aguda y síntomas como xerostomía o xeroftalmia.
+Desde el punto de vista paraclínico, el perfil lipídico incluye la 
+medición de colesterol total, c-LDL, c-HDL y triglicéridos. En pacientes 
+con riesgo elevado o enfermedades concomitantes, se recomienda 
+también medir colesterol no HDL, ApoB y lipoproteína(a). Estas 
+determinaciones permiten establecer un perfil de riesgo 
+cardiovascular más preciso y definir las metas terapéuticas 
+individuales.
+Las dislipidemias más frecuentes en México son los niveles bajos de 
+C-HDL y la hipertrigliceridemia. Los niveles de normalidad para 
+colesterol total deben ser <200 mg/dl, triglicéridos <150 mg/dl, y C- 
+HDL >40 mg/dl, en cuanto al C-LDL en individuos con riesgo 
+cardiovascular muy alto debe ser <70 mg/dl, riesgo alto <100 mg/dl, 
+y en riesgo moderado a bajo <115 mg/dl. La importancia del control 
+de este grupo de patologías radica en que la enfermedad 
+cardiovascular derivada de ateroesclerosis es una de las causas 
+primarias de morbilidad y mortalidad mundiales. La dislipidemia 
+aterogénica se caracteriza por hipertrigliceridemia, C-HDL bajo y 
+presencia de partículas pequeñas y densas de C-LDL.
+El diagnóstico se confirma mediante la medición del perfil 
+lipídico, que puede realizarse con o sin ayuno, dependiendo del 
+contexto clínico. En adultos asintomáticos sin factores de riesgo 
+mayores, se recomienda la determinación de colesterol total, c-LDL, 
+c-HDL y triglicéridos. En personas con alto riesgo cardiovascular, como 
+pacientes con diabetes, enfermedad renal crónica o antecedentes 
+familiares de enfermedad cardiovascular prematura, se deben 
+considerar también el colesterol no HDL, la apolipoproteína B y la 
+lipoproteína(a).
+Para orientar el tratamiento, es fundamental realizar una adecuada 
+estratificación del riesgo cardiovascular. Se recomienda el uso del 
+sistema Globorisk en personas mayores de 19 años sin diagnóstico 
+previo de enfermedad cardiovascular, diabetes mellitus, enfermedad 
+renal crónica o hipercolesterólemia familiar. En los pacientes con 
+alguna de estas condiciones, el riesgo debe clasificarse en categorías 
+clínicas: riesgo bajo (riesgo estimado <1% a 10 años), riesgo 
+moderado (>1% y <5% o diabetes tipo 2 de <10 años sin otros factores 
+de riesgo), riesgo alto (>5% y <10%, colesterol total £310 mg/dL, c-LDL 
+>190 mg/dL, hipertensión >180/110 mmHg, diabetes con daño a 
+órgano blanco), y riesgo muy alto (>10%, enfermedad cardiovascular 
+establecida, diabetes con tres o más factores de riesgo, TFG <30 
+ml/min/1.73 m2 o antecedentes familiares de enfermedad coronaria 
+prematura).
+El tratamiento de la dislipidemia debe ser integral y 
+personalizado según el nivel de riesgo cardiovascular del paciente. 
+Toda intervención debe iniciar con cambios en el estilo de vida, que 
+incluyen una dieta saludable con predominio de granos integrales, 
+frutas y verduras, reducción del consumo de grasas saturadas y 
+eliminación de grasas trans. Se recomienda reducir el sodio y preferir 
+grasas monoinsaturadas. La actividad física aeróbica moderada debe 
+realizarse al menos 30 minutos, cinco días a la semana. También es 
+fundamental abandonar el tabaquismo y limitar el consumo de 
+alcohol a no más de una bebida diaria en mujeres y dos en hombres.
+Cuadro 37. Recomendaciones no farmacológicas incluidas en la
+GPC para la reducción del riesgo cardiovascular________________
+Plan de alimentación que incluya granos integrales, frutas y 
+verduras (5íaciones/día) y carnes magras.
+Reducción de la proporción de grasas saturadas (<10%) y grasas 
+trans (<1%), así como reducción en el consumo de sal.______
+Realización de ejercicio por 30 minutos/día y 5 días/semana. 
+Cese del tabaquismo, especialmente antes de los 35 años.
+Limitación del consumo diario de alcohol a <1 bebida en las 
+mujeres y <2 bebidas para los hombres (es preferible el consumo 
+moderado de vino tinto y cerveza sobre otros tipos de bebidas 
+alcohólicas). 
+Si no se alcanzan las metas terapéuticas tras 12 semanas de cambios 
+en el estilo de vida, se debe iniciar tratamiento farmacológico. Las 
+estatinas son el tratamiento de primera línea. Las de alta intensidad 
+(atorvastatina 40-80 mg o rosuvastatina 20-40 mg) reducen el c-LDL 
+>50%. Las de intensidad moderada (atorvastatina 10-20 mg, 
+rosuvastatina 5-10 mg, simvastatina 20-40 mg, pravastatina 40-80 
+mg o lovastatina 40 mg) reducen el c-LDL entre 30 y 49%. Si no se 
+alcanzan las metas con estatina en dosis máxima tolerada, se 
+recomienda añadir ezetimiba 10 mg/día, que reduce c-LDL en un 15- 
+20% adicional. En casos de muy alto riesgo o hipercolesterólemia 
+familiar donde no se logre control con estatina más ezetimiba, se 
+103
+

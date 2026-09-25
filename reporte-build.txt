@@ -1,0 +1,1701 @@
+npm notice run @jackyzha0/quartz@5.0.0 npx
+npm notice run 'quartz' build
+
+ Quartz v5.0.0  
+
+⚠ Could not load plugin "@quartz-community/obsidian-plugin-excalidraw" to detect category. Skipping.
+Cleaned output directory `public` in 361μs
+Found 834 input files from `content` in 34ms
+Parsing input files using 4 threads
+⚠ Could not load plugin "@quartz-community/obsidian-plugin-excalidraw" to detect category. Skipping.
+⚠ Could not load plugin "@quartz-community/obsidian-plugin-excalidraw" to detect category. Skipping.
+⚠ Could not load plugin "@quartz-community/obsidian-plugin-excalidraw" to detect category. Skipping.
+⚠ Could not load plugin "@quartz-community/obsidian-plugin-excalidraw" to detect category. Skipping.
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE HEMOTÓRAX MASIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/ESTUDIOS COMPLEMENTARIOS ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_00_Bronquiolitis_Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/MALFORMACIONES RENALES Y DE LA PELVIS RENAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/ESTUDIOS COMPLEMENTARIOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE HEMOTÓRAX.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_10_Neumonía_Adquirida_en_la_Comunidad (1).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/OBSTRUCCIÓN CONGÉNITA DEL CUELLO VESICAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE NEUMOTÓRAX A TENSIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/ETIOLOGÍA ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_10_Neumonía_Adquirida_en_la_Comunidad (2).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/OBSTRUCCIÓN DE LA UNIÓN PÉLVICA URETERAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE NEUMOTÓRAX SIMPLE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/EXAMEN NEUROLÓGICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_10_Neumonía_Adquirida_en_la_Comunidad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/PERSISTENCIA DEL CONDUCTO ARTERIOSO (PCA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE SECCIÓN TRAUMÁTICA DE LA AORTA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/FACTORES DE RIESGO EN DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_20_Diarrea_Aguda (1).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/PSEUDOHERMAFRODITISMO FEMENINO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE TAPONAMIENTO CARDIACO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/FISIOPATOLOGÍA DE LA DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_20_Diarrea_Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/PSEUDOHERMAFRODITISMO MASCULINO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/INDICACIONES DE TERAPIA ELECTROCONVULSIVA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE TÓRAX INESTABLE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/RIÑÓN EN HERRADURA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_30_Desnutrición_Infantil.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/INDIFERENCIADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DE TRAUMA NASAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/SÍNDROME DE FRAGILIDAD DEL X.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_40_Asma_Bronquial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/INVENTARIO DE ANSIEDAD GERIÁTRICA (GAI).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO DEL TRAUMA PENETRANTE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/SÍNDROME DE TURNER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/07_50_Fiebre_sin_Foco_menores_3A.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/MANIFESTACIONES ATÍPICAS DE ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/TRATAMIENTO MÉDICO DEFINITIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/SÍNDROME EISENMENGER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/08_00_IVU_Pediátrica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/MANIFESTACIONES DE LA DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/DEFINICIÓN SINDROME NEUROLEPTICO MALIGNO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/SÍNDROME KLINEFELTER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/08_10_Meningitis_Bacteriana_Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PACIENTES CON ABUSO DE SUSTANCIAS ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/INDICE GINECOLOGÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/08_20_Enfermedad_Mano_Pie_Boca.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PARANOIDE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/TRANSPOSICIÓN DE GRANDES VASOS (TGV).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/CLÍNICA MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/08_30_Purpura_Schonlein_Henoch.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PRESENCIA TRANSITORIA DE OTROS SÍNTOMAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/TRASTORNOS DEL FLUJO DE SALIDA DE LA VEJIGA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Clamidia – Chlamydia trachomatis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/GENERALIDADES DE LA ATENCIαN DEL PACIENTE POLITRAUMATIZADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PRESENTACIÓN DE DEPRESIÓN EN EL ADULTO MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/TRATAMIENTO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/DEFINICIÓN MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/MORDEDURAS Y PICADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PREVALENCIA DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/MANEJO DE CIV.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/DIAGNÓSTICO MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/QUEMADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PROCESOS COGNITIVOS DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/MANEJO DE CRIPTORQUIDIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/ETAPAS RELACIONADAS MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/SINDROMES MEDULARES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/PRONÓSTICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/MANEJO DE SÍNDROME EISENMENGER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/FISIOPATOLOGÍA MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMA ABDOMINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/RESIDUAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Gonorrea – Neisseria gonorrhoeae.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO DE COARTACIÓN AÓRTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMA MAXILOFACIAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/RITUALES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/OSTEOPOROSIS EN LA MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO DE COMUNICACIÓN AURICULOVENTRICULAR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMA NASAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SIN MEJORÍA CLÍNICA CRISIS DE PÁNICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO DE CRISIS DE HIPOXIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/PUNTOS CLAVE PARA ENARM MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SINTOMAS ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMA PÉLVICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO EBSTEIN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Sífilis – Treponema pallidum.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SINTOMAS NEGATIVOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/TRATAMIENTO MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMA TOR╡CICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO FARMACOLÓGICO DE SÍNDROME EISENMENGER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SINTOMAS POSITIVOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Tricomoniasis – Trichomonas vaginalis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Consolidados_MD/TRAUMATISMO CRANEOENCEF╡LICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SÍNTOMAS AFECTIVOS DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TRATAMIENTOS PEDIA/TRATAMIENTO TGV.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Virus de la Inmunodeficiencia Humana (VIH).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/CIRUGIA_Indice_consolidado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SÍNTOMAS DE ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/Sin título 1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/SUBTEMAS/Virus del Papiloma Humano (VPH).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Cefalea_Tensional.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/SÍNTOMAS DE LA DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/Sin título 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/TEMAS PRINCIPALES/ENFERMERADES DE TRANSMISIÓN SEXUAL (ETS).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/000 INDICE ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/TRASTORNOS DE ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/Sin título 3.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/GINECOLOGÍA/TEMAS PRINCIPALES/MENOPAUSIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/GENERALIDADES DE LA ATENCIÓN DEL PACIENTE POLITRAUMATIZADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/CRISIS DE ANGUSTIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/INDICE MEDICINA INTERNA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/MORDEDURAS Y PICADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/ENARM_resumen_integrado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/CLASIFICACIÓN AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/QUEMADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/CLÍNICA DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/SINDROMES MEDULARES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/SINDROME NEUROLÉPTICO MALIGNO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/COMPLICACIONES DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/ENARM_tabla_maestra_unificada.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMA ABDOMINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/Sindrome_Neuroleptico_Maligno.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/DEFINICIÓN AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMA MAXILOFACIAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/TRASTORNO DE ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/DEFINICIÓN DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMA NASAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TEMAS PRINCIPALES PSIQ/TRASTORNO OBSESIVO COMPULSIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/ENARM_tabla_unificada.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/DIAGNÓSTICO AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMA PÉLVICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/ANTIPSICÓTICOS ATÍPICOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/DIAGNÓSTICO DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMA TORÁCICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/ANTIPSICÓTICOS TÍPICOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/EPIDEMIOLOGÍA DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Enfermedades_Exantematicas_ENARM (1).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/1 TEMAS PRINCIPALES/TRAUMATISMO CRANEOENCEFÁLICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/MANEJO DE PRIMERA LÍNEA DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/FISIOPATOLOGÍA AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CLASIFICACIÓN DE LOVVETT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Enfermedades_Exantematicas_ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/MANEJO DE SEGUNDA LÍNEA DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/INDICE MEDICINA INTERNA..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CLASIFICACIÓN DE QUEMADURAS POR BIBLIOGRAFÍA EXTRANJERA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Fibromialgia_SII.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/MANEJO EN PRIMER NIVEL DE ATENCIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/MANIFESTACIONES CLÍNICAS AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CLASIFICACIÓN DE RIESGO DE TCE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Lesión renal aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/MANEJO EN SEGUNDO NIVEL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/METAS TERAPÉUTICAS DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CLASIFICACIÓN DE TRAUMA NASAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/MANEJO EN TERCER NIVEL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/ÓRGANOS MÁS AFECTADOS AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Medicina_Interna_Resumen_Unificado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CLASIFICACIÓN POR GRADO DE QUEMADURA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TERAPIA COGNITIVO-CONDUCTUAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/PREVENCIÓN DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/CRITERIOS DE REFERENCIA EN PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Medicina_Interna_Temas_Subtemas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/PRONÓSTICO AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/ESCALA DE COMA DE GLASGOW.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Migrana.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO CRISIS DE ANGUSTIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/TERAPIA EN ADULTOS MAYORES DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/ESCALA DE LESIÓN ORGÁNICA DEL BAZO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Resumenes_GPC_Pediatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO DE SOSTEN ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/TRATAMIENTO AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/GRADO DE DISPLASIA RENAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Sindrome_Neuroleptico_Maligno.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/SUBTEMAS MEDICINA INTERNA/TRATAMIENTO DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/INDICACIONES DE INTUBACIÓN EN PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/AMILOIDOSIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/amiloidosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/ESCALAS PRINICPALES/MANIOBRAS DE PROVOCACIÓN DE BROWN-GRUSS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO INICIAL ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/DIABETES MELLITUS TIPO 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/aterosclerosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/INDICE CIRUGÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/TRATAMIENTO PSIQ/TRATAMIENTO TRASTORNO OBSESIVO COMPULSIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/Enfermedad_Renal_Cronica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/A (airway).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/glomerulonefritis aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/ANORMALIDADES DEL TRACTO URINARIO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/Nefropatia_Diabetica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/A PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/insuficiencia_arterial_periferica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/CARDIOPATÍAS CONGÉNITAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/ANEXOS DE LA REVISIÓN PRIMARIA Y REANIMACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/SDRA_ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/00_Inicio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/ENFERMEDAD DIARREICA AGUDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/ANEXOS DE LA REVISIÓN SECUNDARIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/Sepsis_ChoqueSeptico_ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/ENFERMEDADES EXANTEMÁTICAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/B (breathing).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/Indice Maestro.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/MEDICINA INTERNA/TEMAS PRINCIPALES/hipertension_arterial_sistemica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/ESTENOSIS PILÓRICA HIPERTRÓFICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/B PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/C a..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/FARINGOAMIGDALITIS BACTERIANA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/C (circulation).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Anatomia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/C b..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/1 TEMAS PRINCIPALES PEDIA/TRASTORNOS DE LA DIFERENCIACIÓN SEXUAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/C PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Cardiologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO (A) DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/ESCALAS PRINCIPALES PEDIA/CLASIFICACIÓN DE LAS CARDIOPATÍAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/CARACTERISTICAS DEL PACIENTE GRAN QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO (B) DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Cirugia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/ESCALAS PRINCIPALES PEDIA/CLASIFICACIÓN DE PCA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/CASOS QUE INDICA INTUBACIÓN ENDOTRAQUEAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO (C) DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/ESCALAS PRINCIPALES PEDIA/CLASIFICACIÓN DE TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Dermatologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/COMPLEMENTOS DE LA EXPLORACIÓN FÍSICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 1 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/INDICE PEDIATRÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/CONSIDERACIONES PARA EL TRASLADO DEL PACIENTE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Endocrinologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 2 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/BACTERIAS COMUNES EN EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/D (déficit).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Farmacologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 3 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CARACTERÍSTICAS DEL SÍNDROME EISENMENGER.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/DEFINICIÓN GENERAL MORDEDURAS Y PICADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 4 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Gastroenterologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CLASIFICACIÓN CLÍNICA EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/E (exposure and environment).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 5 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/COMPLICACIONES EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/ESTUDIOS COMPLEMENTARIOS EN PACIENTE QUEMADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 6 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Gineco-Obstetricia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CONSECUENCIAS DE LAS ALTERACIONES DE LA VÁLVULA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/ESTUDIOS CONTRASTADOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 7 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Hematologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CONTEXTOS CLÍNICOS DE ANORMALIDADES DEL TRACTO URINARIO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/EVALUACIÓN CLÍNICA DE LA LESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 8 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CRITERIOS DE HOSPITALIZACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/EVALUACIÓN DEL PACIENTE CON TRAUMA ABDOMINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Infectologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO 9 DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/CUADRO CLÍNICO TGV.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/EVALUACIÓN INICIAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO A DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Inmunologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIAGNÓSTICO DE COARTACIÓN AORTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/EVALUACIÓN RADIOLÓGICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO A DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Nefrologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIAGNÓSTICO DE ESTENÓSIS PILÓRICA HIPERTRÓFICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/FASE HOSPITALARIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO A..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIAGNÓSTICO DE PCA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/FASE PRE HOSPITALARIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Neumologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO A.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIAGNÓSTICO EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/HISTORIA CLÍNICA Y EXPLORACIÓN FÍSICA TRAUMA ABDOMINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Neurologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO B DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIAGNÓSTICO TGV.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/INDICACIONES DE LAPAROTOMIA EN ADULTOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Oftalmologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO B DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/DIARREA SEGUN PRESENTACIÓN CLÍNICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/MÁS PREGUNTADO EN EL ENARM MORDEDURAS Y PICADURAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO B..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Oncologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ENFERMEDADES DIARREICAS AGUDAS (EDA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/MECANISMO DE ACCIÓN EN LESIONES GRAVES POR ELECTRICIDAD Y SU MANEJO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO B.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Otorrinolaringologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS COMPLEMENTARIOS DE CIV.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/MECANISMO DE LA LESIÓN ABDOMINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO C DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS COMPLEMENTARIOS EBSTEIN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/MECANISMO DE LESIÓN Y CLASIFICACIÓN TRAUMA PÉLVICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Pediatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO C DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS DE DIAGNÓSTICO CIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/PARACLÍNICOS COMPLEMENTARIOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO C..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS DE GABINETE COARTACIÓN AÓRTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/POBLACIONES ESPECIALES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Pendientes.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO C.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS DE GABINETE DE COMUNCACIÓN AURICULOVENTRICULAR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/PRONÓSTICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO D DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ESTUDIOS DE GABINETE TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Psiquiatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/REANIMACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO D DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/ETIOLOGÍA DE EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/REEVALUACIÓN Y MONITORIZACIÓN CONTINUAS DESPUÉS DE LA REANIMACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Reumatologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO D..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/EXPLORACIÓN CRIPTORQUIDIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/REVISIÓN PRIMARIA (ABCDE).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO D.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/Banco de Preguntas - Salud_Publica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/EXPLORACIÓN DE COMUNICACIONES AURICULOVENTRICULARES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/REVISIÓN SECUNDARIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO E DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/ESTADO_PROCESAMIENTO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/EXPLORACIÓN FÍSICA COARTACIÓN AORTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/SUBTEMAS/TRIAGE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO E..md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/EXPLORACIÓN TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/CHOQUE MEDULAR Y NEUROGÉNICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO E.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/FACTORES DE RIESGO DE CARDIOPATÍAS CONGÉNITAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/CONTUSIONES CEREBRALES 20-30_.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO F DE ANSIEDAD GENERALIZADA DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/banco_preguntas/PuntoENARM - Tarjetas 2026.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/FACTORES DE RIESGO DE ESTENOSIS PILÓRICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/FRACTURAS DE LE FORT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO F.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/FACTORES DE RIESGO EBSTEIN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/HEMATOMAS EPIDURALES 0.5_.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO LEVE DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/FACTORES QUE PRECIPITAN LAS CRISIS DE HIPOXIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/HEMATOMAS SUBDURALES 30_.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO MODERADO DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/FISIOPATOLOGÍA EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/HEMOTORAX MASIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO SEVERO DEPRESIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/HERMAFRODITISMO VERDADERO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Alimentación Complementaria y Destete.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/HEMOTORAX.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO a1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/HIDRATACIÓN EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/LESION MÁS SIGNIFICATIVA EN LESIONES GRAVES POR ELECTRICIDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO a2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Anemias - Generalidades y Clasificación.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/INDICACIONES DE CATETERISMO CARDIACO EN PCA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/LESIONES DE ÁCIDO FLUORHÍDRICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO a3.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Atención Inicial del Paciente Politraumatizado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/INDICACIONES DE TRANSPLANTE CARDIOPULMONAR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/LESIONES GRAVES POR ELECTRICIDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO a4.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Cambios Fisiológicos del Embarazo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/INDICACIONES DE TRATAMIENTO QUIRÚRGICO EN COARTACIÓN AÓRTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/LESIONES POR ÁCIDO FÓRMICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO b1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/INDICACIONES Y MANEJO DE CIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Cardiopatías Congénitas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/MORDEDURAS Y PICADURAS 2 PUEDEN INVOLUCRAR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIO b2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/INDICACIÓN DE SERIE ESÓFAGO GASTRODUODENAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/MUERTE CEREBRAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DE ANSIEDAD GENERALIZADA EN DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Crecimiento y Desarrollo Infantil Normal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/MANEJO ANTIBIÓTICO EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/NEUMOTÓRAX A TENSIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DE CRISIS DE ANGUSTIA DSM IV-TR PARA DIAGNÓSTICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/MANIFESTACIONES CLÍNICAS CIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/NEUMOTÓRAX ABIERTO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DE DIAGNÓSTICO EN TRASTORNO OBSESIVO COMPULSIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Diagnóstico y Control del Embarazo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/MANIFESTACIONES CLÍNICAS EBSTEIN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/NEUMOTÓRAX SIMPLE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DE SEVERIDAD DEL TRASTORNO DEPRESIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/El Neonato de Término Normal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/MANIFESTACIONES EN MAYORES DE 5 AÑOS, ADOLESCENTES Y ADULTOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DEL DSM V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/QUEMADURA POR HIDROCARBUROS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/MICROORGANISMOS POR GRUPO DE EDAD EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Escala de Coma de Glasgow.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/QUEMADURAS ELÉCTRICAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/PARÁSITOS FRECUENTES EN EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Escalas de Valoración Neonatal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/QUEMADURAS POR ALCALIS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DIAGNÓSTICOS CIE-10 1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/POSIBLES COMPLICACIONES SECUNDARIAS AL CIERRE POR CATETERISMO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/QUEMADURAS POR ÁCIDOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DIAGNÓSTICOS CIE-10.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Esquema Nacional de Vacunación (Cartilla Nacional de Vacunación).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/PRESENTACIÓN DE ESTENÓSIS PILÓRICA HIPERTRÓFICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/QUEMADURAS QUÍMICAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/CRITERIOS DSM-V.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/PREVENCIÓN EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/SECCIÓN TRAUMÁTICA DE LA AORTA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FACTORES DE RIESGO PARA PRESENTAR ANSIEDAD GENERALIZADA EN PERSONAS MAYORES Y NIÑOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Grado de Displasia Renal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/QUE SE PUEDE IDENTIFICAR EN LA ESTENOSIS PILÓRICA HIPERTRÓFICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASE AGUDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/SINDROME DE BROWN SÉQUARD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Haloperidol.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/RELACIÓN ALIMENTO CON MICROORGANISMO EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASE DE CONTINUACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/SINDROME MEDULAR ANTERIOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Lactancia Materna y Sucedáneos de la Leche Materna.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/TEORÍAS DE LA COARTACIÓN AÓRTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASE DE ESTABILIZACIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/SINDROME MEDULAR CENTRAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/SUBTEMAS PEDIA/VIRUS FRECUENTES EN EDA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Metodo de Estudio Basado en Evidencia para ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TAPONAMIENTO CARDIACO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASE DE REMISIÓN TOTAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/ANOMALIA DE EBSTEIN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASE PRODRÓMICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TCE LEVE GLASGOW 13-15.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Muerte Cerebral.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/ANORMALIDADES URETERALES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/FASES DE LA ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TCE MODERADO GLASGOW 9-12 O SEVERO 0 COMA GLASGOW MENOR A 8.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Operación Cesárea.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CARDIOPATÍAS ACIANÓGENAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TÓRAX INESTABLE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/INDICACIONES DE REFERENCIA AL 2DO O 3ER NIVEL DE ATENCIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Protocolo Diario de Estudio ENARM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CARDIOPATÍAS CIANÓTICAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TRAUMA CERRADO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/ESCALAS PRINCIPALES PSIQ/REFERENCIA A GERIATRÍA EN SEGUNDO NIVEL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CIA OSTIUM SECUNDUM.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Pruebas de Bienestar Fetal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TRAUMA DE COLUMNA Y MÉDULA ESPINAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/INDICE PSIQUIATRÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/COARTACIÓN AÓRTICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TRAUMA MAXILOFACIAL TRATAMIENTO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/CATATÓNICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Regla de los 9 de Wallace y Esquema de Lund and Browder.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/COMUNICACIONES AURICULOVENTRICULARES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TRAUMA PENETRANTE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/CAUSA DE TRASTORNO OBSESIVO COMPULSIVO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Terapia Cognitivo-Conductual.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/COMUNICACIÓN INTERAURICULAR (CIA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/CONSIDERACIONES DE LA ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/TRAUMA POR EXPLOSIÓN.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Terapia Electroconvulsiva.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/COMUNICACIÓN INTERVENTRICULAS (CIV).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/DEFINICIÓN DE OBSESIONES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/🐝 PICADURA DE ABEJAS Y AVISPAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Trabajo de Parto Normal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CRIPTORQUIDIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/DESORGANIZADA (HEBEFRENIA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/🐶 MORDEDURAS DE MAMÍFEROS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CRISIS DE HIPOXIA EN TETRALOGÍA DE FALLOT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/DIAGNÓSTICO ANSIEDAD GENERALIZADA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Trastornos de Ansiedad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/💉 ESQUEMA DE PROFILAXIS ANTIRRÁBICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/CUADRO CLÍNICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/DIAGNÓSTICO CLÍNICO ESQUIZOFRENIA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TEMAS SECUNDARIOS CIRUGÍA/🕷️🦂 PICADURAS DE ARTRÓPODOS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Trastornos de la Diferenciación Sexual.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/DIAGNÓSTICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/DIAGNÓSTICO DEPRESIÓN MAYOR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/MANEJO DE LA LESIÓN MEDULAR.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Trastornos del Desarrollo Psicomotor.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/DILATACIONES CALICEALES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/EN CASO DE NO HABER MEJORIA ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/MANEJO DE QUEMADURAS QUÍMICAS.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/ETIOLOGÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/conceptos/Vacunas del Esquema Nacional - Descripción Individual.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/EPIDEMIOLOGÍA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/MANEJO DE TCE SEVERO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/PEDIATRÍA/TEMAS SECUNDARIOS PEDIATRÍA/EXTROPIA VESICAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/dataset_egresos_hsmo/INVENTARIO_DESCARGA_16-09.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/MEDICINA INTERNA/PSIQUIATRÍA/SUBTEMAS PSIQ/ESCRUTINIO EN PACIENTES MAYORES ANSIEDAD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/MANEJO DE TRAUMA DE CUELLO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anexos Oftalmologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/dataset_egresos_hsmo/README.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/00_raw/Medicina/Demiank Brain/CIRUGÍA/TRATAMIENTOS/MANEJO TRAUMA PÉLVICO.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Intususcepción Intestinal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anomalía de Ebstein.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Antidepresivos de Segunda Linea.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Isoinmunización al Factor Rh.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/guia-hermes-ssh-bazzite.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Antipsicóticos Atípicos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anormalidades del Tracto Urinario y Genital.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Laringotraqueobronquitis (Crup).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/hermes_desktop_intel_monterey_informe_2026-09-12.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Antipsicóticos Típicos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesiones De Rodilla.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anticoncepción y Planificación Familiar.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/hermes_update_v0211_2026-09-10.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Benzodiacepinas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/jarvis_latencias_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesiones Epifisarias Y Fracturas Especiales En El Paciente Pediatrico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Estabilizadores del Estado de Animo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Apendicitis (Pediátrica).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/jarvis_ssh_datos_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesiones Graves por Electricidad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/farmacologia/Inhibidores Selectivos de la Recaptura de Serotonina (ISRS).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Asfixia Neonatal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/jarvis_vias_verificacion_2026-09-10.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesiones Por Exposicion Al Frio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Cirugia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Asma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/mac_monterey_capacidad_completa_2026-09-10.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesiones Traumáticas de la Cabeza del Recién Nacido.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Gineco-Obstetricia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/micardis_duo_generico_2026-09-11.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Aspiración e Ingestión de Cuerpo Extraño.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Medicina Interna.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lesión Obstétrica del Plexo Braquial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/normalizacion_vault_2026-09-12.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Atresia Esofágica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Pediatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Liquen Plano Vulvar.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/patente_vs_generico_mexico_2026-09-11.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Atresia Intestinal (Duodenal y Yeyunal).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Psiquiatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Litiasis Urinaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Atresia de Vías Biliares.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/plan-modelo-local-bazzite.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Salud Publica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Lumbalgia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Blefaritis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/indices/MOC - Urgencias.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/ssh_activado_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Luxacion Glenohumeral.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Bronquiolitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/ssh_diagnostico_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Aborto.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Malformaciones Anorrectales.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cancer De Cabeza Y Cuello.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_procesamiento/README.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Absceso Anorrectal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Malformaciones Müllerianas Uterinas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cancer Prostatico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_procesamiento/analisis_skills_v2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Abscesos Hepaticos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Materiales De Sutura.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_templates/Plantilla-Caso-Clinico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cancer Testicular.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Adenomiosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Menopausia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_templates/Plantilla-Concepto.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Carcinoma De Celulas Renales.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Alergia a la Proteína de la Leche de Vaca.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Miomatosis Uterina.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_templates/Plantilla-Farmacologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Carcinoma De Celulas Transicionales.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Amenorrea y Oligomenorrea.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_templates/Plantilla-Indice-MOC.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Mononucleosis Infecciosa.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Carcinoma Hepatocelular.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_templates/Plantilla-Patologia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Ametropias.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Mordeduras y Picaduras.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cardiopatía Isquémica Crónica (Angina Estable).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/entrenamiento/temas_prioridad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Muerte Fetal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Amigdalectomía en el Paciente Pediátrico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/entrenamiento/temas_usados.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Catarata.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Nefropatía Diabética.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Amiloidosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cáncer Cervicouterino.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia Aplásica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Neoplasias Ováricas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia Hemolítica Autoinmune.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cáncer Endometrial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Cirugia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Neumonía Adquirida en la Comunidad (Pediátrica).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia Hemolítica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cáncer Mamario.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Neuroblastoma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia Megaloblástica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Nódulo Tiroideo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cáncer Tiroideo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia Sideroblástica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cáncer Vulvar.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Onfalitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia de Enfermedad Crónica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Gineco-Obstetricia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Celulitis Preseptal Y Orbitaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Orquitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Anemia por Deficiencia de Hierro.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Orzuelo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cervicovaginitis - Generalidades.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Otitis Externa.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Chalazion.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Medicina_Interna.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cirrosis Hepática.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Otitis Media Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Clamidiasis (Chlamydia trachomatis).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Pancreatitis Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Coartación Aórtica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Parto Pretérmino.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Comunicaciones Auriculoventriculares.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Pediatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Persistencia del Conducto Arterioso (PCA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Comunicación Interauricular (CIA).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Pie Equino Varo Pie Zambo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Comunicación Interventricular (CIV).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Pinguecula Y Pterigion.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Condiciones Mamarias Benignas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Psiquiatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Platipodia Con Espasmo Peroneo Coalicion Tarsal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Conjuntivitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Platipodia Hipermovil Pie Prono.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Craneofaringioma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/Flashcards_Urgencias_Salud_Publica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Poliposis Endometrial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Crisis de Angustia (Trastorno de Pánico).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Poliposis Nasosinusal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Cuidado Y Cicatrizacion De Las Heridas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Presbicia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Cirugia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Defectos de la Pared Abdominal (Gastrosquisis y Onfalocele).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Puerperio.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Deficiencia de G6PD.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Gineco-Obstetricia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Degeneracion Macular Relacionada Con La Edad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Quemaduras (nuevo).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Delirium.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Medicina_Interna.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Quemaduras.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Depresión Perinatal (Prenatal y Posparto).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Raquitismo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Pediatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Desnutrición Infantil.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Reflujo Gastroesofágico en Pediatría.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Psiquiatria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Desprendimiento Retiniano.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Restricción del Crecimiento Intrauterino.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Salud_Publica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Diabetes Mellitus Tipo 2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Retinoblastoma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Preguntas_Urgencias.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Diseccion Aortica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Retinopatía del Prematuro.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Rinitis Alergica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Disfunción Genitourinaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/flashcards_enarm/PuntoENARM_Temas_Pendientes_Sin_Nota.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Rinosinusitis Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Dismenorrea.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Ruptura Prematura de Membranas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/guia_antibioticos_mexico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Displasia del Desarrollo de la Cadera.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Sepsis Neonatal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Distocias y Parto Vaginal Instrumentado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/guia_antihipertensivos_mexico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Sepsis y Choque Séptico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Divertículo de Meckel.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Sífilis (Treponema pallidum).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Dolor Abdominal Agudo (Pediátrico).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome Coronario Agudo sin Elevación del ST.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Dolor Abdominal Agudo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome Hemolítico Urémico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Drepanocitosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome Ictérico Neonatal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/mecanografia_cirugia_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Embarazo Ectópico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome Neuroléptico Maligno.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Embarazo Múltiple.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Aspiración de Meconio (SAM).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Emergencias Obstétricas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Dificultad Respiratoria Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Endoftalmitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Dificultad Respiratoria Neonatal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Endometriosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Eisenmenger.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Ovarios Poliquísticos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Arterial Periferica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome Serotoninérgico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad De Legg Calve Perthes.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Klinefelter.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Diarreica Aguda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Síndrome de Turner.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Diverticular Del Colon.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Talasemia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/mecanografia_gineco-obstetricia_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Hemorrágica del Recién Nacido.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Taquipnea Transitoria del Recién Nacido.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Hemorroidal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tetralogía de Fallot.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Pélvica Inflamatoria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tiron Del Codo Codo De Ninera.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Pulmonar Obstructiva Crónica (EPOC).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tirotoxicosis (Hipertiroidismo).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Torsion Testicular.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Renal Crónica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/mecanografia_medicina_interna_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tracoma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Trofoblástica Gestacional.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Transposición de Grandes Vasos (TGV).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Vascular Cerebral Hemorrágica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno Bipolar I.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Vascular Cerebral Isquémica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno Bipolar II.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/mecanografia_pediatria_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno Depresivo Mayor.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad Vascular Cerebral.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno Neurocognitivo Mayor.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad de Hirschsprung.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedad de Wilson.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno Obsesivo Compulsivo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno de Ansiedad Generalizada.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedades Exantemáticas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/mecanografia_psiquiatria_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastorno de Estres Postraumatico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enfermedades de la Vulva - Generalidades.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/prueba_formato_nuevo_14-07-2026.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastornos De La Via Biliar.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Enterocolitis Necrosante.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/README_ESTRUCTURA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Epididimitis (Pediátrica).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastornos Disociativos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Epifisiolistesis Femoral Proximal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/analisis/Analisis_Cirugia_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastornos Hipertensivos del Embarazo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Epiglotitis (Pediátrica).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastornos de la Conducta Alimentaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Epiglotitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/analisis/Analisis_GinecoObstetricia_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Epistaxis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trastornos de las Glándulas Vestibulares Mayores (Bartolinitis).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Escoliosis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Abdominal (nuevo).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/analisis/Analisis_Medicina_Interna_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Esferocitosis Hereditaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Abdominal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Esguince Cervical.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma De Columna Y Medula Espinal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Esguince De Tobillo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Maxilofacial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/analisis/Analisis_Pediatria_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Esquizofrenia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Nasal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Estenosis Pilórica Hipertrófica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Ocular.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Estrabismo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Pelvico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Faringoamigdalitis Bacteriana.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/mecanografia_errores_enarm_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Pélvico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fenilcetonuria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Raquimedular y Síndromes Medulares.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fibrosis Quística.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Toracico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fistula Anal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma Torácico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fisura Anal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trauma de Cuello.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fístula Vesico-vaginal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Traumatismo Craneoencefalico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Fracturas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_3.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Traumatismo Craneoencefálico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Galactosemia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_4.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tricomoniasis (Trichomonas vaginalis).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Generalidades De La Atencion Del Paciente Politraumatizado.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Trombosis Venosa Profunda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_5.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Gonorrea (Neisseria gonorrhoeae).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tumor de Wilms (Nefroblastoma).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Gonorrea.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_6.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tumores Malignos en Pediatría - Generalidades.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hemocromatosis Hereditaria.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Tumores Oseos Malignos.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_7.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hemorragia Obstétrica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Ulcera Corneal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_8.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hemorragia Uterina Anormal.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Uveitis.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hepatitis Autoinmune.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Vertigo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/PreguntasRespuestas_Examen_9.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Virus del Papiloma Humano (VPH).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hepatitis Viral.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Vulvodinia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hepatopatía Alcohólica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/Preguntas_Cirugía_1-66.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Xeroftalmia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hepatopatía Grasa No Alcohólica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/CLAUDE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hernias Diafragmáticas Congénitas.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hernias Discales.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/Preguntas_Gineco-Obstetricia_1-56.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hernias.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hiperplasia Endometrial.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/Preguntas_Medicina_Interna_1-56.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hiperplasia Prostatica Benigna.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/HABILIDADES_LA_MOLE_SKILLS_PRINCIPALES.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hipertension Intraocular Y Glaucoma.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hipertensión Arterial Sistémica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hipoacusia.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/preguntas/Preguntas_Pediatría_1-152.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/PROMPT MAESTRO - Sistema Multi-IA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hipotiroidismo Congénito.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/README.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Hipotiroidismo.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/TECNICAS_RESOLUCION_ENARM_LOGICA.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infarto Agudo de Miocardio con Elevación del ST.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/activar_ssh_instrucciones_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/prueba_capturas_enarmaster_2026-09-08.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/antihipertensivos_generico_patente_mexico_2026-09-11.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infeccion De Herida Y Sitio Quirurgico.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/refuerzo_leer_2026-09-20.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/bazzite_desktop_diagnostico_final_2026-09-12.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infecciones Congénitas y Perinatales (TORCH y otras).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/biblioteca_3d_2026-09-14.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/registro_errores_enarm/registro_errores_enarm.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infección de Vías Urinarias en Pediatría.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/bitacora.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infección por Virus de la Inmunodeficiencia Humana (VIH).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/claude_oauth_hermes_riesgo_2026-09-11.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infección por Virus del Papiloma Humano (VPH).md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/contradicciones.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Infertilidad.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/deepseek_v41_vs_glm53_2026-09-11.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/02_wiki/patologias/Insuficiencia Venosa Cronica.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/ejecutar-en-bazzite-SKILL-original.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/evaluacion_ias.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/_logs/exclusion_datos_sensibles.md isn't yet tracked by git, dates will be inaccurate
+Parsed 834 Markdown files in 12s
+Filtered out 0 files in 318μs
+Emitting files
+[QuartzTheme] Theme package "@quartz-themes/default" is not installed. Installing...
+
+added 1 package, and audited 323 packages in 1s
+
+136 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm warn install-scripts 3 packages had install scripts blocked because they are not covered by allowScripts:
+npm warn install-scripts   @parcel/watcher@2.6.0 (install: node-gyp rebuild)
+npm warn install-scripts   esbuild@0.28.2 (postinstall: node install.js)
+npm warn install-scripts   fsevents@2.3.3 (install: (install scripts present))
+npm warn install-scripts
+npm warn install-scripts Run `npm install-scripts ls` to review, or `npm install-scripts approve <pkg>` to allow.
+Emitted 2179 files to `public` in 40s
+Done processing 834 files in 52s
+EXIT=0

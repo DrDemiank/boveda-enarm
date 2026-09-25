@@ -1,0 +1,50 @@
+{
+ "no_reconozco_patologia": {
+  "tecnicas": [
+   "T2",
+   "T5",
+   "T12"
+  ],
+  "descripcion": "Eliminación por categoría + distractores gemelos/absurdos + protocolo integrado"
+ },
+ "patologia_conocida_detalle_desconocido": {
+  "tecnicas": [
+   "T6",
+   "T4"
+  ],
+  "descripcion": "Dato de la viñeta + opción más completa/específica"
+ },
+ "reactivo_negativo": {
+  "tecnicas": [
+   "T9"
+  ],
+  "descripcion": "Protocolo de NO/EXCEPTO: enunciar en positivo antes de leer opciones"
+ },
+ "dos_opciones_dudosa": {
+  "tecnicas": [
+   "T3",
+   "T4",
+   "T6"
+  ],
+  "descripcion": "Pistas lingüísticas + especificidad + dato plantado"
+ },
+ "tiempo_justo": {
+  "tecnicas": [
+   "T10",
+   "T8"
+  ],
+  "descripcion": "Tres pasadas + adivinanza informada uniforme"
+ },
+ "duda_cambiar_respuesta": {
+  "tecnicas": [
+   "T7"
+  ],
+  "descripcion": "Kruger 2005: cambiar gana el doble de lo que pierde si hay razón; sin razón, no cambiar"
+ },
+ "ansiedad_bloqueo": {
+  "tecnicas": [
+   "T11"
+  ],
+  "descripcion": "Respiración 4-7-8, protocolo de reinicio cognitivo"
+ }
+}

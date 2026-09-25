@@ -1,0 +1,152 @@
+AUDITORÍA DEL WIKI — ENARM Cerebro Demiank (07/09/2026)
+============================================================
+
+ENLACES ROTOS (21) — notas que enlazan a algo que no existe
+------------------------------------------------------------
+  «DSM-5 espanol (00_raw)»
+      enlazado desde: Delirium, Trastorno Neurocognitivo Mayor, Trastorno Bipolar I
+  «Demiank Brain - Cirugía (00_raw)»
+      enlazado desde: Mordeduras y Picaduras, Trauma Nasal, Traumatismo Craneoencefálico
+  «Demiank Brain - Ginecología (00_raw)»
+      enlazado desde: Clamidiasis (Chlamydia trachomatis), Sífilis (Treponema pallidum), Infección por Virus del Papiloma Humano (VPH)
+  «Demiank Brain - Medicina Interna (00_raw)»
+      enlazado desde: Diabetes Mellitus Tipo 2, Enfermedad Renal Crónica, Sepsis y Choque Séptico
+  «Demiank Brain - Pediatría (00_raw)»
+      enlazado desde: Síndrome de Eisenmenger, Persistencia del Conducto Arterioso (PCA), Anomalía de Ebstein
+  «Demiank Brain - Psiquiatria (00_raw)»
+      enlazado desde: Inhibidores Selectivos de la Recaptura de Serotonina (ISRS), Antidepresivos de Segunda Linea, Estabilizadores del Estado de Animo
+  «Demiank Brain - Psiquiatría (00_raw)»
+      enlazado desde: Antipsicóticos Típicos, Antipsicóticos Atípicos, Crisis de Angustia (Trastorno de Pánico)
+  «Epiglotitis»
+      enlazado desde: Faringoamigdalitis Bacteriana
+  «Gonorrea (Neisseria gonorrhoeae)»
+      enlazado desde: Clamidiasis (Chlamydia trachomatis), Sífilis (Treponema pallidum), Infección por Virus de la Inmunodeficiencia Humana (VIH)
+  «Manual Dr. Prieto ENARM 14a ed. (00_raw)»
+      enlazado desde: Anemia de Enfermedad Crónica, Raquitismo, Epiglotitis (Pediátrica)
+  «Sindrome_Neuroleptico_Maligno (00_raw raíz Medicina)»
+      enlazado desde: Síndrome Neuroléptico Maligno
+  «Síndrome Neuroleptico Maligno»
+      enlazado desde: MOC - Urgencias
+  «Síndrome de Klinefelter»
+      enlazado desde: Anormalidades del Tracto Urinario y Genital
+  «Síndrome de Turner»
+      enlazado desde: Anormalidades del Tracto Urinario y Genital, Coartación Aórtica
+  «Vacunas del Esquema Nacional - Descripción Individual»
+      enlazado desde: Esquema Nacional de Vacunación (Cartilla Nacional de Vacunación), Esquema Nacional de Vacunación (Cartilla Nacional de Vacunación), Esquema Nacional de Vacunación (Cartilla Nacional de Vacunación)
+  «Virus del Papiloma Humano (VPH)»
+      enlazado desde: Sífilis (Treponema pallidum)
+  «investigacion_razonamiento_clinico»
+      enlazado desde: Metodo de Estudio Basado en Evidencia para ENARM
+  «investigacion_sesgos_medicos»
+      enlazado desde: Metodo de Estudio Basado en Evidencia para ENARM
+  «neuroplasticidad_aprendizaje_medico»
+      enlazado desde: Metodo de Estudio Basado en Evidencia para ENARM
+  «preguntas enrm 2026.pdf»
+      enlazado desde: Banco de Preguntas - Otorrinolaringologia, Banco de Preguntas - Oncologia, Banco de Preguntas - Cirugia
+  «tecnicas_estudio_evidence_ENARM»
+      enlazado desde: Metodo de Estudio Basado en Evidencia para ENARM
+
+NOTAS HUÉRFANAS (99) — existen pero nadie las enlaza
+------------------------------------------------------------
+  [00_Inicio.md] (1)
+    - 00_Inicio
+  [banco_preguntas] (23)
+    - Banco de Preguntas - Anatomia
+    - Banco de Preguntas - Cardiologia
+    - Banco de Preguntas - Cirugia
+    - Banco de Preguntas - Dermatologia
+    - Banco de Preguntas - Endocrinologia
+    - Banco de Preguntas - Farmacologia
+    - Banco de Preguntas - Gastroenterologia
+    - Banco de Preguntas - Gineco-Obstetricia
+    - Banco de Preguntas - Hematologia
+    - Banco de Preguntas - Infectologia
+    - Banco de Preguntas - Inmunologia
+    - Banco de Preguntas - Nefrologia
+    - Banco de Preguntas - Neumologia
+    - Banco de Preguntas - Neurologia
+    - Banco de Preguntas - Oftalmologia
+    - Banco de Preguntas - Oncologia
+    - Banco de Preguntas - Otorrinolaringologia
+    - Banco de Preguntas - Pediatria
+    - Banco de Preguntas - Pendientes
+    - Banco de Preguntas - Psiquiatria
+    - Banco de Preguntas - Reumatologia
+    - Banco de Preguntas - Salud_Publica
+    - ESTADO_PROCESAMIENTO
+  [patologias] (75)
+    - Absceso Anorrectal
+    - Abscesos Hepaticos
+    - Ametropias
+    - Anexos Oftalmologia
+    - Blefaritis
+    - Cancer De Cabeza Y Cuello
+    - Cancer Prostatico
+    - Cancer Testicular
+    - Carcinoma De Celulas Renales
+    - Carcinoma De Celulas Transicionales
+    - Catarata
+    - Celulitis Preseptal Y Orbitaria
+    - Chalazion
+    - Conjuntivitis
+    - Cuidado Y Cicatrizacion De Las Heridas
+    - Degeneracion Macular Relacionada Con La Edad
+    - Desprendimiento Retiniano
+    - Diseccion Aortica
+    - Dolor Abdominal Agudo
+    - Endoftalmitis
+    - Enfermedad Arterial Periferica
+    - Enfermedad De Legg Calve Perthes
+    - Enfermedad Diverticular Del Colon
+    - Enfermedad Hemorroidal
+    - Epifisiolistesis Femoral Proximal
+    - Epistaxis
+    - Escoliosis
+    - Esguince Cervical
+    - Esguince De Tobillo
+    - Estrabismo
+    - Fistula Anal
+    - Fisura Anal
+    - Fracturas
+    - Generalidades De La Atencion Del Paciente Politraumatizado
+    - Hernias
+    - Hernias Discales
+    - Hiperplasia Prostatica Benigna
+    - Hipertension Intraocular Y Glaucoma
+    - Hipoacusia
+    - Infeccion De Herida Y Sitio Quirurgico
+    - Insuficiencia Venosa Cronica
+    - Lesiones De Rodilla
+    - Lesiones Epifisarias Y Fracturas Especiales En El Paciente Pediatrico
+    - Lesiones Por Exposicion Al Frio
+    - Litiasis Urinaria
+    - Lumbalgia
+    - Luxacion Glenohumeral
+    - Materiales De Sutura
+    - Orzuelo
+    - Pancreatitis Aguda
+    - Pie Equino Varo Pie Zambo
+    - Pinguecula Y Pterigion
+    - Platipodia Con Espasmo Peroneo Coalicion Tarsal
+    - Platipodia Hipermovil Pie Prono
+    - Poliposis Nasosinusal
+    - Presbicia
+    - Quemaduras (nuevo)
+    - Retinoblastoma
+    - Rinitis Alergica
+    - Tiron Del Codo Codo De Ninera
+    - Torsion Testicular
+    - Tracoma
+    - Trastornos De La Via Biliar
+    - Trauma Abdominal (nuevo)
+    - Trauma De Columna Y Medula Espinal
+    - Trauma Ocular
+    - Trauma Pelvico
+    - Trauma Toracico
+    - Traumatismo Craneoencefalico
+    - Trombosis Venosa Profunda
+    - Tumores Oseos Malignos
+    - Ulcera Corneal
+    - Uveitis
+    - Vertigo
+    - Xeroftalmia

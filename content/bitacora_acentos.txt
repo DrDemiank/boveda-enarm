@@ -1,0 +1,105 @@
+# BITÁCORA — Restauración de acentuación en mecanografia-clinica (05/09/2026)
+# Encargo: prompt-hermes-acentos.txt | Método: 6 fases del encargo
+
+═══════════════════════════════════════════════════════
+RESUMEN EJECUTIVO
+═══════════════════════════════════════════════════════
+- 329 objetos extraídos, verificados y reinsertados (mismo orden, mismos ids).
+- 79 temas con candidatas detectadas (encargo esperaba ~74; reparto coincide).
+- 295 reemplazos de la pasada global (diccionario de 160 formas unívocas).
+- 17 reemplazos contextuales (fase 3b, con lectura de frase completa).
+- 13 candidatas DESCARTADAS conscientemente (ver abajo, con motivo).
+- 67 temas efectivamente modificados.
+- Densidad de acentos: 2.06% → 2.09% (encargo esperaba 2.05 → 2.15; el corpus
+  restante de 250 temas ya estaba correcto y no se tocó).
+- validar.py: LAS CINCO COMPROBACIONES PASAN (ids/orden, campos estructurales,
+  pelar-tilde idéntico, sin caracteres nuevos no diacríticos, densidad).
+- node --check: sin salida (JS válido).
+- UTF-8 sin BOM (head -c 3 = "<!D", no efbbbf).
+- Reinsertado como mecanografia-clinica-v13_2.html; el original queda intacto
+  como mecanografia-clinica-v13_1_original-respaldo.html.
+
+═══════════════════════════════════════════════════════
+REEMPLAZOS APLICADOS (por tema, fase 3a global + 3b contextual)
+═══════════════════════════════════════════════════════
+psi-trastornos-disociativos .......... 60 candidatas → 5 contextuales aplicados
+   (constelación, depresión, propósito, médica, práctica) + 55 ya corregidos en 3a
+psi-trastorno-de-estres-postraumatico  44 → 3 contextuales (patrón, través, médica)
+med-hepatopata-grasa-no-alcohlica       9 → todos en 3a (alcohólica, hepática, etc.)
+gin-cáncer-cervicouterino               6 → en 3a
+far-benzodiacepinas                     6 → en 3a
+far-antidepresivos-de-segunda-linea     5 → 3 en 3a + 2 en 3b (línea, título "Línea")
+far-inhibidores-...-isrs                5 → en 3a + 3b (línea, fármacológico)
+gin-cáncer-endometrial                  4 → en 3a
+gin-cáncer-mamario                      4 → en 3a
+cir-nuevo-64                            → hipertensión (título + cuerpo)
+[... los demás temas con 1-3 reemplazos cada uno; detalle completo en log_fase3a.json]
+
+═══════════════════════════════════════════════════════
+DESCARTES CONSCIENTES (13) — sección 6.1/6.2 del encargo
+═══════════════════════════════════════════════════════
+1. cia (4 temas: ped-comunicaciones-auriculoventriculares, ped-comunicacion-
+   interauricular-cia, ped-persistencia-del-conducto-arterioso-pca,
+   ped-sindrome-de-eisenmenger)
+   → Es la SIGLA CIA (Comunicación InterAuricular) en mayúsculas. "cía" (compañía)
+     no aplica. NO cambiar.
+2. paul (ped-mononucleosis-infecciosa)
+   → "reacción de Paul-Bunnell": apellido propio. NO cambiar.
+3. libera (cir-mordeduras-y-picaduras)
+   → "latrotoxina, que libera acetilcolina": VERBO en tercera persona. Sin tilde.
+     NO cambiar.
+4. noe (cir-trauma-nasal)
+   → Sigla del complejo Naso-Órbito-Etmoidal (NOE), no el nombre Noé. NO cambiar.
+5. eon (cir-nuevo-2)
+   → Sigla EON (Esfena-Orbito-Nasal... variante del complejo NOE). NO cambiar.
+6-7. paraplejia (cir-nuevo-4, cir-nuevo-44)
+   → Llana terminada en vocal: SIN tilde según RAE. El detector propuso
+     "paraplejía" erróneamente. NO cambiar.
+8. lia (cir-nuevo-12)
+   → Es "IIa" (grado IIa de la clasificación de Forrest), romanización del
+     ordinal. El regex lo separó como "lia". NO es la palabra "lía". NO cambiar.
+9. rule (cir-nuevo-34)
+   → "The Canadian C-Spine Rule": término en inglés. NO cambiar.
+10. formula (ped-anormalidades-del-tracto-urinario-y-genital)
+   → "no lo formula con esa contundencia": VERBO (formular). Sin tilde. NO cambiar.
+
+═══════════════════════════════════════════════════════
+DECISIONES DUDOSAS RESUELTAS POR CONTEXTO (para revisión humana)
+═══════════════════════════════════════════════════════
+1. "medica" → médica (5 apariciones en psi-*):
+   Contexto: "afección medica", "enfermedad medica grave", "otra afección medica"
+   — SIEMPRE adjetivo (atención/afección/enfermedad médica). Decisión: tilde.
+2. "practica" → práctica (2 apariciones en psi-trastornos-disociativos):
+   "practica cultural o religiosa", "practica espiritual" — sustantivo. Decisión: tilde.
+3. "termino" → término (1 aparición): sustantivo en contexto clínico. Decisión: tilde.
+4. "patron" → patrón: sustantivo ("el patron sintomatologico"). Decisión: tilde.
+5. "traves" → través: "a traves de medios electronicos" — preposición fija. Decisión: tilde.
+6. "hipertension" → hipertensión (cir-nuevo-64): aparece en título con mayúscula
+   inicial "Hipertension Intraocular Y Glaucoma" — sustantivo, aguda con n. Decisión: tilde
+   conservando caja ("Hipertensión Intraocular Y Glaucoma").
+7. "linea" → línea (4 temas): "primera/segunda línea" — sustantivo. Decisión: tilde.
+   Nota: en far-antidepresivos el título "Segúnda Linea" tenía UNA tilde mal puesta
+   ("Segúnda" → debe ser "Segunda") — NO tocado: el encargo prohíbe corregir la
+   ortografía general, solo AÑADIR tildes. El texto "Segúnda" queda como estaba.
+
+═══════════════════════════════════════════════════════
+VALIDACIÓN (fase 4) — salida real
+═══════════════════════════════════════════════════════
+densidad de acentos antes: 2.06 por ciento
+densidad de acentos ahora: 2.09 por ciento
+las cinco comprobaciones pasan
+
+═══════════════════════════════════════════════════════
+FASE 6 — verificación final del archivo
+═══════════════════════════════════════════════════════
+node --check s.js: sin salida (válido)
+file -bi: regular file | head -c 3 | xxd: 3c21 44 → "<!D" → SIN BOM
+Recuento: 329 objetos, ids en el mismo orden que el original: True
+Densidad final en el archivo v13_2: 2.09%
+
+═══════════════════════════════════════════════════════
+ARCHIVOS ENTREGADOS
+═══════════════════════════════════════════════════════
+- mecanografia-clinica-v13_2.html (corregido) → Documents/ENARM_Cerebro_Demiank/
+- mecanografia-clinica-v13_1_original-respaldo.html (intacto, respaldo)
+- bitacora_acentos.txt (este archivo)
