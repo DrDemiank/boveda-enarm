@@ -1,0 +1,1244 @@
+===PAGE 413===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+• Sospecha de enfermedad de Parkinson.
+• Parkinsonismo de instauración antes de la edad de 40 años.
+• Enfermedad de Parkinson con respuesta terapéutica mala.
+El diagnóstico diferencial de los síndromes parkinsonianos puede 
+requerir el abordaje muItidisciplinario bajo las siguientes condiciones:
+• Genética: sospecha de enfermedad de Parkinson familiar o de 
+inicio temprano.
+• Clínica de sueño: sospecha de trastornos conductuales del sueño 
+de movimientos oculares rápidos o síndrome de piernas 
+inquietas.
+• Neuropsiquiatría y psicología: sospecha de deterioro cognitivo, 
+demencia, psicosis, depresión o apatía.
+• Medicina interna y geriatría: sospecha de disautonomías 
+cardiovasculares, gastrointestinales o genitourinarias.
+• Neurocirugía: candidatura a la estimulación cerebral profunda o 
+cirugía lesional.
+ENFERMEDAD VASCULAR CEREBRAL
+La Enfermedad Vascular Cerebral (EVC) se define como un 
+episodio (o más) súbito de disfunción focal cerebral, de retina o 
+médula espinal, y con duración >24 horas, o sin importar la duración, 
+si en la imagen o en la autopsia se observa infarto o hemorragia en 
+asociación con los síntomas y/o signos. Se trata de una emergencia 
+médica que es tiempo dependiente, y el retraso en su atención se 
+asocia con menor recuperación y mayor riesgo de complicaciones.
+De todas las EVC incidentes a nivel mundial, la isquemia representa el 
+62% (en la GPC se refiere que ocupa el 70%), la hemorragia 
+intracerebral el 28% y la hemorragia subaracnoidea el 10%. El riesgo 
+de sufrir una EVC a lo largo de la vida para hombres y mujeres adultos 
+(a partir de los 25 años) es de aproximadamente el 25%.
+La EVC tiene factores de riesgo muy similares a los del infarto de 
+miocardio. En la GPC se enfatizan siete pasos para la salud 
+cardiovascular, que, al practicarse de forma temprana, podrían 
+disminuir la incidencia de EVC: control de glucosa, colesterol y 
+presión arterial; evitar tabaquismo, realizar ejercicio 30 minutos tres 
+veces por semana, y mantener un peso y dieta saludables. El 90% del 
+costo global de la EVC se debe a factores de riesgo modificables, cinco 
+de estos (hipertensión arterial, alimentación incorrecta, 
+sedentarismo, obesidad y tabaquismo) explican el 90% de los casos. 
+El control multidimensional en la EVC reduce en un 80% el riesgo de 
+nuevos eventos similares.
+ENFERMEDAD VASCULAR CEREBRAL ISQUÉMICA
+La EVC isquémica aguda (EVCisag) es causada por una 
+limitación del flujo sanguíneo arterial, ocasionada por una oclusión 
+trombótica o embólica. Esta forma se divide en el infarto y la 
+isquemia cerebral transitoria (ICT) (esta última ocupando un 25% de 
+los casos). El primero se define cuando existe un infarto en el estudio 
+de imagen, mientras que la ICT es reversible (recuperación clínica 
+total) y breve (duración 524 horas, aunque usualmente es <1 hora), 
+por disfunción isquémica, pero sin evidencia de infarto en el estudio 
+de imagen. Cuando la discapacidad de un paciente es leve, y su 
+estudio de imagen cerebral tiene una lesión asociada, ha sufrido un 
+EVCisag menor (este y la ICT son semejantes).
+El 77% de los casos de EVCisag son origen no lacunar, mientras que el 
+23% son de origen lacunar. De los pacientes con EVCisag no lacunar, 
+el 45% tiene un origen criptogénico (de estos, al menos el 50% 
+asociado a embolismo de fuente indeterminada), un 35% 
+cardioembólico y 17% de grandes arterias (el 3% restante está 
+relacionado a otras causas menos frecuentes).
+Existen diversas clasificaciones de la EVCisag. La ASCOD establece la 
+causa por el nivel de certeza, relacionando la probabilidad etiológica 
+con los hallazgos paraclínicos. Por otra parte, la clasificación TOAST 
+(incluye: aterosclerosis de grandes vasos, cardioembolismo, vaso 
+pequeño, causa infrecuente y causa no determinada) recaba 
+información clínico-demográfica, asignando al paciente una sola 
+categoría, basado en riesgos estimados de grandes estudios 
+poblacionales (es la más utilizada en la clínica). La clasificación clínica 
+Oxfordshire (OCSP) está dirigida a identificar el patrón topográfico 
+(infarto total de la circulación anterior, infarto parcial de la circulación 
+anterior, infarto de circulación posterior, e infarto lacunar o vaso 
+pequeño), siendo sencilla, útil y relacionándose con la imagen.
+La enfermedad de pequeño vaso cerebral (lacunar), en su fase aguda, 
+se caracteriza por zonas redondeadas condicionadas por la lesión de 
+un vaso arterial de pequeño calibre, con un diámetro del área 
+isquémica <2 cm evidenciado en estudio de imagen (tomografía 
+computarizada [TC] y/o resonancia magnética [RM]), que usualmente 
+ocurre tras la oclusión de una arteria perforante en los núcleos 
+básales, cápsula interna, tálamo, corona radiada o tronco encefálico, 
+como consecuencia de una oclusión trombótica o embolismo.
+En México, los principales factores de riesgo para EVCisag son la 
+hipertensión arterial 70% (principal factor de riesgo modificable), 
+diabetes mellitus 29% y fibrilación auricular (FA) 23%. Por otra parte, 
+el principal factor de riesgo no modificable es la edad avanzada.
+El cardioembolismo y la aterosclerosis son dos de los mecanismos 
+más frecuentes como causa de EVC. La FA es el trastorno cardiaco más 
+importante para EVC, la cual provoca estasis sanguínea y turbulencia 
+en la aurícula izquierda, con formación de trombos y el consiguiente 
+embolismo hacia la circulación cerebral. La FA incrementa hasta 5 
+veces el riesgo de sufrir EVCisag; su prevalencia ronda el 0.1% en 
+personas <55 años y se incrementa al 10% a los 80 años. Con menor 
+frecuencia, se encuentra otra cardiopatía (estructural o funcional) 
+como causa del cardioembolismo cerebral (p. ej. discinesia 
+miocárdica isquémica, infarto de miocardio reciente con trombo 
+mural, insuficiencia cardiaca, miocardiopatías, valvulopatías, foramen 
+oval permeable, cardiopatías congénitas, endocarditis infecciosa, 
+etc.). La aterosclerosis se debe a la formación de placas de ateroma 
+388
+
+===PAGE 414===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+en las paredes vasculares (principalmente en las arterias carótidas 
+común e interna, cerebral media, basilar y vertebrales), está asociada 
+a los factores de riesgo cardiovascular y se debe a inflamación crónica 
+y aterogénesis, que resulta en estrechez, trombosis y embolismo.
+Se sospecha el diagnóstico de EVCisag cuando un paciente 
+presenta alteración neurológica súbita y focal (p. ej. parálisis facial, 
+disartria, afasia, debilidad del brazo o la pierna, ataxia, defecto visual 
+campimétrico, debilidad en la mirada o alteración sensitiva). La 
+historia clínica es fundamental para el diagnóstico, pero tiene que ser 
+eficiente y enfocada en preguntas clave y el tiempo de inicio de los 
+síntomas, para poder elegir la terapia apropiada.
+La probabilidad diagnóstica se apoya en escalas de tamizaje 
+(recomendadas por la GPC: Cincinnati, FAST, Los Ángeles y/o 
+DEFENSIVE [esta última para pacientes con síntomas vestibulares 
+agudos]) y la valoración médica para establecer el cuadro clínico, la 
+gravedad y la probable localización anatómica. Se debe diferenciar el 
+EVCisag de otros imitadores (p. ej., hipoglucemia, delirium, 
+emergencia hipertensiva, migraña y epilepsia).
+Cuadro 18. Escala de Cincinnati como tamizaje de la EVCisag, 
+recomendada por la GPC (especialmente útil para detectar casos 
+graves con oclusión vascular proximal)
+Parámetro Puntaje
+Desviación conjugada de la mirada (>1 punto en el 2 
+ítem de la mirada, en la NIHSS).
+Respuesta incorrecta en al menos una de las 1 
+respuestas del ítem de conciencia en la NIHSS (edad 
+o mes actual) y no sigue al menos uno de dos 
+comandos (cierre los ojos, abra y cierre su mano) (>1 
+en las preguntas de conciencia Ib y le de la NIHSS). 
+No puede mantener los brazos levantados por más 1 
+de 10 segundos (izquierdo, derecho o ambos) antes 
+de que caigan en la cama.
+Interpretación: resulta positivo si existen >1 puntos en la 
+escala. Si el puntaje es >2, existe elevada posibilidad de 
+oclusión vascular proximal o EVCisag severa (NIHSS215).
+En la ICT, los síntomas suelen durar segundos o minutos y usualmente 
+menos de una hora. La nueva definición de ICT ahora está "basada en 
+tejido". Una lesión isquémica no es visible en las imágenes cerebrales 
+en un paciente con ICT, y un paciente con síntomas transitorios que 
+tiene, aunque sea una diminuta isquemia cerebral visualizada en 
+imagen, se considera que ha tenido una EVCisag menor. Debido a que 
+la ICT y la EVCisag menor (NIHSS <3) generalmente tienen las mismas 
+manifestaciones (excepto por los hallazgos de neuroimagen) y 
+manejo, son clínicamente consideradas juntas.
+Síntomas/Signos
+Carótida 
+interna
+Vertebral / 
+Cerebelosa 
+inferior 
+posterior
+Cerebral 
+posterior con ataxia 
+hemiplejía
+síndrome 
+pérdida
+contralateral
+contralateral 
+talámico de 
+hemisensitiva
+Cerebral 
+media
+(sitio más 
+frecuente 
+del infarto 
+isquémico)
+o sensítivo-motores contralateral a la lesión.
+La isquemia en la rodilla de la cápsula interna origina 
+debilidad facial seguida por el brazo y por último la 
+pierna, conforme la isquemia se desplaza en sentido 
+posterior; en otros casos se acompaña de ataxia de la 
+mano contralateral y disartria (síndrome lacunar de 
+disartria - mano torpe).
+Cuadro 19. Manifestaciones clínicas generales de la EVCisag con 
+base en el territorio arterial afectado
+Arterias
+penetrantes la cápsula interna; ello produce síntomas motores puros 
+lenticulares
+Territorio
+Cerebral 
+anterior
+Parálisis de la extremidad inferior y pie contralaterales, 
+un grado menor de paresia de la extremidad superior 
+contra lateral, deficiencia sensitiva cortical en la pierna, 
+incontinencia urinaria, reflejo de presión palmar 
+contra lateral, reflejo de succión, rigidez paratónica, 
+abulia, falta de espontaneidad, suspiros, etc.
+Hemiplejía, hemianestesia, hemianopsia homónima 
+contralaterales con desviación de la mirada hacia el lado 
+ipsolateral y disartria por debilidad facial. Si se lesiona el 
+hemisferio dominante aparece afasia global, y si se 
+lesiona el no dominante hay anosognosia, apraxia 
+constructiva e inatención de la mitad contralateral 
+corporal.
+Se lesiona la corteza del territorio irrigado por la cerebral 
+media. Cuando el polígono de Willis se encuentra libre, 
+suele ser asintomática. Cuando en la parte más distal de 
+la arteria se obstruyen los orígenes de la cerebral 
+anterior y media, la sintomatología resulta en abulia o 
+estupor con hemiplejía, hemianestesia y afasia o 
+anosognosia. En el 25% se acompaña de amaurosis 
+monocular fugaz.
+En caso de obstrucción proximal, puede ocurrir parálisis 
+del motor ocular común,
+(síndrome de Claude) o 
+(síndrome de Weber). El
+Déjerine-Roussy produce 
+contralateral con dolor intenso.
+La oclusión de segmentos más distales afecta la porción 
+medial del lóbulo temporal e hipocampo, originando 
+alteraciones inmediatas de la memoria. En caso de lesión 
+del hemisferio dominante, existe alexia sin agrafia; se 
+acompaña en ocasiones de agnosia visual (respecto a 
+caras), objetos, símbolos matemáticos y colores. El 
+infarto bilateral origina ceguera cortical (donde se 
+conserva la reacción fotomotora pupilar). La persona no 
+se percata de su ceguera e incluso la niega (síndrome de 
+Antón). Las lesiones bilaterales del área de asociación 
+visual originan el síndrome de Balint, donde se altera 
+reconocimiento visual sistematizado del entorno (debido 
+a infartos por hipoperfusión de "zonas limítrofes"); 
+manifiestan palinopsia o simultanagnosia.__________
+La oclusión del segmento V4 de la arteria vertebral causa 
+isquemia de la porción lateral del bulbo ("síndrome 
+bulbar lateral") y se caracteriza por vértigo, 
+insensibilidad de la mitad ipsolateral de la cara y 
+extremidades contralaterales, diplopía, disfonía, 
+disartria, disfagia y síndrome de Horner ipsilateral 
+(síndrome de Wallenberg). Muchos casos son 
+consecuencia de la oclusión de la arteria vertebral 
+ipsilateral, pero en otros participa la obstrucción de la 
+arteria cerebelosa posteroinferior._________________
+Origina un infarto de vasos pequeños (lacunar) dentro de 
+389
+
+===PAGE 415===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+1A Nivel de O-alerta
+Cuadro 20. Escala NIHSS
+Grupo Nombre Respuesta
+conciencia 1-contesta ambas preguntas
+2-estu poroso
+3-coma
+IB Preguntas 0-contesta ambas preguntas
+1- contesta una sola pregunta
+2- no contesta ninguna pregunta
+1C Comandos 0-realiza ambos comandos
+1- realiza un solo comando
+2- no realiza ningún comando
+2 Mirada 0-normal
+1- parálisis parcial de la mirada
+2- parálisis total de la mirada
+3 Campos
+visuales
+0-no hay pérdida de campos visuales
+1- hemianopsia parcial
+2- hemianaopsia total
+3- hemianopsia bilateral
+4 Parálisis
+facial
+0-sin parálisis facial
+1- parálisis facial menor
+2- parálisis facial parcial
+3- parálisis facial completa unilateral
+5 Función 
+motora 
+(brazos):
+a. Izquierdo
+b. Derecho
+0-no hay caída
+1- titubea antes de 10 segundos
+2- cae antes de 10 segundos
+3- no hay esfuerzo en contra de la 
+gravedad
+4- no hay movimiento
+6 Función 
+motora 
+(piernas):
+a. Izquierdo
+b. Derecho
+0-normal
+1- titubea antes de 5 segundos
+2- cae antes de 5 segundos
+3- no hay esfuerzo en contra de la 
+gravedad
+4- no hay movimiento
+7 Ataxia 0-sin ataxia
+1- ataxia en un solo miembro
+2- ataxia en dos miembros
+8 Sensibilidad 0-sin alteración de la sensibilidad
+1- pérdida leve de la sensibilidad
+2- pérdida grave de la sensibilidad
+9 Lenguaje 0-sin alteraciones del lenguaje
+1- afasia leve
+2- afasia grave
+3- mutismo o afasia global
+10 Habla 0-sin disartria
+1- disartria leve a moderada
+2- disartria severa o anartria
+11 Extinción o 
+inatención
+0-ausente
+1- leve
+2- grave
+Los síntomas definitivos de una ICT incluyen: debilidad motora en dos 
+extremidades o en una extremidad y la cara, déficit sensorial en dos 
+extremidades o en una extremidad y la cara, defecto del campo visual 
+(hemianopsia homónima) o ceguera monocular, afasia o disartria. Por 
+su parte, los siguientes síntomas no sugieren una ICT: amnesia, 
+confusión, falta de coordinación, déficit sensorial parcial, síntomas 
+visuales corticales inusuales (ceguera bilateral solitaria), pérdida 
+transitoria de conciencia, cefalea, fosfenos/fotopsias y alucinaciones 
+visuales.
+La GPC recomienda utilizar el puntaje NIHSS en EVCisag con fines 
+diagnósticos y pronósticos. Haciendo hincapié que los momentos 
+para utilizar dicho puntaje son: 1) cuantificar la gravedad, 2) facilitar 
+la comunicación, 3) identificar al paciente candidato a tratamiento 
+fibrinolítico o trombectomía mecánica, 4) identificar enfermos con 
+alto riesgo de complicaciones, tales como la hemorragia intracraneal. 
+Se debe considerar oclusión vascular proximal por neuroimagen 
+avanzada de la circulación anterior en todo paciente >4.5 horas de 
+evolución desde el inicio de los síntomas y NIHSS >6.
+Dentro de los estudios iniciales en pacientes con EVCisag, se 
+recomienda solicitar glucosa sérica, INR, biometría hemática para 
+considerar el índice neutrófilo/linfocito como marcador pronóstico, 
+troponinas séricas (sobre todo troponina T) y electrocardiograma, en 
+las primeras 24 horas de evolución. Es importante mencionar, que no 
+se debe demorar el inicio de la administración de fármacos 
+(principalmente en la trombólisis) ni la toma de tomografía 
+computarizada (TC) de cráneo, por retrasos importantes en el reporte 
+de los estudios de laboratorio.
+La imagenología cerebral de urgencia se recomienda antes de iniciar 
+cualquier terapia específica para tratar una EVCisag. En la mayoría de 
+los casos, la TAC sin contraste proveerá la información necesaria para 
+tomar decisiones en el manejo de urgencia. En la GPC, se recomienda 
+la TAC de cráneo sin contraste (con cortes finos <2 mm en el caso de 
+sospecha de oclusión proximal) o la resonancia magnética con 
+imágenes ponderadas por difusión (RM-DWI) de forma urgente 
+antes de la administración de la trombólisis, para excluir hemorragia 
+intracerebral (contraindicación absoluta) y para determinar la 
+posibilidad de isquemia cerebral. También se recomienda realizar TC 
+con perfusión (cuando se cuenta con ella) como un estudio adicional 
+para incrementar la exactitud del diagnóstico y pronóstico.
+En el contexto de la EVCisag hiperaguda, la TC inicial puede ser normal 
+o mostrar signos tempranos de infarto, que incluyen:
+• Pérdida de la diferenciación de la sustancia gris-blanca en los 
+núcleos básales (p. ej., hipodensidad del núcleo Ientiforme).
+• Signo de la arteria cerebral media (ACM) hiperdensa.
+• Pérdida de la cinta insular u oscurecimiento de la fisura de Silvio.
+• Hipodensidad cortical y borramiento de surcos.
+El puntaje APECTS (Alberta Stroke Program Early CT Score) se 
+desarrolló para evaluar y comunicar el alcance de los cambios 
+isquémicos tempranos en la TC sin contraste. Se ha estudiado 
+principalmente en pacientes potencialmente elegibles para 
+trombólisis intravenosa o terapia endovascular. Su aplicación 
+principal es identificar pacientes que tienen un grado limitado de 
+infarto temprano (p. ej., una puntuación >6) y que, por lo tanto, es 
+390
+
+===PAGE 416===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+probable que se beneficien de las intervenciones. Se calcula a partir 
+de dos imágenes de TC axiales estándar sin contraste: una a nivel del 
+tálamo y los núcleos básales, y otra justo rostral a los núcleos básales 
+(la puntuación divide el territorio vascular de la ACM en 10 regiones 
+de interés). El puntaje va en una escala ordinal de 0 a 10, donde las 
+puntuaciones más bajas indican un infarto más extenso.
+La RM-DWI es superior a la TC sin contraste, para el diagnóstico de 
+EVCisag en pacientes que se presentan dentro de las primeras 12 
+horas tras el inicio de los síntomas, pudiendo detectar anomalías 
+incluso en los 30 minutos posteriores al inicio.
+Imagen 1. TC simple de cráneo que muestra infarto cerebral 
+establecido en el territorio de la arteria cerebral media.
+La angiografía es el mejor estudio de imagen para corroborar la 
+oclusión cerebrovascular. En este sentido, la GPC recomienda realizar 
+tan rápido como sea posible estudios no invasivos de imagen cerebral 
+avanzada (AngioTC, AngioRM y perfusión por TC o RMj) en pacientes 
+con sospecha de oclusión vascular proximal dentro del periodo de 
+ventana terapéutica para trombectomía (que por lo general va de 0 a 
+24 horas), para la evaluación de esta condición.
+Dentro del manejo general del paciente con EVCisag, la 
+oxigenoterapia y el manejo de la vía aérea deben ser estratificados 
+según requerimientos, de acuerdo con el decremento significativo y 
+persistente del estado de alerta, o ante la presencia de disfunción del 
+puente o del bulbo raquídeo que ocasione patrones ventílatenos 
+anormales. El oxígeno suplementario debe indicarse en caso de una 
+saturación de oxígeno <94%, para mantener este parámetro por 
+encima de ese valor. No se debe administrar oxígeno suplementario 
+en pacientes con EVCisag y hospitalizados sin hipoxia, ya que esto no 
+aporta beneficio alguno.
+orgánica. Se pueden utilizar cristaloides o coloides por igual, siendo 
+razonable una meta de presión arterial media >100 mmHg y sistólica 
+>120 mmHg.
+Por su parte, en caso de presentarse como emergencia hipertensiva, 
+los pacientes con EVCisag que no son candidatos a tratamiento 
+trombolítico, deben recibir manejo antihipertensivo cuando la 
+presión sistólica sea >220 mmHg o la presión diastólica sea >120 
+mmHg, para tener un'objetivo de disminución controlada £15% de la 
+presión basal durante las primeras 24 horas del evento (como 
+opciones farmacológicas, la GPC recomienda: labetalol o nicardipino). 
+En aquellos sometidos a trombólisis, la presión arterial debe 
+mantenerse <180/105 mmHg por al menos las primeras 24 horas 
+después del inicio de la terapia fibrínolítica y/o trombectomía.
+Las fuentes de hipertermia (p. ej., procesos infecciosos, 
+medicamentos, alergias, etc.) deben ser identificadas y en caso de ser 
+>38°C, el uso de antipiréticos y medidas generales está recomendado.
+La GPC recomienda lograr una meta de glucosa sérica de 140-180 
+mg/dl, con monitoreo estrecho de la glucemia, para prevenir 
+hipoglucemias (la glucosa sérica es el único estudio fundamental de 
+laboratorio que debe preceder al inicio de la administración del 
+factor activador del plasminógeno tisular [rt-PA] en todos los 
+pacientes). Se debe corregir inmediatamente la hipoglucemia.
+Se debe indicar terapia fibrínolítica con rt-PA intravenoso, tan pronto 
+como sea posible, en adultos con sospecha de EVCisag con menos de 
+4.5 horas del inicio de los síntomas y que cumplan con los criterios de 
+inclusión. La dosis recomendada del rt-PA intravenoso (alteplasa) es 
+de 0.9 mg/kg (máximo 90 mg) con un bolo inicial del 10% de la dosis 
+total calculada en 1 minuto.
+El rt-PA también se recomienda en las siguientes situaciones 
+específicas:
+• EVCisag del despertar, con >4.5 horas después de haber sido 
+vistos bien por última vez y que tienen un infarto cerebral 
+evaluado mediante RM-DWI, con ausencia de cambios por dicho 
+infarto en la ponderación FLA1R (discordancia DWI/FLAIR) (a 
+condición de que no tengan otras contraindicaciones).
+• EVCisag de 4.5 a 9 horas e inicio conocido de los síntomas, 
+siempre y cuando se confirme el diagnóstico de discordancia 
+DWI/FLAIR (sin otras contraindicaciones).
+• EVCisag del despertar o con inicio indeterminado y >4.5 horas 
+desde la última vez que fueron vistos bien, siempre y cuando 
+existan en la RM discordancia DWI/FLAIR, sin contraindicaciones 
+para la ventana terapéutica <4.5 horas y en ausencia de ASPECTS 
+<7 o NIHSS >25.
+No se recomienda administrar rt-PA en casos de EVCisag con >4.5 
+horas desde el inicio de los síntomas y que no se cuente con estudios 
+de imagen adicionales a la TC simple de cráneo.
+La hipovolemia y/o la hipotensión deben ser corregidas para 
+mantener la perfusión sistémica necesaria y el soporte de la función
+391
+
+===PAGE 417===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Es razonable utilizar tenecteplasa intravenosa como alternativa a la 
+alteplasa en caso de no contar con esta última, con dosis de 0.4 mg/kg 
+(máximo 40 mg) en bolo único, en el caso de pacientes con EVCisag 
+<6 puntos de NIHSS y discapacitante, pero sin evidencia de oclusión 
+vascular proximal. En caso de EVCisag y oclusión vascular proximal, 
+que cumplan con los criterios de elegibilidad para terapia 
+endovascular (TEV) y previo a la trombectomía mecánica (TM), se 
+recomienda la tenecteplasa en dosis única en bolo de 0.25 mg/kg 
+(máximo 25 mg), como alternativa a la alteplasa.
+En cuanto a la terapia endovascular, la GPC recomienda ofrecer TM 
+con stent removible como tratamiento estándar y trombólisis 
+endovenosa (si está indicada), tan pronto como sea posible, en 
+pacientes con EVCisag y oclusión vascular proximal documentada, 
+dentro de las primeras 6 horas a partir del inicio de los síntomas y si 
+el paciente cumple con los criterios de elegibilidad. Para esto deben 
+realizar estudios de imagen vascular (AngioTC o AngioRM) de vasos 
+intracraneales y troncos supraaórticos, preferentemente con 
+reconstrucción 3D. Todo lo anterior permite valorar la naturaleza de 
+la lesión (p^ra elegir el procedimiento) y la circulación colateral (para 
+determinar el pronóstico).
+Criterios de inclusión para recibir TM temprana en pacientes con 
+EVCisag y oclusión vascular proximal:
+• Tiempp de evolución desde el inicio de síntomas <6 horas.
+• Escala de Rankin modificada entre 0 y 1.
+• La oclusión causal está en la arteria carótida interna o la cerebral 
+media segmento MI.
+• Edad > 18 años.
+• NIHSS >6.
+• ASPECTS >6.
+• El tratamiento por punción femoral puede ser iniciado <6 horas 
+del inicio de los síntomas.
+También se recomienda realizar TM en pacientes con EVCisag, con 6 
+a 24 horas del inicio de los síntomas y evidencia de oclusión arterial 
+proximal de la circulación anterior, con una puntuación de ASPECTS 
+>6, siempre y cuando se cumpla con los criterios de elegibilidad 
+establecidos en los estudios DEFUSE 3 o DAWN (referidos en la GPC).
+Respecto al manejo quirúrgico, en pacientes <60 años, con infarto 
+cerebral hemisférico voluminoso y deterioro neurológico asociado, y 
+que pueden ser tratados en las primeras 48 horas del inicio de los 
+síntomas, la GPC recomienda la craniectomía descompresiva como 
+una medida que reduce el riesgo de muerte y el pobre desenlace 
+funcional ante el edema extenso con herniación e incremento de la 
+presión intracraneal. No se recomienda el uso de corticoides para el 
+tratamiento del edema generado por un infarto cerebral, no existe 
+evidencia de su beneficio, e incrementa el riesgo de complicaciones.
+Cuadro 21. Criterios de inclusión y exclusión de pacientes con un 
+EVCisag que se pueden tratar con factor activador del 
+plasminógeno tisular (rt-PA) intravenoso dentro de las primeras 3 
+horas del inicio de la sintomatología
+Criterios de inclusión:
+• Diagnóstico de EVCisag que causa déficit neurológico 
+considerable.
+• Inicio de la sintomatología en menos de 3 horas antes de 
+iniciar tratamiento.
+• Edad >18 años.
+Criterios de exclusión:
+• Trauma craneoencefálico significativo o ictus previo en los 
+últimos 3 meses.
+• Síntomas de hemorragia subaracnoidea.
+• Punción arterial en sitio no compresible en los últimos 7 días.
+• Historia de hemorragia intracraneal previa.
+• Neoplasia intracraneal, malformación arteriovenosa o 
+aneurisma.
+• Cirugía intracraneal o intraespinal reciente.
+• Presión arterial elevada (sistólica >185 mmHg o diastólica 
+>110 mmHg).
+• Hemorragia interna activa.
+• Diátesis hemorrágica aguda, incluyendo, pero no limitada a: 
+conteo plaquetario <100,000/mm3; heparina recibida en las 
+últimas 48 horas, resultando en TTPa anormalmente elevado 
+y mayor que el límite superior normal; uso de anticoagulante 
+con INR >1.7 o TR >15 segundos; uso actual de inhibidores 
+directos de trombina o de inhibidores directos del factor Xa, y 
+que no se cuente con exámenes de laboratorio que descarten 
+su efecto, tales como: TTPa, INR, conteo plaquetario, y tiempo 
+de coagulación con ecarina, tiempo de trombina, o ensayos 
+apropiados de la actividad del factor Xa.
+• Concentración de glucosa en sangre <50 mg/dl.
+• La TC demuestra infarto multilobar (hipodensidad >1/3 
+hemisferio cerebral).
+Criterios de exclusión relativos*
+• Síntomas cerebrales menores o que mejoran rápidamente 
+(que terminan espontáneamente).
+• Embarazo.
+• Convulsiones al inicio con déficit neurológico residual 
+postictal.
+• Cirugía mayor o trauma severo en los últimos 14 días.
+• Hemorragia reciente del tracto urinario o gastrointestinal (en 
+los últimos 21 días).
+• Infarto agudo de miocardio reciente (en los últimos 3 meses).
+*La experiencia sugiere que ante algunas circunstancias -con una 
+cuidadosa consideración y valorando el riesgo/beneficio- los 
+pacientes pueden recibir tratamiento fibrinolítico a pesar de 1 o 
+más contraindicaciones relativas. Considerar el riesgo beneficio de 
+la administración cuidadosa del rTPA IV si alguna de estas 
+contraindicaciones relativas está presente).
+392
+
+===PAGE 418===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 22. Indicaciones adicionales para trombólisis endovenosa 
+en EVCisag entre 3-4.5 horas del inicio de los síntomas
+• <80 años.
+• NIHSS <25 puntos.
+• Sin consumo de anticoagulantes orales, independientemente 
+de la cifra del INR.
+• No existe historia de la combinación de diabetes mellitus e 
+infarto cerebral previo.
+• Sin evidencia por imagen de la afectación >1/3 de la Arteria 
+Cerebral Media (ASPECTS <7).
+Cuadro 23. Criterios de neuroimagen avanzada para terapia 
+fibrinolítica en pacientes con 4.5 a 9 horas de evolución en EVCisag
+Se determina la diferencia (mismatch: DWI/CTP o DWI/PWI, según 
+se utilice TC o RM) entre difusión (o DWI en RM)/ perfusión: porTC 
+(perfuTC o CTP) o RM (perfu RM o PWI), y se cumplen todos los 
+siguientes:
+1. Volumen del núcleo isquémico <70 mi:
+• a. Flujo sanguíneo cerebral (relativo) <30% (en perfuTC) o 
+ADC <620 pm/s2 en DWI.
+• b. T max >6s (perfu TC o perfu RM).
+2. índice de volumen críticamente hipoperfundido/volumen del 
+núcleo del infarto >1.2.
+3. Diferencia de volumen >10 mi.
+Por su parte, para el manejo de la ICT, se debe calcular el puntaje 
+ABCD2 (es decir, ABCD al cuadrado, para: edad, presión arterial, 
+características clínicas, duración de síntomas y diabetes mellitus) para 
+identificar a los pacientes con alto riesgo de EVCisag en los primeros 
+siete días después la ICT. La terapia antiplaquetaria debe iniciarse en 
+las primeras 12-24 horas desde el inicio de los síntomas. Un puntaje 
+ABCD2 <4 (bajo riesgo) debe tratarse con aspirina 50-325 mg al día o 
+clopidogrel 75 mg al día. En aquellos con un puntaje >4 (alto riesgo), 
+se recomienda Aspirina 81 mg al día con clopidogrel 75 mg al día por 
+21-90 días, posteriormente con transición a monoterapia.
+Los puntajes >3 se consideran de 
+riesgo moderado-alto, por lo que se 
+sugiere este umbral para decidir la 
+admisión hospitalaria para un 
+abordaje urgente.
+Cuadro 24. Escala ABCD2 para la calificación de factores de riesgo 
+para accidente cerebrovascular
+Parámetro Puntos
+0 1 2
+Edad (años) <60 >60
+Presión arterial Normal 2140/90
+Características clínicas Otras Trastorno 
+del habla sin 
+debilidad
+Debilidad 
+unilateral
+Duración de los 
+síntomas (minutos)
+<10 10-59 >60
+Diabetes mellitus
+—----------------------- =—¡7--
+Ausente Presente
+Riesgo de EVC en 2 días:
+0-1 puntos 0%
+2-3 puntos 1.3%
+4-5 puntos 4.1%
+6-7 puntos 8.1%
+Si un paciente se presenta incluso varios días después de un infarto 
+isquémico, debe iniciarse una investigación urgente para determinar 
+la causa del evento isquémico, porque el riesgo de sufrir un segundo 
+infarto es máximo en los días o semanas posteriores al evento inicial. 
+La EVC es la condición médica más importante que origina 
+discapacidad neurológica permanente en el adulto.
+Variables como la edad avanzada, la asociación de dos o más factores 
+de riesgo cerebrovascular y la dependencia inicial para las actividades 
+de la vida diaria tras el evento, se han relacionado de manera directa 
+y proporcional con el pronóstico funcional. La inmovilización en cama 
+después de la EVC puede resultar en complicaciones graves, como 
+neumonía y trombosis venosa, además de problemas 
+musculoesqueléticos que resultan en reducción severa de masa 
+muscular y disfunción del sistema cardiorrespiratorio/inmunológico.
+Casi el 80% de las personas pierden la capacidad para deambular 
+inmediatamente después de una EVC, mejorando significativamente 
+(con o sin ayuda) durante las primeras 5 semanas, y con potencial 
+para seguir mejorando (aunque a un ritmo más lento) durante los 
+siguientes 3 a 6 meses. Sin embargo, la inactividad, la presencia de 
+deterioro cognitivo, fatiga y depresión se relacionan con mayor 
+disminución de la movilidad, pérdida de rendimiento en las 
+actividades diarias y aislamiento social durante la etapa crónica.
+Se estima que el 77% de los sobrevivientes de una EVC son 
+sedentarios o tienen niveles bajos de actividad física. La espasticidad 
+posterior al evento es un problema clínico común, que afecta hasta el 
+42% de los individuos, siendo incapacitante en el 2-13%.
+La GPC recomienda la aplicación de la escala de Medida de 
+Independencia Funcional (FIM, por sus siglas en inglés) de forma 
+rutinaria en pacientes con EVC, tan pronto como sea posible después 
+de la admisión hospitalaria, como predictor de alta a domicilio.
+Los programas de rehabilitación después de una EVC deben iniciar 
+desde el periodo intrahospitalario para favorecer la recuperación 
+funcional y disminuir la estancia hospitalaria. Debe establecerse la 
+correlación entre estudios de neuro-imagen y la probabilidad de 
+alteraciones psicoafectivas para priorizar la atención temprana por 
+servicios de psiquiatría en casos de lesión del área frontal o núcleos 
+básales. La GPC recomienda la valoración del equilibrio en 
+sedestación después de una EVC como paso crucial para la 
+implementación de objetivos de rehabilitación, así como para evaluar 
+la respuesta al tratamiento durante el progreso del programa de 
+rehabilitación, a través del uso de la escala de Equilibrio en 
+Sedestación (SBS, por sus siglas en inglés) o la prueba de Función en 
+Sedestación (FIST, por sus siglas en inglés). También, como parte de 
+la valoración funcional inicial y periódica, se recomienda aplicar la 
+Escala de Evaluación Motora (MAS, por sus siglas en inglés). 
+Evaluación de Fugl-Meyer (FMA, por sus siglas en inglés) o la 
+Evaluación del Movimiento en la Rehabilitación de la EVC (STREAM, 
+por sus siglas en inglés), para implementar y/o realizar las 
+modificaciones necesarias de los objetivos de tratamiento.
+393
+
+===PAGE 419===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Método terapéutico
+Hipertensión
+Dislipidemia
+aterosclerótica
+Nutrición
+Tabaquismo
+Fibrilación 
+auricular
+Aterosderosis
+intracraneal
+Diabetes 
+mellitus
+Foramen oval 
+permeable
+Estenosis de 
+arteria
+carótida 
+extracraneal
+Cuadro 25. Metas y métodos para la prevención secundaria de la 
+ICT y el EVCisag ____________________________
+en sodio o 
+con diabetes
+Después del episodio agudo (y, en caso de ICT o 
+EVCisag menor en que se requirió terapia 
+antiagregante dual a corto plazo), se debe 
+prescribir a largo plazo la terapia con aspirina (75- 
+100 mg) o clopidogrel (75 mg).
+Reanudar terapia antihipertensiva para pacientes 
+previamente tratados después de 24 horas
+Iniciar medicamentos en caso de presión arterial 
+establecida >140/90 mm Hg (>130/80 mm Hg en 
+pacientes con diabetes).
+El objetivo debe ser <130/80 mmHg a largo plazo. 
+Iniciar terapia con estatinas de alta intensidad 
+(atorvastatina o rosuvastatina) para todos los 
+pacientes con un nivel de c-LDL >100 mg/dl, y 
+aquellos con enfermedad
+independiente del nivel c-LDL.
+Fomentar una dieta baja 
+mediterránea. Para pacientes 
+considere derivación a especialista en nutrición. 
+Todos los pacientes deben ser evaluados con 
+glucosa plasmática o HbAlc (un valor >6.5% 
+confirma el diagnóstico). Debe tenerse un 
+objetivo de HbAlc <7% (ajustar la meta 
+dependiendo la edad y comórbidos).
+Todo paciente que haya fumado en el año previo 
+se le debe aconsejar que lo abandone, y se le debe 
+ofrecer intervenciones para facilitar el abandono 
+del hábito a largo plazo.
+Pacientes con estenosis carotídea sintomática 
+(>70% por imágenes no invasivas o >50% por 
+imagen basada en catéter) deben evaluarse para 
+una endarterectomía carotídea o para la 
+colocación de stent.
+La terapia antiagregante plaquetaria dual con 
+clopidogrel y aspirina diarios deben prescribirse 
+durante 90 días después del evento (dentro de los 
+30 días) causado por una estenosis severa (>70%) 
+de la arteria intracraneal.
+Iniciar terapia con estatinas de alta intensidad. 
+Tener objetivo de presión arterial sistólica <140 
+mm Hg (<130 mm Hg en diabetes mellitus).
+Los antagonistas de la vitamina K, apixabán o 
+dabigatrán, tienen el más alto nivel de evidencia 
+para la prevención secundaria.
+Para pacientes con un EVCisag criptogénico (sin 
+mecanismo determinado después de una 
+minuciosa evaluación), de 60 años o menor, que 
+tienen un foramen oval permeable con alto riesgo 
+(p. ej., derivación grande o aneurisma del tabique 
+interauricular asociado), debe considerarse la 
+oclusión del foramen.
+Componente
+Terapia 
+antiagregante
+Se debe realizar implementación de programas de entrenamiento de 
+tronco relacionados con una tarea, como una estrategia que 
+implique la práctica de movimientos funcionales dirigidos a un 
+objetivo, a través de ejercicios: (1) pélvicos, (2) sedestación, (3) 
+flexión y extensión del tronco, (4) flexión lateral del tronco, (5) 
+rotación del tronco y (6) estiramiento. También se recomiendan 
+evaluaciones de la marcha durante el proceso de rehabilitación 
+mediante la prueba de caminata de 6 minutos, e integrar ejercicios 
+como Yoga, Tai-chi o Qigong en los programas para mejorar las 
+funciones sensoriales y motoras de las extremidades.
+En caso de falta de respuesta a otros tratamientos (fisioterapia, 
+inyección de toxina botulínica y medicación oral) para la espasticidad 
+post-EVC, se recomienda valorar la aplicación de baclofeno 
+intratecal. Es recomendable aplicar estimulación eléctrica 
+neuromuscular como complemento de las intervenciones de 
+entrenamiento de los miembros superiores, para disminuir la 
+intensidad del dolor y mejorar la función del hombro.
+Debe instaurarse el inicio temprano de intervenciones que 
+promuevan la coordinación de la función bimanual a través de: (1) 
+movimientos simétricos y asimétricos, (2) movimientos paralelos y 
+cooperativos, y (3) objetivos independientes y comunes.
+La terapia de lenguaje en pacientes con afasia post EVC debe 
+implementarse sin importar la cronicidad, ya que el beneficio 
+terapéutico continúa presentándose. La elección del plan de rutinas 
+de ejercicios para el tratamiento de disfagia (ejercicios de Shaker o 
+ejercicios de mentón contra resistencia) se debe individualizar para 
+mejorar la función de la deglución.
+ENFERMEDAD VASCULAR CEREBRAL HEMORRÁGICA
+La EVC hemorrágica comprende alrededor del 20-30% de todos los 
+EVC, siendo las principales la hemorragia intracerebral (sangrado 
+directamente en el parénquima cerebral) y la hemorragia 
+subaracnoidea (sangrado en el líquido cefalorraquídeo [LCR] dentro 
+del espacio subaracnoideo que rodea el cerebro).
+HEMORRAGIA INTRACEREBRAL
+La hemorragia intracerebral (HIC), también conocida como 
+hemorragia intraparenquimatosa, generalmente se deriva de las 
+arterias pequeñas, y se localiza directamente en el parénquima 
+cerebral, formando un hematoma localizado que se propaga 
+usualmente a lo largo de las vías de la sustancia blanca. La 
+acumulación de sangre ocurre en minutos u horas; el hematoma 
+aumenta hasta que la presión que lo rodea se incrementa lo suficiente 
+como para limitar su expansión, o hasta que la hemorragia se 
+descomprime al irrumpir en el sistema ventricular o en el LCR en la 
+superficie pial cerebral.
+Las causas más comunes son la hipertensión arterial sistémica (#1), 
+traumatismos, diátesis hemorrágica, angiopatía amiloide, uso de 
+drogas ilícitas (principalmente anfetaminas y cocaína) y 
+malformaciones vasculares. Causas menos frecuentes incluyen 
+sangrado tumoral, ruptura de aneurismas y vasculitis.
+394
+
+===PAGE 420===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Los primeros síntomas se relacionan con la disfunción de la 
+porción del cerebro que contiene la hemorragia, aumentando 
+gradualmente durante minutos u horas. En contraste con la EVCisag y 
+la hemorragia subaracnoidea, los síntomas neurológicos relacionados 
+con la HIC pueden no comenzar abruptamente y no son máximos al 
+inicio, desarrollándose cefalea, vómitos y disminución del nivel de 
+conciencia (si el hematoma se vuelve lo suficientemente grande como 
+para aumentar la presión intracraneal).
+La identificación inicial de HIC aguda es sencilla. La TC simple es 
+rápida, altamente sensible y específica para todas las formas de HIC, 
+estando ampliamente disponible, por lo que se considera el estándar 
+de referencia para el diagnóstico. La TC debe evaluarse para 
+determinar la región afectada, cambios cerebrales compatibles con 
+enfermedad de vasos pequeños (atrofia, leucoaraiosis y/o lagunas), la 
+presencia y grado de efecto de masa o desplazamiento de la línea 
+media, hidrocefalia, extensión intraventricular y tamaño del 
+hematoma. El volumen del hematoma predice de forma 
+independiente su expansión y mortalidad temprana, y puede 
+estimarse con rapidez y precisión en la TC con la fórmula ABC/2. La 
+RM es tan sensible como la TC en el diagnóstico hiperagudo de la HIC, 
+pero rara vez proporciona más información en la etapa aguda.
+La angio-TC debe realizarse de forma aguda en todos los pacientes, 
+preferiblemente dentro de los 2 días posteriores a la TC sin contraste, 
+excepto en aquellos que presenten definitivamente bajo riesgo de 
+tener una causa macrovascular subyacente (edad >50 años, historia 
+de hipertensión, localización profunda y en la TC con signos de 
+enfermedad de pequeños vasos). Si la angio-TC es negativa para 
+anormalidades vasculares estructurales, la angío-RM debe 
+considerarse tan pronto como sea posible, ya que tiene un 
+rendimiento de diagnóstico adicional. La angiografía por sustracción 
+digital está justificada en pacientes con alto riesgo de una causa 
+macrovascular subyacente (edad <50 años, no antecedente de 
+hipertensión, localización tobar, sin datos de enfermedad de vasos 
+pequeños en la TCy/o hemorragia intraventricular primaria) después 
+de una angio-TC negativa (y angio-RM negativa, si se realiza).
+Deben realizarse estudios de sangre, incluyendo: tiempos de 
+coagulación, glucosa, troponina cardíaca y una prueba de toxicología. 
+La determinación de INR en el punto de atención debe implementarse 
+para evitar retrasos en la reversión de la anticoagulación en pacientes 
+que toman anticoagulantes.
+Algunos pacientes con HIC se encuentran bajo tratamiento de 
+anticoagulación por una o más comorbilidades, por lo que el manejo 
+para la reversión de la anticoagulación debe ser prioritario y 
+temprano. En pacientes que consumen antagonistas de vitamina K, se 
+deben suspender inmediatamente y verificar el INR, pero no esperar 
+el resultado para actuar en hemorragias potencialmente mortales; se 
+debe iniciar una infusión intravenosa de 10 mg de vitamina K (acción 
+lenta), y administrar concentrado de complejo de protrombina de 
+cuatro factores con dosificación basada en INR cada 3 a 6 horas, y el 
+objetivo debe ser su normalización (<1.3). Otros fármacos 
+anticoagulantes tienen también opciones terapéuticas específicas 
+para la reversión: para el dabigatrán se administra el idarucizumab, 
+para los inhibidores del factor Xa (como el rivaroxabán o apixabán) se 
+utiliza el andexanet alfa, y para la heparina el sulfato de protamina.
+La presión arterial (PA) usualmente es muy alta en la fase aguda 
+después de la HIC, siendo significativamente mayor comparado con la 
+EVCisag, y asociándose con la expansión del hematoma y a un mal 
+resultado clínico. Se recomienda reducir la presión arterial en 
+aquellos que tienen una PA sistólica de 150 a 220 mmHg con inicio de 
+síntomas en las últimas 6 horas, para alcanzar un objetivo de 130 a 
+140 mmHg (sostenida posteriormente durante al menos una 
+semana). En la mayoría de los casos, se debe intentar alcanzar la PA 
+deseada en el plazo de una hora desde el inicio del tratamiento 
+(evitando una rápida reducción si se sospecha una presión 
+intracraneal elevada, la escala de Glasgow <6 o si se encuentra 
+pendiente de evacuación neuroquirúrgica). El tratamiento 
+intravenoso (bolo o infusión) generalmente está justificado, y 
+comúnmente se usan nitroglicerina o labetalol. Los fármacos orales (o 
+vía nasogástrica) también deben iniciarse lo antes posible para para 
+el manejo de mantenimiento, y la terapia intravenosa debe 
+destetarse en 2 a 3 días.
+Imagen 2. TC simple de cráneo que muestra hemorragia 
+intracerebral.
+Dentro del manejo quirúrgico, se recomienda la evacuación 
+descompresiva de la fosa posterior para la HIC cerebelosa >3 cm de 
+diámetro, o para hematomas más pequeños asociados con 
+compresión del tronco encefálico o hidrocefalia por obstrucción del 
+ventrículo. Parece haber subgrupos de pacientes que podrían 
+beneficiarse de la intervención quirúrgica, como: pacientes con una 
+escala de Glasgow en la presentación de 10-13, aquellos con grandes 
+HIC y en casos de hemorragias superficiales. El momento óptimo de 
+la intervención es controvertido debido al riesgo de resangrado, 
+aunque la reducción temprana del volumen del hematoma puede 
+reducir la lesión cerebral secundaria y podría mejorar los resultados.
+395
+
+===PAGE 421===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+HEMORRAGIA SUBARACNOIDEA
+La hemorragia subaracnoidea (HSA) representa un tercio de la
+EVC hemorrágica. De manera global, la etiología más frecuente de 
+HSA es la traumática (consultar el tema traumatismo 
+craneoencefálico en la parte 1 del volumen III).
+— Las dos causas principales de HSA no traumática son la ruptura 
+de aneurismas arteriales y el sangrado por malformaciones 
+vasculares. La diátesis hemorrágica, angiopatía amiloide y el uso de 
+drogas ¡lícitas son menos frecuentes. La ruptura de un aneurisma 
+libera sangre directamente al LCR (suele durar solo unos segundos, 
+pero es muy común que vuelva a sangrar), propagándose 
+rápidamente, y aumentando la presión intracraneal. Con causas de 
+HSA distintas a la ruptura del aneurisma, el sangrado es menos 
+abrupto y puede continuar durante un período de tiempo más largo.
+La incidencia se encuentra alrededor de 1 por 10,000 individuos/año, 
+afectando preferentemente a adultos jóvenes, a las mujeres y a 
+personas de ascendencia africana. El 80% de los casos de HSA se 
+deben a la ruptura de un aneurisma sacular, el cual suele desarrollarse 
+a lo largo de la vida en áreas de defecto congénito de la pared vascular 
+en el polígono de Willis. Los aneurismas saculares se encuentran en 
+2-5% de la población y su presencia incrementa 6 veces el riesgo de 
+una hemorragia subaracnoidea. Los factores de riesgo para la ruptura 
+aneurismática incluyen al diámetro del aneurisma, tabaquismo, 
+hipertensión arterial, etilismo intenso, y el uso de cocaína y 
+anfetaminas. Los aneurismas arteriales cerebrales son comunes en el 
+contexto de varias enfermedades hereditarias, como la enfermedad 
+poliquística renal autosómica dominante, el síndrome de Marfan y el 
+síndrome Ehlers-Danlos tipo IV.
+El cuadro clínico comienza abruptamente, en contraste con el 
+inicio más gradual de HIC. El aumento repentino de la presión provoca 
+el cese de la actividad (p. ej., pérdida de la memoria o de la 
+concentración). La cefalea "en trueno" es el síntoma más importante 
+y, por definición, es instantáneamente intensa y generalizada 
+(referida como "el peor dolor de cabeza de su vida"); puede 
+irradiarse hacia el cuello o incluso por la espalda hasta las piernas. El 
+vómito se produce poco después del inicio y, por lo general, no hay 
+signos neurológicos focales importantes, a menos que ocurra 
+sangrado cerebral y en el LCR al mismo tiempo (hemorragia 
+meningocerebral). La cefalea de inicio es más frecuente que en la HIC, 
+y la combinación de cefalea de inicio y vómitos es poco frecuente en 
+la EVCisag. El 70% de los casos tienen una cefalea centinela por fuga 
+sanguínea desde un aneurisma en los días previos a la hemorragia 
+manifiesta. Suele acompañarse de signos de irritación meníngea. Se 
+utiliza la escala de Hunt-Hess para la clasificación clínica de las HSA y 
+determinar la supervivencia.
+Cuadro 26. Escala de Hunt-Hess para la clasificación clínica de las 
+HSA
+Grado______________Hallazgos______________Supervivencia
+I Asintomático o cefalea leve con ligera 70%
+________rigidez de nuca._________________________________
+II Cefalea de moderada a intensa, 60%
+rigidez de nuca, sin otro déficit 
+neurológico que no sea parálisis de
+________nervio craneal.
+III Somnolencia, confusión o déficit focal 50%
+________leve.__________________________________________
+IV Estupor, hemiparesia moderada a 20%
+severa, posiblemente rigidez de
+descerebraclón temprana o
+________perturbación vegetativa.___________________________
+V Coma profundo, rigidez de 10%
+descerebración, apariencia
+moribunda
+Figura 4. Algoritmo Ottawa para la sospecha de hemorragia 
+subaracnoidea (sensibilidad 100% y especificidad del 15%).
+Cuando existe sospecha clínica de HSA basada en la historia y 
+el examen físico, la TC simple es la primera herramienta diagnóstica. 
+Al inicio de la hemorragia, la sangre subaracnoidea es la más 
+fácilmente visible en la TC, pero se vuelve más difícil de apreciar a 
+medida que avanza la degradación de los glóbulos rojos. La TC sin 
+contraste realizada dentro de las primeras seis horas del inicio de la 
+cefalea tiene una sensibilidad del 98% cuando se cumple lo siguiente: 
+paciente con hematocrito >30% y cefalea en trueno aislada sin 
+convulsiones, síncope o dolor de cuello. Si se cumplen estos criterios, 
+396
+
+===PAGE 422===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+se considera una TC cerebral negativa dentro de las seis horas como 
+un estudio de "descarte" dada la sensibilidad.
+1 Cuadro 27. Escala tomográfica modificada de Fisher para la 
+en pacientes conpredicción del vasoespasmo 
+hemorragia subaracnoidea
+sintomático
+Grado Criterios Frecuencia
+(%)
+Isquemia 
+cerebral 
+tardía* 
+(%)
+Infarto
+(%)
+0
+Sin hemorragia 
+subaracnoidea o 
+intraventricular
+5 0 0
+1
+Hemorragia 
+subaracnoidea
+leve, sin 
+hemorragia 
+intraventricular 
+biventricular
+30 12 6
+2
+Hemorragia 
+subaracnoidea 
+mínima con 
+hemorragia 
+intraventricular 
+biventricular
+5 21 14
+3
+Hemorragia 
+subaracnoidea 
+gruesa! sin 
+hemorragia 
+intraventricular 
+biventricular
+43 19 12
+4
+Hemorragia 
+subaracnoidea 
+gruesat con 
+hemorragia 
+intraventricular 
+biventricular
+17 40 28
+Todos los pacientes 100 20 12
+*Definida como deterioro sintomático, infarto cerebral o ambos, 
+resultantes del vasoespasmo.
+T Definida como el llenado completo de £1 cisterna o cisura.
+Si la TC simple no es definitiva (por el tiempo de estudio, 
+características del paciente [p. ej., anemia severa], limitaciones de 
+interpretación, etc.) la siguiente herramienta recomendada es la 
+punción lumbar (PL). En estos casos, la PL busca dos elementos: 1) 
+glóbulos rojos, y 2) xantocromía (bilirrubina en el LCR) (la verdadera 
+xantocromía es patognomónica de la HSA, se detecta ya sea por 
+inspección visual del tubo de LCR frente a un tubo de agua, o por 
+espectrofotometría). Si el LCR muestra >2000 x 106 glóbulos rojos en 
+el tubo cuatro, la práctica estándar es seguir con una angio-TC o 
+angio-RM, para la evaluación de un posible aneurisma; por el 
+contrario, si el recuento es <2000 x 106 y no se observa xantocromía, 
+se descarta la HSA. La escala tomográfica modificada de Fisheres de 
+utilidad para la predicción del vasoespasmo sintomático en pacientes 
+con HSA y el desarrollo de infarto cerebral.
+Imagen 3. TC simple de cráneo que muestra hemorragia 
+subaracnoidea.
+Una vez establecido el diagnóstico de HSA, los más importantes 
+objetivos incluyen la confirmación de la seguridad de la vía aérea y la 
+estabilización hemodinámíca. Las próximas prioridades son reducir la 
+PA sistólica y anticoagulación inversa (en caso de encontrarse en 
+manejo anticoagulante) para mitigar el riesgo de resangrado en casos 
+de aneurisma.
+Entre las mejores prácticas también se incluye elevar la cabecera de 
+la cama a 30° para proteger contra la aspiración y reducir la presión 
+intracraneal. Los objetivos específicos de PA necesitan sopesarse 
+frente al riesgo de isquemia o infarto por hipotensión. Las pautas 
+recomiendan un objetivo de PA sistólica <160 mmHg. El uso 
+intravenoso de nicardipino, labetalol y/o clevidipino es eficaz, a 
+menudo utilizados en infusión para evitar la hipotensión. En el 
+contexto de bradicardia, también se puede usar hidralazina. El 
+nitroprusiato y nitroglicerina deben evitarse debido a su importante 
+efecto vasodilatador y el riesgo de aumento de la presión 
+intracraneal.
+Muchos pacientes con HSA requerirán drenaje con ventriculostomía, 
+ya sea para el manejo de la hidrocefalia o periprocedimiento para 
+ayudar con las complicaciones de la presión intracraneal.
+El objetivo terapéutico final, una vez que un aneurisma sangrante se 
+identifica, es asegurarlo quirúrgicamente enrollándolo o grapándolo. 
+Si bien el enrollado es el método preferido, ya que es menos invasivo 
+que el clipaje quirúrgico abierto, los datos no son concluyentes en 
+cuanto a si los resultados a largo plazo son mejores, pero las pautas 
+sugieren que el enrollado debe ser realizado si ambos son posibles.
+Las complicaciones son comunes después de la HSA y contribuyen 
+sustancialmente a la morbimortalidad. Después de una HSA 
+aneurismática, se tiene riesgo de resangrado precoz (del 4-14% en las 
+primeras 24 horas, siendo el riesgo máximo en las primeras 2 a 12 
+horas). La isquemia cerebral retardada (ICR) ocurre en un 30% de los 
+pacientes con HSA aneurismática, típicamente entre 4 y 14 días 
+397
+
+===PAGE 423===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+después del inicio de síntomas (definida como: deterioro neurológico 
+focal como hemiparesia, afasia, apraxia, hemianopsia o negligencia, o 
+una disminución de al menos dos puntos en la escala de Glasgow, que 
+dura al menos una hora, que no fue evidente inmediatamente 
+después de la oclusión del aneurisma, y que no se puede atribuir a 
+otras causas). Para reducir el riesgo de malos resultados por la ICR, 
+todos los pacientes deben recibir nimodipino enteral y se debe 
+mantener la euvolemia. La terapia agresiva del vasoespasmo solo 
+puede llevarse a cabo después de que el aneurisma haya sido 
+manejado quirúrgicamente, y las opciones de tratamiento incluyen: 
+elevar la PA media con vasopresores como norepinefrina o dopamina 
+y el mantenimiento de la euvolemia con cristaloides, la angioplastia 
+con globo, y/o la administración intraarterial de vasodilatadores 
+(generalmente se usa para el vasoespasmo difuso que involucra 
+ramas arteriales más pequeñas, con agentes como la nicardipino, 
+milrinona, papaverina, nimodipino, verapamilo y nitroprusiato 
+intratecal).
+MIASTENIA GRAVIS Y SÍNDROME MIASTÉNICO DE
+LAMBERT-EATON
+La miastenia gravis es una enfermedad autoinmune y crónica 
+de la transmisión neuromuscular. La incidencia es bimodal, con un 
+pico entre los 21-39 años con un predominio 3:1 en el sexo femenino 
+y un otro entre los 50-69 años con predominio en el sexo masculino. 
+Se puede clasificar de acuerdo con la edad de inicio (neonatal o del 
+adulto), la presencia o ausencia de anticuerpos contra el receptor de 
+acetílcolina (anti-AChR) [seropositiva o seronegativa] y la gravedad 
+(clasificación de Osserman).
+Sucede debido a una disminución o bloqueo del número de 
+receptores de acetilcolina en la placa motora por presencia de 
+anticuerpos dirigidos contra los receptores nicotínicos de 
+acetilcolina de la membrana postsináptica.
+Las manifestaciones cardinales son debilidad y fatiga fácil de los 
+músculos. La debilidad se intensifica con el uso repetido (fatiga), en 
+las horas finales del día y puede mejorar con el reposo o con el sueño. 
+La debilidad muscular sigue una distribución característica; los 
+músculos craneales, en particular los párpados y los extraoculares, de 
+manera típica son los más afectados en los comienzos de la 
+enfermedad; las manifestaciones iniciales comunes son la diplopía y 
+la ptosis, luego puede presentarse debilidad de músculos 
+masticatorios, debilidad bulbar (disfagia de esfuerzo) y del paladar 
+blando (reflujo nasal o broncoaspiración de líquidos o alimentos), el 
+habla se torna con un timbre nasal y se presenta disartria "apagada" 
+por la debilidad de la lengua. En el 85% de los pacientes la debilidad 
+se generaliza y afecta a las extremidades presentado una debilidad de 
+predominio proximal; por lo que los pacientes tienen dificultad para 
+peinarse, para sostener los brazos por encima de los hombros, para 
+subir escaleras, etcétera. La enfermedad suele presentarse con 
+exacerbaciones y remisiones particularmente, en los primeros años 
+de la evolución.
+Cuadro 28. Clasificación clínica de la Myasthenia Gravis 
+Foundation of América (incluida en la GPC)
+Clase
+1
+Cualquier debilidad muscular ocular
+Puede presentar debilidad al cierre de los párpados 
+La fuerza muscular del resto del cuerpo es normal.
+Clase
+II
+Cualquier debilidad que afecta a los músculos que no 
+son los oculares.
+lia Afectación predominante de las extremidades, 
+músculos axiales o ambos.
+Puede presentar afectación de los músculos 
+orofaríngeos.
+llb Afectación predominante de los músculos orofaríngeos, 
+respiratorios o ambos.
+Clase
+III
+Debilidad moderada que afecta a otros músculos que no 
+son los oculares.
+Puede presentarse debilidad de los músculos oculares 
+en cualquier grado de severidad.
+Illa Afectación predominante de las extremidades, 
+músculos axiales o ambos.
+Puede presentar afectación de los músculos 
+orofaríngeos.
+lllb Afectación predominante de los músculos orofaríngeos, 
+respiratorios o ambos.
+Puede presentar afectación igual o menor de los 
+miembros, músculos axiales o ambos.
+Clase
+IV
+Debilidad severa que afecta músculos que no son los 
+oculares.
+Puede presentar debilidad de los músculos oculares de 
+cualquier severidad.
+IVa Afectación predominante de las extremidades, 
+músculos axiales o ambos.
+Puede presentar afectación de los músculos 
+orofaríngeos.
+IVb Afectación predominante de los músculos orofaríngeos, 
+respiratorios o ambos.
+Puede presentar afectación de los miembros, músculos 
+axiales o ambos.
+Uso de la cánula de alimentación.
+Clase 
+V
+Definida por la intubación, con o sin ventilación 
+mecánica, excepto cuando se emplea en el manejo 
+posquirúrgico de rutina
+Es obligado confirmar el diagnóstico antes de iniciar el 
+tratamiento y este se sospecha con base en la debilidad y fatiga con 
+la distribución típica mencionada, sin arreflexia ni afectación sensitiva 
+ni de otras funciones neurológicas. El método diagnóstico más 
+específico es la determinación de anti-AChR mediante técnica de 
+radioinmunoanálisis, los cuales son positivos en 85% de los pacientes 
+con miastenia generalizada y en 50-60% de los pacientes con 
+miastenia ocular. Aproximadamente 10-20% de los casos con 
+miastenia gravis adquirida no tienen estos anticuerpos, por lo que se 
+denominan seronegativos.
+Recientemente, se ha detectado la presencia de anticuerpos contra el 
+receptor tirosinocinasa muscular específico (MuSK) en hasta el 50% 
+398
+
+===PAGE 424===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+de los pacientes seronegativos, en quienes se observa una 
+enfermedad de inicio a edad más temprana y con limitada respuesta 
+a inmunosupresores convencionales. La estimulación nerviosa 
+repetitiva es de utilidad, en sujetos sanos la amplitud de los 
+potenciales provocados de acción muscular no cambia con ritmos de 
+2-3 segundos. Sin embargo, en los pacientes con miastenia gravis se 
+presenta una disminución rápida >10-15% en la amplitud de las 
+respuestas provocadas (fatiga). También se puede utilizar la 
+electromiografía de fibra única en la que se observa aumento en la 
+variabilidad de la contracción muscular o Jitter patológico. Otras 
+opciones son la prueba del hielo, del sueño, del reposo y del 
+edrofonio. Se recomienda la realización de TAC o RM con la intención 
+de excluir la presencia de una alteración del timo, ya que 75% de los 
+pacientes tienen enfermedad del timo (85% con hiperplasía y con 15% 
+timoma).
+Figura 5. Abordaje diagnóstico de la miastenia gravis (adaptado de la 
+GPC). ENR, estimulación nerviosa repetitiva; EMG, electromiografía.
+Cuadro 29. Clasificación de Osserman (incluida en la GPC)
+Tipo Características
+1 Miastenia ocular pura, limitada a los músculos externos 
+del ojo y párpado (cualquier debilidad de los músculos 
+oculares, puede haber debilidad para el cierre 
+palpebral).
+II Miastenia generalizada leve (debilidad ligera en 
+músculos distinta a los oculares, puede existir afectación 
+menor de los músculos orofaríngeos).
+III Miastenia generalizada moderada (debilidad moderada 
+en músculos distintos a los oculares, puede existir 
+debilidad de cualquier grado de los músculos oculares).
+IV Miastenia generalizada severa, con debilidad intensa en 
+músculos distintos a los oculares (puede existir debilidad 
+de cualquier grado de los músculos oculares).
+V Intubación con o sin ventilación mecánica, excepto al 
+utilizarse durante el tratamiento postquirúrgico de 
+rutina.
+A. Compromiso con predominio de los músculos de las 
+extremidades, los axiales o ambos, puede existir 
+afectación menor de los músculos orofaríngeos.
+B. Afectación predominante de los músculos
+orofaríngeos, respiratorios o ambos; también puede 
+existir afectación menor o igual de los músculos de 
+las extremidades, aciales o ambos.
+Los inhibidores de la acetilcolinesterasa son los fármacos de 
+primera línea en el manejo sintomático de todas las formas de 
+miastenia gravis y de estos el de elección es la piridostigmina. En los 
+pacientes sin adecuada respuesta a la piridostigmina, los fármacos de 
+elección son los esteroides utilizados por períodos cortos en la dosis 
+mínima efectiva y, en pacientes en los que es necesario emplear 
+inmunosupresión a largo plazo, se recomienda iniciar azatioprina en 
+asociación con esteroide, con la intención de reducir al mínimo la 
+dosis del esteroide. La timectomía transesternal se deberá realizaren 
+todos los pacientes con diagnóstico de timoma, independientemente 
+de la gravedad de la miastenia gravis.
+También se encuentra indicada en pacientes sin timoma y al menos 
+uno de los siguientes criterios:
+• Miastenia gravis de 15-60 años.
+• Condición estable con miastenia gravis moderada o grave.
+• Enfermedad ocular resistente.
+• Edad >60 años sin respuesta al tratamiento médico y con 
+contraindicaciones para el uso de esteroides.
+La crisis miasténica se define como la exacerbación de la debilidad 
+que basta para poner en peligro la vida, por lo común comprende 
+insuficiencia respiratoria por debilidad del diafragma y músculos 
+intercostales, exacerbación de los síntomas típicos previamente 
+comentados y generalmente se presenta en personas sin tratamiento 
+adecuado.
+El principal factor precipitante son las infecciones; otros son los 
+fármacos, estrés físico o emocional, cirugías, embarazo, privación del 
+i 399
+

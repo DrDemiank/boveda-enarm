@@ -1,0 +1,1188 @@
+===PAGE 180===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+el mecanismo de reparación de desemparejamientos del DNA o 
+nivel alto de inestabilidad de microsatélites.
+Cuadro 15. Sistema TNM para el cáncer colorrectal
+Tumor (T)
+Tx Información insuficiente para establecer la extensión de
+la invasión.
+Tis Confinamiento a la membrana basal o lámina propia,
+displasia de grado alto o severa.
+TI Invasión de la submucosa.
+T2 Invasión de la muscular propia sin sobrepasarla.
+T3 Invasión de la subserosa, tejidos pericólicos no-
+peritonizados, tejidos perirrectales, o tumores T4a en los 
+que no se confirma microscópicamente la invasión (pT3).
+T4a Invasión de órganos o estructuras adyacentes en la
+extensión de la serosa.
+T4b Perforación del peritoneo visceral.
+Ganglios linfáticos (N)
+Nx Información insuficiente para la evaluación ganglionar.
+NO Todos los ganglios examinados son negativos (el valor
+pronóstico de pNO con el examen de <12 ganglios es 
+débil).
+Nía 1 ganglio regional.
+Nlb 2-3 ganglios regionales.
+Nlc Células tumorales en la grasa cercana a los ganglios sin
+involucramiento de estos.
+N2a 4-6 ganglios linfáticos regionales.
+N2b £7 ganglios regionales.
+Metástasis (M)
+MO Sin evidencia de metástasis.
+Mía Involucramiento de 1 órgano distante o un grupo de 
+ganglios no-regionales (iliacos externos, iliacos comunes, 
+para-aórticos, supraclaviculares).
+Mlb Metástasis a >2 órganos o cadenas ganglionares 
+distantes.
+Grupos de etapificación
+Estadio 0 Tis NO MO
+Estadio 1 Tl-2 NO MO
+Estadio HA T3 NO MO
+Estadio IIB T4a NO MO
+Estadio IIC T4b NO MO
+Estadio IIIA Tl-2Nl-2aM0
+Estadio IIIB T3-4a NI MO o T2-3 N2a MO o Tl-2 N2b MO
+Estadio IIIC T4a N2a MO o T3-4 N2b MO o T4b Nl-2 MO
+Estadio IVA Cualquier T, Cualquier N, Mía
+Estadio IVB Cualquier T, Cualquier N, Mlb
+En el tratamiento del cáncer rectal no metastásico se recomienda 
+iniciar con la quimiorradiación neoadyuvante con una 
+fluoropirimidina (fluorouracilo o capecitabina), seguida por la 
+resección anterior baja (en cuyo espécimen quirúrgico puede 
+evaluarse la respuesta patológica a la neoadyuvancia) y quimioterapia 
+adyuvante con oxaliplatino y una fluoropirimidina. También puede 
+optarse por la modalidad de neoadyuvancia total (quimiorradiación 
+seguida por quimioterapia de combinación) seguida por la cirugía. El 
+empleo de terapias neoadyuvantes aumenta la probabilidad de 
+preservación del esfínter anal en la cirugía radical. El tratamiento del 
+cáncer rectal metastásico sigue los mismos principios mencionados 
+para el cáncer de colon metastásico.
+El pronóstico en la enfermedad temprana depende de la extensión 
+del tumor primario, afectación de ganglios linfáticos y alteración en la 
+vía de reparación del DNA (mejor pronóstico en presencia de 
+inestabilidad de microsatélites). En el caso de la enfermedad 
+metastásica, el pronóstico empeora en los casos con metástasis 
+perifonéales, con mutaciones de BRAF, NRAS o KRAS o con 
+alteraciones de la reparación del DNA (peor pronóstico en presencia 
+de inestabilidad de microsatélites) La clasificación Dukes tiene un 
+valor anecdótico; actualmente se emplea el sistema TNM para la 
+etapificación de la enfermedad con consideraciones terapéuticas.
+Cuadro 16. Factores pronósticos en el seguimiento de los casos 
+de cáncer colorrectal
+Categoría 1 Categoría HA
+• Clasificación TNM ■ Grado histológico
+• Permeación de vasos (células en anillo de
+sanguíneos o linfáticos. sello o mucinosas).
+• Invasión residual tras la ■ Estado del margen
+cirugía curativa (categoría radial (especímenes
+R). con superficies no-
+• Antígeno peritonizadas).
+carcinoembrionario basal ■ Tumor residual en el
+>5 ng/ml. espécimen resecado 
+después del 
+tratamiento 
+neoadyuvante.
+HEPATOPATÍA RELACIONADA CON EL ALCOHOL
+La hepatopatía alcohólica abarca un espectro que va desde la 
+esteatosis simple hasta la cirrosis franca; el alcohol permanece como 
+una causa mayor de enfermedad hepática a nivel mundial y comparte 
+factores de riesgo con otras formas de daño hepático que pueden 
+presentarse simultáneamente (hepatopatía grasa no-etílica, hepatitis 
+vírica crónica). Los tres estadios histológicos reconocidos son la 
+esteatosis simple, la hepatitis alcohólica y la hepatitis crónica con 
+fibrosis o cirrosis hepática. La enfermedad no cursa necesariamente 
+en la forma de estadios de evolución, sino que varias de las fases de 
+la lesión pueden ocurrir simultáneamente.
+4}
+El hígado graso se desarrolla en aproximadamente 90% de los 
+individuos con una ingestión etílica >60 g/día. En su forma simple y 
+sin complicaciones, cursa asintomática y es autolimitada, 
+completamente reversible después de 4-6 semanas de abstinencia. 
+Sin embargo, 5-15% de los casos progresa a la fibrosis a pesar de la 
+abstinencia. La fibrosis perivenular y el depósito de fibronectina se 
+155
+
+===PAGE 181===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+presentan en 40-60% de los sujetos con una ingestión etílica >40-80 
+g/día en promedio por 25 años. La progresión de la hepatopatía 
+alcohólica culmina con el desarrollo de cirrosis, usualmente en patrón 
+micronodular. La incidencia de hepatopatía alcohólica ha sido 
+reportada en el rango de 9-46% entre los consumidores de alcohol, 
+con una gran variabilidad entre la ingestión media y composición de 
+la población en cada reporte. Los factores que se han asociado con 
+un incremento en el riesgo del establecimiento de las alteraciones 
+histológicas son la cantidad de gramos de alcohol (como una variable 
+continua), el consumo en episodios intensos (>4-5 unidades), el sexo 
+femenino (en relación con una ingestión de cuantía comparable entre 
+los hombres), la malnutrición proteica-calórica, deficiencia de 
+micronutrimentos como la vitamina D, dieta rica en grasas 
+poliinsaturadas, obesidad, algunos polimorfismos de la 
+deshidrogenasa de alcohol, la deshidrogenasa de acetaldehído y el 
+sistema de citocromo P450, y la coexistencia de las hepatitis víricas.
+rjsh
+l-P El diagnóstico de la hepatopatía alcohólica se basa en la 
+combinación de características relevantes, como la historia de 
+consumo etílico significativo, la evidencia clínica de enfermedad 
+hepática y anormalidades paraclínicas compatibles. El umbral de 
+sospecha clínica debe ser bajo, dada la tendencia al sub-reporte por 
+los pacientes, a la subestimación del riesgo por los médicos, y a la 
+probabilidad de normalidad de las pruebas funcionales básicas en los 
+casos de afectación leve y precoz. Finalmente, el diagnóstico de 
+hepatopatía alcohólica se establece al documentar el consumo 
+excesivo de alcohol (vea Intoxicación por etanol en Toxicología) y la 
+evidencia de enfermedad hepática. No se cuenta con un patrón de 
+anormalidades bioquímicas concluyentes de que el daño hepático sea 
+secundario al consumo de alcohol: aproximadamente 70% de los 
+casos presenta una razón AST/ALT >2, aunque esto podría tener un 
+valor mayor en los sujetos sin cirrosis. Las razones >3 son altamente 
+sugestivas de hepatopatía alcohólica.
+Los estudios de imagen pueden ofrecer información sobre el 
+diagnóstico diferencial y la intensidad de los cambios sugestivos de 
+fibrosis y cirrosis. La biopsia hepática no es indispensable para 
+establecer el diagnóstico, aunque puede ser de utilidad (ya que hasta 
+20% de los casos puede presentar una etiología secundaria o 
+coexistente de la cirrosis).
+Los pacientes con cirrosis asociada al alcohol deben 
+mantenerse en abstinencia. El trasplante hepático puede 
+considerarse en sujetos con función hepática clase C del sistema 
+Child-Pugh-Turcotte o puntaje >15 en la escala MELD, ya que confiere 
+un beneficio claro en la supervivencia. Los hallazgos físicos asociados 
+con una mortalidad elevada a 12 meses incluyen (con las razones de 
+riesgo correspondientes) a la encefalopatía hepática (4.0), venas 
+visibles en la pared abdominal anterior (2.2), edema (2.9), ascitis (4.0), 
+angiomas en araña (3.3) y debilidad (2.1).
+Cuadro 17. Sistemas de puntaje pronóstico empleados en 
+pacientes con hepatitis alcohólica
+Sistema 
+(año)
+Elementos Interpretación
+Función 4.6 (tiempo de protrombina del Pronóstico
+modificada paciente - tiempo de precario con
+de protrombina del control) + puntaje >32
+Maddrey bilirrubina total (mortalidad
+(1989) de 30-50% en
+1 mes).
+Puntaje 3.8 x loge(bilirrub¡na) + 11.2 X Pronóstico
+MELD loge(INR) + 9.6 x loge(creatinina) + precario con
+(2001) 6.4 puntaje >18.
+Puntaje de Puntos 1 2 3 Pronóstico
+hepatitis Edad <50 >50 precario con
+alcohólica (años) puntaje >8 en
+de Leucocitos <15 >15 el día 1 o 7 de
+Glasgow (miles) la estancia
+(2005) Urea 
+(mmol/l)
+<5 >5 hospitalaria.
+Razón del <1.5 1.5- >2
+TP 2
+Bilirrubina <7.3 7.3- >14.
+(mg/dl) 14.6 6
+DIAGNÓSTICO Y TRATAMIENTO DE LA HEPATITIS
+ALCOHÓLICA
+Un subgrupo de pacientes con hepatopatía alcohólica 
+desarrolla hepatitis alcohólica grave, con un pronóstico 
+sustancialmente peor a plazo corto. La hepatitis alcohólica también 
+representa un espectro de enfermedad, desde la lesión leve hasta la 
+de severidad que amenaza la vida. No ha logrado establecerse un 
+nivel de consumo como umbral preciso de riesgo, aunque la hepatitis 
+alcohólica generalmente ocurre en sujetos con ingestión >80 g/día 
+por décadas. Los pacientes sintomáticos suelen presentarse con 
+cirrosis concomitante en 50% de los casos, además de la 
+descompensación aguda superpuesta. Incluso los pacientes con 
+presentaciones relativamente leves se encuentran en riesgo alto de 
+desarrollar una lesión hepática progresiva, con el desarrollo de 
+cirrosis hasta en 50% de los casos. Sólo 27% de los pacientes con este 
+tipo de lesión y que se someten a la abstinencia logran la 
+normalización histológica, mientras que 18% presenta la progresión a 
+la cirrosis y, el resto, muestra hepatitis alcohólica persistente.
+La presentación cardinal de la hepatitis alcohólica es la ictericia 
+progresiva y frecuentemente asociada a fiebre (incluso en ausencia 
+de infección), malestar general, pérdida ponderal y malnutrición. Los 
+hallazgos paraclínicos pueden incluir neutrofilia, hiperbilirrubinemia 
+(>50 pMol/L) y elevación de AST y ALT que duplica el límite superior 
+de la referencia, pero generalmente no alcanza las 300 U/L y conserva 
+una razón AST/ALT de 1.5-2. En las formas graves pueden encontrarse
+156
+
+===PAGE 182===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+prolongación de tiempo de protrombina, hipoalbuminemia y 
+decremento del conteo plaquetario.
+El diagnóstico de la hepatitis alcohólica se basa en los hallazgos 
+clínicos, las anormalidades en las pruebas bioquímicas y el 
+antecedente del consumo intenso de alcohol. La biopsia hepática no 
+es indispensable, puede cambiar el diagnóstico en 15-20% de los 
+casos y tiene utilidad pronostica; dado el riesgo de hemorragia, sólo 
+se indica en caso de incertidumbre diagnóstica y para realizarse por 
+vía transyugular.
+La función discriminatoria de Maddrey se emplea para definir 
+confiablemente a los sujetos con riesgo elevado de muerte a plazo 
+corto. Dicho riesgo se establece con un puntaje >32 o la presencia de 
+encefalopatía hepática, e implica el beneficio del tratamiento con 
+corticosteroides (prednisolona 40 mg/día o metilprednisolona 32 
+mg/día) para la reducción de la mortalidad a plazo corto; también se 
+ha sugerido el beneficio con el uso de pentoxifilina, aparentemente 
+por la reducción en el riesgo de desarrollar síndrome hepatorrenal. En 
+caso de ausencia de mejoría en 7 días, puede valorarse la indicación 
+del trasplante hepático precoz.
+Independientemente de la severidad, la abstinencia es la base del 
+manejo de la hepatitis alcohólica y su recomendación es universal. 
+Otras recomendaciones incluyen la suplementación de vitaminas del 
+complejo B y el manejo de la encefalopatía y la ascitis. Dado el riesgo 
+de lesión renal aguda, se recomienda la evitación del uso de diuréticos 
+y nefrotóxicos, así como el empleo de la expansión de volumen a 
+requerimiento.
+HEPATOPATÍA GRASA NO-ETÍLICA
+La enfermedad hepática grasa no-alcohólica (HGNA) es una 
+entidad clínica-patológica compleja favorecida por factores 
+genéticos, ambientales, conductuales y sociales, caracterizada por la 
+acumulación excesiva de lípídos en forma de triglicéridos en el hígado 
+en ausencia del antecedente de consumo etílico significativo. El 
+continuo del trastorno pasa por el hígado graso no-alcohólico (HGNA) 
+y la esteatohepatitis no-etílica (non-alcoholic steatohepatítis, NASH).
+La HGNA es una de las hepatopatías más prevalentes a nivel mundial 
+(46% con la instauración de la epidemia de obesidad y diabetes 
+mellitus) y la principal entre los países occidentales (75% de los casos 
+de enfermedad hepática crónica). Los factores de riesgo incluyen a la 
+obesidad, diabetes mellitus, dislipidemia, síndrome metabólico, 
+síndrome de ovarios poliquísticos, hipotiroidismo, síndrome de apnea 
+obstructiva del sueño, hipopituitarismo, hipogonadismo y el 
+antecedente de resección pancreatoduodenal. Las poblaciones de 
+riesgo mayor son los hispanos, japoneses, caucásicos y 
+afroamericanos, con una afectación más frecuente entre los
+hombres. La HGNA se reconoce como un factor independiente de 
+riesgo cardiovascular.
+Las manifestaciones son inespecíficas, incluyendo fatiga, dolor 
+abdominal vago en el cuadrante superior derecho y malestar general.
+El abordaje paraclínico puede revelar una elevación leve de los niveles 
+de aminotransferasas con relación menor a uno (AST/ALT <1) de 
+aminotransferasa de aspartato/aminotransferasa de alanina, 
+elevación de la fosfatasa alcalina 2-3 veces sobre el límite de 
+referencia, niveles habitualmente normales de albúmina y 
+bílirrubinas y elevación del nivel de ferritina y de la saturación de 
+transferrina. Dado el periodo asintomático prolongado del 
+padecimiento, actualmente el diagnóstico suele ser incidental. El 
+abordaje diagnóstico requiere la identificación de factores de riesgo y 
+la discriminación de las formas secundarias.
+El diagnóstico de HGNA requiere la evidencia (histológica o por 
+imagen) de esteatosis hepática (infiltración de >5% de los 
+hepatocitos) y la exclusión de causas secundarias como el consumo 
+de alcohol, fármacos (amiodarona, metotrexato, tamoxifeno, 
+corticoides, valproato, antirretrovirales), pérdida ponderal acelerada 
+y enfermedades hepáticas específicas (hepatitis C, enfermedad de 
+Wilson, lipodistrofia, nutrición parenteral, abetalipoproteinemia, 
+síndrome de Reye, esteatosis hepática gestacional, síndrome de 
+HELLP, errores innatos del metabolismo como la enfermedad de 
+Wolman, enfermedad por depósitos de éster de colesterol y la 
+deficiencia de acetiltransferasa de lecitina-colesterol). La NASH 
+implica necro-inflamación con daño hepatocelulary balonización con 
+fibrosis de intensidad variable y potencial de progresión a cirrosis. La 
+identificación de una razón AST/ALT >2 sugiere el curso de una 
+forma secundaria.
+En cuanto a los estudios de imagen la GPC indica que el ultrasonido 
+es el método de primera línea (sensibilidad de 60-94%, especificidad 
+de 66-97%); la tomografía computarizada y la resonancia magnética 
+carecen de sensibilidad para la detección de esteatohepatitis o 
+fibrosis. Tras el diagnóstico debe determinarse la severidad de la 
+fibrosis, cuyo estándar diagnóstico es la biopsia hepática; la GPC 
+recomienda su realización sólo en caso de riesgo elevado de 
+esteatohepatitis y fibrosis avanzadas (síndrome metabólico o 
+diabetes mellitus con anormalidades en las pruebas de función 
+hepática, elevación de AST mayor que la de ALT, trombocitopenia, 
+hipoalbuminemia).
+El tratamiento no farmacológico consta del control de las 
+condiciones metabólicas asociadas con el desarrollo de esteatosis 
+hepática. Las medidas farmacológicas útiles incluyen el uso de 
+pioglitazona y vitamina E (alfa tocoferol). La GPC indica que la 
+identificación imagenológica de esteatosis con elevación de las 
+aminotransferasas constituye la indicación de referencia al segundo 
+nivel de atención; también deben referirse los casos que requieran la 
+157
+
+===PAGE 183===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+obtención de biopsia hepática o que, durante el seguimiento 
+desarrollen manifestaciones de cirrosis. Después de la confirmación 
+del diagnóstico de HGNA, el seguimiento terapéutico debe realizarse 
+semestralmente. Las secuelas potenciales de la NASH incluyen a la 
+cirrosis, hipertensión portal y el desarrollo de un hepatocarcinoma 
+(incidencia acumulativa a 5 años de 8% para este último).
+HEPATITIS AUTOINMUNE
+La hepatitis autoinmune (HA) es un trastorno hepático 
+inflamatorio crónico de etiología desconocida caracterizado desde el 
+punto de vista histológico por una hepatitis de interfase e infiltración 
+portal de células plasmáticas y, a nivel sérico por la presencia de 
+autoanticuerpos, concentraciones elevadas de inmunoglobulinas 
+séricas (en su mayoría de clase IgG) y una asociación frecuente con 
+otras enfermedades autoinmunes. Predomina en él sexo femenino 
+con una relación de 4:1 en la HA tipo lyde 10:1 en la HA tipo 2; puede 
+presentarse a cualquier edad, pero se observa con mayor frecuencia 
+entre los 20-30 años.
+O Se postula que factores ambientales, un fracaso de los 
+mecanismos de tolerancia inmune y una predisposición genética 
+(asociación con HLA-DR3 y HLA-DR4) colaboran para inducir un 
+ataque inmune mediado por linfocitosT contra antígenos del hígado 
+dando lugar a un proceso necroinflamatorio y fibrosis progresiva del 
+hígado. Entre los fármacos que precipitan una HA, minociclina y 
+nitrofurantoína son los más importantes y representan el 90% de los 
+casos de HA inducida por fármacos.
+El espectro clínico es amplio y puede variar desde una 
+presentación asintomática (únicamente con elevación de 
+transaminasas) hasta una enfermedad aguda grave, lo más típico es 
+un cuadro clínico insidioso y con síntomas ínespecíficos (fatiga, 
+ictericia, prurito, anorexia, náuseas, dolor abdominal y/o artralgias). 
+Algunos pacientes muestran manifestaciones de padecimientos 
+autoinmunitarios de otros órganos, como tiroidltis de Hashimoto (la 
+más frecuente), diabetes mellitus tipo 1, enfermedad inflamatoria 
+intestinal, enfermedad celíaca, artritis reumatoide, lupus eritematoso 
+sistémico, síndrome de Sjógren, psoriasis, anemia hemolítica 
+autoinmune, trombocitopenia inmune, esclerosis múltiple y síndrome 
+poliglandular autoinmune.
+La HA se clasifica en dos subtipos con base en el perfil de los 
+autoanticuerpos, la HA tipo 1 (clásica) representa del 60-90% de los 
+casos, se presenta en todas las edades, está asociada a la presencia 
+de anticuerpos antinucleares (ANA) y/o anticuerpos anti-músculo liso 
+(ASMA) y generalmente tiene buena respuesta al tratamiento. La HA 
+tipo 2 representa <10-15% de los casos, se presenta con mayor 
+frecuencia en niños y adolescentes, se asocia con la presencia de 
+anticuerpos antimicrosomales de hígado-riñón tipo 1 (LKM-1) y/o 
+anticuerpos anti-citosol hepático tipo 1 (LC-1) y generalmente tienen 
+mala respuesta al tratamiento, recaídas frecuentes y necesidad de 
+tratamiento de mantenimiento a largo plazo.
+Dentro del abordaje es necesaria la exclusión de otros factores 
+causales, entre ellos consumo de alcohol, fármacos hepatotóxicos, 
+infección por los virus de la hepatitis A, B y C y alteraciones 
+metabólicas (p ej., obesidad, diabetes mellitus, etc.). Para establecer 
+el diagnóstico de HA, se requiere un conjunto de signos y síntomas 
+asociados, la presencia de alteraciones de laboratorio (elevación de 
+AST/TGO o ALT/TGP e incremento de la IgG sérica total), de hallazgos 
+serológicos (ANA y/o ASMA en la tipo 1 y LKM-1 y/o LC-1 en la tipo 2) 
+y de la presencia de características histológicas en la biopsia hepática 
+(hepatitis de interfase e infiltrado de células plasmáticas) la cual se 
+debe realizar en todos los pacientes con sospecha de HA siempre y 
+cuando su condición clínica lo permita. No todos los pacientes con HA 
+requieren tratamiento. Las indicaciones absolutas de tratamiento son 
+las siguientes:
+• Transaminasas >10 veces el valor máximo normal.
+• Transaminasas >5’veces el valor máximo normal en presencia de 
+gammaglobulínas (o IgG) >2 veces el valor máximo normal.
+• Necrosis en puente en la biopsia hepática.
+• Síntomas incapacitantes.
+El tratamiento estándar de primera elección consta de 
+inducción a la remisión con prednisona dosis inicial de 30 mg/día 
+(reduciendo a 10 mg/día a las cuatro semanas) + azatioprina 50 
+mg/día o 1-2 mg/día. Posteriormente mantenimiento con prednisona 
+(<10 mg/día) + azatioprina 50 mg/día o 1-2 mg/día en caso de 
+remisión incompleta con el tratamiento de inducción, y en caso de 
+remisión completa puede indicarse el mantenimiento únicamente 
+con azatioprina. El tratamiento estándar se debe continuar hasta la 
+normalización de los niveles de transaminasas, bilirrubinas totales, 
+gammaglobulínas o de IgG y que la histología hepática no exhiba 
+actividad inflamatoria. Acorde a la GPC, en caso de tolerancia al 
+tratamiento estándar, se recomienda su continuación durante por lo 
+menos dos años y al menos 12 meses después de la normalización de 
+las transaminasas. En caso de intolerancia a la azatioprina, el 
+tratamiento de segunda línea recomendado es prednisona + 
+micofenolato de mofetilo.
+HEMOCROMATOSIS HEREDITARIA
+La hemocromatosis es un trastorno relativamente común del 
+metabolismo del hierro en el que este mineral es absorbido 
+excesivamente y se acumula en los tejidos. La hemocromatosis 
+primaria o hereditaria es causada por la mutación del gen HFE, con 
+una frecuencia de 1:200 en su forma homocigota y de 1:8 para la 
+heterocigota. El fenotipo tiene penetrancia incompleta debido a que 
+10-33% de los individuos homocigotos a la mutación C282Y 
+158
+
+===PAGE 184===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+desarrollan la morbilidad asociada con la hemocromatosis, más 
+frecuentemente entre los varones.
+Cuadro 18. Causas raras de hemocromatosis no-relacionadas 
+con el gen HFE
+Hemocromatosis autosómica dominante
+Sobrecarga férrica africana
+Hemocromatosis juvenil
+Atransferrinemia
+Aceruloplasminemia
+Ataxia de Friedrich
+Agrupamientos familiares de hemocromatosis no hereditaria
+*—” Actualmente es reconocida como la enfermedad hepática 
+hereditaria más frecuente entre los caucásicos, con un patrón 
+autosómico recesivo. La absorción excesiva de hierro es producida 
+por la reducción en la producción hepática de hepcidina, mientras que 
+la acumulación tisular es favorecida por el aumento en la captación 
+celular de transferrina y la limitación de los mecanismos fisiológicos 
+para la depuración del hierro una vez absorbido. De esta forma, el 
+contenido total de hierro corporal (2.5-3.5 g en hombres) puede llegar 
+a 50 g; la toxicidad por la acumulación tisular se manifiesta 
+principalmente en el hígado, páncreas, corazón, hipófisis, 
+articulaciones, nervios, gónadas y piel.
+Aproximadamente 75% de los pacientes se encuentran 
+asintomáticos y el diagnóstico es sugerido por exámenes clínicos y 
+paraclínicos rutinarios. Las manifestaciones clínicas aparecen 
+habitualmente en la adultez (a una edad menor en los varones [media 
+de 51 años] que en las mujeres [media de 66 años]), con un umbral 
+de contenido corporal de hierro de 10 g. El retardo en el debut clínico 
+en las mujeres (habitualmente hasta el climaterio) es atribuido a la 
+compensación de la sobre absorción férrica con las pérdidas 
+relacionadas con la menstruación y el embarazo.
+El cuadro clínico más frecuente incluye fatiga y síntomas 
+constitucionales inespecíficos, hepatomegalia, pigmentación 
+bronceada de la piel y artritis; otras manifestaciones son la diabetes 
+mellitus manifiesta (50-60%), cirrosis, carcinoma hepatocelular (14%), 
+cardiomiopatía, insuficiencia hipofisaria y polineuropatía (26%). Los 
+sujetos con hemocromatosis presentan una susceptibilidad mayor a 
+las infecciones producidas por organismos con predilección por 
+ambientes ricos en hierro, como Yersinia enterocolitica, Yersinia 
+pseudotuberculosis, Vibrio vulnificus y Listeria monocytogenes.
+Los exámenes de laboratorio pueden mostrar elevación de los niveles 
+de ferritina y saturación de la transferrina en 40-60% de las mujeres y 
+75-100% de los varones. El exceso real en el contenido hepático de 
+hierro sólo se encuentra en 19% de las mujeres y 42% de los varones. 
+Generalmente el diagnóstico es sencillo cuando se cuenta con una 
+sospecha clínica adecuada.
+El diagnóstico suele concretarse con pruebas en sangre de 
+saturación de hierro, ferritina y análisis mutacional de HFE. La 
+documentación de la siderosis hepática y aumento cuantitativo en el 
+contenido hepático de hierro (índice férrico hepático >2, 
+concentración férrica media >250 pmol/g) confirma el diagnóstico; la 
+bíopsia hepática sólo se recomienda en sujetos homocigotos con 
+niveles séricos de ferritina >1000 fig/L, mientras que esta puede 
+omitirse en los menores de 40 años con elevación del nivel de 
+transferrina y una mutación de HFE detectable. El diagnóstico 
+diferencial incluye a la aceruloplasminemia, 
+hipotransferrinemia/atransferrinemia, porfiria cutánea tardía, 
+eritropoyesis inefectiva, anemia sideroblástica, talasemia y a la 
+sobrecarga férrica ¡atrogénica por administración oral o parenteral o 
+por transfusiones eritrocitarias.
+Figura 1. Abordaje diagnóstico de la sospecha de hemocromatosis 
+hereditaria.
+La principal meta terapéutica es la remoción del hierro antes 
+del desarrollo de daño parenquimatoso irreversible. El tratamiento 
+especializado requiere la referencia a Hepatología o Hematología.
+159
+
+===PAGE 185===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+La flebotomía semanal suele ser la primera medida terapéutica y 
+puede recurrirse al uso de factores de crecimiento eritroides para el 
+mantenimiento del nivel de hemoglobina. La flebotomía puede 
+mitigar o prevenir manifestaciones como la fatiga, elevación de las 
+enzimas hepáticas, hepatomegalia, dolor abdominal, artralgias e 
+hiperpigmentación cutánea; el resto de las complicaciones 
+usualmente no responden a esta intervención, aunque puede 
+retrasarse su progresión. El trasplante hepático puede considerarse 
+en caso de carcinoma hepatocelular o del desarrollo de enfermedad 
+hepática terminal a pesar de la terapia de reducción del contenido 
+férrico. El uso de quelantes del hierro no beneficia a los pacientes con 
+hemocromatosis hereditaria en la mayoría de los casos, aunque 
+puede considerarse en caso de anemia significativa sin respuesta al 
+uso de estimulantes de la eritropoyesis o con involucramiento grave 
+de los órganos terminales.
+Las complicaciones de la hemocromatosis pueden prevenirse con el 
+apego a las recomendaciones con respecto a la dieta y el consumo de 
+alcohol. Estas incluyen la evitación del consumo excesivo de alcohol y 
+del consumo de vitamina C con los alimentos, así como del uso de 
+utensilios de cocina fabricados con hierro y consumo de cereales de 
+desayuno con 100% del requerimiento diario de hierro y mariscos 
+crudos. Algunos alimentos (tannatos del té, fitatos, oxalatos, calcio, 
+fosfatos) pueden inhibir la absorción intestinal de hierro. No existe 
+una dieta tolerable de aporte férrico bajo que sustituya el 
+requerimiento de flebotomía. El diagnóstico y tratamiento oportunos 
+(antes del daño orgánico establecido) permite la continuación de la 
+vida de forma normal, sin la morbilidad y mortalidad atribúteles a las 
+complicaciones. En ausencia de fibrosis hepática significativa el 
+pronóstico es bueno y la expectativa de vida es normal; la presencia 
+de fibrosis o cirrosis hepática es el factor determinante del pronóstico 
+más significativo.
+ENFERMEDAD DE WILSON
+La enfermedad de Wilson es un trastorno de herencia 
+autosómica recesiva por mutación de ATP7B (transportador de cobre 
+dependiente de ATP), cuya consecuencia es la excreción biliar 
+inadecuada del cobre, provocando la acumulación del metal en el 
+hígado, el cerebro, el riñón y la córnea. La incidencia de la enfermedad 
+se aproxima a 1 en 30,000 a 40,000 nacimientos vivos, siendo mayor 
+en poblaciones donde la consanguinidad es común. Por otra parte, se 
+ha estimado que la prevalencia del estado de portador heterocigoto 
+es de 1 en 90 a 180 individuos.
+(?) La saturación hepática del cobre lleva a su entrada en la 
+circulación, con la subsecuente acumulación del cobre en otros 
+tejidos. La saturación inicial del tejido hepático lleva a que la 
+enfermedad hepática (presente en algún grado de forma invariable) 
+predomine en las manifestaciones iniciales. La sensibilidad del 
+encéfalo a los metales pesados suele colocarlo como el segundo 
+afectado. La ceruloplasmina es inestable en ausencia de la 
+incorporación del cobre en los hepatocitos, por lo que los niveles 
+sanguíneos de ceruloplasmina y cobre se encuentran disminuidos en 
+la mayoría de los casos.
+Las manifestaciones clínicas incluyen a la hepatopatía 
+inespecífica (fatiga, ictericia, hepatomegalia, edema, ascitis), 
+anormalidades neurológicas (disartria, distonía, rigidez, temblor o 
+movimientos coreiformes, neuropatía motora y sensitiva), trastornos 
+psiquiátricos (irritabilidad, ira, depresión, ansiedad), anemia 
+hemolítica, síndrome tubular renal de Fanconi y varias anormalidades 
+esqueléticas (osteoporosis, raquitismo), con una variación 
+considerable entre cada individuo. Los anillos de Kayser-Fleisher, 
+producidos por la acumulación anular del cobre en las córneas, se 
+encuentran en 95% de los pacientes con alteraciones neurológicas o 
+psiquiátricas y en 50-65% de los que presentan afectación hepática.
+La enfermedad de Wilson debe considerarse en el diagnóstico 
+diferencial de los casos de enfermedad hepática sin causa aparente y 
+de los trastornos psiquiátricos o neurológicos que coexistan con 
+enfermedad hepática. El diagnóstico de enfermedad de Wilson puede 
+confirmarse con la identificación de la mutación de ATP7B o en 
+presencia de >2 de los siguientes criterios:
+• Historia familiar de enfermedad de Wilson.
+• Anillos de Kaiser-Fleischer.
+• Prueba de Coombs negativa para anemia hemolítica.
+• Niveles séricos bajos de cobre y ceruloplasmina.
+• Elevación del contenido hepático de cobre.
+• Elevación de la excreción urinaria de cobre en 24 horas o 
+positividad de la prueba de reto con penicilamina (incremento 
+de 10 veces en la excreción diaria de cobre).
+El tratamiento consta de la quelación del cobre con d- 
+penicilamina (inductor de la excreción renal de cobre), acompañada 
+por piridoxina para prevenir la deficiencia de vitamina B6 que puede 
+asociarse con el uso prolongado de D-penicilamina, y de la restricción 
+de la ingestión de cobre (mariscos, chocolate, hígado). En caso de 
+intolerancia a la D-penicilamina (20% de los casos) o de exacerbación 
+de las manifestaciones neurológicas con su uso, puede recurrirse a 
+alternativas como el acetato de cinc (bloqueante de la absorción 
+intestinal de cobre). El trasplante hepático se considera curativo. El 
+pronóstico es excelente con el apego a la quelación de cobre y las 
+recomendaciones dietéticas. El desapego provoca eventualmente la 
+cirrosis hepática y la progresión de los síntomas.
+CIRROSIS HEPÁTICA
+La cirrosis hepática representa un estadio tardío de un proceso 
+de fibrosis difusa y conversión de la arquitectura hepática normal en 
+nodulos estructuralmente anormales.
+160
+
+===PAGE 186===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Entre las causas de cirrosis hepática se encuentran el
+alcoholismo, la formas crónicas de hepatitis vírica (hepatitis B, Cy D), 
+metotr exato, enfermedades congénitas y metabólicas 
+(hemocromatosis), cirrosis biliar primaria y secundaria a obstrucción 
+crónica, entidades que causan falla cardiaca u obstrucción venosa 
+(insuficiencia cardíaca congestiva, pericarditis crónica, obstrucción 
+crónica de las venas hepáticas), sarcoidosis, hepatitis autoinmune
+crónica, diabetes mellitus y puenteo yeyuno-ileal.
+Cuadro 19. Causas comunes de cirrosis
+Infecciosas Hepatitis vírica Toxoplasmosis
+Schistosomosis Echinococcosis
+Hereditarias Hemocromatosis Enfermedad de Gaucher
+Síndrome de Deficiencia de al-
+Fanconi antitripsina
+Enfermedad de
+Wilson
+Tirosinemia hereditaria
+Galactosemia y otras enfermedades por depósito 
+de glucógeno
+Fármacos y Etanol Isoniazida
+toxinas Amiodarona Arsenicales
+Causas Insuficiencia cardiaca Trombosis crónica de la
+cardiacas y derecha crónica vena porta
+vasculares Síndrome de Budd- Enfermedad veno-
+Chiari oclusiva
+Otras Sarcoidosis Cirrosis biliar primaria y
+causas secundaria
+Colangitis esclerosante Esteatohepatitis no-
+primaria alcohólica
+Fibrosis quística Enfermedad de injerto 
+contra hospedero
+La cirrosis puede ser asintomática por un periodo largo hasta 
+iniciar (usualmente de forma insidiosa) con síntomas como debilidad, 
+fatigabilidad, alteraciones en el sueño, calambres musculares y 
+pérdida ponderal. En la cirrosis avanzada suele encontrarse anorexia 
+que puede asociarse con náusea y vómito; puede encontrarse dolor 
+abdominal por distensión de la cápsula hepática o por ascitis. Las 
+manifestaciones clínicas pueden agruparse de la siguiente forma:
+• Signos cutáneos: "arañas" vasculares, telangiectasias, 
+manifestaciones ungueales como fragilidad, incurvación "en 
+vidrio de reloj", estuación longitudinal y opacidad blanquecina.
+• Hipertrofia parotídea.
+• Contractura palmar de Dupuytren.
+• Hepatoesplenomegalia y manifestaciones de insuficiencia 
+hepática como alteraciones menstruales, atrofia testicular, 
+disminución de la libido e impotencia, ginecomastia, eritema 
+palmar e ictericia (que acompaña a las descompensaciones).
+• Molestias digestivas vagas como flatulencia, digestión "pesada" 
+y dolor abdominal mal localizado.
+• Cirrosis hepática descompensada: petequias, equimosis, 
+hematomas ante lesiones mínimas, gingivorragia y epistaxis, 
+hedor hepático (debido a la presencia de mercaptanos).
+Cuadro 20. Manifestaciones y tratamiento de las causas 
+específicas adquiridas de cirrosis hepática
+Hepatopatía • Laboratorio: elevación de y- 
+etílica glutamiltranspeptidasa, del volumen
+corpuscular medio y de HDL, 
+hipertrigliceridemia, hiperuricemia, razón 
+AST/ALT >2.
+• Biopsia: infiltrados polimorfonucleares, 
+edema hepatocitario centrolobulillar, 
+esteatosis, cuerpos de Mallory, fibrosis.
+Abstinencia; puede considerarse el trasplante 
+Esteatosis • Laboratorio: elevación leve de 
+hepática no- aminotransferasas y de las reservas 
+etílica hepáticas de hierro; algunos presentan
+anticuerpos antinucleáres.
+• Biopsia: continuo de esteatosis simple,
+esteat o hepatitis, fibrosis y cirrosis._________
+Pérdida ponderal (10%) lenta, control glucémico 
+y lipídico.
+Hepatitis • Serología
+autoinmune o Tipo I (70-80%): anticuerpos 
+antinucleares, anti-músculo liso o contra 
+el antígeno hepático soluble o antígeno 
+hígado-páncreas.
+o Tipo II (3-4%): anticuerpo microsomal
+anti-hígado-riñón.
+• Laboratorio: elevación de 
+aminotransferasas, 
+hipergammaglobulinemia o elevación de IgG 
+<1.5 veces su valor normal, ausencia de 
+anticuerpos antimitocondría.
+Prednisona con o sin azatioprina hasta encontrar 
+remisión, fracaso o toxicidad farmacológica; 
+puede requerirse el trasplante hepático. 
+Cirrosis Colestasis, elevación defosfatasa alcalina,
+biliar colesterol (especialmente LDL) y, tardíamente,
+primaria bilirrubina, puede haber elevación leve de AST y 
+ALT, presencia de IgM antimitocondría.
+Control del prurito (colestiramina, colestipol, 
+naloxona, naltrexona, rifampicina u 
+ondansetrón), reposición de vitaminas A, D y K, 
+bifosfonatos, ácido ursodesoxicólico; el 
+trasplante hepático es el tratamiento de elección 
+_____________ en las formas avanzadas.___________________
+Colangitis ANCA (70%), pueden encontrarse anticuerpos 
+esclerosante antinucleares, anticardiolipina, antitiroperoxidasa 
+primaria y factor reumatoide; el diagnóstico se obtiene 
+por colangiografía endoscópica retrógrada y la 
+biopsia se requiere para la estadificación. 
+Ácido ursodesoxicólico, colocación de stents en 
+las estenosis mayores; el trasplante hepático es el 
+tratamiento de elección en las formas terminales.
+161
+
+===PAGE 187===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+La evaluación de laboratorio puede revelar una gran variedad de 
+anormalidades, como elevación de las transaminasas (sugestiva de 
+inflamación y daño hepatocelular subyacente), hiperbilirrubinemia, 
+hipoalbuminemia, coagulopatía, anemia y trombocitopenia. La 
+vasoconstricción renal excesiva y los niveles de ADH pueden producir 
+insuficiencia renal e hiponatremia.
+El ultrasonido es obtenido habitualmente, revelando 
+disminución en el tamaño hepático, nodularidad superficial y 
+aumento en la ecogenicidad. La tomografía computarizada se usa 
+frecuentemente en la evaluación del parénquima hepático y lesiones 
+en masa. La resonancia magnética puede revelar sobrecarga de hierro 
+y proporcionar una estimación de la concentración hepática de 
+hierro. La angiografía por resonancia magnética es más sensible que 
+el ultrasonido en el diagnóstico de complicaciones vasculares de la 
+cirrosis, como trombosis de la vena porta. El diagnóstico definitivo 
+requiere de la obtención de una biopsia hepática (sensibilidad de 80- 
+100%), aunque puede no ser necesaria si el diagnóstico es sugerido 
+fuertemente por los hallazgos clínicos, laboratoriales e 
+imagenológícos. El diagnóstico etiológico requiere de la obtención del 
+historial médico y estudios serológicos.
+Cuadro 21. Clasificación Child-Pugh de la severidad de la cirrosis 
+hepática
+Manifestación 1 punto 2 puntos 3 puntos
+Encefalopatía Ausente Grado 1-2 
+(precipitada, 
+inducida)
+Grado 3-4 
+(crónica)
+Ascitis Ausente Leve-moderada 
+(responde a 
+diurético)
+A tensión 
+(refractaria a 
+diurético)
+Bilirrubina <2 mg/dl 2-3 mg/dl >3 mg/dl
+Albúmina >3.5 g/dl 2.8-3.5 g/dl <2.8 g/dl
+Prolongación 
+delTP
+<4 seg o 
+INR <1.7
+4-6segó INR 1.7-
+2.3
+>6 seg o INR 
+>2.3
+Clasificación
+A 5-6 puntos
+B 7-9 puntos
+C 10-15 puntos
+Actualmente no se cuenta con un tratamiento que modifique 
+la historia natural de la cirrosis; la terapia está dirigida al control de 
+las complicaciones. La GPC recomienda el uso de la clasificación Child- 
+Pugh para el establecimiento del pronóstico y determinación de la 
+conducta terapéutica, aunque se ha demostrado que el modelo de 
+supervivencia MELD (Model for End-Stage Liver Disease) tiene una 
+precisión mayor sustituyendo a la clasificación Child-Pugh. El modelo 
+MELD emplea la ecuación [0.957 x log (creatinina) + 0.378 x log 
+(bilirrubina) + 1.12 x log (INR) + 0.643] x 10; a los pacientes que han 
+sido dializados dos veces en la última semana se les asigna un valor 
+de creatinina sérica de 4 mg/dl. Los puntajes van de 6-40; 
+generalmente los pacientes con >15 puntos son considerados para 
+trasplante hepático, mientras que los que tienen >30 puntos se 
+consideran críticamente enfermos.
+COMPLICACIONES
+Las complicaciones de la insuficiencia hepática están originadas 
+en el fracaso sintético y la hipertensión portal (gradiente de presión 
+venosa hepática >6 mmHg), que es debida al aumento en la 
+resistencia al flujo venoso presinusoidal, sinusoidal y postsinusoidal.
+Las complicaciones graves más frecuentes son la hemorragia 
+gastrointestinal originada en las várices esofágicas, el desarrollo de 
+ascitis y los cuadros de encefalopatía hepática.
+Cuadro 22. Secuelas de la cirrosis hepática
+Consecuencias Hipoalbuminemia y coagulopatía
+del fracaso Ictericia
+sintético Susceptibilidad a las infecciones
+Malnutrición proteico-calórica
+Disfunción renal
+Colelitiasis
+Prurito
+Alteración del metabolismo de fármacos
+Osteodistrofia hepática
+Insuficiencia gonadal
+Consecuencias Esplenomegalia con hiperesplenismo
+de la Sangrado gastrointestinal (várices esofágicas o
+hipertensión gástricas, várices ectópicas, gastropatía portal)
+portal Ascitis (peritonitis bacteriana espontánea,
+hidrotórax hepático, hernias)
+Síndrome hepatorrenal
+Encefalopatía hepática
+Síndrome hepatopulmonar, hipertensión
+portopulmonar
+Carcinoma hepatocelular
+ENCEFALOPATÍA HEPÁTICA
+v-* Los mecanismos fisiopatológicos implicados en el desarrollo de 
+la encefalopatía hepática incluyen a la hiperamonemia, la presencia 
+de neurotransmisores falsos, citocinas inflamatorias, estrés oxidativo, 
+estrés nitrosativo, neuroesteroides, receptores de benzodiacepinas, 
+productos bacterianos, hiponatremia y neuroinflamación, 
+interactuando de forma compleja en la aberración del 
+funcionamiento cerebral.
+Estos procesos fisiopatológicos distinguen a la encefalopatía hepática 
+tipo A (asociada a falla hepática aguda), tipo B (asociada a 
+cortocircuito portosistémico) y tipo C (asocia a cirrosis). La 
+encefalopatía tipo C se subclasifica de la siguiente forma: 
+• Episódica:
+o Recurrente: >2 episodios en 1 año.
+o Precipitada: existe un factor precipitante identificado.
+162
+
+===PAGE 188===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+o Espontánea: no existe un precipitante identificado.
+• Persistente: duración >4 semanas:
+o Leve: encefalopatía grado I en la clasificación de severidad 
+West-Haven (mostrada en el siguiente párrafo), 
+o Grave: encefalopatía grado ll-IV.
+• Dependiente del tratamiento:
+o Mínima: encefalopatía que puede pasar desapercibida, 
+detectada sólo a través de pruebas psicomotrices.
+Hepatopatía progresiva
+Cuadro 23. Factores precipitantes de encefalopatía hepática
+Elevación de los Sangrado gastrointestinal
+compuestos Insuficiencia renal
+nitrogenados Ingesta proteica excesiva
+Anormalidades Hipocaliemia
+electrolíticas Hiponatremia
+Alcalosis
+Fármacos Sedantes
+Opioides
+Hipnóticos
+Otros Infección (peritonitis bacteriana espontánea)
+Hepatopatía aguda superpuesta
+Cirugía
+En la evolución de la encefalopatía hepática pueden distinguirse 
+las siguientes fases:
+• Grado I: confusión, alteración leve del comportamiento y en los 
+resultados de las pruebas psicométricas, alteración ligera del 
+ritmo del sueño. El electroencefalograma muestra la presencia 
+de ondas trifásicas.
+• Grado II: conducta inapropiada, lenguaje lento, asterixis, 
+alteración franca del ritmo del sueño. El electroencefalograma 
+muestra la presencia de ondas trifásicas.
+• Grado III: confusión notoria, ejecución sólo de órdenes simples, 
+lenguaje inarticulado, duerme sin poder ser despertado, asterixis 
+(en caso de que el paciente pueda cooperar). El 
+electroencefalograma muestra la presencia de ondas trifásicas.
+• Grado IV: coma, la asterixis no puede evocarse. El 
+electroencefalograma muestra la presencia de ondas ó.
+El diagnóstico de la encefalopatía hepática es clínico; no se 
+recomienda la determinación rutinaria de los niveles de amonio. El 
+electroencefalograma es el método diagnóstico más objetivo y la GPC 
+recomienda su obtención sólo en caso de duda diagnóstica. Las 
+pruebas de imagen sólo se emplean en la discriminación de los 
+diagnósticos diferenciales.
+El tratamiento de la encefalopatía hepática requiere el control 
+de los factores precipitantes y facilitadores y la administración de 
+lactulosa y antibióticos entérales capaces de disminuir la flora
+intestinal productora de amonio (neomtcina, paromomicina, 
+metronidazol, vancomicina). La GPC establece que el caso debe 
+referirse al segundo nivel de atención cuando no se cuente con los 
+medios para descartar los diagnósticos diferenciales pertinentes y 
+llevara cabo las medidas terapéuticas iniciales.
+ASCITIS
+Aproximadamente 85% de los casos de ascitis ocurren en
+individuos con cirrosis hepática y representa la complicación grave 
+más común de esta condición.
+o En la mayoría de las ocasiones, el desarrollo de ascitis es debido 
+aun aumento en la resistencia al flujo sanguíneo portal.
+Las manifestaciones incluyen aumento en el perímetro
+abdominal, disnea, dolor abdominal y en los flancos, ganancia 
+ponderal rápida, ortopnea, anorexia, saciedad temprana y pirosis. 
+Cuando la cantidad de líquido peritoneal supera 1.5 L puede 
+apreciarse desplazamiento de la matidez a la percusión en posición 
+supina.
+El diagnóstico puede confirmarse con ultrasonido o 
+paracentesis; en este último caso, el líquido obtenido debe estudiarse 
+para determinar la causa de la ascitis. La GPC establece la siguiente 
+clasificación para los cuadros de ascitis:
+• Ascitis no-complicada: no se encuentra evidencia de infección o 
+síndrome hepatorrenal:
+o Grado 1 (leve): detectable sólo por ultrasonido, 
+o Grado 2 (moderada): distensión abdominal simétrica 
+moderada.
+o Grado 3 (tensa): distensión abdominal marcada.
+• Ascitis refractaria: no es posible reducirla o presenta recurrencia 
+temprana que no puede prevenirse con el tratamiento; se 
+distinguen las formas resistentes a diuréticos y las intratables 
+con diuréticos.
+La GPC establece que el tratamiento debe adecuarse a la
+situación clínica de la siguiente forma:
+• Ascitis moderada: restricción de la ingesta de sodio (<2 g/día de 
+NaCI) y administración de espironolactona o furosemida. La 
+ingesta hídrica debe restringirse cuando la concentración de 
+sodio sea <120-125 mEq/L. La paracentesis (con infusión de 
+albúmina y retiro de los diuréticos) y los procedimientos de 
+puenteo portal deben considerarse en caso de encefalopatía, 
+hiponatremia o niveles de creatinina >2 mg/dl.
+• Ascitis tensa: paracentesis, obteniendo <5 L de líquido 
+peritoneal; si se extrae una cantidad mayor, deben infundirse 8- 
+10 g de albúmina por cada litro extraído.
+163
+
+===PAGE 189===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+• Infección peritoneal (>250 leucocitos/mm3): tratamiento inicial 
+con cefotaxima u ofloxacino por 10 días; en caso de 
+descompensación debe administrarse trimetoprim- 
+sulfametoxazol u ofloxacino. Los pacientes que hayan 
+sobrevivido a un episodio de peritonitis bacteriana espontánea 
+deben recibir profilaxis antibiótica a largo plazo con 
+trimetoprim-sulfametoxazol, ofloxacino o norfloxacino.
+• Ascitis refractaria: puede tratarse con paracentesis seriadas; es 
+posible evaluar la colocación de una endoprótesis para 
+derivación porto-cava.
+Cerca de 50% de los pacientes con cirrosis compensada (que no han 
+desarrollado complicaciones graves) desarrollan ascitis en los 
+primeros 10 años de evolución; al desarrollar ascitis la mortalidad a 2 
+años es de aproximadamente 50%.
+CARCINOMA HEPATOCELULAR
+El hepatoma es el tumor hepático primario más común; la 
+incidencia del carcinoma hepatocelular presenta una elevación entre 
+los pacientes con cirrosis hepática, infección crónica por los virus de 
+la hepatitis B o C, hemocromatosis o alcoholismo crónico; otros 
+agentes relacionados con el desarrollo de esta enfermedad son el 
+torotrasto, el cloruro de vinilo, los esteroides anabólicos, el arsénico 
+y las aflatoxinas. Es más frecuente entre los varones y la incidencia 
+máxima se encuentra entre la quinta y sexta décadas de la vida. Los 
+tumores hepáticos representan 1-2% de las neoplasias en pediatría; 
+las entidades más frecuentes son el hepatoblastoma (47%) y el 
+hepatocarcinoma (37%). La GPC hace hincapié en la identificación del 
+síndrome de Fanconi y el resto de los factores de riesgo y 
+consideración del diagnóstico en pacientes pediátricos.
+Se presenta (usualmente en estadios avanzados) con dolor 
+abdominal (40%), hepatomegalia (50-90%), una tumoración palpable 
+o signos de insuficiencia hepática; 1% de los casos se presenta una 
+diarrea crónica de mecanismo incierto. La muerte por necrosis central 
+o hemorragia intraperitoneal aguda es la presentación en <l%de los 
+casos. Pueden encontrarse al síndrome carcinoide o síndromes 
+paraneoplásicos detectados por los estudios paraclínicos. Las 
+metástasis distantes son infrecuentes, incluso en la enfermedad 
+avanzada; el sitio más frecuentemente afectado es el hueso.
+Las alteraciones de laboratorio pueden incluir policitemia (3-12%), 
+hipercalcemia, hipoglucemia, hipercolesterolemia (10-40%), porfiria 
+cutánea tardía, disfibrinogenemia, elevación de la globulina de unión 
+a tiroxina, crioglobulinemia y elevación en los niveles de a- 
+fetoproteína (marcador tumoral con valor en el diagnóstico y el 
+seguimiento).
+La tomografía computarizada tiene una sensibilidad de 56%
+debido a que los tumores pequeños son isodensos con el parénquima
+circundante; la variedad helicoidal con contraste intrarteriaI tiene una 
+sensibilidad de hasta 87%. La resonancia magnética tiene una 
+sensibilidad superior a la de la tomografía y puede emplearse para 
+distinguir la hiperplasia adenomatosa y al hemangioma cavernoso.
+Figura 2. Tratamiento del hepatocarcinoma en pacientes pediátricos 
+(adaptado de la GPC).
+Figura 3. Escrutinio y abordaje diagnóstico del carcinoma 
+hepatocelular en el adulto (adaptado de la GPC).
+164
+
+===PAGE 190===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Figura 4. Algoritmo de la Clínica de Barcelona para el tratamiento del carcinoma hepatocelular en el adulto (adaptado de la GPC). ECOG, estado de 
+desempeño en el sistema Eastern Cooperative Oncology Group; HP, hipertensión portal; HB, hiperbilirrubinemia; EA, enfermedades asociadas; TH, 
+trasplante hepático; TACE, quimioembolización transarterial; VHP, vigilancia hasta la progresión; MG, metástasis ganglionares; HPTI, hasta la 
+progresión o toxicidad inaceptable.
+La resección puede considerarse en presencia de <3 nodulos 
+con diámetro <3 cm y función hepática adecuada; 
+desafortunadamente sólo 15-30% de los pacientes son candidatos 
+quirúrgicos. Los pacientes sometidos a cirugía tienen una 
+supervivencia a 5 años de 30%. El papel del trasplante es controversial 
+debido a la frecuencia de las recurrencias neoplásicas en el injerto.
+Las medidas paliativas incluyen la quimioembolización, la ablación 
+etílica percutánea y la ablación por radiofrecuencia. Los pacientes 
+con factores de riesgo deben someterse a tamizaje con ultrasonido y 
+determinación de a-fetoproteína al menos de forma anual.
+PANCREATITIS CRÓNICA
+Es un proceso inflamatorio recurrente o persistente del 
+páncreas caracterizado por insuficiencia pancreática exocrina y 
+endocrina; puede aparecer tras varios episodios de pancreatitis 
+aguda como consecuencia del daño crónico. De esta forma, implica 
+cambios irreversibles como inflamación crónica, fibrosis y destrucción 
+tisular progresiva.
+Los procesos etiológicos reconocidos incluyen al alcoholismo 
+crónico 70-80%, idiopática 20%, genéticas 10-20% (fibrosis quística 
+[CFTR-DF508], tripsinógeno catiónico [PRSS1] y genes Kazal tipo 1 
+[SPINK1]), obstrucción (estenosis ampular, tumor, traumatismo, 
+páncreas divisum [anomalía congénita pancreática más común], 
+páncreas anular), malnutrición severa, hiperparatiroidismo no- 
+tratado (hipercalcemia), pancreatitis autoinmune o pancreatitis 
+esclerosante. Se piensa que es debida a la precipitación de proteínas 
+en los ductos o bien a daño directo producido por el alcohol sobre el 
+páncreas.
+El inicio típico de los síntomas se presenta entre los 35-40 años, 
+después de 16-20 años de consumo excesivo de alcohol, sin 
+embargo, en etiologías idiopáticas, genéticas y obstructivas suelen 
+debutar en la infancia o adolescencia. Las manifestaciones clínicas son 
+similares a las de los cuadros agudos; se encuentra una triada típica 
+de calcificaciones pancreáticas, esteatorrea y diabetes. El síntoma 
+más común es el dolor abdominal en el 90% de los casos, puede 
+desencadenarse por la ingesta de alimentos y característicamente es 
+persistente, presenta alivio con el consumo de alcohol seguido de 
+una recidiva más grave. La anorexia es el síntoma más comúnmente 
+asociado y se puede acompañar además de náusea, vómito y pérdida 
+de peso. La pérdida del 90% de la función pancreática origina 
+insuficiencia endocrina (diabetes mellitus) y exocrina (esteatorrea y 
+diarrea).
+El estudio de laboratorio de elección para el diagnóstico de 
+pancreatitis crónica es la ausencia de respuesta del polipéptido 
+pancreático a una prueba de comida. El diagnóstico de insuficiencia 
+endocrina se realiza con glucosa sérica y HbAlc, mientras que el 
+diagnóstico de insuficiencia exocrina se realiza con elastasa fecal 
+<100 mcg/g y grasa fecal >7 g en recolección de 72 horas. La amilasa 
+y lipasa no son útiles en el diagnóstico de pancreatitis crónica.
+La CPRE es considerada el estándar de oro para el diagnóstico (S de 
+70-90% y E 90-100%) y estadificación de esta enfermedad, es además 
+un estudio invasivo que tiene la capacidad de ser terapéutico. La 
+tomografía computarizada se considera como el estudio inicial y 
+puede evidenciar cambios como dilatación o estenosis del conducto 
+pancreático, y/o enfermedad quística. La alternativa a la tomografía 
+computarizada será la colangioresonancia magnética. El ultrasonido 
+endoscópico se considera como el estudio de elección ya que tiene la 
+capacidad de detectar los cambios previamente mencionados en 
+etapas más tempranas y en formas más leves de la enfermedad, en 
+165
+
+===PAGE 191===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+contraste con la tomografía y la colangioresonancia que tienen 
+utilidad diagnóstica en formas más avanzadas y graves.
+El tratamiento médico debe enfocarse al control de la 
+inflamación local y con ello controlar el dolor. Las opciones 
+terapéuticas son:
+• La abstinencia del alcohol alivia el dolor en el 60-75% de los 
+casos.
+• El analgésico de elección es el ibuprofeno y como tratamiento 
+adyuvante se pueden emplear narcóticos y pregabalina 
+principalmente en formas más avanzadas y graves de la 
+enfermedad.
+• Insuficiencia endocrina: insulina.
+• Insuficiencia exocrina: enzimas pancreáticas.
+La principal indicación para el tratamiento quirúrgico-invasivo es el 
+dolor refractario al tratamiento médico. Las opciones terapéuticas 
+son:
+• Tratamiento inicial: colocación de stent endoscópico.
+• Tratamiento de elección: procedimiento quirúrgico de Beger 
+(masa inflamatoria de la cabeza pancreática) / Frey (hipertensión 
+más severa del conducto pancreático).
+• Tratamiento de rescate: neuroablación (bloqueo del plexo 
+celíaco/esplanicectomía).
+La complicación más común es el pseudoquiste pancreático (20- 
+38%). Se puede presentar ascitis pancreática, derrame pleural 
+pancreático, fístula pancreato-entérica (más común en colon 
+transverso y ángulo esplénico). Otra complicación importante es la 
+masa en cabeza del páncreas (30%) que causa estenosis biliar, 
+duodenal y/o pancreática, y esta tiene el riesgo de presentar 
+progresión a hiperplasia, displasia y cáncer en 40% de los casos de 
+pacientes >50 años debido a la inducción del protooncogen KRAS. Se 
+puede presentar trombosis portal y esplénica (4-8%), pudiendo 
+desarrollar várices gástricas por hipertensión portal izquierda o 
+sinistral.
+ADENOCARCINOMA PANCREÁTICO
+Surge del epitelio ductal del páncreas exocrino; las mutaciones 
+de K-ras se encuentran en 90% de los casos, por lo que se considera 
+un suceso temprano en la carcinogénesis. La incidencia máxima se 
+encuentra en la séptima y octava décadas de la vida con afectación 
+más frecuente del sexo masculino (razón de 1.3:1); en\México la 
+incidencia es de 2.9%, la prevalencia en 5 años es de 0.9% y produce 
+3.7% de las muertes por cáncer. El tabaquismo es el factor de riesgo 
+ambiental más importante. Los factores de riesgo considerados en la 
+GPC son el tabaquismo, diabetes mellitus tipo 2 en los 4 años 
+siguientes al diagnóstico o en ausencia de factores predisponentes y 
+antecedentes familiares, pancreatitis aguda y crónica, pancreatitis 
+hereditaria, edad >55 años, antecedente familiar de cáncer 
+pancreático o de síndromes de cáncer familiar (ovario y mama) y el 
+síndrome Peutz-Jeghers.
+Ia*! La mayoría de los adenocarcinomas pancreáticos ductales se 
+origina en la cabeza pancreática, presentándose frecuentemente con 
+obstrucción biliar e ictericia con requerimiento de la colocación de 
+una endoprótesis de la vía biliar. El dolor causado por la enfermedad 
+localizada (por invasión de los plexos celiaco y mesentérico) se 
+describe clásicamente como de la espalda media o alta.
+Muchos pacientes desarrollan algún grado de insuficiencia 
+pancreática exocrina e intolerancia a la glucosa. La anorexia y pérdida 
+ponderal de peso son probablemente las manifestaciones más 
+frecuentes. La obstrucción del intestino delgado puede ocurrir con 
+tumores voluminosos de la cabeza pancreática.
+Actualmente no se recomienda el escrutinio de forma rutinaria. 
+Pueden emplearse marcadores como CA-19-9 y antígeno 
+carcinoembrionario, tomografía computarizada o ultrasonido 
+endoscópico en sujetos con riesgo >10 veces mayor que el de la 
+población general (>3 familiares con cáncer pancreático, pacientes 
+con nevo-melanoma múltiple atípico familiar, síndrome Peutz- 
+Jeghers o pancreatitis hereditaria). Dado que el cuadro clínico es 
+inespecífico, la instauración de un protocolo diagnóstico requiere un X 
+índice de sospecha elevado. Acorde con la GPC, la sospecha del 
+diagnóstico debe motivar la referencia al segundo nivel de atención. 
+Los marcadores tumorales (CA-19-9, amiloide-A, haptoglobina) 
+tienen su utilidad mayor durante la vigilancia de la respuesta 
+terapéutica.
+El abordaje suele iniciar con un estudio de imagen abdominal, 
+entre los que se prefiere a la tomografía computarizada trifásica 
+(combinada con la elevación prominente de CA-19-9 puede sugerir 
+fuertemente el diagnóstico, siendo útil en la selección de la 
+pancreatectomía como tratamiento inicial). El ultrasonido 
+endoscópico es excelente (sensibilidad de 92%, especificidad de 
+100%) en el estadiaje del tumor primario y de los ganglios locales, así 
+como en la detección de invasión de la vena porta; la ventaja principal 
+del estudio es la posibilidad de obtener aspirados con aguja fina de 
+lesiones pancreáticas y hepáticas.
+La resonancia magnética es útil en la caracterización de lesiones 
+hepáticas indeterminadas pequeñas y en la evaluación de la dilatación 
+de la vía biliar en ausencia de una tumoración obvia por tomografía. 
+La tomografía por emisión de positrones puede emplearse para 
+detectar metástasis distantes antes de una cirugía radical con 
+intención curativa.
+La confirmación histológica no es indispensable cuando los hallazgos 
+radiológicos son compatibles con cáncer pancreático resecable. Ante 
+la duda diagnóstica o el requerimiento de tratamiento neoadyuvante 
+o paliativo puede recurrirse a la aspiración con aguja fina guiada por 
+166
+
+===PAGE 192===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+ultrasonido endoscópico (precisión diagnóstica de 90%) o al cepillado 
+ductal (sensibilidad de 25-30%).
+Acorde con las implicaciones terapéuticas de los hallazgos 
+imagenológicos, el cáncer pancreático puede clasificarse de la 
+siguiente forma (con variaciones sutiles respecto a las 
+recomendaciones incluidas en la GPC):
+• Resecable: estadio I, 7% de los casos, supervivencia a 5 años de 
+20%. Tratamiento con pancreatectomía radical y quimioterapia 
+(fluorouracilo-ácido folínico o gemcitabina).
+• Localmente avanzado: estadios II y III, 26% de los casos, 
+supervivencia a 5 años de 8%. Quimioterapia paliativa con 
+gemcitabina.
+• Metastásico: estadio IV, 53% de los casos, supervivencia a 5 años 
+de 2%. Tratamiento con quimioterapia paliativa de acuerdo con 
+el estado de desempeño en el sistema Eastern Cooperative 
+Oncology Group (ECOG):
+o ECOG 0 (asintomático): esquema FOLFIRINOX (fluorouracilo, 
+ácido folínico, irinotecan, oxaliplatino).
+o ECOG 1 (síntomas leves): paclitaxel unido a nanopartículas 
+de albúmina (nab-paclitaxel) con gemcitabina. 
+o ECOG 2 (síntomas moderados): gemcitabina (con o sin 
+erlotinib o capecitabina).
+Cuadro 24. Recomendaciones para el tratamiento del cáncer 
+pancreático de acuerdo con su estadiaje (modificado de la GPC)
+Estadio 0 (Tis NO M0) Pancreatoduodenectomía 
+(cirugía de Whipple).
+Estadios IA (TI NO M0), IB (T2 
+NO M0), IIA (T3 NO M0) y IIB 
+(Tl-3 NI M0)
+Pancreatoduodenectomía y 
+quimioterapia adyuvante 
+(fluorouracilo-ácido folínico, 
+gemcitabina en caso de 
+contraindicación para el uso de 
+fluorouracilo).
+Estadios III (Tl-3 N2 M0 o T4 N 
+cualquiera M0) y IV (T 
+cualquiera, N cualquiera, M0)
+Quimioterapia paliativa con 
+gemcitabina (con o sin 
+erlotinib) o FOLFIRINOX, 
+resolución de las obstrucciones 
+de la vía biliar (endoprótesis o 
+sondas biliares), control del 
+dolor (analgésicos, ablación 
+celiaca, radioterapia paliativa).
+PARTE 6 - HEMATOLOGÍA
+Al final de esta parte del libro usted debe dominar las siguientes 
+competencias:
+• Conocimiento detallado del manejo general de la anemia y de las 
+modalidades diagnósticas y terapéuticas pertinentes para cada 
+una de sus etiologías.
+• Conocimiento general de la clasificación, manifestaciones, 
+diagnóstico y tratamiento de las enfermedades malignas 
+hematológicas de acuerdo con las tendencias actuales en 
+medicina molecular y de precisión.
+• Conocimiento preciso del sustrato patogénico y requerimientos 
+diagnósticos y terapéuticos de los trastornos de la coagulación 
+más frecuentes y representativos.
+ANEMIAS
+La anemia se define como la presencia de un hematocrito <37% 
+en las mujeres y <40% en los varones, o de una concentración de 
+hemoglobina <12 g/dl en las mujeres o <14 g/dl (<13 g/dl según la 
+GPC) en los hombres; estos niveles de corte son arbitrarios, por lo que 
+deben evaluarse con base en la edad, sexo y lugar de vivienda del 
+individuo. Los individuos más comúnmente afectados son los niños, 
+las gestantes y los ancianos.
+Cuadro 1. Puntos de corte propuestos por la Organización
+Mundial de la Salud (World Health Organizaron, WHO) para el 
+diagnóstico de anemia
+Población Grupo etario Hemoglobina (g/dl)
+Ambos sexos 6-59 meses <11
+5-11 años <11.5
+13-14 años <12
+Varones >15 años <13
+Mujeres >15 años <12
+Gestantes <11
+Los pacientes frecuentemente se presentan con fatiga o 
+disminución de la energía; la historia clínica debe incluir una 
+evaluación del nivel de energía, intolerancia al frío, abuso de 
+sustancias (incluyendo la ingestión alcohólica), tipo de dieta, consumo 
+de medicamentos y complejos vitamínicos, pica, síntomas 
+neurológicos (que pueden presentarse en caso de deficiencia de 
+vitamina Bi2 o hierro) e historia familiar de anemia o 
+hemoglobinopatías.
+El examen físico debe evaluar la presencia de palidez, líneas 
+cutáneas, alteraciones ungueales (la coiloniquia se asocia con 
+ferropenia), estomatitis angular (ferropenia), glositis (deficiencia de 
+hierro o anemia megaloblástica), hipotensión ortostática 
+(hemorragia aguda), ictericia (hemolisis, hepatopatía), equimosis 
+(sugiere trombocitopenia que puede asociarse con un trastorno 
+subyacente de la médula ósea), telangiectasias y esplenomegalia.
+167
+

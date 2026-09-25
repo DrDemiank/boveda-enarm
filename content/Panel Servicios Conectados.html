@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #f7f7f5;
+    color: #1f1f1f;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 20px;
+    margin: 0 0 4px 0;
+  }
+  .subtitle {
+    color: #6b6b6b;
+    font-size: 13px;
+    margin: 0 0 20px 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: #ffffff;
+    border: 1px solid #e5e3df;
+    border-radius: 10px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 220px;
+  }
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .card-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #bbb;
+    flex-shrink: 0;
+  }
+  .dot.ok { background: #2fa84f; }
+  .dot.err { background: #d64545; }
+  .dot.loading { background: #d9a441; animation: pulse 1.2s infinite ease-in-out; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .badge {
+    font-size: 11px;
+    background: #f0efec;
+    color: #555;
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+  .refresh-btn {
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 6px;
+    font-size: 11px;
+    padding: 3px 8px;
+    cursor: pointer;
+    color: #555;
+  }
+  .refresh-btn:hover { background: #f2f2f0; }
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    flex: 1;
+  }
+  .list li {
+    padding: 8px 0;
+    border-bottom: 1px solid #f0efec;
+  }
+  .list li:last-child { border-bottom: none; }
+  .item-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: #1f1f1f;
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .item-title:hover { text-decoration: underline; }
+  .item-meta {
+    font-size: 11px;
+    color: #8a8a8a;
+    margin-top: 2px;
+  }
+  .empty, .error-msg {
+    font-size: 12px;
+    color: #8a8a8a;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .error-msg { color: #b03434; }
+  .notion-search {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+  .notion-search input {
+    flex: 1;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 5px 8px;
+    font-size: 12px;
+  }
+  .notion-search button {
+    border: 1px solid #ddd;
+    background: #fafafa;
+    border-radius: 6px;
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .footer-note {
+    font-size: 11px;
+    color: #9a9a9a;
+    margin-top: 18px;
+  }
+  .skeleton {
+    height: 12px;
+    background: linear-gradient(90deg, #f0efec 25%, #e8e6e2 37%, #f0efec 63%);
+    background-size: 400% 100%;
+    animation: shimmer 1.4s infinite;
+    border-radius: 4px;
+    margin: 8px 0;
+  }
+  @keyframes shimmer { 0% { background-position: 100% 0; } 100% { background-position: -100% 0; } }
+</style>
+</head>
+<body>
+
+<h1>Panel de servicios conectados</h1>
+<p class="subtitle" id="lastUpdated">Cargando…</p>
+
+<div class="grid">
+
+  <!-- Gmail -->
+  <div class="card" id="card-gmail">
+    <div class="card-header">
+      <div class="card-title"><span class="dot loading" id="dot-gmail"></span> Gmail <span class="badge" id="badge-gmail">…</span></div>
+      <button class="refresh-btn" onclick="loadGmail()">Actualizar</button>
+    </div>
+    <ul class="list" id="list-gmail">
+      <li><div class="skeleton" style="width:80%"></div></li>
+      <li><div class="skeleton" style="width:60%"></div></li>
+      <li><div class="skeleton" style="width:70%"></div></li>
+    </ul>
+  </div>
+
+  <!-- Drive -->
+  <div class="card" id="card-drive">
+    <div class="card-header">
+      <div class="card-title"><span class="dot loading" id="dot-drive"></span> Google Drive <span class="badge" id="badge-drive">…</span></div>
+      <button class="refresh-btn" onclick="loadDrive()">Actualizar</button>
+    </div>
+    <ul class="list" id="list-drive">
+      <li><div class="skeleton" style="width:75%"></div></li>
+      <li><div class="skeleton" style="width:55%"></div></li>
+      <li><div class="skeleton" style="width:65%"></div></li>
+    </ul>
+  </div>
+
+  <!-- Notion -->
+  <div class="card" id="card-notion">
+    <div class="card-header">
+      <div class="card-title"><span class="dot loading" id="dot-notion"></span> Notion <span class="badge" id="badge-notion">…</span></div>
+      <button class="refresh-btn" onclick="loadNotion()">Actualizar</button>
+    </div>
+    <div class="notion-search">
+      <input type="text" id="notion-query" placeholder="Buscar en Notion..." value="ENARM" />
+      <button onclick="loadNotion()">Buscar</button>
+    </div>
+    <ul class="list" id="list-notion"></ul>
+  </div>
+
+</div>
+
+<p class="footer-note">Gmail: hilos recientes de la bandeja de entrada. Drive: archivos recientes (solo título y fecha, sin contenido). Notion: resultados de búsqueda en el workspace. Los datos se consultan en vivo cada vez que se abre o actualiza este panel.</p>
+
+<script>
+function setStatus(key, state) {
+  document.getElementById('dot-' + key).className = 'dot ' + state;
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return '';
+  const diffMs = Date.now() - d.getTime();
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 1) return 'ahora mismo';
+  if (mins < 60) return `hace ${mins} min`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `hace ${hrs} h`;
+  const days = Math.floor(hrs / 24);
+  if (days < 30) return `hace ${days} d`;
+  return d.toLocaleDateString('es-MX', { day: '2-digit', month: 'short', year: 'numeric' });
+}
+
+function touchUpdated() {
+  document.getElementById('lastUpdated').textContent =
+    'Última actualización: ' + new Date().toLocaleString('es-MX', { hour: '2-digit', minute: '2-digit', day: '2-digit', month: 'short' });
+}
+
+function parseResult(r) {
+  if (r.structuredContent) return r.structuredContent;
+  try { return JSON.parse(r.content[0].text); } catch (e) { return null; }
+}
+
+async function loadGmail() {
+  setStatus('gmail', 'loading');
+  const listEl = document.getElementById('list-gmail');
+  try {
+    const r = await window.cowork.callMcpTool('mcp__35f611d6-622e-409f-b8be-0b47b1350900__search_threads', {
+      query: 'in:inbox',
+      pageSize: 8
+    });
+    if (r.isError) throw new Error('tool error');
+    const data = parseResult(r);
+    const threads = (data && data.threads) || [];
+    const unreadR = await window.cowork.callMcpTool('mcp__35f611d6-622e-409f-b8be-0b47b1350900__search_threads', {
+      query: 'is:unread in:inbox',
+      pageSize: 1
+    });
+    const unreadData = parseResult(unreadR);
+    const unreadCount = (unreadData && unreadData.resultCountEstimate) || '0';
+
+    document.getElementById('badge-gmail').textContent = unreadCount + ' sin leer';
+
+    if (threads.length === 0) {
+      listEl.innerHTML = '<li class="empty">Sin mensajes recientes.</li>';
+    } else {
+      listEl.innerHTML = threads.map(t => {
+        const msg = (t.messages && t.messages[0]) || {};
+        const isUnread = (msg.labelIds || []).includes('UNREAD');
+        const sender = (msg.sender || '').replace(/<.*>/, '').trim();
+        const subject = msg.subject || '(sin asunto)';
+        const link = `https://mail.google.com/mail/u/0/#all/${t.id}`;
+        return `<li>
+          <a class="item-title" href="${link}" target="_blank" style="${isUnread ? 'font-weight:700;' : ''}">${escapeHtml(subject)}</a>
+          <div class="item-meta">${escapeHtml(sender)} · ${timeAgo(msg.date)}</div>
+        </li>`;
+      }).join('');
+    }
+    setStatus('gmail', 'ok');
+  } catch (e) {
+    listEl.innerHTML = '<li class="error-msg">No se pudo cargar Gmail.</li>';
+    document.getElementById('badge-gmail').textContent = 'error';
+    setStatus('gmail', 'err');
+  }
+  touchUpdated();
+}
+
+async function loadDrive() {
+  setStatus('drive', 'loading');
+  const listEl = document.getElementById('list-drive');
+  try {
+    const r = await window.cowork.callMcpTool('mcp__4780261a-9058-4013-8a7a-690daac1383d__list_recent_files', {
+      pageSize: 8,
+      orderBy: 'recency',
+      excludeContentSnippets: true
+    });
+    if (r.isError) throw new Error('tool error');
+    const data = parseResult(r);
+    const files = (data && data.files) || [];
+    document.getElementById('badge-drive').textContent = files.length + ' recientes';
+
+    if (files.length === 0) {
+      listEl.innerHTML = '<li class="empty">Sin archivos recientes.</li>';
+    } else {
+      listEl.innerHTML = files.map(f => {
+        const ts = f.modifiedTime || f.viewedByMeTime || f.createdTime;
+        return `<li>
+          <a class="item-title" href="${f.viewUrl}" target="_blank">${escapeHtml(f.title || 'Sin título')}</a>
+          <div class="item-meta">${escapeHtml(f.fileExtension || (f.mimeType || '').split('.').pop() || '')} · ${timeAgo(ts)}</div>
+        </li>`;
+      }).join('');
+    }
+    setStatus('drive', 'ok');
+  } catch (e) {
+    listEl.innerHTML = '<li class="error-msg">No se pudo cargar Google Drive.</li>';
+    document.getElementById('badge-drive').textContent = 'error';
+    setStatus('drive', 'err');
+  }
+  touchUpdated();
+}
+
+async function loadNotion() {
+  setStatus('notion', 'loading');
+  const listEl = document.getElementById('list-notion');
+  const query = document.getElementById('notion-query').value.trim() || 'ENARM';
+  listEl.innerHTML = '<li><div class="skeleton" style="width:70%"></div></li>';
+  try {
+    const r = await window.cowork.callMcpTool('mcp__b16f40c2-3c76-4ce6-a14a-cc2da8f2f03d__notion-search', {
+      query: query,
+      page_size: 8,
+      max_highlight_length: 0
+    });
+    if (r.isError) throw new Error('tool error');
+    const data = parseResult(r);
+    const results = (data && data.results) || [];
+    document.getElementById('badge-notion').textContent = results.length + ' resultados';
+
+    if (results.length === 0) {
+      listEl.innerHTML = '<li class="empty">Sin resultados para esta búsqueda.</li>';
+    } else {
+      listEl.innerHTML = results.map(p => {
+        return `<li>
+          <a class="item-title" href="${p.url}" target="_blank">${escapeHtml(p.title || 'Sin título')}</a>
+          <div class="item-meta">${escapeHtml(p.type || '')} · ${timeAgo(p.timestamp)}</div>
+        </li>`;
+      }).join('');
+    }
+    setStatus('notion', 'ok');
+  } catch (e) {
+    listEl.innerHTML = '<li class="error-msg">No se pudo cargar Notion.</li>';
+    document.getElementById('badge-notion').textContent = 'error';
+    setStatus('notion', 'err');
+  }
+  touchUpdated();
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+document.getElementById('notion-query').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') loadNotion();
+});
+
+loadGmail();
+loadDrive();
+loadNotion();
+</script>
+
+</body>
+</html>

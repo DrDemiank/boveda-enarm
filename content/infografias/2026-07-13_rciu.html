@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ENARM · Restricción del Crecimiento Intrauterino</title>
+<style>
+  body{font-family:'Segoe UI',Arial,sans-serif;background:#f0f9ff;margin:0;padding:24px;color:#1f2937}
+  .wrap{max-width:880px;margin:0 auto;background:#fff;border-radius:14px;box-shadow:0 6px 24px rgba(0,0,0,.08);overflow:hidden}
+  header{background:linear-gradient(135deg,#0369a1,#075985);color:#fff;padding:22px 28px}
+  header h1{margin:0;font-size:26px}
+  header p{margin:6px 0 0;font-size:14px;opacity:.9}
+  .sec{padding:18px 28px;border-bottom:1px solid #e5e7eb}
+  .sec h2{margin:0 0 10px;font-size:18px;color:#075985;display:flex;align-items:center;gap:8px}
+  table{width:100%;border-collapse:collapse;font-size:13px;margin-top:8px}
+  th,td{border:1px solid #e0e0e0;padding:8px 10px;text-align:left;vertical-align:top}
+  th{background:#e0f2fe;color:#075985;font-weight:600}
+  tr:nth-child(even){background:#fafafa}
+  .dato{background:#fef3c7;border-left:5px solid #d97706;padding:10px 14px;margin:8px 0;border-radius:6px;font-size:14px}
+  .dato b{color:#92400e}
+  .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+  .card{background:#f0f9ff;border:1px solid #bae6fd;border-radius:10px;padding:10px 12px}
+  .card h3{margin:0 0 6px;color:#0369a1;font-size:14px}
+  .card ul{margin:0;padding-left:16px;font-size:12px}
+  .pill{display:inline-block;background:#0369a1;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600;margin:2px}
+  .tipo0{background:#dcfce7}.tipo1{background:#fef9c3}.tipo2{background:#fed7aa}.tipo3{background:#fecaca}.tipo4{background:#f3e8ff}
+  footer{padding:14px 28px;background:#f9fafb;font-size:12px;color:#6b7280}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>👶 Restricción del Crecimiento Intrauterino (RCIU)</h1>
+    <p>Ginecología-Obstetricia · Sesión ENARM Lunes 13/07/2026</p>
+  </header>
+
+  <div class="sec">
+    <h2>📐 Definiciones clave</h2>
+    <table>
+      <tr><th>Concepto</th><th>Punto de corte</th><th>Detalle</th></tr>
+      <tr><td><b>PEG</b> (feto pequeño para la edad gestacional)</td><td>Percentil &lt;10 pero &gt;3</td><td>Peso/circunferencia abdominal insuficiente sin alteración Doppler</td></tr>
+      <tr><td><b>RCIU</b></td><td>Percentil &lt;3</td><td>Incapacidad de alcanzar potencial genético de crecimiento</td></tr>
+      <tr><td><b>RCIU</b> (alternativa)</td><td>Percentil &gt;3 y &lt;10</td><td>Con flujometría Doppler multivasos alterada</td></tr>
+    </table>
+  </div>
+
+  <div class="sec">
+    <h2>🔍 Algoritmo diagnóstico</h2>
+    <div class="dato">PFE y/o circunferencia abdominal en <b>percentil &lt;3 → RCIU</b> (independientemente del Doppler).</div>
+    <div class="dato">PFE entre <b>&lt;10 y &gt;3</b>: evaluar Doppler multivasos → <b>normal = PEG</b> · <b>alterado = RCIU</b>.</div>
+  </div>
+
+  <div class="sec">
+    <h2>🌊 Flujometría Doppler multivasos — criterios de normalidad</h2>
+    <table>
+      <tr><th>Flujo</th><th>Abrev.</th><th>Normalidad</th></tr>
+      <tr><td>Arteria cerebral media</td><td>ACM</td><td>IP &gt;p5</td></tr>
+      <tr><td>Arteria umbilical</td><td>AU</td><td>IP &lt;p95</td></tr>
+      <tr><td>Índice cerebro-placentario</td><td>ICP/RCP</td><td>IP &gt;p5</td></tr>
+      <tr><td>Ductus venoso</td><td>DV</td><td>IP &lt;p95</td></tr>
+      <tr><td>Arterias uterinas (media)</td><td>AUTM</td><td>IP &lt;p95</td></tr>
+    </table>
+  </div>
+
+  <div class="sec">
+    <h2>⚖️ Clasificación de la RCIU</h2>
+    <table>
+      <tr><th>Tipo</th><th>Criterio</th><th>Revaloración Doppler</th><th>Finalización</th></tr>
+      <tr class="tipo0"><td><b>Tipo 0</b> (PEG)</td><td>PFE &lt;10 pero &gt;3, Doppler normal</td><td>C/2–3 semanas</td><td>≥37 sdg</td></tr>
+      <tr class="tipo1"><td><b>Tipo I</b></td><td>PFE &lt;10 + ACM/ICP/AUTM anormal</td><td>C/1–2 semanas</td><td>≥40 sdg</td></tr>
+      <tr class="tipo2"><td><b>Tipo II</b></td><td>PFE &lt;10 + AU con flujo diastólico ausente</td><td>C/24–48 h</td><td>≥34 sdg</td></tr>
+      <tr class="tipo3"><td><b>Tipo III</b></td><td>PFE &lt;10 + AU reverso o DV &gt;p95</td><td>C/12–48 h (aprox.)</td><td>≥30 sdg</td></tr>
+      <tr class="tipo4"><td><b>Tipo IV</b></td><td>PFE &lt;10 + DV reverso, variabilidad &lt;5 lpm, o ≥2 desaceleraciones espontáneas/10 min</td><td>C/12–48 h</td><td>≥26 sdg</td></tr>
+    </table>
+  </div>
+
+  <div class="sec">
+    <h2>🛣️ Vía de finalización del embarazo</h2>
+    <div class="grid3">
+      <div class="card"><h3>PEG / Tipo I</h3><ul><li>Parto vaginal con monitorización continua (cardiotocografía)</li></ul></div>
+      <div class="card"><h3>Tipos II, III, IV</h3><ul><li>Cesárea electiva</li></ul></div>
+      <div class="card"><h3>Nota</h3><ul><li>A mayor severidad Doppler, menor edad gestacional de finalización</li></ul></div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <h2>☣️ Factores de riesgo</h2>
+    <div class="grid3">
+      <div class="card"><h3>Fetales</h3><ul><li>Trisomías 13, 18, 21</li><li>Malformaciones estructurales</li></ul></div>
+      <div class="card"><h3>Maternos</h3><ul><li>Trastornos hipertensivos</li><li>Diabetes, cardiopatía</li><li>Nefropatía, LES, SAF</li><li>Trombofilias, hemoglobinopatías</li><li>Infecciones (rubéola, CMV, toxoplasma, sífilis, VIH)</li></ul></div>
+      <div class="card"><h3>Placentarios</h3><ul><li>Placentación anormal</li><li>Placenta previa, acretismo</li><li>Infartos crónicos</li></ul></div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <h2>📚 Datos de examen</h2>
+    <ul>
+      <li>El <b>Doppler</b> discrimina PEG vs RCIU cuando el percentil está entre 3 y 10.</li>
+      <li>Percentil &lt;3 → RCIU sin importar el Doppler.</li>
+      <li>Flujo diastólico <b>ausente en AU</b> = Tipo II; <b>reverso en AU</b> = Tipo III.</li>
+      <li>Variabilidad patológica &lt;5 lpm o desaceleraciones espontáneas = Tipo IV (finalización desde 26 sdg).</li>
+      <li>Tipos II–IV → <b>cesárea electiva</b>; PEG/Tipo I → parto vaginal monitorizado.</li>
+    </ul>
+  </div>
+
+  <footer>Fuente: Manual Dr. Prieto ENARM 14a ed. (2025) · Nota revisada en bóveda ENARM Cerebro Demiank · Generado por La Mole (GLM-5.2).</footer>
+</div>
+</body>
+</html>

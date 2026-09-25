@@ -1,0 +1,1442 @@
+===PAGE 192===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+ultrasonido endoscópico (precisión diagnóstica de 90%) o al cepillado 
+ductal (sensibilidad de 25-30%).
+Acorde con las implicaciones terapéuticas de los hallazgos 
+imagenológicos, el cáncer pancreático puede clasificarse de la 
+siguiente forma (con variaciones sutiles respecto a las 
+recomendaciones incluidas en la GPC):
+• Resecable: estadio I, 7% de los casos, supervivencia a 5 años de 
+20%. Tratamiento con pancreatectomía radical y quimioterapia 
+(fluorouracilo-ácido folínico o gemcitabina).
+• Localmente avanzado: estadios II y III, 26% de los casos, 
+supervivencia a 5 años de 8%. Quimioterapia paliativa con 
+gemcitabina.
+• Metastásico: estadio IV, 53% de los casos, supervivencia a 5 años 
+de 2%. Tratamiento con quimioterapia paliativa de acuerdo con 
+el estado de desempeño en el sistema Eastern Cooperative 
+Oncology Group (ECOG):
+o ECOG 0 (asintomático): esquema FOLFIRINOX (fluorouracilo, 
+ácido folínico, irinotecan, oxaliplatino).
+o ECOG 1 (síntomas leves): paclitaxel unido a nanopartículas 
+de albúmina (nab-paclitaxel) con gemcitabina. 
+o ECOG 2 (síntomas moderados): gemcitabina (con o sin 
+erlotinib o capecitabina).
+Cuadro 24. Recomendaciones para el tratamiento del cáncer 
+pancreático de acuerdo con su estadiaje (modificado de la GPC)
+Estadio 0 (Tis NO M0) Pancreatoduodenectomía 
+(cirugía de Whipple).
+Estadios IA (TI NO M0), IB (T2 
+NO M0), IIA (T3 NO M0) y IIB 
+(Tl-3 NI M0)
+Pancreatoduodenectomía y 
+quimioterapia adyuvante 
+(fluorouracilo-ácido folínico, 
+gemcitabina en caso de 
+contraindicación para el uso de 
+fluorouracilo).
+Estadios III (Tl-3 N2 M0 o T4 N 
+cualquiera M0) y IV (T 
+cualquiera, N cualquiera, M0)
+Quimioterapia paliativa con 
+gemcitabina (con o sin 
+erlotinib) o FOLFIRINOX, 
+resolución de las obstrucciones 
+de la vía biliar (endoprótesis o 
+sondas biliares), control del 
+dolor (analgésicos, ablación 
+celiaca, radioterapia paliativa).
+PARTE 6 - HEMATOLOGÍA
+Al final de esta parte del libro usted debe dominar las siguientes 
+competencias:
+• Conocimiento detallado del manejo general de la anemia y de las 
+modalidades diagnósticas y terapéuticas pertinentes para cada 
+una de sus etiologías.
+• Conocimiento general de la clasificación, manifestaciones, 
+diagnóstico y tratamiento de las enfermedades malignas 
+hematológicas de acuerdo con las tendencias actuales en 
+medicina molecular y de precisión.
+• Conocimiento preciso del sustrato patogénico y requerimientos 
+diagnósticos y terapéuticos de los trastornos de la coagulación 
+más frecuentes y representativos.
+ANEMIAS
+La anemia se define como la presencia de un hematocrito <37% 
+en las mujeres y <40% en los varones, o de una concentración de 
+hemoglobina <12 g/dl en las mujeres o <14 g/dl (<13 g/dl según la 
+GPC) en los hombres; estos niveles de corte son arbitrarios, por lo que 
+deben evaluarse con base en la edad, sexo y lugar de vivienda del 
+individuo. Los individuos más comúnmente afectados son los niños, 
+las gestantes y los ancianos.
+Cuadro 1. Puntos de corte propuestos por la Organización
+Mundial de la Salud (World Health Organizaron, WHO) para el 
+diagnóstico de anemia
+Población Grupo etario Hemoglobina (g/dl)
+Ambos sexos 6-59 meses <11
+5-11 años <11.5
+13-14 años <12
+Varones >15 años <13
+Mujeres >15 años <12
+Gestantes <11
+Los pacientes frecuentemente se presentan con fatiga o 
+disminución de la energía; la historia clínica debe incluir una 
+evaluación del nivel de energía, intolerancia al frío, abuso de 
+sustancias (incluyendo la ingestión alcohólica), tipo de dieta, consumo 
+de medicamentos y complejos vitamínicos, pica, síntomas 
+neurológicos (que pueden presentarse en caso de deficiencia de 
+vitamina Bi2 o hierro) e historia familiar de anemia o 
+hemoglobinopatías.
+El examen físico debe evaluar la presencia de palidez, líneas 
+cutáneas, alteraciones ungueales (la coiloniquia se asocia con 
+ferropenia), estomatitis angular (ferropenia), glositis (deficiencia de 
+hierro o anemia megaloblástica), hipotensión ortostática 
+(hemorragia aguda), ictericia (hemolisis, hepatopatía), equimosis 
+(sugiere trombocitopenia que puede asociarse con un trastorno 
+subyacente de la médula ósea), telangiectasias y esplenomegalia.
+167
+
+===PAGE 193===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+I
+8
+UFC* de
+ganulocitos UFC* de
+© ©
+Neutrófilo Eosinófilo
+monocitos
+Monocito
+Mas torcí to
+Macrófago
+1
+Célula madre linfoide
+(g)
+1
+3) y 9
+Progenitor
+de célula B
+Progenitor
+de célula T
+Progenitor 
+de célula NK
+I I
+• 9
+Línfocito B Linfocito T
+(g © ©
+Linfocito T Linfocito T L'nfocito NK 
+Célula cooperador citotóxico 
+plasmática (Cd4+) (Cd8+)
+* Unidad formadora de colonias, también llamada célula progenltora.
+Imagen 1. Diferenciación de las células trocales hematopoyéticas.
+Actualmente, el tamizaje sólo se recomienda para todos los 
+infantes y las gestantes; la investigación en otros individuos sólo está 
+indicada en presencia de síntomas. Todos los pacientes con anemia 
+deben contar con una biometría hemática con diferencial, panel 
+metabólico básico (para evaluar la función renal, conteo 
+reticulocitario, extendido de sangre periférica y detección de sangre 
+en heces.
+• Extendido de sangre periférica: es más útil si el paciente no ha 
+recibido transfusiones recientemente y permite la clasificación 
+de las anemias de acuerdo con el volumen, forma y color 
+eritrocitarios.
+Por ejemplo, los pacientes con ferropenia presentan eritrocitos 
+con formas anormales (poikilocitosis), pequeños (microcitosis) y 
+carentes de pigmentación (hipocromía), además de 
+ensanchamiento del rango de distribución (anisocitosis). En la 
+anemia megaloblástica se encuentran macroovalocitos, 
+neutrófilos hipersegmentados y cuerpos Howell-Jolly. Los 
+pacientes con enfermedades crónicas pueden presentar 
+eritrocitos normales o microcíticos. Los hepatópatas pueden 
+presentar macrocitos delgados, células "en diana" y acantocitos.
+• Concentración corpuscular media de hemoglobina: la 
+disminución en sus valores frecuentemente apunta al 
+diagnóstico de ferropenia, talasemia o anemia sideroblástica.
+• Rango de distribución eritrocitaria: revela la variación en el 
+volumen eritrocitario; una elevación en su valor sugiere la 
+deficiencia de hierro, folato o vitamina B12, aunque también 
+puede ser el resultado de procesos que elevan el conteo 
+reticulocitario (sangrado crónico, hemolisis). La anisocitosis es la 
+manifestación más temprana de la deficiencia de hierro.
+• Conteo reticulocitario: es una medida de la respuesta de la 
+médula ósea al proceso anémico; los reticulocitos tempranos 
+son más grandes que los eritrocitos maduros, por lo que un 
+conteo reticulocitario elevado aumenta el volumen corpuscular 
+medio. El conteo reticulocitario usualmente es expresado como 
+un porcentaje de las células examinadas en un paciente 
+individual; este número debe corregirse en caso de anemia 
+debido a que el conteo inicial, expresado como un porcentaje de 
+los eritrocitos, puede encontrarse falsamente elevado cuando se 
+relaciona con una cantidad reducida de eritrocitos.
+• índice reticulocitario: representa la corrección del conteo 
+reticulocitario y se calcula con la ecuación porcentaje 
+reticulocitario x (hematocrito t 45); un resultado <1 revela una 
+eritropoyesis subóptima para el estado anémico, un valor de 1-2 
+es indeterminado, y un resultado >2 revela una eritropoyesis 
+adecuada o pérdida eritrocitaria concurrente.
+168
+
+===PAGE 194===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 2. Patrones clásicos de anemia hípoproliferativa
+Parámetro Ferropenia Enfermedad
+crónica
+Sideroblástica
+Hierro sérico Bajo Bajo-normal Alto
+Capacidad 
+total de 
+fijación del 
+hierro
+Alto Bajo-normal Alto
+Porcentaje de 
+saturación de 
+transferrina
+Bajo Bajo-normal Alto
+Ferritina Bajo Normal-alto Alto
+Conteo 
+reticulocitario
+Bajo Bajo Bajo
+El tratamiento está dirigido a la causa subyacente del proceso 
+anémico. El papel de la transfusión de eritrocitos no está claramente 
+definido. El tratamiento eritropoyético está aprobado para pacientes 
+bajo ciertas condiciones médicas:
+• Enfermedad renal crónica.
+• Infectados por el virus de inmunodeficiencia humana (VIH) que 
+reciben zidovudina.
+• Cáncer.
+• Sometimiento a un procedimiento quirúrgico.
+Los adultos con anemia que no reúnen criterios para atribuirla a una 
+carencia nutrimental, enfermedad inflamatoria crónica o enfermedad 
+renal crónica, son candidatos a la referencia para su valoración por un 
+hematólogo.
+ANEMIA POR DEFICIENCIA DE HIERRO
+La causa más común de anemia a nivel mundial es la 
+deficiencia de hierro (ferropenia). Generalmente se asume que el 
+50% de los casos de anemia son por deficiencia de hierro. La anemia 
+por deficiencia de hierro es resultado de la reducción en las reservas 
+férricas, producida por ingesta insuficiente de hierro, alteraciones en 
+su absorción o pérdida sanguínea. Las poblaciones en riesgo para el 
+desarrollo de ferropenia son los lactantes, adolescentes, mujeres 
+gestantes o en lactancia, perimenopáusicas con sangrado menstrual 
+anormal y pacientes mayores de 65 años, infectados por Helicobacter 
+pylorí, con sangrado intestinal (cáncer colónico o gástrico, 
+diverticulosis, angiodisplasia, gastritis, enfermedad péptica, 
+enfermedad intestinal inflamatoria, uso de antinflamatorios no 
+esteroides [AINE], parasitosis), de nivel socioeconómico bajo o 
+vegetarianos. Los perfiles clásicos de individuos que desarrollan 
+ferropenia son los niños que consumen cantidades excesivas de leche 
+entera de vaca, mujeres con menstruaciones abundantes o durante 
+la gestación, y varones con sangrado gastrointestinal.
+El contenido y la biodisponibilidad del hierro en los diferentes tipos 
+de leche varía, la leche materna es la que menor contenido tiene, 
+pero presenta la máxima proporción de absorción intestinal 
+(aproximadamente 50%). La deficiencia de hematínicos se asocia a 
+dietas insuficientes y a una inadecuada salud odontológica. La 
+ingestión insuficiente en los primeros 6-12 meses de vida, puede 
+retardar significativamente el desarrollo del sistema nervioso central.
+El adulto promedio tiene una reserva férrica de 2-5 g (1 g en la 
+forma de almacenamiento); la pérdida sanguínea es la única forma 
+de excreción del hierro. La pérdida total de hierro en el embarazo es 
+de 1 g (incluyendo la pérdida estimada durante el nacimiento). La 
+pérdida media durante un periodo menstrual es de 22 mg. En la 
+mayoría de los pacientes con anemia ferropriva debe asumirse que 
+sufren una pérdida sanguínea gastrointestinal, por lo que es esencial 
+la detección de sangre en heces.
+Puede encontrarse palidez cutánea y conjuntival, pero el resto 
+de la exploración puede ser normal. Las manifestaciones propias de 
+la ferropenia (aunque varias son raras) incluyen parestesias, ardor 
+lingual, disfagia, pica (particularmente por el hielo [pagofagia] en el 
+caso de los niños), síndrome de piernas inquietas, glositis, estomatitis, 
+queilitis angular, coiloniquia, esplenomegalia leve, desaceleración del 
+crecimiento, déficit de atención y disminución de la respuesta a 
+estímulos sensoriales. En niños existen tablas de los niveles de 
+hemoglobina normales y estos dependerán de la edad.
+La determinación de los niveles de ferritina es el estudio de 
+laboratorio más sensible y específico en la evaluación de las reservas 
+de hierro; los valores <12 ng/ml se consideran virtualmente 
+diagnósticos. La tinción para hemosiderina (azul de Prusia) de un 
+aspirado de médula ósea es el estándar de oro en el diagnóstico de 
+anemia ferropénica, pero no se realiza siempre debido a que resulta 
+doloroso, costoso y se asocia a errores en el muestreo.
+Imagen 2. Frotis de sangre periférica en un paciente con anemia por 
+deficiencia de hierro que muestra microcitosis, hipocromía, 
+anisocitosis y poiquilocitosis.
+169
+
+===PAGE 195===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+El diagnóstico puede realizarse con la identificación de un 
+hematocrito disminuido acompañado de microcitosis (volumen 
+corpuscular medio <80 fl) y niveles bajos de ferritina (<12 ng/ml en 
+las mujeres, <20 ng/ml en los hombres).
+El tratamiento consta de la reposición de hierro elemental (en
+las formas de sulfato ferroso [primera elección] o gluconato ferroso) 
+en las siguientes dosis:
+• Niños: 3-6 mg/kg/día, dividido en 1-3 dosis.
+• Adultos: 180 mg/día, dividido en 3 dosis.
+En la mayoría de los pacientes, la velocidad de la respuesta no resulta 
+crítica. La GPC indica que la duración de la suplementación es 
+variable, recomendando que, una vez normalizados los niveles de 
+hemoglobina y hematocrito, el tratamiento debe continuar a la 
+misma dosis durante un periodo similar al que fue necesario para 
+normalizar la concentración de hemoglobina, sin embargo, la GPC de 
+anemia en menores de 5 años especifica que con tres meses de 
+reposición más es suficiente. La reposición parenteral podrá ser 
+indicada por el hematólogo bajo las siguientes circunstancias:
+• Intolerancia grave al tratamiento oral.
+• Trastorno gastrointestinal que contraindique la vía oral.
+• Previsión de que el tratamiento será insuficiente.
+La transfusión de paquetes globulares sólo puede considerarse con 
+base en una evaluación completa del estado hemodinámico, 
+perfusión tisular y comorbilidad; las indicaciones precisas incluyen las 
+siguientes:
+• Descompensación hemodinámica.
+• Insuficiencia respiratoria.
+• Procedimiento quirúrgico urgente.
+• Comorbilidad asociada a hipoxia tisular.
+• Niños con hemoglobina <5 g/dL.
+• Niños con hemoglobina entre 5-7 g/dL y cualquiera de las 
+siguientes condiciones: desnutrición grave, sepsis y/o 
+hemorragia activa.
+La GPC indica que sólo deben referirse a los servicios de medicina 
+interna o pediatría a los pacientes con las siguientes características:
+• Perfil de hierro o ferritina no-concluyentes con el diagnóstico de 
+anemia ferropriva.
+• Pacientes con buen apego terapéutico y sin pérdida sanguínea 
+aguda que no respondieron al tratamiento en el tiempo previsto.
+Las medidas de prevención primaria recomendadas en la GPC son las 
+siguientes:
+• Suplementación universal de hierro en países de ingresos bajos 
+o medianos.
+• Indicar la lactancia materna y mantenerla >6 meses; durante la 
+ablactación deben incluirse alimentos ricos en hierro a partir de 
+la edad de cuatro meses.
+• Incentivar a los padres y personal involucrado en la preparación 
+de alimentos para que se consuman alimentos ricos en hierro.
+• En los mayores de 65 años, asegurar un aporte dietético 
+adecuado, realizar una evaluación odontológica semestral y 
+evitar la prescripción innecesaria de AINE.
+• Tratamiento profiláctico gestacional con 60 mg/día de hierro 
+elemental desde el segundo trimestre hasta 3 meses posparto.
+• Tratamiento profiláctico con 2 mg/kg/día de hierro elemental 
+durante 6 meses a los niños de 6-12 meses bajo las siguientes 
+circunstancias:
+o Productos de embarazos múltiples.
+o Niños de término alimentados con leche de vaca, 
+o Niños de término alimentados al seno materno, que no 
+recibieron alimentos ricos en hierro después de los 6 meses, 
+o Enfermedades que impliquen malabsorción intestinal o 
+pérdida crónica de hierro.
+o Hemorragia durante el periodo neonatal.
+o Niños cuya madre presentó ferropenia durante el embarazo.
+Acorde a la GPC se recomienda realizar tamizaje en niños de 9-12 
+meses sin factores de riesgo, el cual se basa en biometría hemática y 
+ferritina. Si se detectan niveles bajos de ferritina, volumen 
+corpuscular medio y hemoglobina corpuscular media bajos, así como 
+ancho de distribución eritrocitaria mayor de 13.5, se debe solicitar 
+biometría con reticulocitos, con lo que se confirma el diagnóstico y se 
+deberá iniciar tratamiento con sulfato ferroso 1-3 mg/kg/día por 3 
+meses. En el caso de pacientes con factores de riesgo para déficit de 
+hierro, según la GPC el protocolo consiste en realizar perfil de hierro 
+y biometría hemática, una vez contando con los resultados se puede 
+iniciar el tratamiento con 3-6 mg/kg/día, posterior a esto, se debe 
+tener un control de hemoglobina en donde se refleje un aumento de 
+1 g/dL en 1 mes, si se consigue esta meta se deberá continuar el 
+tratamiento por 3 meses más una vez alcanzada la cifra de 
+hemoglobina normal. En ambos casos de no haber respuesta se debe 
+enviar a valoración por Hematología, para buscar otras causas 
+específicas de anemia.
+ANEMIA DE ENFERMEDAD CRÓNICA
+La anemia de enfermedad crónica (AEC) es un proceso anémico 
+de intensidad leve a moderada que acompaña a enfermedades 
+infecciosas, inflamatorias o neoplásicas, caracterizándose por la 
+presencia de hierro abundante en el sistema reticuloendotelial 
+indisponible para los precursores eritroides.
+'♦I' Este trastorno también puede asociarse a desórdenes no 
+inflamatorios, como la insuficiencia cardiaca congestiva, la 
+enfermedad pulmonar obstructiva crónica, hepatopatía alcohólica y 
+enfermedad renal crónica; incluso en los diabéticos sin insuficiencia
+170
+
+===PAGE 196===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+renal, la respuesta de la eñtropoyetina a la anemia se encuentra 
+truncada.
+Se ha propuesto la importancia del papel de la hepcidina (inducible 
+por IL-1 e IL-6), que disminuye la absorción de hierro en el intestino 
+delgado e inhibe la liberación de hierro desde los macrófagos. 
+Finalmente, la sobrevida de los eritrocitos es acortada y la respuesta 
+compensadora de la médula ósea se encuentra desequilibrada por la 
+alteración en el metabolismo del hierro y en la producción de 
+eritropoyetina.
+1=^ El cuadro tiene una instauración lenta con pocos síntomas. 
+Suele ser dominado por las manifestaciones de la enfermedad 
+subyacente.
+El diagnóstico se efectúa cuando el paciente presenta anemia
+microcítica o normocítica y un nivel de ferritina normal o elevado. El 
+distintivo de esta entidad es el nivel circulante de hierro bajo, la 
+saturación baja de la transferrina y los niveles altos o normales de 
+ferritina. La AEC es un diagnóstico de exclusión que requiere la 
+evaluación previa de toxicidad farmacológica y pérdida sanguínea; el 
+proceso puede ser difícil de diagnosticar, especialmente si coexiste 
+con ferropenia.
+La mejoría clínica definitiva sólo puede obtenerse con el 
+tratamiento de la enfermedad subyacente. El tratamiento con 
+agentes eritropoyéticos (epoyetina-a, darbopoyetina-a) puede 
+emplearse con el fin de reducir los requerimientos transfusionales y 
+mejorar la calidad de vida; en caso de no obtenerse una respuesta 
+adecuada, debe excluirse la deficiencia de hierro debido a que los 
+requerimientos de este elemento se encuentran incrementados 
+durante la terapia eritropoyética.
+ANEMIA SIDEROBLÁSTICA
+Comprende un amplio espectro de trastornos eritropoyéticos
+hereditarios y adquiridos relativamente poco comunes que se deben 
+a diversas anomalías en la síntesis del grupo hemo y la función 
+mitocondrial.
+Según su etiología puede ser clasificada como hereditaria 
+(recesiva ligada al cromosoma X, autosómica dominante, autosómica
+recesiva), adquirida (quimioterapia, radiación, mielodisplasia) y 
+reversible (etanol, isoniazida, pirazinamida, cicloserina, cloranfenicol, 
+deficiencia de cobre, envenenamiento por mercurio).
+Las manifestaciones clínicas incluyen fatiga, debilidad,
+palpitaciones, acortamiento de la respiración, cefalea, irritabilidad, 
+palidez, taquicardia, hepatoesplenomegalia, auscultación de S3,
+distensión yugular y estertores.
+Los estudios de laboratorio revelarán anemia microcítica 
+hipocrómica (hereditarias) o normocítica o macrocítica (adquiridas), 
+elevación de los niveles de hierro, disminución de los niveles de 
+transferrina con aumento en su porcentaje de saturación, y elevación 
+en los niveles de ferritina, bilirrubina y deshidrogenasa láctica, con 
+disminución en los niveles de haptoglobina y conteos reticulocitarios 
+normales o elevados. El extendido de sangre periférica demuestra 
+células dimórficas grandes y pequeñas con cuerpos Pappenheimer o 
+siderocitos cuando se hacen tinciones para hierro (azul de Prusia). El 
+aspirado medular demuestra sideroblastos en anillo, que 
+representan el almacenamiento de hierro (fosfato e hidróxido 
+férricos) en las mitocondrias de los normoblastos.
+Las formas hereditarias y las producidas por isoniazida,
+pirazinamida y cicloserina pueden tratarse con la administración de 
+dosis altas de vitamina B6 (piridoxina). Las inyecciones de 
+eritropoyetina son útiles en las formas primarias o refractarias. La 
+disfunción orgánica producida por la sobrecarga férrica requerirá de 
+flebotomías periódicas (indicadas con niveles séricos de hierro >500 
+p.g/1) y el uso de quelantes de hierro (deferroxamina y deferasirox) en 
+pacientes que requieran transfusiones sanguíneas frecuentes. Las 
+formas refractarias (síndromes mielodisplásicos) se relacionan con 
+una probabilidad de 5% de desarrollar leucemia.
+ANEMIA MEGALOBLÁSTICA
+La anemia macrocítica, definida por un volumen corpuscular
+medio (VCM) >100 fL, se clasifica en dos grandes grupos: 
+megaloblástica y no megaloblástica. La presencia de neutrófilos 
+hipersegmentados y plaquetas de gran tamaño en el extendido de 
+sangre periférica lleva al diagnóstico de anemia megaloblástica, la 
+cual afecta a las tres series hematopoyéticas y puede manifestarse 
+con pancitopenia. En la actualidad, la deficiencia de vitamina Bí2 
+(cianocobalamina) constituye la causa más común de anemia 
+megaloblástica. Por otro lado, la deficiencia de folato es cada vez 
+menos frecuente, en gran parte debido a la suplementación 
+alimentaria sistemática con ácido fólico. En contraste, la presencia 
+de neutrófilos y plaquetas morfológicamente normales sugiere una 
+anemia no megaloblástica, la cual suele asociarse a alteraciones en la 
+composición del colesterol de la membrana celular, secundarias a 
+trastornos sistémicos como la hepatopatía o el hipotiroidismo.
+/'JX
+°CA La deficiencia de vitamina Bi2 puede deberse a malabsorción 
+intestinal o a una secreción deficiente de factor intrínseco. Esta 
+última suele ser consecuencia de la destrucción autoinmune de las 
+células parietales gástricas, característica de la anemia perniciosa, 
+considerada la causa más frecuente de deficiencia de vitamina Bi2, 
+o bien de su remoción quirúrgica, como en el caso de una 
+gastrectomía. Asimismo, pacientes con síndrome de intestino corto, 
+asa ciega o infestación por parásitos intestinales pueden presentar
+171
+
+===PAGE 197===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+deficiencia debido a la alteración en la absorción en el íleon terminal, 
+sitio donde normalmente se lleva a cabo su captación.
+La deficiencia de ácido fólico puede ser causada por nutrición 
+precaria (alcoholismo), malabsorción (enfermedad yeyunal) o 
+aumento en los requerimientos (embarazo, diálisis, anemia 
+hemolítica); los anticonvulsivos y los anticonceptivos orales han sido 
+asociados con el desarrollo de anemia megaloblástica por deficiencia 
+de folato. La causa más frecuente de anemia megaloblástica por 
+deficiencia de ácido fólico en la edad pediátrica es la desnutrición de 
+tercer grado.
+En condiciones en las que la división celular está alterada, como la 
+falta de vitamina Bi2o ácido fólico necesario para la síntesis de ADN, 
+puede perderse la sincronización entre la maduración nuclear y 
+citoplasmática, lo que resulta en núcleos grandes e inmaduros en 
+relación con el citoplasma, junto con otros cambios megaloblásticos 
+(p. ej., células binucleadas). La base fundamental para la producción 
+del megaloblasto es la conversión inadecuada de desoxiuridina a 
+timidiIato (timidina), lo que provoca una ralentización de la síntesis de 
+ADN y un retraso en la maduración nuclear.
+El requerimiento diario de vitamina Bi2 es de 2-5 pg; las reservas 
+hepáticas equivalen a 2-5 mg, por lo que las manifestaciones clínicas 
+pueden tomar años en desarrollarse (puede ser más rápido en caso 
+de malabsorción). Algunas poblaciones muestran un riesgo elevado 
+de desarrollar anemia por deficiencia de vitamina Bí2; estas incluyen 
+a los pacientes con diabetes mellitus tipo 1, enfermedades Graves y 
+Addison, tiroiditis Hashímoto, hipoparatiroidismo primario, 
+insuficiencia ovárica primaria, miastenia gravis, vitÍligo y cáncer 
+gástrico.
+Los pacientes con deficiencia de vitamina Bí2 pueden presentar 
+un compromiso neurológico que precede a la aparición de la anemia 
+o la macrocitosis. La presencia de déficits neurológicos distingue a las 
+manifestaciones clínicas de la deficiencia de vitamina Bi2 de la de 
+folato; las formas tempranas pueden presentar parestesias, mientras 
+que los estados carenciales avanzados desarrollan trastornos en la 
+marcha (con pérdida de la percepción de la posición de las 
+articulaciones [degeneración medular combinada subaguda]), 
+confusión, pérdida de la memoria, arreflexia, delirio, demencia o 
+depresión. Además de las manifestaciones del síndrome anémico, la 
+carencia de ácido fólico puede acompañarse de glositis, 
+esplenomegalia y hepatomegalia.
+La evaluación diagnóstica de las anemias megaloblásticas 
+incluye la determinación de las concentraciones séricas de vitamina 
+B12, ácido fólico, homocisteína y ácido metilmalónico. La elevación 
+del ácido metilmalónico es específica de la deficiencia de vitamina Bi2, 
+ya que esta vitamina es cofactor esencial en la conversión de 
+metilmalonil-CoA a succinil-CoA; su ausencia provoca acumulación 
+del metabolito. Por otro lado, la homocisteína se encuentra elevada 
+tanto en la deficiencia de Bi2 como en la de folato, dado que ambos 
+son requeridos en la remetilación de homocisteína a metionina. Así, 
+un aumento aislado de homocisteína sugiere deficiencia de ácido 
+fólico, mientras que la elevación simultánea de ambos metabolitos 
+es indicativa de déficit de vitamina Bi2. La detección de 
+autoanticuerpos contra el factor intrínseco constituye la prueba de 
+elección para el diagnóstico de la anemia perniciosa.
+Imagen 3. Frotis de sangre periférica en un paciente con anemia 
+megaloblástica que muestra neutrófilos hipersegmentados.
+En las 48 horas siguientes a la administración parenteral de 
+folato o vitamina Bi2 comienza la normalización de las anormalidades 
+en la médula ósea; la normalización completa ocurre en 2-3 días y el 
+conteo reticulocitario alcanza su máximo en 4-10 días (si esta 
+respuesta se encuentra truncada, debe sospecharse la concurrencia 
+de una anemia ferropénica). El tratamiento de la deficiencia de 
+vitamina Bi2 con folato puede corregir la anemia y las anormalidades 
+medulares, pero también puede acelerar el desarrollo de las 
+anormalidades neurológicas. La dosis de vitamina Bi2 es de 1000 
+pg/día por 1-2 semanas, seguidas por 1000 pg/semana por 4 
+semanas, y un mantenimiento intramuscular de 100 o 1000 pg por el 
+resto de la vida. El remplazo oral de folato tiene una dosis de 1 mg/día.
+La recurrencia de la anemia en un paciente con un apego terapéutico 
+adecuado indica la presencia de otra causa, por lo que está indicada 
+la referencia a un hematólogo. La referencia al cardiólogo puede ser 
+necesaria en caso de que la descompensación cardiaca no responda 
+al tratamiento inicial. El tratamiento de la deficiencia de vitamina Bi2 
+puede complicarse con hipocalemia durante la primera semana.
+ANEMIA APLÁSICA
+El término de anemia aplásica abarca un grupo de desórdenes 
+caracterizados por pancitopenia y causados por insuficiencia de la 
+médula ósea (provocada por una exposición adquirida o una 
+asociación familiar).
+La mayoría de los casos no se asocia con ninguna exposición, y 
+alrededor del 90% son verdaderamente idiopáticos. Las anemias 
+aplásicas se encuentran más frecuentemente en individuos con edad 
+172
+
+===PAGE 198===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+>60 años, aunque se encuentra otro pico de incidencia a la edad de 
+15-25 años. De acuerdo con la GPC, en el Distrito Federal se encuentra 
+una incidencia de 4.8 casos nuevos por millón de habitantes/año 
+entre los menores de 15 años, mientras que entre los mayores de 15 
+años es de 4.1 casos nuevos por millón de habitantes/año 
+(información obtenida de población derechohabiente del Instituto 
+Mexicano del Seguro Social).
+La anemia aplásica adquirida se asocia con agentes físicos y 
+químicos, infecciones víricas o micobacterianas y otras causas 
+misceláneas. La anemia aplásica familiar se asocia con la 
+pancitopenia constitucional de Fanconi, el síndrome de Shwachman- 
+Diamond (insuficiencia pancreática en niños) y un defecto hereditario 
+putativo en la captación celular de folato.
+Entre las causas congénitas, la GPC destaca a la anemia de Fanconi, 
+una entidad de herencia autosómica recesiva manifestada al 
+nacimiento con alteraciones estructurales (aplasia o hipoplasia radial, 
+aplasia de los pulgares, malformaciones renales en morfología y 
+localización) y en la que las alteraciones hematológicas, talla baja y 
+pigmentación cutánea pueden encontrarse de forma tardía.
+La condición se presenta con palidez, equimosis, petequias y, 
+posiblemente, fiebre. El sangrado anormal es el motivo de consulta 
+más frecuente; otros síntomas incluyen fatiga, acortamiento de la 
+respiración, angina, menorragia, moretones, epistaxis, fiebre y 
+faringitis. La exploración física puede revelar palidez, equimosis, 
+petequias, hemorragia retiniana, ulceraciones en boca, lengua y soplo 
+sistólico; las formas congénitas pueden incluir talla baja \o 
+anormalidades esqueléticas o ungueales.
+El objetivo crítico es la distinción entre las formas de 
+intensidad moderada y las severas. El diagnóstico definitivo requiere 
+de la obtención de una biopsia de médula ósea que demuestre 
+hipocelularidad y la ausencia de una anormalidad cromosómica 
+(común en los síndromes mielodisplásicos).
+Las causas más comunes de anemia (deficiencia de hierro, vitamina 
+B12 o folato, alcoholismo) deben descartarse antes de la obtención de 
+la biopsia medular. El abordaje diagnóstico puede incluir un 
+hemograma completo con diferencial y conteo reticulocitario, 
+serología para los virus de la hepatitis B y C, y la tomografía 
+computarizada abdominal (investigación de esplenomegalia).
+de orina, serologías para los virus de la inmunodeficiencia humana, 
+Epstein-Barr, parvovirus y citomegalovirus, y la detección de 
+hemoglobina F.
+Ante sospecha de anemia aplásica se recomienda la 
+hospitalización y referencia a un hematólogo para la obtención de 
+un aspirado y biopsia de médula ósea. La GPC indica que deben 
+referirse al tercer nivel de atención los casos debutantes, conocidos 
+portadores o con manifestaciones relacionadas con falla medular 
+(anemia, infección, hemorragia).
+El tratamiento de elección es el trasplante alogénico de médula ósea 
+(recuperación completa en >80% de los casos con donador 
+compatible, de acuerdo con la GPC), o el tratamiento inmunosupresor 
+con inmunoglobulina antitimocito (con o sin ciclosporina; respuesta 
+en 60-80% de los casos según la GPC) en caso de que el paciente no 
+sea candidato a trasplante (por su edad o carencia de donador). El 
+tratamiento inmunosupresor puede recurrir también a corticoides y 
+factores estimuladores de colonias de granulocitos. El tratamiento 
+suplementario consiste en la transfusión de plaquetas y paquetes 
+globulares, así como la prevención y tratamiento de infecciones. El 
+manejo requiere la ¡nstituciorv de medidas meticulosas para la 
+prevención de infecciones (lavado de manos, uso de guantes y 
+cubrebocas, aislamiento).
+El diagnóstico conlleva una mortalidad de 67% en los 6 meses 
+siguientes, principalmente como consecuencia de infección o 
+sangrado; la mortalidad a un año sin tratamiento es de 80-90%. En la 
+mayoría de los casos persiste alguna anormalidad en los conteos 
+celulares, incluso cuando se consideran curados. La trombocitopenia 
+es el problema a largo plazo más común. Los pacientes pueden 
+desarrollar desórdenes hematológicos clónales tardíos, como 
+hemoglobinuria paroxística nocturna, mielodisplasia o leucemia 
+mielocítica aguda. La edad es un factor pronóstico significativo; la 
+incidencia de la enfermedad de injerto contra hospedero es >90% 
+entre los mayores de 30 años (aunque algunos centros consideran 
+candidatos a pacientes de hasta 50 años).
+ANEMIA HEMOLÍTICA
+Implica la destrucción de los eritrocitos; puede asociarse con el 
+hallazgo de aumentos en los niveles de bilirrubina (no-conjugada), 
+conteo reticulocitario y deshidrogenasa láctica, o cifras indetectables 
+de haptoglobina.
+La GPC establece que el abordaje debe incluir el interrogatorio sobre 
+antecedentes familiares de malformaciones constitucionales y 
+antecedentes personales de infecciones víricas y del tracto urinario, 
+inmunizaciones y exposición a toxinas, medicamentos y 
+transfusiones, así como una exploración física dirigida a la 
+identificación de adenopatías, hepatomegalia y esplenomegalia. A los 
+paraclínicos mencionados, la GPC añade para la población pediátrica 
+el hemotipo, pruebas de funcionamiento hepático, examen general
+173
+
+===PAGE 199===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 3. Causas de anemia hemoiítica
+Adquiridas Inmunes Autoinmune
+Inducida por fármacos
+Aloinmune
+Traumáticas PTT
+(microangiopáticas, SHU
+macroangiopáticas) síndrome de HELLP
+Coagulación intravascular 
+diseminada
+Vasculitis (causa rara)
+Eclampsia
+Hipertensión maligna
+Válvulas cardiacas 
+protésicas
+Injertos arteriales
+Hiperesplenismo
+Anormalidades Acantocitos (eritrocitos
+membranales "en espuela")
+Equinocitos (eritrocitos 
+"en erizo")
+Hemoglobinuria 
+paroxística nocturna
+Daño térmico 
+(quemaduras)
+Infección Malaria
+Babesiosis
+Bartonelosis
+Toxina de Clostridium
+Daño osmótico Ahogamiento en agua
+dulce
+Hereditarias Alteraciones en la Esferocitosis
+o membrana Eliptocitosis
+congénitas eritrocitaria Piropoiquilocitosis
+Estomatocitosis
+Alteraciones Deficiencia de G6PD
+enzimáticas Deficiencia de piruvato-
+eritrocitarias cinasa
+Deficiencias enzimáticas 
+más raras en la vía 
+Embden-Meyerhof-Pamas, 
+puenteo de la hexosa- 
+monofosfato o el 
+metabolismo de 
+nucleótidos
+Hemoglobinopatías Drepanocitosis
+Talasemias
+Hemoglobinas S, C, D, E
+Hemoglobinas inestables
+Hemoglobinopatías más
+raras
+PTT: Púrpura Trombocitopénica Trombótica. SHU: Síndrome
+Hemolítíco Urémico.
+Existen dos localizaciones de la destrucción eritrocitaria:
+• Hemolisis extravascular: los eritrocitos opsonizados son 
+fagocitados por las células del sistema retículoendotelial en el 
+hígado y bazo, donde la hemoglobina es fragmentada por 
+enzimas lisosómicas. El hierro es almacenado o reciclado a la 
+médula ósea, mientras que el grupo hemo es degradado en 
+bilirrubina. Estos cuadros presentan elevación en los niveles de 
+deshidrogenasa láctica y bilirrubina indirecta y el conteo 
+reticulocitario, esferocítos en el extendido de sangre periférica 
+y positividad en la prueba Coombs en caso de ser secundaria a 
+producción de anticuerpos IgG. Incluye a las anemias 
+hemoliticas autoinmunes por anticuerpos calientes y la 
+secundaria a crioaglutininas.
+• Hemolisis intravascular: ocurre con la hemoglobinuria 
+paroxística nocturna, hemoglobinuria paroxística fría, púrpura 
+trombocitopénica trombótica (P7T), síndrome hemolítico- 
+urémico (SHU) y coagulación intravascular diseminada. El 
+eritrocito es destruido en la luz vascular, donde la hemoglobina 
+se disocia en los dímeros a y p (que se unen a la haptoglobina) o 
+se convierte en metahemoglobina. Estas anemias hemolíticas 
+presentan hemoglobinuria, aumento del conteo reticulocitario, 
+esquistocitos en el extendido de sangre periférica, aumento de 
+los niveles de deshidrogenasa láctica y bilirrubina indirecta y 
+descenso de los de haptoglobina; si la prueba Coombs es 
+positiva, debe sospechar hemoglobinuria paroxística fría.
+TALASEMIA
+El término engloba a un conjunto de trastornos congénitos
+(heredados en patrón autosómico recesivo) caracterizados por la 
+deficiencia en la síntesis de una o más de las cadenas polipeptídicas 
+de la hemoglobina; en la mayoría de los casos, la deficiencia de 
+globinas es cuantitativa y las moléculas son estructuralmente 
+normales.
+■o Algunas variantes estructurales de la globina producen 
+síndromes talasémicos; las interacciones entre las diferentes formas 
+de talasemia y otras hemoglobinopatías son comunes (la 
+drepanocitosis puede ser heredada en conjunto con un gen 
+talasémico). En ausencia de las cadenas de globina complementarias, 
+las cadenas que son sintetizadas de forma normal forman 
+agregados, se precipitan en el citoplasma, dañan las membranas 
+celulares y llevan a la destrucción corpuscular prematura. En los 
+síndromes talasémicos frecuentemente se encuentran 
+hematopoyesis inefectiva y hemolisis, que llevan al desarrollo de 
+anemia. Los síndromes talasémicos constituyen el trastorno genético 
+más común a nivel mundial (3-5% en los diferentes grupos étnicos); la 
+enfermedad tiene una prevalencia mayor entre los afroamericanos, 
+las personas de ascendencia italiana o griega y los habitantes del 
+sureste asiático.
+174
+
+===PAGE 200===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+La talasemia P resulta en un exceso de globinas-a, llevando a la 
+formación de tetrámeros de globina-a que se acumulan en el 
+eritroblasto; la mayoría de los casos es resultado de una deleción 
+génica en el cromosoma 11. La talasemia a resulta en un exceso de 
+globinas-p, llevando a la formación de tetrámeros de globina-p 
+llamados hemoglobina H; la mayoría de los casos es resultado de 
+sustituciones de nucleótido o deleciones génicas en el cromosoma 16.
+La clasificación clínica depende del fenotipo, encontrándose las
+formas mayor, intermedia, menor y silente. La consulta suele ser 
+motivada por las manifestaciones del síndrome anémico (cansancio, 
+intolerancia al ejercicio) o dolor abdominal (hiperesplenismo, infarto 
+esplénico) o en el cuadrante superior derecho (colelitiasis). El rasgo 
+talasémico no presenta manifestaciones, mientras que las otras 
+formas de talasemia pueden asociarse con palidez, falla de medro, 
+ingesta inadecuada, esplenomegalia, ictericia, hiperplasia maxilar y 
+maloclusión dentaria (causadas por la hiperplasia eritroide), 
+colelitiasis, soplo sistólico y fracturas patológicas. Las talasemias se 
+caracterizan por cursar con anemia microcítica hipocrómica.
+Las formas sintomáticas suelen no presentar un problema 
+diagnóstico; el diagnóstico es obvio con la electroforesis de 
+hemoglobina. El abordaje diagnóstico debe incluir hemograma, 
+hematocrito, extendido de sangre periférica, ferritina, transferrina, 
+TIBC, bilirrubina, electroforesis de hemoglobina y determinaciones 
+urinarias de urobilina y urobilinógeno. El aspirado de médula ósea y 
+el análisis de los genes de globina pueden realizarse por un 
+especialista (este último en caso de que la historia familiar no 
+explique completamente el genotipo).
+El manejo primario de las talasemias dependientes de
+transfusiones incluye a la terapia transfusional (inicio cuando la 
+concentración de hemoglobina es <7 g/dl, meta de >9.3 g/dl; dosis de 
+15 ml/kg cada 3-5 semanas), esplenectomía (recomendada con 
+requerimientos transfusionales >200-250 ml/kg/año, diferida hasta la 
+edad de 4-6 años y precedida por la vacunación antineumocócica), 
+quelación de hierro (deferoxamina con o sin dosis bajas de ácido 
+ascórbico) y trasplante de médula ósea.
+Durante la progresión de la enfermedad son esenciales la atención de 
+infecciones intercurrentes, la protección contra enfermedades 
+transmitidas por la sangre (vacunación contra el virus de la hepatitis 
+B antes del inicio de las transfusiones) y el manejo de las 
+complicaciones endocrinas y cardiacas de la hemosiderosis. Los 
+pacientes con talasemia intermedia y otros que son capaces de 
+mantener concentraciones de hemoglobina >7.5 g/dl suelen no 
+requerir tratamiento transfusional crónico.
+En general, los casos leves pueden vigilarse de forma ambulatoria, ya 
+que no requieren tratamiento. La terapia de reposición de hierro debe 
+evitarse a menos que se documente bioquímicamente la ferropenia. 
+Como una anemia hemolítica crónica, la suplementación de folato
+puede ser necesaria durante el embarazo y periodos de ingesta 
+dietética marginal. Las malformaciones faciales pueden requerir 
+corrección quirúrgica y ortodoncia.
+Cuadro 4. Diagnóstico de los síndromes talasémicos
+Formas sintomáticas
+Talasemia a Hidropesía fetal
+mayor
+Enfermedad de Anemia moderada o severa con 
+la hemoglobina requerimiento transfusional para sobrevivir. 
+H Confirmación por la presencia de
+hemoglobina H en la electroforesis; 20-40% 
+de los casos presenta hemoglobina Bart 
+(deleción de los 4 genes de globina-a) al 
+nacimiento.
+Disminución del nivel de HbA2. 
+Una banda de migración más lenta que la 
+HbA2 se encuentra en los individuos con 
+hemoglobina Constant Spring.
+Talasemia p 
+mayor (anemia 
+Cooley)
+Talasemia
+Anemia severa y alteraciones morfológicas 
+de los eritrocitos circulantes detectadas en 
+las primeras 6 semanas de vida extrauterina; 
+esplenomegalia a la edad de 8 semanas. 
+Sin transfusión, la concentración de 
+hemoglobina llega lentamente a niveles <3-5 
+g/dl (dependencia transfusional). 
+Conteo reticulocitario elevado (5-15%), 
+aumento variable de HbA2, aumento de la 
+hemoglobina fetal, sobrecarga de hierro. 
+Manifestaciones similares a las de las
+intermedia talasemias mayores, pero menos intensas. 
+Concentración de hemoglobina de 6-9 g/dl 
+sin transfusión.
+Patrón electroforético altamente variable.
+Formas asintomáticas
+Talasemia a 
+menor
+Talasemia P 
+menor
+Desorden sospechado en neonatos con 
+disminución del volumen corpuscular (<94 fl) y 
+aumento en la hemoglobina Bart (su ausencia no 
+descarta el diagnóstico).
+Confirmación posible a través de estudios 
+familiares
+Diagnóstico definitivo al demostrar la
+disminución en la tasa de producción de cadenas 
+a en los reticulocitos
+La talasemia p heterocigota se confirma con los 
+siguientes criterios:
+• Aumento de HbA2
+• Microcitosis
+• Hipocromía
+• Células "en diana"
+• Puntilleo basófilo
+La electroforesis demuestra el predominio de 
+HbA, aumento de HbA2 (3.5-8%) y hemoglobina 
+fetal normal o mínimamente elevada; 50% de los 
+casos presenta elevación de la hemoglobina fetal 
+(1-3%).
+175
+
+===PAGE 201===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+DREPANOCITOSIS
+La anemia de células falciformes (ACF), es una enfermedad 
+eritrocitaria causada por una mutación autosómica recesiva de un 
+gen único en la cadena 0 de globina (sustitución de ácido glutámico 
+por valina en la posición 6) de la hemoglobina adulta (HbA) que 
+produce una forma mutante llamada hemoglobina falciforme (HbS).
+“ La ACF ocurre si la HbS es heredada de ambos progenitores 
+(genotipo HbSS). Otras formas de la enfermedad de células 
+falciformes (ECF) ocurren si la HbS es heredada de un progenitor y 
+otra hemoglobina anormal, como la hemoglobina C (HbC) o la 
+talasemia 0 (resultando en los genotipos HbSC o HbS0-talasemia), del 
+otro progenitor.
+El término ACF se refiere al genotipo HbSS (los individuos 
+heterocigotos son portadores del rasgo y no sufren crisis dolorosas), 
+mientras que ECF lo hace al resto de los genotipos. Es una de las 
+enfermedades hereditarias más frecuentes en el mundo; predomina 
+en ciertos grupos étnicos, particularmente las poblaciones africanas y 
+afroamericanas. El rasgo o la enfermedad falciforme tienen un efecto 
+protector contra la malaria; en las regiones endémicas a esta 
+parasitosis se ha producido una selección positiva de la mutación.
+La HbS confiere propiedades anormales a los eritrocitos; estos se 
+destruyen fácilmente y su forma de hoz puede interrumpir el flujo 
+sanguíneo. Las cadenas 0 de globina conservan su capacidad de 
+fijación de oxígeno, pero son menos solubles en la sangre 
+desoxigenada. Bajo condiciones de disminución en la tensión de 
+oxígeno, la interacción entre el residuo anormal de valina y las 
+regiones complementarias en las moléculas adyacentes resulta en la 
+formación de polímeros en forma de bastón, que se agregan y 
+provocan la disrupción del citoesqueleto, deformando al eritrocito y 
+volviéndolo frágil y poco deformable
+La HbS también resulta dañina para la membrana eritrocitaria, ya que 
+provoca la separación de esta y el citoesqueleto proteico; esto lleva a 
+la exposición de epítopes proteicos transmembranales y glucolípidos 
+de carga negativa que normalmente se encuentran en el interior de 
+la célula. Los efectos subsecuentes de esta exposición incluyen la 
+deshidratación celular, daño oxidativo, aumento de la adherencia a 
+las células endoteliales y un estado de inflamación y hemolisis 
+crónicas.
+La HbS se asocia a grados variables de anemia, predisposición 
+a la obstrucción de capilares sanguíneos (causando crisis dolorosas y 
+daño a órganos vitales) y aumento en la susceptibilidad a infecciones 
+severas (Haemophilus influenzae, Streptococcus pneumoniae, 
+Staphylococcus aureus, Salmonella spp). Los neonatos suelen 
+encontrarse asintomáticos, con la aparición de las manifestaciones al 
+disminuir los niveles de hemoglobina fetal (HbF) a los 4-6 meses de 
+edad (debut a la edad de 6-12 meses). La presentación clínica aguda 
+más común es la crisis dolorosa, especialmente en la forma de la 
+inflamación dolorosa de manos y pies (síndrome mano-pie) o 
+dactilitis. Las manifestaciones clínicas varían ampliamente entre 
+pacientes y pueden deberse a las crisis vasoclusivas agudas o a la 
+hemolisis crónica y la anemia resultante.
+Cuadro 5. Manifestaciones de la drepanocitosis
+Agudas Crónicas
+• Síndrome torácico agudo • Cansancio excesivo,
+(dolor y fiebre por la fatigabilidad,
+formación de drepanocitos disminución de la
+en la vasculatura tolerancia al ejercicio
+pulmonar) • Dolor, particularmente
+• Crisis dolorosas (dolor en la espalda y las
+persistente, caderas
+particularmente en el • Retraso en el
+esqueleto [infartos óseos], crecimiento y desarrollo
+tórax o abdomen) • Ictericia, palidez
+• Infección • Trastornos visuales
+• Dactilitis (percepción de cuerpos
+• Secuestro esplénico (dolor flotantes)
+abdominal por • Retinopatía
+esplenomegalia) prol iterativa,
+• Accidente cerebrovascular neovascularización o
+(déficits neurológicos hemorragia retiniana
+súbitos, cambios en el • Hepatomegalia o
+estado mental) esplenomegalia
+• Colecistitis • Cardiomegalía con
+• Pérdida de la visión precordio
+• Priapismo hiperdinámico
+• Crisis aplásicas causadas • Úlceras en las piernas
+por infecciones víricas • Deformidades óseas
+• Orina clara (alteración 
+en la capacidad de 
+concentración urinaria)
+Algunos individuos pueden permanecer completamente 
+asintomáticos hasta la niñez tardía o el diagnóstico puede obtenerse 
+incidentalmente. En la mayoría de los pacientes se considera el curso 
+de una asplenia funcional instaurada en la niñez temprana (debida a 
+las crisis repetitivas y los infartos esplénicos subsecuentes).
+Actualmente se cuenta con pruebas de tamizaje neonatal en 
+papel filtro. El diagnóstico debe confirmarse mediante la 
+electroforesis de hemoglobina, complementado con hemograma, 
+conteo reticulocitario y extendido de sangre periférica. Tan pronto 
+como el diagnóstico se confirme, el paciente debe referirse a una 
+unidad especializada para su educación, consejería genética y 
+seguimiento rutinario. Los niveles de hemoglobina, hematocrito, 
+conteos reticulocitario y leucocitario, hierro sérico y marcadores de 
+función renal y hepática deben cuantificarse al menos de forma 
+anual; también es necesaria la obtención periódica de urianálisis en 
+busca de hematuria o proteinuria persistente (los niveles séricos de 
+creatinina carecen de sensibilidad en el escrutinio debido a que esta 
+es hipersecretada). Dado que no se cuenta con un parámetro 
+176
+
+===PAGE 202===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+laboratorial que confirme el curso de una crisis vasoclusiva, el 
+diagnóstico depende del reconocimiento del cuadro clínico con 
+disminución del hematocrito y aumento del conteo reticulocitario.
+Los niños diagnosticados con SCD deben recibir cuidados 
+estándar, inmunizaciones (influenza, polisacárido meningocócico) y 
+profilaxis con penicilina (desde la edad de 2 meses hasta los 5 años), 
+además de atención meticulosa a la educación de los cuidadores en 
+la toma de la temperatura corporal y la vigilancia de manifestaciones 
+que puedan indicar una enfermedad en evolución; se recomienda la 
+aplicación de la vacuna de polisacáridos neumocócicos a todos los 
+pacientes inmunocompetentes con edad >2 años.
+El paso inicial en el manejo de los episodios agudos es la 
+rehidratación, ya que pueden encontrarse grados variables de 
+deshidratación como detonadores de las crisis vasoclusivas o como 
+consecuencia de la pérdida de la capacidad de concentración urinaria; 
+las formas leves pueden tratarse mediante la reposición oral, 
+mientras que la deshidratación severa requiere el manejo del estado 
+de choque con soluciones isotónicas. Es necesario recordar que los 
+pacientes mayores tienen la posibilidad de haber desarrollado 
+hipertensión pulmonar, por lo que el estado circulatorio debe 
+vigilarse estrechamente durante la reposición de volumen.
+Las transfusiones sanguíneas están indicadas en caso de 
+exacerbaciones anémicas agudas, después de un episodio que 
+amenazó la vida (accidente cerebrovascular, síndrome torácico 
+agudo, crisis esplénica) o antes de procedimientos de riesgo elevado 
+(cirugía). Los episodios de priapismo requieren una consulta 
+urológica inmediata, hidratación intravenosa, suplementación de 
+oxígeno (en caso de hipoxia documentada) y uso de opioides 
+parenterales; pueden considerarse la administración intracavernosa 
+de agentes vasoactivos, aspiración e irrigación, y el puenteo peneano.
+El trasplante de médula ósea es el único tratamiento curativo, pero 
+su uso es infrecuente debido a la carencia de donador, costo elevado 
+y riesgos asociados (mortalidad de 10% en los niños). La Hidroxiurea 
+se emplea para inducir la síntesis de HbF, con lo que se reducen la 
+frecuencia de las crisis dolorosas y los requerimientos transfusionales. 
+La terapia con eritropoyetina puede requerirse en los pacientes que 
+desarrollan enfermedad renal terminal. Puede ser necesaria la 
+suplementación de ácido fólico, especialmente durante el embarazo. 
+El manejo del dolor (uno de los síntomas más debilitantes de la 
+enfermedad), en sus formas agudas y crónicas, sigue los principios 
+básicos de la analgesia con el uso de acetaminofén, AINE y opioides. 
+El manejo de las úlceras en las piernas puede requerir reposo, 
+cuidados generales, antibióticos, desbridamiento, alivio del dolor e 
+injertos cutáneos.
+Sin trasplante de médula ósea, la expectativa de vida es de 42 años 
+para los varones y de 48 años para las mujeres. Las complicaciones 
+requieren la referencia urgente a un especialista y la institución de 
+un tratamiento emergente; estas incluyen crisis vasoclusivas 
+dolorosas, déficits del sistema nervioso central, neumonía o síndrome 
+de tórax falciforme agudo, oclusión mesentérica e isquemia intestinal, 
+secuestro esplénico o hepático, colecistitis, necrosis papilar aguda 
+(resultando en cólico o hematuria severa), priapismo, hifema y 
+desprendimiento retiniano.
+El problema más frecuente durante el embarazo de una paciente con 
+drepanocitosis es el retardo en el crecimiento intrauterino; en 
+ausencia de vigilancia médica, las tasas de mortalidad materna y 
+neonatal son de 20% y 50%, respectivamente.
+ESFEROCITOSIS HEREDITARIA
+Es un trastorno de agrupamiento familiar caracterizado por 
+hemolisis con heterogeneidad clínica marcada. El origen de la 
+hemolisis se encuentra en anormalidades de las proteínas 
+membranales eritrocitarias (espectrina a, espectrina 0, ankirina, 
+banda 3, proteína 4.2). La GPC indica que esta es la anemia hemolítica 
+hereditaria más frecuente en México.
+Las manifestaciones incluyen al síndrome anémico en 
+intensidad variable e ictericia recurrente con o sin esplenomegalia; 
+son raras la ulceración cutánea, gota, dermatitis crónica de las 
+piernas, cardiomiopatía, disfunción de la médula espinal, trastornos 
+del movimiento y hematopoyesis extramedular (retardo en el 
+crecimiento, deformidades craneales y de la mano). En el hemograma 
+se encuentra característicamente una anemia con elevación en la 
+concentración corpuscular media de hemoglobina (£36 pg/célula). 
+Estas manifestaciones suelen acompañarse por reticulocitosis e 
+hiperbilirrubinemia no conjugada.
+Cuadro 6. Trastornos asociados con la presencia de esferocitos 
+en el extendido de sangre periférica
+Esferocitosis hereditaria Anemia hemolítica
+autoinmune
+Lesiones térmicas Enfermedad hepática
+Hemolisis microangiopática y 
+macroangiopática
+Ciertos venenos de serpiente, 
+araña e himenóptero
+Incompatibilidad de grupo ABO 
+(neonatos)
+Reacciones transfusionales con
+hemolisis
+Septicemia por clostridios Hipofosfatemia severa
+Anemias con cuerpos Heinz
+La GPC establece que el abordaje diagnóstico debe incluir el 
+interrogatorio de antecedentes familiares de esferocitosis, 
+colelitiasis, colecistectomía y esplenectomía, así como antecedentes 
+personales de ictericia neonatal o recurrente, exanguinotransfusión, 
+hemotransfusión y esplenomegalia. Ante la sospecha de esferocitosis 
+hereditaria (habiendo descartado la ferropenia, la hemolisis 
+autoinmune y la ictericia obstructiva) debe realizarse una prueba de 
+fragilidad osmótica con cloruro de sodio en sangre incubada y 
+evaluación del extendido de sangre periférica (identificación de 
+esferocitos sin palidez central).
+177
+
+===PAGE 203===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+La referencia al segundo nivel de atención está indicada ante la 
+sospecha de esferocitosis hereditaria por antecedentes familiares o 
+manifestaciones en el paciente estudiado, mientras que la referencia 
+al tercer nivel de atención se indica cuando la unidad de segundo nivel 
+no cuenta con un servicio de hematología o los medios para la 
+confirmación del diagnóstico. El tratamiento de soporte de las formas 
+de intensidad moderada o grave incluye la administración de ácido 
+fólico (2.5 mg/día en menores de 5 años y 5 mg/día en mayores de 5 
+años de acuerdo con la GPC, 1 mg/día de acuerdo con la bibliografía 
+extranjera) y la transfusión de concentrados eritrocitarios. Esta última 
+encuentra las siguientes indicaciones:
+• Anemia sintomática acompañada por infecciones.
+• Crisis aplásica.
+• Esferocitosis hereditaria en gestantes.
+La esplenectomía (preferentemente en los mayores de 6 años) está 
+indicada en las presentaciones moderadas y graves o con litiasis 
+vesicular sintomática. El procedimiento debe ser precedido (2 
+semanas) por la verificación y administración de las inmunizaciones 
+contra neumococo, meningococo y Haemophilus influenzae tipo b; si 
+el procedimiento se realiza de forma urgente las inmunizaciones 
+deben aplicarse en el posquirúrgico inmediato. En los 6 meses 
+posteriores a la esplenectomía se indica la profilaxis antibiótica con 
+lactámicos-p (macrólidos en individuos alérgicos).
+Las complicaciones potenciales de la enfermedad incluyen la litiasis 
+vesicular, las crisis aplásicas por parvovirus B19 y la anemia 
+megaloblástica por deficiencia de ácido fólico.
+DEFICIENCIA DE G6PD
+La deficiencia de la deshidrogenasa de glucosa-6-fosfato 
+(G6PD) corresponde a un grupo de trastornos de herencia ligada al 
+cromosoma X, en los que los eritrocitos son susceptibles a la 
+hemolisis inducida por estrés oxidativo (infecciones, consumo de 
+habas o ciertos medicamentos, infarto miocárdico, cetoacidosis 
+diabética). La deficiencia de G6PD es más frecuente en poblaciones 
+africanas, del Medio Oriente, mediterráneas y asiáticas.
+La mayoría de las personas con la deficiencia cursan 
+asintomáticas a lo largo de la vida. El cuadro clínico consta de crisis 
+hemolíticas agudas y/o de ictericia neonatal severa. Los hallazgos 
+paraclínicos son los de una anemia hemolítica no esferocítica y 
+negativa a antiglobulinas, con células "mordidas" en el extendido de 
+sangre periférica después de la exposición a una condición oxidante. 
+Los medicamentos potencialmente causantes de las crisis oxidativas 
+son primaquina, dapsona, sulfonamidas, sulfonas, nitrofurantoína, 
+quinolonas, ácido acetilsalicílico, flutamida y vitamina K.
+El estudio de escrutinio es la prueba de mancha fluorescente 
+semicuantitativa, mientras que el estudio confirmatorio estándar es 
+el análisis cuantitativo de la actividad de G6PD. Estas pruebas deben 
+obtenerse 2-3 meses después de una crisis hemolítica, transfusión o 
+tratamiento de ictericia neonatal, para evitar los falsos negativos.
+La expectativa de vida es normal si las crisis hemolíticas y la 
+ictericia neonatal son tratadas deforma efectiva.
+ANEMIA HEMOLÍTICA AUTOINMUNE
+**' La anemia hemolítica autoinmune es causada por la hemolisis 
+inducida por anticuerpos (destrucción prematura de los eritrocitos 
+circulantes) usualmente idiopática, aunque también puede asociarse 
+con infecciones, trastornos linfoproliferativos, enfermedades 
+autoinmunes y ciertos fármacos.
+Todas las formas pueden compartir manifestaciones como 
+fatiga, disnea, malestar, deslumbramiento o mareo, sensación de 
+calor y frío con escalofríos, plenitud abdominal (esplenomegalia), 
+ictericia, coluria, palidez, taquicardia, palpitaciones, soplos sistólicos 
+y, ocasionalmente insuficiencia cardiaca congestiva. Clásicamente se 
+reconocen dos grupos:
+• Enfermedad caliente:
+o Anemia hemolítica autoinmune caliente (50-70%): mediada 
+por anticuerpos IgG, el complemento (C3d) o ambos; el 
+extendido de sangre periférica revela la presencia de 
+esferocitos, los eritrocitos fagocitados son secuestrados en el 
+bazo. Se presenta típicamente en mayores de 50 años en una 
+forma aguda (anemia de instauración rápida, dolor abdominal 
+o lumbar) o crónica (inicio gradual, fiebre, ictericia). Responde 
+al tratamiento con corticoides y al manejo de la enfermedad 
+subyacente (las formas refractarias pueden requerir 
+inmunosupresión prolongada o esplenectomía). Las formas 
+secundarias pueden producirse por desórdenes 
+linfoproliferativos (linfoma no-Hodgkin, enfermedad de 
+Hodgkin, leucemia linfocítica crónica, linfomas linfocíticos, 
+hemoglobinuria de Waldenstróm), enfermedades 
+autoinmunes (lupus eritematoso sistémico), infección por el 
+VIH o fármacos (cladribina, fludarabina).
+• Enfermedad fría:
+o Enfermedad crónica por aglutininasfrías (16-32%): destrucción 
+eritrocitaria inducida por el frío (0-18? C) y mediada por IgM 
+(raro) y el complemento (C3d, siempre); el frotis sanguíneo 
+revela la presencia de agregados eritrocitarios, los títulos de 
+crioaglutininas suelen ser muy altos. Usualmente se presenta 
+en mayores de 50 años con episodios de coluria e ictericia, 
+además de acrocianosis (manos, pies, lóbulos auriculares, 
+nariz). A veces se resuelve evitando el frío (las formas 
+idiopáticas suelen hacerlo, presentando recurrencias
+178
+
+===PAGE 204===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+intermitentes) y es raro que progrese a insuficiencia renal. Es 
+necesaria la investigación del diagnóstico de linfoma de 
+células B, que determinaría un tratamiento específico. Los 
+corticoides suelen no ser de utilidad, y la esplenectomía lo es 
+sólo ocasionalmente. Las formas secundarias pueden 
+producirse por infecciones (VEB, Mycoplasma pneumoniae, 
+CMV, parotiditis), desórdenes linfoproliferativos (linfoma no- 
+Hodgkin, enfermedad de Hodgkin, leucemia linfocítica crónica, 
+linfomas linfocíticos, hemoglobinuria de Waldenstróm) y 
+fármacos (a-metildopa, dosis altas de penicilina, 
+cefalosporinas de segunda y tercera generación).
+o Hemoglobinuria fría paroxística (1%): enfermedad rara 
+inducida más frecuentemente por los autoanticuerpos (IgG) 
+Donath-Landsteiner (primarios, postvirales o relacionados con 
+la sífilis) a temperaturas frías en niños y adultos jóvenes; el 
+diagnóstico depende de la presentación clínica, ya que la 
+determinación de los autoanticuerpos no es rutinaria. Las 
+manifestaciones incluyen fiebre, escalofríos, molestias 
+abdominales, náusea y dolor en la espalda o las piernas. La 
+prueba de Coombs directa detecta IgG y fracciones del 
+complemento patológicas, mientras que la prueba indirecta es 
+negativa. Frecuentemente es aguda y severa, aunque de 
+duración breve y autolimitada. Es raro que progrese a la 
+insuficiencia renal, linfoma franco o muerte.
+Los hallazgos paraclínicos característicos incluyen anemia 
+(hematocrito <37% en mujeres, <40% en varones) con elevación del 
+conteo reticulocitario (>3%; conteos absolutos >2.4% en mujeres y 
+>2.6% en varones) en ausencia de hemorragia, positividad para la 
+prueba de antiglobulina (Coombs) directa (una minoría de los casos 
+presenta un resultado falsamente negativo), y esferocitos o 
+agregados eritrocitarios en el extendido de sangre periférica.
+La evaluación inicial del paciente con anemia debe incluir 
+hemograma con conteo reticulocitario, pruebas de función hepática 
+(bilirrubina, deshidrogenasa láctica), haptoglobina y detección de 
+sangre en la orina. Si estas pruebas sugieren el diagnóstico de anemia 
+hemolítica autoinmune, es necesaria la identificación de los 
+anticuerpos característicos mediante el extendido de sangre 
+periférica, la prueba de Coombs directa (detección de 
+autoanticuerpos unidos a la membrana eritrocitaria) e indirecta 
+(detección de autoanticuerpos libres), detección de hemosiderina en 
+la orina (azul de Prusia u otras tinciones para hierro) la titulación de 
+aglutininas frías y la detección de autoanticuerpos Donath- 
+Landsteiner.
+La presencia de una concentración de hemoglobina <4 g/dl, 
+edema pulmonar o amenaza a la función cardiaca o cerebral, el 
+cuadro constituye una emergencia médica y requiere de tratamiento 
+transfusional. Todos los pacientes con anemia hemolítica 
+autoinmune deben referirse a una unidad de segundo o tercer nivel. 
+La GPC establece que el tratamiento inicial de la anemia hemolítica 
+autoinmune puede emplear prednisona o metilprednisolona. En el
+caso de la anemia hemolítica autoinmune por anticuerpos fríos, no se 
+cuenta con un tratamiento farmacológico específico. En caso de que 
+el tratamiento con corticoides sea ineficaz o exista 
+corticodependencia, debe realizarse la esplenectomía; si después de 
+este procedimiento persiste la hemolisis con concentraciones de 
+hemoglobina <10 g/dl puede optarse por alternativas farmacológicas 
+como rituximab, ciclofosfamida, azatioprina, micofenolato, 
+ciclosporina-A o alemtuzumab. El tratamiento con inmunoglobulina 
+debe reservarse para niños, pacientes adultos con enfermedades 
+pulmonares y cardiacas que requieran transfusión o casos crónicos 
+refractarios. La bibliografía internacional agrega las siguientes 
+especificaciones:
+• Anemia hemolítica autoinmune caliente: en los pacientes 
+ancianos o en los casos menos agresivos, puede ser preferible no 
+proporcionar un tratamiento. Los corticoides son los agentes de 
+elección en el manejo los casos sintomáticos e inestables. 
+Danazol (ocasionalmente en combinación con corticoides), 
+inmunoglobulina intravenosa, esplenectomía, ciclofosfamida, 
+azatioprina y rituximab son otras modalidades terapéuticas que 
+pueden considerarse. Las transfusiones de paquetes globulares 
+pueden ser necesarias en las formas severas que amenazan la 
+vida.
+• Enfermedad por aglutininas frías: se requiere investigar los 
+trastornos subyacentes (especialmente neoplasias de células B) 
+y evitar el frío. Los corticoides sólo se indican en caso de 
+hemolisis significativa con títulos bajos de crioaglutininas y 
+anticuerpos con variación térmica amplia, y al documentar la 
+presencia de anticuerpos IgG (en vez de IgM). El Rituximab 
+puede ser útil en pacientes con neoplasias de células B. La 
+esplenectomía sólo es de utilidad en pacientes con linfoma 
+esplénico o con anticuerpos fríos IgG. La transfusión puede ser 
+útil en el manejo de los síntomas severos.
+• Hemoglobinuria fría paroxística: el manejo consta de evitar el 
+frío y cuidados de soporte hasta la resolución espontánea. Los 
+corticoides pueden ser útiles en las formas crónicas, mientras 
+que ciclofosfamida o azatioprina pueden emplearse en las 
+formas refractarias.
+NEOPLASIAS MIELOPROLIFERATIVAS
+Las categorías de las neoplasias mieloproliferativas no han 
+cambiado significativamente desde la clasificación de 2008. Para la 
+edición 2016 de la clasificación de la Organización Mundial de la Salud 
+se han integrado descubrimientos de mutaciones que han mejorado 
+el entendimiento de las características morfológicas de algunas 
+entidades y han impactado en los criterios diagnósticos.
+179
+
+===PAGE 205===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 7. Clasificación de las neoplasias mieloides y leucemias 
+agudas revisada en 2016 por la OMS
+Neoplasias mieloproliferativas
+Leucemia mieloide crónica (positiva a BCR-ABL1)
+Leucemia neutrofílica crónica
+Policitemia vera
+Mielofibrosis primaria (prefibrótica/temprana o manifiesta)
+Trombocitemia primaria
+Leucemia eósinofílica crónica, sin otra especificación
+Neoplasia mieloproliferativa inclasificable
+Síndromes mielodisplásicos
+Síndrome mielodisplásico con displasia de linaje único
+Síndrome mielodisplásico con sideroblastos anulares (displasia de 
+linaje único o displasia de linajes múltiples)
+Síndrome mielodisplásico con displasia multilinaje
+Síndrome mielodisplásico con exceso de blastos
+Síndrome mielodisplásico con deleción aislada de 5q
+Síndrome mielodisplásico inclasificable
+LEUCEMIA MIELOIDE CRÓNICA
+La leucemia mieloide crónica (LMC) se caracteriza por la 
+sobreproducción de células mieloides, permaneciendo con función 
+normal y estable por años hasta sufrir una agudización. La 
+enfermedad evoluciona a través de las fases crónica, acelerada y 
+blástica.
+La alteración citogenética característica es la presencia del 
+cromosoma Filadelfia -Ph1-(t(9;22)(q34;qll.2), encontrada en >90% 
+de los casos, aunque es rara entre las leucemias infantiles y de los 
+adolescentes), en la que la parte translocada del cromosoma 9 
+contiene al protooncogén abl y se recibe en el punto de rotura con 
+bcr, la fusión bcr-abl produce proteína cinasa de tirosina anómala. La 
+oncoproteína híbrida originada se conoce como p210BCRABL. 
+Frecuentemente no es posible identificar un agente etiológico; la 
+exposición a radiación ionizante (sobrevivientes de la detonación de 
+bombas atómicas en Japón, pacientes sometidos a radioterapia por 
+espondilitis anquilosante o neoplasias de cabeza y cuello). Es 
+infrecuente que la LMC se presente como una leucemia secundaria al 
+tratamiento de otros cánceres.
+El 40-50% de los pacientes se diagnostican durante la fase 
+preclínica mediante la exploración física o estudios de laboratorio; en 
+estos casos, el conteo leucocitario suele ser relativamente bajo (la 
+leucocitosis se relaciona con la masa tumoral, definida por el tamaño 
+del bazo). Alrededor del 85-90% de los pacientes se presentan 
+durante la fase crónica. Suelen presentarse alrededor de los 50-55 
+años con fatiga, malestar, pérdida ponderal y esplenomegalia 
+(saciedad precoz, plenitud o dolor en el cuadrante superior 
+izquierdo); la leucostasis puede producir visión borrosa, priapismo, e 
+insuficiencia respiratoria. Es raro que se encuentren hemorragias o 
+trombosis; otras manifestaciones incluyen a la artritis gotosa, 
+hemorragias retinianas y sangrado gastrointestinal proximal 
+(ulceración debida a la basofilia con aumento de los niveles de 
+histamina). La cefalea, dolor óseo, artralgias, infarto esplénico y fiebre 
+son infrecuentes durante la fase crónica, pero se vuelven más 
+comunes con la progresión. La linfadenopatía y la infiltración cutánea 
+o de otros tejidos son infrecuentes; su presencia sugiere el 
+diagnóstico de LMC negativa a Ph1 o el curso de la fase acelerada o 
+blástica de la LMC. Es raro que la muerte ocurra durante la fase 
+crónica.
+La fase acelerada se caracteriza por el empeoramiento de la anemia, 
+progresión de la esplenomegalia o hepatomegalia, infiltración 
+ganglionar, cutánea, ósea o de otros tejidos, fiebre, malestar y 
+pérdida ponderal; alrededor de 5-10% de los pacientes se 
+diagnostican durante la fase acelerada. El uso de imatinib ha 
+extendido la supervivencia de 18 meses (antes del fármaco) a 4 años.
+El diagnóstico del curso de la fase blástica depende de la 
+identificación de >20% de blastos en la médula ósea o la sangre 
+periférica, o cuando se encuentra enfermedad blástica extramedular 
+(bazo, ganglios linfáticos, piel, meninges, huesos y otros sitios; es 
+seguida por el involucramiento medular tras un intervalo corto). La 
+mayoría de los pacientes pasa por el preámbulo de la fase acelerada, 
+mientras que 20% entra rápidamente en la fase blástica. 
+Generalmente se encuentra adición de anormalidades 
+cromosómicas, como duplicación de Ph1, trisomía 8 o isocromosoma 
+17. El 25% de los pacientes desarrolla una fase blástica linfoide que 
+en 60% de los casos responde al tratamiento con imatinib y 
+quimioterapia anti-LLA. Al iniciar la fase blástica, la supervivencia 
+media es de 5 meses.
+El diagnóstico de la LMC típica no es complicado; usualmente 
+se encuentran conteos leucocitarios de 10,000-50,000/pl con 
+predominio de los neutrófilos. La basofilia, eosinofilia y trombocitosis 
+son comunes; el hallazgo de trombocitopenia sugiere un pronóstico 
+precario. Un tercio de los casos se presenta con anemia. Las 
+anormalidades bioquímicas incluyen una disminución de la fosfatasa 
+alcalina leucocitaria y elevación de los niveles de vitamina Bí2, 
+deshidrogenasa láctica, ácido úrico y lisozima. Algunos casos 
+presentan oscilaciones cíclicas en el conteo leucocitario. La médula 
+ósea presenta hipercelularidadcon hiperplasia mieloide notoria y, a 
+veces, evidencia de aumento en la reticulina o fibrosis colágena. La 
+razón mieloide-eritroide es de 15-20:1 y alrededor del 15% de los 
+pacientes presenta >5% de blastos en la sangre periférica o médula 
+ósea al momento del diagnóstico. El diagnóstico de LMC se sospecha 
+primero identificando los hallazgos típicos en la sangre y la médula 
+ósea, y luego se confirma mediante la demostración del cromosoma 
+Filadelfia mediante citogenética convencional, análisis de hibridación 
+fluorescente in situ (FISH) o reacción en cadena de la polimerasa con 
+transcripción inversa (RT-PCR).
+Las decisiones terapéuticas dependen de la fase de la 
+enfermedad, la edad del paciente y la disponibilidad de un donador
+180
+
+===PAGE 206===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+de células troncales. Durante la fase crónica, el imatinib es el agente 
+de primera línea en la mayoría de los casos; el trasplante alogénico 
+de células troncales es considerado un tratamiento de segunda línea 
+efectivo ante el fracaso de imatinib. Los agentes alternativos de 
+segunda línea son inhibidores de cinasa de tirosina (TKI) más 
+potentes, como dasatinib (cualquier fase) y nilotinib (fases crónica o 
+acelerada). Durante las fases acelerada y blástica debe considerarse 
+al trasplante alogénico de células troncales como el tratamiento 
+inmediato y definitivo. Los TKI pueden emplearse provisionalmente 
+para disminuir la carga tumoral y mejorar los resultados del 
+trasplante.
+Los pacientes con hiperleucocitosis y manifestaciones de leucostasis 
+pueden beneficiarse con la leucoaféresis inicial. La trombocitosis 
+severa puede responder al uso de anagrelida, tiotepa, IFN-a, 6- 
+mercaptopurina, 6-tioguanina y aféresis plaquetarias. La LMC durante 
+el embarazo puede controlarse con aféresis durante el primer 
+trimestre e hidroxiurea hasta el nacimiento. La esplenectomía puede 
+ser útil como medida paliativa en caso de esplenomegalia masiva 
+dolorosa, hiperesplenismo o trombocitopenia. Gracias a la 
+introducción de imatinib como agente terapéutico de elección, la 
+supervivencia a 7 años de los pacientes con LMC recién diagnosticada 
+es de 86% (94% si se excluyen los decesosno relacionados).
+POLICITEMIA VERA
+La policitemia vera (PV), la trombocitemia primaria y la 
+mielofibrosis primaria representan estados de mieloproliferación 
+derivada de células troncales propensos a la evolución hacia la 
+leucemia mieloide aguda (también llamada neoplasia 
+mieloproliferativa en fase blástica). La policitemia vera es un 
+trastorno mieloproliferativo crónico originado de las células troncales 
+hematopoyéticas pluripotenciales, caracterizado principalmente por 
+eritrocitosis. Se presenta en 1 de cada 100,000 personas y la 
+incidencia máxima se presenta a los 50-75 años (edad media de 60 
+años al momento del diagnóstico), con afectación más frecuente de 
+los varones.
+□o Los desarrollos recientes en la biología molecular han 
+identificado una mutación puntual simple adquirida en el gen de la 
+cinasa Janus 2 (JAK2) en la mayoría de los pacientes con PV y otros 
+trastornos mieloproliferativos negativos a Phl.
+Los pacientes generalmente buscan atención por 
+manifestaciones de hiperviscosidad sanguínea o alteración de la 
+función plaquetaria. Las alteraciones en la circulación cerebral 
+pueden producir cefalea, vértigo, visión borrosa, mareo, ataques 
+isquémicos transitorios y accidentes cerebrovasculares. Otros 
+síntomas son la fatiga, prurito (particularmente después del baño, por 
+sobreproducción de histamina), sangrado (epistaxis, hemorragia 
+gastrointestinal proximal), incomodidad abdominal (esplenomegalia, 
+hepatomegalia), artritis gotosa y nefrolitiasis relacionadas con 
+hiperuricemia y fenómenos trombóticos arteriales o venosos.
+La exploración puede revelar plétora facial, congestión de la mucosa 
+oral, ingurgitación y tortuosidad de las venas retinianas y 
+esplenomegalia (>75% de los casos). Los hallazgos paraclínicos 
+incluyen la elevación del conteo eritrocitario y el hematocrito, 
+aumento del conteo leucocitario (frecuentemente con basofilia) y 
+trombocitosis, elevación de los niveles séricos de fosfatasa alcalina 
+leucocitaria, vitamina Bi2 y ácido úrico, disminución del nivel sérico 
+de eritropoyetina y la presencia de hiperplasia ertrocitaria en el 
+aspirado medular con depósitos férricos ausentes.
+La mutación V617F deJAK2 se encuentra en >95% de los casos 
+de PV y puede emplearse con fines diagnósticos a través de la 
+identificación por reacción en cadena de la polimerasa (PCR). En los 
+pacientes con hematocrito elevado y en ausencia de eritrocitosis 
+secundaria coexistente, la presencia de la mutación de JAK2 es 
+suficiente para el diagnóstico.
+Cuadro 8. Criterios de la OMS para el diagnóstico de 
+policitemia vera
+Criterios Elevación del nivel de hemoglobina (>16.5
+mayores g/dl en hombres o >16 g/dl en mujeres),
+hematocrito (>49% en hombres o >48% en 
+mujeres) o en la masa eritrocitaria*._________
+Biopsia de médula ósea mostrando
+hipercelularidad para la edad con crecimiento 
+trilinaje (panmielosis) incluyendo 
+proliferación eritroide, granulocítica y 
+megacariocítica prominente, con 
+megacariocitos maduros pleomorfos 
+(diferencias en el tamaño). 
+Presencia de la mutación JAK2V617Fo del 
+exón 12 de JAK2.
+Criterio menor Nivel sérico de eritropoyetina subnormal. 
+El diagnóstico de policitemia vera requiere las siguientes 
+condiciones:
+• Cumplimiento de los 3 criterios mayores.
+• Cumplimiento de los 2 primeros criterios mayores y del 
+criterio menort.
+*Superior en >25% del valor predicho medio normal. 
++EI criterio de la biopsia de médula ósea puede no requerirse 
+en casos con eritrocitosis absoluta sostenida con hemoglobina 
+>18.5 g/dl en hombres (hematocrito 55.5%) o >16.5 g/dl en 
+mujeres (hematocrito 49.5%) si el tercer criterio mayor y el 
+criterio menor se encuentran presentes. Sin embargo, la 
+mielofibrosis inicial (presente hasta en 20% de los casos) sólo 
+puede detectarse por biopsia medular; este hallazgo puede 
+predecir una progresión más rápida a la mielofibrosis 
+manifiesta (mielofibrosis post-policitemia vera).
+Las metas del tratamiento son mantener el hematocrito <45%, 
+reducir el conteo plaquetario a 400 x 103/L, prevenir o tratar las 
+complicaciones, y prolongar y mantener la calidad de vida. El 
+tratamiento debe adecuarse a la edad y estado clínico del paciente, 
+para lo que se distinguen tres estratos de riesgo:
+181
+

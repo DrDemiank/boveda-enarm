@@ -1,0 +1,1101 @@
+===PAGE 366===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+PARTE 9 - NEUMOLOGÍA
+Al final de esta parte del libro usted debe dominar las siguientes 
+competencias:
+• Capacidad para la diferenciación precisa de los trastornos 
+pulmonares obstructivos y restrictivos con base en la historia 
+clínica y los estudios básicos de la función pulmonar.
+• Conocimiento general de la epidemiología, manifestaciones, 
+diagnóstico tratamiento y pronóstico de las enfermedades 
+pulmonares más frecuentemente exploradas en el ENARM.
+ASMA
+El asma es una enfermedad inflamatoria crónica de las vías 
+respiratorias que cursa con obstrucción variable del flujo aéreo, 
+generalmente reversible, y con hiperreactividad bronquial ante 
+distintos estímulos. Es uno de los padecimientos respiratorios 
+crónicos más prevalentes tanto en niños como en adultos. 
+Clínicamente, se caracteriza por síntomas como disnea, sibilancias, 
+tos y opresión torácica que suelen presentarse de manera episódica, 
+especialmente por la noche o en la madrugada.
+A nivel mundial, en 2019 el asma afectó a 262 millones de personas y 
+causó 461,000 muertes, según la Organización Mundial de la Salud 
+(OMS). La mayoría de las muertes se concentraron en países de 
+ingresos bajos o medios. En México, la prevalencia estimada es de 
+3.3% en hombres y 6.2% en mujeres, con mayor concentración en 
+regiones costeras.
+Entre los principales factores de riesgo se encuentran la historia 
+familiar de atopia (predisposición genética a enfermedades alérgicas), 
+antecedentes personales de rinitis alérgica o dermatitis atópica, 
+infecciones respiratorias virales tempranas, exposición a humo de 
+tabaco, contaminación ambiental, alérgenos ocupacionales, obesidad 
+y reflujo gastroesofágico. En lactantes y preescolares, los episodios de 
+sibilancias virales son un factor predictor importante de asma 
+persistente.
+El asma es una enfermedad heterogénea con una fisiopatología 
+compleja. El proceso inflamatorio crónico de la vía aérea incluye 
+infiltrado de eosinófilos, linfocitos T CD4+ tipo 2 (Th2), mastocitos y 
+células presentadoras de antígeno. Esta respuesta inflamatoria 
+conduce a edema, hipersecreción de moco, contracción del músculo 
+liso bronquial e hiperreactividad a diversos estímulos.
+Se reconocen dos diferentes endotipos inmunológicos principales:
+• El asma tipo 2 (T2), caracterizado por la activación de linfocitos
+Th2 y células linfoides innatas tipo 2 (ILC2), con producción de 
+interleucinas IL-4, IL-5 e IL-13. Esto promueve la síntesis de IgE, 
+la activación eosinofílica y la remodelación de la vía aérea. Este 
+subtipo responde adecuadamente a corticosteroides inhalados 
+(CSI) y puede beneficiarse de terapias biológicas como 
+omalizumab o mepolizumab.
+• El asma no T2, caracterizado por inflamación neutrofílica, 
+aumento de citoquinas como IL-17 e IFN-y y pobre respuesta a 
+esteroides. Este fenotipo es más común en adultos, fumadores o 
+pacientes con exposición ocupacional crónica.
+La remodelación de la vía aérea, un proceso presente en asma 
+persistente no controlada implica fibrosis subepitelial, hipertrofia del 
+músculo liso y angiogénesis, lo que puede provocar una obstrucción 
+fija del flujo aéreo.
+Cuadro 1. Condiciones que pueden simular o empeorar el asma, 
+o provocar respuestas terapéuticas subóptimas
+Bronquitis crónica
+Enfermedad pulmonar obstructiva crónica (EPOC)
+Descarga retronasal (rinitis alérgica y no alérgica)
+Enfermedad por reflujo gastroesofágico (ERGE)
+Trastorno por movimiento paradójico de los pliegues vocales 
+(disfunción de las cuerdas vocales)
+Aspiración
+Infección crónica por Mycoplasma
+Bronquiectasia
+Bronquiolitis (constrictiva, obliterante, relacionada con 
+enfermedades vasculares del colágeno)
+Neumonitis por hipersensibilidad
+Sarcoidosis
+Clínicamente, el asma se caracteriza por síntomas respiratorios 
+episódicos como disnea, sibilancias, opresión torácica y tos seca, que 
+varían en intensidad y frecuencia, con empeoramiento nocturno o en 
+la madrugada. En los niños pequeños, la tos persistente, las sibilancias 
+recurrentes o la disnea durante el ejercicio pueden ser las únicas 
+manifestaciones. En adultos, la variabilidad de los síntomas y la 
+respuesta a broncodilatadores son claves para el diagnóstico. La 
+exploración física puede ser normal entre episodios, pero durante una 
+exacerbación se observan signos de dificultad respiratoria como 
+taquipnea, tirajes, uso de músculos accesorios y sibilancias difusas. En 
+menores de cinco años, la presentación puede confundirse con 
+infecciones respiratorias virales recurrentes, por lo que se 
+recomienda valorar el patrón clínico, antecedentes familiares de 
+atopia y respuesta al tratamiento para establecer el diagnóstico.
+Las sibilancias espiratorias polifónicas son características del asma, 
+aunque no exclusivas ni predictoras de gravedad. En exacerbaciones 
+graves, pueden observarse taquipnea, uso de músculos accesorios y 
+pulso paradójico. La ausencia de sibilancias no excluye obstrucción 
+severa; Manifestaciones extrapulmonares como rinitis alérgica, 
+pólipos nasales y dermatitis atópica apoyan el diagnóstico. En 
+contraste, hallazgos como hipocratismo digital sugieren patologías 
+distintas, como fibrosis quística o enfermedad intersticial. Ruidos 
+respiratorios altos no torácicos pueden confundirse con sibilancias. La 
+evaluación clínica integral, más allá de los hallazgos auscultatorios, es 
+clave para identificar y valorar la gravedad del asma.
+341
+
+===PAGE 367===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+El diagnóstico se confirma con espirometría en mayores de 
+cinco años, documentando obstrucción del flujo aéreo con 
+reversibilidad significativa tras la administración de un 
+broncodilatador. Se define obstrucción si la relación entre el volumen 
+espiratorio forzado en el primer segundo (VEF1) y la capacidad vital 
+forzada (CVF) es menor a 0.8 en niños o menor a 0.7 en adultos, con 
+un aumento del VEFl >12% y >200 ml_ posterior al uso de un p2 
+agonista de acción corta como salbutamol. En menores de cinco años, 
+se recomienda iniciar una prueba terapéutica con corticosteroides 
+inhalados durante al menos dos semanas, y confirmar el diagnóstico 
+en función de la mejoría clínica. Adicionalmente, se pueden utilizar 
+mediciones de FeNO, eosinofilia periférica, IgE total o específica, y 
+pruebas cutáneas de alergia para definir el fenotipo inflamatorio. La 
+clasificación de la obstrucción por severidad se basa en el VEFl como 
+porcentaje del valor predicho: leve (£70%), moderada (60-69%), 
+moderadamente grave (50-59%), grave (35-49%) y muy grave 
+(<35%).
+Cuadro 2. Clasificación del asma por su gravedad
+Asma intermitente
+• Síntomas menos de 1 vez por semana.
+• Exacerbaciones de duración corta.
+• Síntomas nocturnos no más de 2 veces al mes.
+• FEVi o PEF >80% del valor predicho.
+• Variabilidad en el PEF o FEVi <20%.
+Asma persistente leve
+• Síntomas >1 vez por semana, pero <1 vez al día.
+• Las exacerbaciones pueden afectar la actividad y el sueño.
+• Síntomas nocturnos más de 2 veces por mes.
+• FEVi o PEF >80% del valor predicho.
+• Variabilidad en el PEF o FEVi <20-30%.
+Asma persistente moderada
+• Síntomas diarios.
+• Exacerbaciones que afectan la actividad y el sueño.
+• Síntomas nocturnos más de 1 vez por semana.
+• Uso diario de agonistas p2 de acción corta inhalados.
+• FEVi o PEF 60-80% del valor predicho.
+• Variabilidad en el PEF o FEVi >30%.
+Asma persistente grave
+• Síntomas diurnos y nocturnos diariamente.
+• Exacerbaciones frecuentes.
+• Limitación para las actividades físicas.
+• FEVi o PEF <60% del valor predicho.
+• Variabilidad en el PEF o FEVi >30%.
+Las pruebas cutáneas deben practicarse en los casos sospechosos. Las 
+pruebas de provocación bronquial sólo deben solicitarse por 
+especialistas ante un dilema diagnóstico. La laringoscopia debe 
+practicarse por personal adiestrado en la discriminación de la 
+disfunción de cuerdas vocales.
+La bibliografía internacional indica que es subóptimo el inicio del 
+tratamiento sin la confirmación del diagnóstico mediante un estudio 
+fisiológico; la espirometría inicial permitirá establecer la severidad 
+(describiendo si la sintomatología es proporcional con la obstrucción 
+cuantificada en la espirometría, ya que en caso contrario se requeriría 
+la ampliación del abordaje diagnóstico), evaluar la efectividad del 
+tratamiento y la discriminación de trastornos de origen intersticial.
+Cuadro 3. Prueba de control del asma validada para pacientes 
+con edad >12 años
+Interrogatorio Puntaje
+En las últimas 4 semanas, ¿qué proporción del 
+tiempo el asma le ha impedido desempeñarse 
+plenamente en su trabajo, escuela u hogar?
+• Todo el tiempo 1
+• La mayor parte del tiempo 2
+• Algo del tiempo 3
+• Un poco del tiempo 4
+• Nunca 5
+Durante las últimas 5 semanas, ¿qué tan seguido 
+ha tenido dificultad para respirar?
+• >1 vez/día
+• 1 vez/día 1
+• 3-6 veces/semana 2
+• 1-2 veces/semana 3
+• Ninguna 4
+_____________________________________________ 5
+burante las últimas 4 semanas, ¿qué tan 
+frecuentemente sus síntomas asmáticos 
+(sibilancias, tos, disnea, opresión torácica, dolor) 
+le despertaron por la noche o más temprano que 
+lo usual?
+• >4 noches/semana 1
+• 2-3 noches/semana 2
+• 1 noche/semana 3
+• 1-2 noches 4
+• Ninguna 5
+Durante las últimas 4 semanas, ¿qué tan 
+frecuentemente ha usado su inhalador o 
+nebulizaciones de rescate (como salbutamol)?
+• >3 veces/día 1
+• 1-2 veces/día 2
+• 2-3 veces/semana 3
+• <1 vez/semana 4
+• Nunca 5 
+¿Cómo calificaría el control de su asma durante las
+últimas 4 semanas?
+• Sin control alguno 1
+• Precariamente controlado 2
+• Algo controlado 3
+• Bien controlado 4
+• Algo controlado 3
+• Bien controlado 4
+• Completamente controlado 5
+Interpretación
+>20 puntos Controlado.
+16-19 puntos Control subóptimo.
+£15 puntos Muy precariamente controlado 
+independientemente de la evaluación del 
+paciente en la última pregunta.
+342
+
+===PAGE 368===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+También se sugiere que el estudio se repita al menos de forma anual 
+debido a que una pérdida acelerada en la función pulmonar es un 
+signo de control precario y puede indicar desapego o la necesidad de 
+intensificar el tratamiento.
+El tratamiento debe individualizarse según el grupo etario, la 
+gravedad y la respuesta clínica, siguiendo un enfoque escalonado 
+basado en el control de los síntomas y la prevención de 
+exacerbaciones. La Guía de Manejo Integral del Asma en México 2021 
+establece pasos específicos para cada grupo de edad. En todos los 
+casos, antes de subir de paso, debe evaluarse la adherencia, la técnica 
+de inhalación, la exposición a irritantes o alérgenos y la presencia de 
+comorbilidades. Los objetivos son lograr un buen control de síntomas, 
+prevenir exacerbaciones y mejorar la calidad de vida.
+Paso 4 (manejo 
+por especialista) 
+(igual que en el 
+paso 3, pero existe 
+alteración en la 
+función pulmonar)
+Cuadro 4. Pasos en el manejo farmacológico del asma en 
+pacientes <3 años
+Paso 3 
+(síntomas casi 
+diarios o despertar 
+por asma una o más 
+veces por semana, o 
+saliendo de crisis)
+Paso 5 (manejo 
+por especialista 
+en asma grave) 
+(no se inicia aquí, 
+solo si hay 
+descontrol en el 
+paso 4)
+Paso 2 
+(síntomas 3 o más 
+veces al mes, pero 
+no diario)
+Paso 1 Manejo preferido:
+(síntomas 1-2 veces -Diario: en niños con índice predictivo de 
+a' mes) asma modificado (mAPI) positivo, CSI en
+dosis alta por razón necesaria en cuadro 
+viral agudo.
+-Rescate: beta-2 agonista de acción corta. 
+Manejo alternativo:
+-Rescate: CSI en dosis baja + beta-2 agonista 
+de acción corta (inhalador separado). 
+Manejo preferido:
+-Diario: CSI en dosis baja. 
+-Rescate: beta-2 agonista de acción corta. 
+Manejo alternativo:
+-Diario: CSI en dosis baja. 
+-Rescate: beta-2 agonista de acción corta + 
+CSI en dosis baja. 
+Manejo preferido: 
+-Diario: CSI en dosis media. 
+-Rescate: beta-2 agonista de acción corta. 
+Manejo alternativo:
+-Diario: CSI en dosis media. 
+-Rescate: beta-2 agonista de acción corta + 
+CSI en dosis media.
+Manejo preferido: 
+-Diario: CSI en dosis alta. 
+-Rescate: beta-2 agonista de acción corta. 
+Manejo alternativo:
+-Diario: CSI en dosis alta. 
+-Rescate: beta-2 agonista de acción corta + 
+CSI en dosis alta.
+No existe una definición clara de asma grave 
+en este grupo etario. La mayoría de los 
+niños preescolares que no se controlan con 
+el tratamiento paso 4 tienen comorbilidades 
+no atendidas u otro diagnóstico diferencial.
+Cuadro 5. Pasos en el manejo farmacológico del asma en
+pacientes de 4 a 11l años
+Paso 1
+(síntomas 1-2 veces 
+al mes)
+Manejo preferido:
+-Diario: no se recomienda.
+-Rescate: CSI en dosis baja + beta-2 agonista 
+de acción corta (inhalador separado).
+Manejo alternativo:
+-Diario: no se recomienda.
+-Rescate: CSI en dosis baja + Formoterol (en 
+un inhalador).
+Paso 2 
+(síntomas 3 o más 
+veces al mes, pero 
+no diario)
+Manejo preferido:
+-Diario: CSI en dosis baja. 
+-Rescate: beta-2 agonista de acción corta + 
+extra CSI dosis baja.
+Manejo alternativo:
+-Diario: montelukast (especialmente con 
+rinitis alérgica y con advertencia de posibles 
+efectos adversos neuropsiquiátricos). 
+-Rescate: CSI dosis baja + Formoterol.
+Paso 3 
+(síntomas casi 
+diarios o despertar 
+por asma una o más 
+veces por semana, o 
+saliendo de crisis)
+Manejo preferido:
+-Diario: CSI en dosis baja + Formoterol. 
+-Rescate: CSI en dosis baja + Formoterol. 
+Manejo alternativo:
+-Diario: CSI en dosis media. 
+-Rescate: beta-2 agonista de acción corta.
+Paso 4 (manejo 
+por especialista) 
+(igual que en el 
+paso 3, pero existe 
+alteración en la 
+función pulmonar)
+Manejo preferido:
+-Diario: CSI en dosis media + Formoterol + 
+Tiotropio.
+-Rescate: CSI en dosis media + Formoterol.
+Manejo alternativo:
+-Diario: CSI en dosis alta.
+-Rescate: beta-2 agonista de acción corta + 
+extra CSI en dosis alta.
+Paso 5 (manejo 
+por especialista 
+en asma grave) 
+(no se inicia aquí, 
+solo si hay 
+descontrol en el 
+paso 4 y asma grave 
+corroborada)
+Manejo preferido:
+-Diario: CSI en dosis alta + Formoterol + 
+Tiotropio.
+-Rescate: CSI en dosis alta + Formoterol. 
+Manejo alternativo:
+-Diario: biológico + corticoide oral + CSI 
+dosis alta + B-2 agonista de acción 
+prolongada + montelukast (especialmente 
+con rinitis alérgica y con advertencia de 
+posibles efectos adversos 
+neuropsiquiátricos).
+-Rescate: CSI en dosis alta + Formoterol.
+La estrategia MART (Maintenance And Reiiever Therapy, por sus 
+siglas en inglés) es un enfoque terapéutico moderno y recomendado 
+por la GINA (Global Initiative for Asthma), en el que se utiliza el mismo 
+inhalador para la terapia de mantenimiento y de rescate.
+La GPC recomienda integraren un programa de disminución de peso 
+a los pacientes con obesidad y asma, que permita explicar los 
+beneficios de la reducción de peso y la mejoría en la función 
+pulmonar, así como, la probabilidad de disminuir el riesgo de otras 
+patologías.
+343
+
+===PAGE 369===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 6. Pasos en el manejo farmacológico del asma en 
+pacientes >12 años
+Paso 1 
+(síntomas 1-2 veces
+al mes)
+Manejo preferido:
+-Diario: no se recomienda.
+-Rescate: CSI en dosis baja + formoterol (en 
+un inhalador).
+Manejo alternativo:
+-Diario: no se recomienda.
+-Rescate: CSI en dosis baja + B-2 agonista de 
+acción corta (inhaladores separados).
+Paso 2 
+(síntomas 3 o más 
+veces al mes, pero 
+no diario)
+Manejo preferido:
+-Diario: CSI en dosis baja. 
+-Rescate: beta-2 agonista de acción corta + 
+extra CSI dosis baja.
+Manejo alternativo:
+-Diario: montelukast (especialmente con 
+rinitis alérgica y con advertencia de posibles 
+efectos adversos neuropsiquiátricos). 
+-Rescate: CSI dosis baja + formoterol.
+Paso 3 
+(síntomas casi 
+diarios o despertar 
+por asma una o más 
+veces por semana, o 
+saliendo de crisis)
+Manejo preferido:
+-Diario: CSI en dosis baja + formoterol. 
+-Rescate: CSI en dosis baja + formoterol.
+Manejo alternativo:
+-Diario: CSI en dosis media. 
+-Rescate: beta-2 agonista de acción corta + 
+extra CSI dosis media.
+Paso 4 (manejo 
+por especialista) 
+(igual que en el 
+paso 3, pero existe 
+alteración en la 
+función pulmonar)
+Manejo preferido:
+-Diario: CSI en dosis media + formoterol + 
+Tiotropio.
+-Rescate: CSI en dosis media + formoterol.
+Manejo alternativo:
+-Diario: CSI en dosis alta.
+-Rescate: beta-2 agonista de acción corta + 
+extra CSI en dosis alta.
+Paso 5 (manejo 
+por especialista 
+en asma grave) 
+(no se inicia aquí, 
+solo si hay 
+descontrol en el 
+paso 4 y asma grave 
+corroborada)
+Manejo preferido:
+-Diario: CSI en dosis alta + formoterol + 
+Tiotropio.
+-Rescate: CSI en dosis alta + formoterol. 
+Manejo alternativo:
+-Diario: biológico o corticoide oral + CSI 
+dosis alta + B-2 agonista de acción 
+prolongada + montelukast (especialmente 
+con rinitis alérgica y con advertencia de 
+posibles efectos adversos 
+neuropsiquiátricos).
+-Rescate: CSI en dosis alta + formoterol (o B- 
+2 agonista de acción corta).
+Una vez que se ha confirmado que se trata de asma y que se han 
+manejado las comorbilidades, se define como asma grave a aquella 
+que necesita tratamiento con CSI en dosis alta aunado a un segundo 
+controlador o corticosteroides sistémicos para evitar el descontrol o 
+que persiste en descontrol incluso con ese tratamiento. En 
+conclusión, el asma grave es aquella que necesita tratamiento paso 5 
+para mantener el control o que se encuentra descontrolada incluso 
+con este.
+Los tratamientos biológicos están indicados para pacientes con 
+inflamación tipo 2, ya sea de tipo alérgico o eosinofílico, que no han 
+respondido adecuadamente a la terapia estándar con CSI en dosis alta 
+combinada con B-2 agonistas de acción prolongada.
+El omalizumabes un anticuerpo monoclonal humanizado que se une 
+a la inmunoglobulina E (IgE) libre, impidiendo su interacción con los 
+receptores FceRI en mastocitos y basófilos, lo que reduce la liberación 
+de mediadores inflamatorios. Está indicado para el tratamiento del 
+asma alérgica moderada a grave persistente en pacientes de 6 años o 
+más con sensibilización a aeroalérgenos perennes y niveles de IgE 
+sérica total entre 30 y 1500 UI/mL. La dosis se administra por vía 
+subcutánea cada 2 o 4 semanas, dependiendo del peso corporal y los 
+niveles séricos de IgE. Mepolizumab es un anticuerpo monoclonal 
+humanizado que se une a la interleucina-5, bloqueando su acción y 
+reduciendo la maduración y supervivencia de eosinófilos. Está 
+indicado para el tratamiento del asma eosinofílica grave en pacientes 
+de 6 años o más con eosinofilia (>150 células/pL al inicio o >300 
+células/pLen los últimos 12 meses). La dosis recomendada es de 100 
+mg por vía subcutánea cada 4 semanas. Estudios a largo plazo han 
+demostrado que mepolizumab es efectivo y bien tolerado en 
+pacientes con asma eosinofílica grave. Reslizumab es un anticuerpo 
+monoclonal humanizado que se une a la IL-5, inhibiendo su 
+interacción con el receptor en los eosinófilos y reduciendo su número. 
+Está indicado para el tratamiento del asma eosinofílica grave en 
+adultos con eosinofilia (>400 células/pL). La dosis recomendada es de 
+3 mg/kg administrado por vía intravenosa cada 4 semanas. 
+Benralizumab es un anticuerpo monoclonal humanizado que se une 
+al receptor IL-5a en eosinófilos y basófilos, promoviendo su 
+destrucción por citotoxicidad mediada por células. Está indicado para 
+el tratamiento del asma eosinofílica grave en pacientes de 6 años o 
+más con eosinofilia (>300 células/pL). La dosis recomendada es de 30 
+mg por vía subcutánea cada 4 semanas durante las primeras 3 dosis, 
+y luego cada 8 semanas. Dupilumab es un anticuerpo monoclonal 
+humanizado que se une a la subunidad a del receptor de IL-4, 
+inhibiendo la señalización de IL-4 e IL-13, reduciendo la inflamación 
+tipo 2. Está indicado para el tratamiento del asma moderada a grave 
+con inflamación tipo 2 en pacientes de 12 años o más con eosinofilia 
+periférica (£150 células/pL) o IgE elevada. La dosis recomendada es 
+de 400-600 mg inicial por vía subcutánea, seguida de 200-300 mg 
+cada 2 semanas, según el peso y severidad.
+La elección del anticuerpo monoclonal adecuado debe basarse en el 
+fenotipo del paciente, como niveles de IgE, eosinofilia y la presencia 
+de comorbilidades atópicas. Antes de iniciar el tratamiento biológico, 
+es fundamental asegurar una buena adherencia al tratamiento 
+estándar, evitar exposiciones desencadenantes y descartar 
+diagnósticos diferenciales. Se recomienda evaluar la respuesta al 
+tratamiento a los 4-6 meses, con posibilidad de suspensión si no hay 
+beneficio clínico claro.
+La termoplastia bronquial puede ser una opción terapéutica útil en 
+pacientes seleccionados muy cuidadosamente. Se recomienda la 
+inmunización anual contra la influenza con virus inactivados.
+344
+
+===PAGE 370===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+EXACERBACIÓN DEL ASMA
+Durante el abordaje hospitalario de una exacerbación puede 
+requerirse la obtención de SatO2, flujo máximo por espirometría, 
+radiografía torácica (discriminación de neumonía y otras causas de 
+disnea), cultivo de esputo y gasometría arterial. La GPC incluye una 
+escala de valoración global de la intensidad de las exacerbaciones que 
+usa el índice pulmonar y la saturación arterial de oxígeno.
+Cuadro 7. Clasificación de la exacerbación del asma (adaptado 
+de la GPC)
+Leve Moderada Grave Crisis vital
+Disnea Respiración
+Leve Moderada 1 rite risa agónica,
+parada
+respiratoria
+Habla Párrafos Frases Palabras Ausente
+FR Aumentada >20/min >25/min Bradipnea,
+apnea
+FC Bradicardia,
+<100 100-120 >120 parada
+cardiaca
+Uso de Muy 
+evidente
+Movimiento
+MA Ausente Presente paradójico
+o ausente
+Sibilancias Presentes Silencio
+Nivel de 
+alerta Normal Normal Normal Disminuido
+o coma
+FEV1 >70% <70% <50% No
+evalúa ble
+SaO2 >95% <95% <90% <90%
+PaO2 Normal 61-80 mm
+Hg
+<60 mm
+Hg
+<60 mm Hg
+PaCO2 Normal <40 mm
+Hg
+<40 mm
+Hg
+>45 mm Hg
+FR, frecuencia respiratoria; FC, frecuencia cardiaca; MA,
+musculatura accesoria.
+Durante una exacerbación, el manejo inmediato consta de la 
+administración de oxígeno a flujo controlado (2-4 l/minuto). Los 
+agonistas 0 de acción breve (salbutamol) son la piedra angular del 
+tratamiento; en caso de ausencia de respuesta, puede añadirse 
+ipratropio. Los corticoides sistémicos deben iniciarse temprano en el 
+esquema terapéutico. Ante la persistencia del broncoespasmo en 
+pacientes adultos con el tratamiento broncodilatador estándar, 
+puede emplearse sulfato de magnesio. No se recomienda el uso 
+habitual antagonistas de los leucotrienos durante la exacerbación 
+moderada y grave. El uso de antibióticos se debe limitar hasta que se 
+tenga evidencia de proceso infeccioso. Los indicadores de riesgo 
+mortal elevado o exacerbaciones frecuentes incluyen a los siguientes;
+• Exacerbaciones severas previas.
+• Visitas frecuentes al departamento de urgencias.
+• Insuficiencia respiratoria previa debida al asma.
+• Uso crónico de esferoides orales.
+• FEVi basal severamente reducida.
+Figura 1. Manejo del paciente con crisis asmática (adaptado de la 
+GPC). Los criterios para el uso de VMI en las exacerbaciones asmáticas 
+con riesgo vital son la inestabilidad hemodinámica, la fatiga muscular, 
+alteraciones del nivel de alerta y la falla respiratoria grave. ABAC, 
+agonista beta de acción corta; AMAC, antimuscarínicp de acción 
+corta; RS, respuesta satisfactoria; Rl, respuesta insatisfactoria; IV, 
+intravenoso; PNA, primer nivel de atención; SU del SNA, servicio de 
+urgencias del segundo nivel de atención; GC, glucocorticoides; VMI, 
+ventilación mecánica invasiva; UCI, unidad de cuidados intensivos.
+Las indicaciones para la obtención de una consulta de subespecialidad 
+incluyen las siguientes:
+• Evidencia de obstrucción grave en la espirometría.
+• Respuesta precaria al tratamiento controlador inhalado.
+• Sospecha de enfermedad pulmonar asociada.
+• Riesgo elevado de morbilidad significativa y mortalidad.
+• Sospecha de diagnóstico diferencial complejo.
+345
+
+===PAGE 371===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Cuadro 8. Criterios para el reconocimiento de una exacerbación 
+fatal o casi fatal del asma (adaptado de la GPC)
+Asma grave, reconocida por:
+• Asma casi fatal previa (ventilación mecánica o acidosis 
+respiratoria).
+• Hospitalización por asma en el año previo.
+• Requerimiento de >3 grupos farmacológicos para el 
+tratamiento del asma.
+• Uso intenso de agonista beta 2 de acción corta.
+• Consultas frecuentes a urgencias por asma en el último año.
+Con la adición de >1 de las características conductuales o
+psicosociales adversas:
+• Desapego al tratamiento o la monitorización.
+• Dificultad para atender indicaciones.
+• Desapego al seguimiento médico.
+• Alta voluntaria del hospital.
+• Psicosis, depresión, otros trastornos psiquiátricos o 
+autoagresión.
+• Uso reciente de antidepresivos mayores.
+• Negación.
+• Abuso de alcohol o drogas.
+• Obesidad.
+• Problemas de aprendizaje.
+• Desempleo.
+• Problemas de ingreso económico.
+• Aislamiento social.
+• Historia de abuso infantil.
+• Violencia doméstica, marital o legal.
+ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+La Enfermedad Pulmonar Obstructiva Crónica (EPOC) es una 
+enfermedad tratable y prevenible que se caracteriza por la presencia 
+de síntomas respiratorios persistentes (disnea, tos, expectoración 
+y/o exacerbaciones) debido a una o más anomalías de las vías 
+respiratorias (bronquitis/bronquiolitis) y/o alvéolos (enfisema) que 
+provocan una obstrucción persistente, a menudo progresiva, del flujo 
+de aire, generalmente causadas por exposición significativa a gases o 
+partículas nocivas. Actualmente es la cuarta causa de muerte en el 
+mundo. La prevalencia de la EPOC en países desarrollados va del 3-6% 
+en sujetos mayores de 50 años. En México, se ubica entre el sexta y 
+cuarta causa de mortalidad en el país.
+Aunque el tabaquismo es el factor de riesgo más importante para el 
+desarrollo de la EPOC, alrededor de un tercio de los pacientes 
+afectados a nivel mundial son no fumadores. Otros contaminantes 
+ambientales como el humo de los combustibles de biomasa (que se 
+usan para cocinar y calentar) son también factores de riesgo muy 
+importantes.
+«o Existen múltiples factores asociados a esta enfermedad. A 
+continuación, se presenta la clasificación de la EPOC de acuerdo con 
+su etiología (etiotipos):
+• EPOC por factores genéticos: deficiencia de alfa-1 antitripsina, 
+efecto combinado de múltiples variantes, etc.
+• EPOC por desarrollo pulmonar anormal: deterioro de la 
+maduración pulmonar, más comúnmente por nacimiento 
+prematuro y bajo peso al nacer; mala nutrición en la infancia y la 
+primera infancia (también puede contribuir).
+• EPOC debido a exposiciones ambientales: tabaquismo (por 
+fumar cigarrillos o vapear, o exposición pasiva al humo) y/o 
+biomasa y exposición a la contaminación (combustión de 
+biomasa, o contaminación del aire ambiental incluido el humo 
+de los incendios forestales, o exposiciones a riesgos laborales).
+• EPOC por infecciones: infecciones de la primera infancia; 
+bronquiectasías, asociada al VIH, o asociada a tuberculosis.
+• EPOC y asma: desarrollo pulmonar anormal asociado con asma 
+infantil, o bien el asma concomitante con EPOC.
+• EPOC de causa desconocida: pacientes sin factores de riesgo 
+actualmente conocidos.
+En los pulmones sanos, las vías respiratorias pequeñas (bronquiolos) 
+se mantienen abiertas mediante uniones de la pared alveolar que 
+contienen fibras de elastina. En la EPOC, las vías respiratorias 
+pequeñas se estrechan a través del engrosamiento de la pared 
+periférica bronquiolar por inflamación y estrechamiento fijo como 
+resultado de fibrosis, ruptura de las uniones alveolares como 
+resultado de enfisema y oclusión luminal por moco y exudado 
+inflamatorio. Varios fenotipos distintos y superpuestos comprenden 
+el síndrome designado como EPOC. Es importante hacer mención que 
+no todos los fumadores de cigarrillos desarrollan obstrucción de las 
+vías respiratorias, lo que indica que existen mecanismos de 
+susceptibilidad (factores genéticos, epigenéticos y ambientales).
+Las principales características patológicas de la EPOC son la 
+bronquiolitis obstructiva, el enfisema y, en muchos casos, la 
+hipersecreción de moco (bronquitis crónica), pero la contribución 
+relativa de cada una de estas varía entre los pacientes. Incluso en la 
+EPOC temprana o leve, hay evidencia de obstrucción del flujo de aire 
+y una pérdida significativa (desaparición) de las vías respiratorias 
+pequeñas. Los cambios estructurales en las arteriolas pulmonares 
+pequeñas son comunes en la EPOC, con aumento del engrosamiento 
+de la íntima y proliferación del músculo liso vascular, y tales cambios 
+pueden ser el resultado de la inflamación en estos vasos, así como de 
+la vasoconstricción hipóxica. Sin embargo, la hipertensión pulmonar 
+no suele ser marcada en la EPOC, excepto en un pequeño grupo de 
+pacientes con hipertensión pulmonar desproporcionada que pueden 
+desarrollar insuficiencia cardíaca derecha (corazón pulmonar o "cor 
+pulmonale").
+La presentación clínica puede variar ampliamente en los 
+pacientes con EPOC, aunque la mayoría de los pacientes se presentan 
+con, por lo menos, 40 años y tienen una historia significativa de 
+tabaquismo o de exposición al humo de tabaco. Los síntomas 
+generales más comúnmente reportados son:
+346
+
+===PAGE 372===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+• Disnea: reportada por >70% de los pacientes, típicamente que 
+empeora con el ejercicio.
+• Tos crónica: reportada por cerca del 60% de los pacientes, 
+comúnmente identificada como "tos de fumador".
+• Producción de moco: reportada por al menos el 63% de los 
+pacientes, pudiendo ser indicativa de bronquitis crónica si dura 
+más de 3 meses por año durante dos años consecutivos.
+Cuadro 9. GOLD: gravedad de limitación de flujo aéreo (basándose 
+en FEV1 post-broncodilatador y en pacientes con FEV1/FVC <0.7)
+Etapa Gravedad FEV1 (% pronosticado)
+GOLDÍ Leve >80
+GOLD 2 Moderado 50 a 79
+GOLD 3 Severo 30 a 49
+GOLD 4 Muy severo <30
+La EPOC leve se manifiesta con tos intermitente de predominio 
+matutino; también pueden presentarse infecciones respiratorias 
+recurrentes y disnea con el ejercicio vigoroso. La EPOC grave se 
+caracteriza por la progresión de la disnea; el desarrollo de "cor 
+pulmonale” se acompaña de pérdida ponderal, cefalea matutina, 
+mareo (causado por la hipercapnia) y edema de las extremidades 
+inferiores. La exploración física puede revelar hiperinsuflación ("tórax 
+de barril"), uso de músculos respiratorios accesorios, hiperresonancia 
+a la percusión, disminución del movimiento diafragmático, 
+apagamiento de los ruidos respiratorios, prolongación de la 
+espiración y sibilancias espiratorias; pueden encontrarse 
+manifestaciones de hipertensión pulmonar, como hipocratismo 
+digital y cianosis. El médico debe sospechar EPOC en personas con 
+antecedentes de tabaquismo o factores de riesgo y que presenten 
+síntomas típicos, y que tengan ganancia o pérdida de peso en casos 
+avanzados.
+Imagen 1. Radiografía de tórax PA que muestra signos radiológicos 
+sugestivos de enfisema pulmonar.
+La GPC indica que se debe realizar espirometría, debido a su 
+gran precisión diagnóstica, en toda persona mayor de 40 años que
+presente una combinación de disnea, tos, y producción de esputo, 
+sobre todo si cuenta con antecedentes de exposición a tabaco, polvo 
+ocupacional, combustible de biomasa, historia familiar de 
+enfermedad pulmonar crónica, o presencia de comorbilidades 
+asociadas. Se confirma la EPOC cuando una persona con síntomas 
+compatibles presenta en el estudio espirométrico una limitación 
+irreversible del flujo aéreo (cuando la relación FEV1/FVC [Volumen 
+Espiratorio Forzado el primer segundo/Capacidad Vital Forzada] sea 
+menor de 0.7) y no existe otra explicación alterna para los síntomas o 
+la obstrucción del flujo aéreo. La gravedad de limitación del flujo 
+aéreo debe estadificarse con base en el FEV1 post-broncodilatador.
+No se debe realizar diagnóstico de EPOC utilizando únicamente la 
+radiografía de tórax; se debe utilizar como apoyo o complementación 
+en el proceso diagnóstico (es de elección la proyección 
+anteroposterior y lateral). La GPC recomienda realizar tomografía 
+computarizada (TC) de tórax únicamente en aquellos pacientes en 
+quienes se tengan que valorar anormalidades observadas en la 
+radiografía de tórax, para excluir ciertas complicaciones de EPOC (ej. 
+enfermedad tromboembólica o cáncer pulmonar), o cuando se esté 
+considerando realizar cirugía para reducir el volumen pulmonar, 
+válvulas endobronquiales, o trasplante pulmonar. La TC posee mayor 
+sensibilidad y especificidad para detectar de enfisema (centroacinar, 
+panacinar y/o paraseptal). La determinación de a-l-antitripsina debe 
+considerarse en menores de 45 años y sin antecedentes de riesgo.
+Figura 2. Diagnóstico de EPOC en primer y segundo nivel de atención.
+Para poder discriminar la gravedad de la disnea entre los distintos 
+individuos y para poder evaluar los cambios de la disnea en forma 
+347
+
+===PAGE 373===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+progresiva, debido al impacto de la terapia, se utilizan escalas. Este 
+síntoma es la causa más frecuente de consulta de los pacientes 
+respiratorios crónicos, y es el que más afecta su calidad de vida. La 
+GPC recomienda que se debe utilizar el cuestionario CAT (COPD 
+Assessment Test) para evaluar la calidad de vida de los pacientes ya 
+que tiene un buen rendimiento y es una herramienta simple y fácil de 
+usar. La escala mMRC (modified Medical Research Council) de disnea 
+es muy adecuada para predecir hospitalizaciones y exacerbaciones, y 
+es de utilidad para el pronóstico. Por último, el índice BODE provee 
+mejor información pronostica (riesgo de muerte) que el sólo utilizar 
+el FEV1, y es útil para evaluar la respuesta al tratamiento, a la terapia 
+de rehabilitación pulmonar, y a otras intervenciones (p. ej., una 
+puntuación de 7-10 predice una supervivencia a 52 meses del 25%).
+Dentro del manejo de la EPOC estable, se debe tomar en 
+cuenta la severidad de los síntomas y el riesgo de exacerbaciones 
+futuras. En el seguimiento, el tratamiento se ajustará de acuerdo con 
+la sintomatología, riesgo de exacerbaciones, y respuesta a la terapia. 
+Los pilares del manejo farmacológico en la EPOC estable son lós 
+broncodilatadores inhalados (beta-agonistas y antagonistas 
+muscarínicos) dados como monoterapia, combinados, o con un 
+glucocorticoide inhalado (en situaciones específicas).
+Cuadro 10. Clasificación "ABCD": evaluación de síntomas y riesgo 
+de exacerbaciones para inicio de tratamiento de EPOC
+Evaluar riesgo de exacerbación: 
+Exacerbaciones/hospitalizaciones
+Evaluación de síntomas
+mMRC 0-1/
+CAT <10
+mMRC >2/
+CAT >10
+0 a 1 exacerbación sin 
+hospitalización A B
+>2 exacerbaciones o >1 
+hospitalización C D
+En pacientes del grupo A (mínimamente sintomáticos, con bajo riesgo 
+de exacerbación), la GPC recomienda que, para todos los pacientes, 
+se inicie tratamiento con un SABA (beta agonista de corta duración; 
+p. ej., salbutamol), un SAMA (antagonista muscarínico de corta 
+duración; p. ej., bromuro de ipratropio), o su combinación, por razón 
+necesaria, para aliviar los incrementos intermitentes de disnea. Para 
+pacientes que utilicen un LAMA (antagonista muscarínico de larga 
+duración; p. ej., tiotropio o glicopirronío), se debe utilizar un SABA 
+para el rápido alivio de los síntomas. En aquellos que no utilicen 
+LAMA, SABA o una combinación de SABA más un SAMA, se debe 
+indicar SAMA. Se recomienda utilizar anticolinérgicos como el 
+tiotropio sobre el ipratropio solo o en combinación, para el alivio 
+intermitente de los síntomas (la ventaja es su inicio de acción rápido, 
+su desventaja es la corta duración de acción que va de 4 a 6 horas).
+En pacientes del Grupo B (más sintomáticos, con bajo riesgo de 
+exacerbación), se recomienda el uso regular de un broncodilatador 
+inhalado de acción prolongada. En la práctica clínica, se prefiere 
+LAMA a un LABA (beta agonista de larga duración; p. ej., salmeterol 
+o formoterol); sin embargo, LABA una vez al día es una buena 
+alternativa dependiendo de los síntomas y posibles eventos adversos. 
+Para pacientes que usan LAMA, se prefiere indicar un SABA como 
+rescate; para aquellos que tomen LABA, se prefiere un SABA o 
+combinación de SAMA-SABA como rescate. Al utilizar LABA, se 
+pueden presentar taquicardias o temblores finos; en cambio los 
+LAMA pueden ocasionar boca seca y síntomas de retención urinaria. 
+No se recomienda utilizar teofilina como rescate (puede provocar 
+eventos adversos, como náuseas, vómitos, dolor abdominal, acidosis 
+metabólica, convulsiones y arritmias, por lo que no se sugiere como 
+primera línea y solo considerar como tercera línea en pacientes 
+graves sin respuesta a fármacos convencionales).
+Figura 3. Tratamiento de la EPOC estable. LABA, agonista beta-2 de 
+acción prolongada; LAMA, agonista muscarínico de acción 
+prolongada; SABA, agonista beta-2 de acción corta; SAMA, agonista 
+muscarínico de acción corta; IC, corticoide inhalado; CAT, prueba para 
+la evaluación de la EPOC; mMRC, escala modificada del Medical 
+Research Council.
+En pacientes del grupo C (poco sintomáticos, con alto riesgo de 
+exacerbación), se sugiere iniciar tratamiento con un LAMA debido a 
+su baja probabilidad de exacerbación.
+348
+
+===PAGE 374===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Para pacientes del grupo D (más sintomáticos, con alto riesgo de 
+exacerbación) la GPC sugiere iniciar tratamiento con LAMA, aunque 
+una combinación LAMA-LABA podría preferirse en algunos pacientes 
+con disnea severa (CAT >20). Una posible excepción a esto serían los 
+pacientes con hallazgos que sugieran sobreposición asma-EPOC o en 
+quienes la combinación del glucocorticoide inhalado-LABA pudiera 
+preferirse. En pacientes con un conteo de eosinófilos >300 
+células/mcl o características de solapamiento asma-EPOC, se puede 
+utilizar una combinación de LABA con glucocorticoide inhalado (p. ej., 
+budesonida o fluticasona).
+La administración de oxígeno suplementario es una de las terapias 
+que ha demostrado disminuir la mortalidad en pacientes con EPOC 
+avanzada, mientras que el cese del hábito tabáquico es la única 
+intervención que ha demostrado disminuir la progresión de la 
+enfermedad. La GPC establece las siguientes indicaciones para el uso 
+de oxígeno domiciliario:
+• Presión arterial de oxígeno (PaO2) <55 mmHg o saturación de 
+oxígeno (SaÜ2) <88%.
+• PaO2 >55 pero <60 mmHg con hipertensión arterial pulmonar, 
+poliglobulia o trastornos del ritmo cardiaco.
+El uso de oxígeno debe procurarse por >16 horas/día con metas de 
+PaO2 >60 mmHg y SatO2 >90%. En la EPOC estable e hipoxemia 
+crónica se debe hacer la revaloración de manera anual. En pacientes 
+que tuvieron egreso hospitalario de una exacerbación de EPOC se 
+debe hacer la revaloración cuatrimestral. Una vez que se alcance una 
+SatO2 >90% y/o PaO2 >60 mmHg respirando 30 minutos al aire 
+ambiente, se recomienda el retiro del oxígeno.
+La exacerbación de la EPOC se define como: "un evento agudo 
+caracterizado por un empeoramiento de los síntomas respiratorios 
+del paciente que va más allá de las variaciones normales en el día a 
+día y que lleva a un cambio en el tratamiento farmacológico". Esto 
+incluye un cambio agudo en uno o más de los siguientes síntomas:
+• Incremento en la frecuencia y gravedad de la tos.
+• Incremento en la producción, volumen o cambios del esputo.
+• Incremento en la disnea.
+Las infecciones respiratorias son el principal disparador de las 
+exacerbaciones en EPOC en aproximadamente 70% de los casos. Las 
+infecciones virales y bacterianas causan la mayoría de las 
+exacerbaciones. De las bacterias, las más comúnmente asociadas son: 
+Haemophilus influenzae (13-50%), Moraxella catarrhalis (9 a 21%), 
+Streptococcus pneumoniae (7-26%), y Pseudomonas aeruginosa (1 a 
+13%). El 30% restante se deben a contaminación ambiental, embolia 
+pulmonar, o son de etiología desconocida, las cuales pueden estar 
+relacionadas a otras condiciones (p. ej., isquemia miocárdica, 
+insuficiencia cardiaca, o aspiración).
+Los datos clínicos más comunes en la exacerbación son: 
+sibilancias, taquipnea, disociación toracoabdominal, uso de músculos 
+accesorios de la respiración, y dificultad para hablar debida al 
+esfuerzo respiratorio. Si se encuentra presente deterior del estado 
+mental, esto puede reflejar hipercapnia o hipoxemia y si se presenta 
+asterixis esto puede reflejar un aumento en la hipercapnia.
+Figura 4. Manejo de las exacerbaciones de la EPOC (adaptado de la 
+GPC). La adición de antibióticos en las exacerbaciones moderadas y 
+graves está indicada al cumplir al menos dos de los criterios 
+Anthonisen. VMN1, ventilación mecánica no invasiva; VMI, ventilación 
+mecánica invasiva.
+En los pacientes que presentan una exacerbación que requiere 
+manejo hospitalario en urgencias, la evaluación inicial debe incluir la 
+evaluación de la SatO2 por medio de oximetría de pulso, una 
+radiografía de tórax (para excluir neumonía, neumotorax, edema 
+pulmonar o derrame pleural), estudios de laboratorio (biometría 
+hemática completa con diferencial, electrolitos séricos y glucosa), y 
+una gasometría arterial (si se sospecha una acidosis respiratoria o si 
+se prevé soporte ventilatorio).
+El manejo de las exacerbaciones de EPOC en casa se debe hacer 
+intensificando el tratamiento broncodilatador e iniciar con un curso 
+de glucocorticoides vía oral. Los antibióticos orales se añadirán 
+basándose en las características de cada paciente.
+349
+
+===PAGE 375===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+Se debe hospitalizar al paciente con EPOC cuando presenta lo 
+siguiente: falla al manejo en primer nivel o en el servicio de urgencias; 
+aparición de nuevos signos (cianosis, estado mental alterado, edema 
+periférico); incremento importante en los síntomas básales (p. ej., 
+disnea en reposo de aparición reciente) que se acompaña de un 
+incremento en el requerimiento de oxígeno o signos de dificultad 
+respiratoria; EPOC grave (FEV1 < 50% de lo previsto); historial de 
+exacerbaciones frecuentes u hospitalizaciones previas por 
+exacerbaciones; comorbilidades graves como neumonía, arritmias, 
+falla cardiaca, diabetes mellitus, falla renal, falla hepática; fragilidad.
+Se debe ingresar al paciente con exacerbación de EPOC a una Unidad 
+de Cuidados Intensivos (UCI) cuando presenta una complicación que 
+pone en peligro su vida o tiene indicaciones para iniciar soporte 
+ventilatorio (falla respiratoria hipoxémica o hipercápnica).
+Los componentes principales para el manejo hospitalario de las 
+exacerbaciones de EPOC incluyen:
+• Revertir la limitación de flujo aéreo con broncodilatadores 
+inhalados de corta duración y glucocorticoides sistémicos.
+• Tratar la probable infección desencadenante.
+• Asegurar una oxigenación adecuada.
+• Evitar la intubación y la ventilación mecánica.
+La GPC recomienda administrar oxígeno de bajo flujo para pacientes 
+con hipoxemia debida a una exacerbación, con el objetivo de alcanzar 
+una SatO2 de 88 a 92% medida con oximetría de pulso. También se 
+recomienda iniciar con ventilación no invasiva (VNI) mediante BiPAP 
+(bilevel positive airway pressure) en pacientes con falla respiratoria 
+hipercápnica aguda (PaCO2 >45 mmHg o pH <7.30), ya que reduce la 
+mortalidad y el porcentaje de intubación en esta población. Sin 
+embargo, no se debe administrar VNI en pacientes con falla orgánica 
+aguda, después de una cirugía facial o de traumatismos, con 
+obstrucciones significativas de la vía aérea, pacientes en quienes no 
+se pueda proteger la vía aérea (p. ej., con altos volúmenes de 
+secreciones, pacientes que no pueden toser, y/o con escala de 
+Glasgow <10), y en pacientes con anastomosis gástrica o esofágica 
+reciente. La ventilación invasiva está recomendada en pacientes que 
+presentan falla con la VNI, no toleran la VNI, o presentan 
+contraindicaciones para la VNI; también en aquellos con falla 
+respiratoria que pone en peligro su vida, esto incluye la falla 
+respiratoria grave con respiración agónica, falla cardiopulmonar, e 
+inestabilidad hemodinámica grave.
+En pacientes con exacerbación leve (disnea con escala visual análoga 
+<5, frecuencia respiratoria <24, frecuencia cardíaca <95, SatO2 en 
+reposo con aire ambiente >92%), se recomienda SABA/SAMA 
+(inhalador de dosis medida: salbutamol: 100 mcg/h y/o bromuro de 
+ipratropio 20 mcg/h, 2-3 dosis; posteriormente cada 2-4 horas, a 
+requerimiento).
+En casos de exacerbación moderada (disnea con escala visual análoga 
+>5, frecuencia respiratoria >24, frecuencia cardíaca >95 por minuto, 
+SatO2 en reposo con aire ambiente <92% y/o un cambio >3% respecto 
+al basal), se recomienda la administración de broncodilatadores como 
+en la exacerbación leve, adicionando antibióticos (de acuerdo con los 
+criterios de Anthonisen) y/o prednisona 40 mg al día por 5-7 días, con 
+ajuste del tratamiento de sostén. Posterior al inicio del manejo, se 
+debe hacer la evaluación en 24 horas, y en caso de poca respuesta 
+clínica, se indica la hospitalización.
+Para pacientes con exacerbación grave (empeoramiento o nueva 
+aparición de acidosis hipercápnica) e insuficiencia respiratoria aguda, 
+se recomienda definitivamente la hospitalización, con el siguiente 
+tratamiento farmacológico:
+• Broncodilatadores: incrementar dosis y frecuencia de SABA y 
+SAMA.
+• Corticoides: considerar nebulizaciones y/o prednisona 40 mg 
+oral por día durante 5-7 días, o intravenoso con las dosis en 
+correspondencia a la de la prednisona.
+• Antibióticos: si se presentan dos o más criterios de Anthonisen.
+• Tromboprofilaxis: heparina de bajo peso molecular (p. ej., 
+enoxaparina).
+Cuadro 11. Uso de antibióticos durante las exacerbaciones de 
+EPOC
+Condición Opciones (durante 7-10 días)
+1 No ha recibido antibióticos Amoxicilina
+en las últimas 6 semanas; Doxiciclina
+<4 exacerbaciones/año. Trimetoprim-sulfametoxazol
+2 Uso de antibióticos en las Cefuroxima
+últimas 6 semanas; >4 Amoxicilina-clavulanato
+exacerbaciones/año; Claritromicina*
+fracaso del tratamiento 1. Azitromicina*
+3 Exacerbación grave; EPOC Levofloxacino
+grave o muy grave; fracaso Moxifloxacino
+del tratamiento 2. Gatifloxacino
+*En caso de alergia a 0-lactámicos.
+-El fracaso terapéutico se define por deterioro clínico después de 72 
+horas de tratamiento o ausencia de mejoría después de 7-10 días.
+Las medidas para prevenir la aparición de exacerbaciones son: dejar 
+de fumar, la rehabilitación pulmonar temprana (se debe integrar a 
+rehabilitación pulmonar a todo paciente con EPOC que esté 
+estratificado dentro de las categorías B, C y D de GOLD), incrementar 
+la actividad física (ejercicio aeróbico como caminar, trotar, ciclismo 
+y/o aerobics de bajo impacto, en sesiones de 20 a 30 minutos, 3 o 4 
+veces por semana), el uso correcto de los medicamentos (incluyendo 
+una técnica correcta de utilización de inhaladores) y la vacunación 
+contra influenza y neumococo.
+SÍNDROME DE APNEA/HIPOPNEA OBSTRUCTIVA DEL 
+SUEÑO
+Las GPC dedicadas a la prevención, detección, diagnóstico y 
+tratamiento del síndrome de apnea/hipopnea obstructiva del sueño
+350
+
+===PAGE 376===
+Manual de preparación para el ENARM décima cuarta edición - Curso Dr. Prieto
+(SAHOS) en las poblaciones adulta y pediátrica indican que la entidad 
+se caracteriza por episodios de oclusión completa (apnea) o parcial 
+(hipopnea) de la vía aérea superior durante el sueño, comúnmente 
+con reducción en la saturación de oxígeno o episodios de interrupción 
+del sueño a nivel electroencefalográfico.
+Se estima una prevalencia de 24% en los hombres y 9% en las 
+mujeres. La prevalencia del SAHOS asociado a somnolencia diurna es 
+de 3.2% en la Ciudad de México (4.4% en hombres y 2.5% en mujeres), 
+considerándose similar a la reportada en los países desarrollados. El 
+ronquido habitual se presenta en 4-11% de la población pediátrica, 
+alcanzando su incidencia máxima a los 2-8 años y conformando el 
+SAHOS en 1-4% de los casos. La GPC especifica la necesidad de 
+discriminar al síndrome de hipoventilación y obesidad (síndrome de 
+Pickwick), en el que algunos pacientes presentan apneas durante el 
+sueño.
+Además de los ronquidos nocturnos, los episodios de 
+obstrucción de la vía aérea superior en el SAHOS inducen síntomas 
+diurnos como somnolencia excesiva, deterioro cognitivo y cefalea, 
+además de alteraciones respiratorias, cardiacas, metabólicas e 
+inflamatorias. Otros hallazgos que pueden orientar el diagnóstico son 
+la medición de la circunferencia del cuello, la relación de la lengua con 
+el paladar (clasificación Mallampati) y la identificación de 
+malformaciones craneofaciales. Los factores de riesgo en la población 
+pediátrica considerados en la GPC son los siguientes:
+• Obesidad.
+• Trastornos neuromusculares.
+• Espina bífida.
+• Anormalidades craneofaciales (estrechez o retroposición del 
+hueso mandibular o maxilar) o alteraciones del tronco encefálico 
+(malformación de Arnold-Chiari, acondroplasia).
+• Prematuridad.
+• Síndrome de Down.
+• Parálisis cerebral.
+• Enfermedad pulmonar crónica.
+• Síndromes de hipoventilación central.
+• Enfermedades metabólicas y/o genéticas (mucopolisacaridosis).
+La somnolencia debe distinguirse de la fatiga. La fatiga se define como 
+una falta subjetiva de energía física o mental que, según la percepción 
+del paciente o su cuidador, interfiere con sus actividades habituales y 
+deseadas. Para facilitar esta distinción, se pueden combinar una serie 
+de preguntas dirigidas con la escala de somnolencia de Epworth para 
+documentar cuantitativamente la percepción del paciente de 
+somnolencia, fatiga o ambas. Una puntuación en la ESS >9 indica 
+somnolencia anormal.
+Cuadro 12. Escala de somnolencia de Epwoth
+Circunstancia Posibilidad de adormecerse Puntaje
+Sentado y leyendo Ninguna 0
+Ligera 1
+Moderada 2
+Alta 3
+Viendo la televisión Ninguna 0
+Ligera 1
+Moderada 2
+Alta 3
+Sentado inactivo en Ninguna 0
+un lugar público Ligera 1
+Moderada 2
+Alta 3
+Sentado durante 1 Ninguna 0
+hora como Ligera 1
+pasajero en un Moderada 2
+coche Alta 3
+Recostado por la Ninguna 0
+tarde para Ligera 1
+descansar Moderada 2
+Alta 3
+Sentado y Ninguna 0
+hablando con otra Ligera 1
+persona Moderada 2
+Alta 3
+Sentado Ninguna 0
+tranquilamente Ligera 1
+después de una Moderada 2
+comida sin alcohol Alta 3
+Sentado en un Ninguna 0
+coche detenido por Ligera 1
+pocos minutos por Moderada 2
+un atasco Alta 3
+Interpretación
+1-6 puntos Sueño normal
+7-8 puntos Somnolencia media
+9-24 puntos Somnolencia anómala (posiblemente 
+patológica)
+El diagnóstico se fundamenta en la identificación clínica de 
+síntomas sugestivos y en la confirmación objetiva mediante estudios 
+del sueño. Se recomienda realizar pruebas diagnósticas en pacientes 
+con somnolencia diurna excesiva acompañada de ronquidos fuertes, 
+apneas presenciadas o episodios nocturnos de jadeo o 
+atragantamiento. También es pertinente evaluar a quienes presentan 
+únicamente somnolencia o que tienen condiciones asociadas, como 
+hipertensión refractaria o accidentes por quedarse dormidos. La 
+polisomnografía (PSG) nocturna asistida en laboratorio es el 
+estándar diagnóstico en casos de sospecha leve, comorbilidades 
+respiratorias, narcolepsia o pacientes con trabajos críticos, debido a 
+su capacidad para detectar eventos complejos. En cambio, para 
+pacientes con alta probabilidad clínica de SAHOS moderada o grave 
+351
+
