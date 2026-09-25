@@ -1,45 +1,45 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Bóveda ENARM
+  pageTitleSuffix: " · Cerebro Demiank"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
+  analytics: null
+  locale: es-ES
   baseUrl: drdemiank.github.io/boveda-enarm
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - _templates
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Source Sans 3
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f8fafb"
+        lightgray: "#e2e9ed"
+        gray: "#94a3ad"
+        darkgray: "#3a4953"
+        dark: "#0f2530"
+        secondary: "#0b6b7a"
+        tertiary: "#2a9d8f"
+        highlight: rgba(11, 107, 122, 0.08)
+        textHighlight: "#ffe39a99"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0e171c"
+        lightgray: "#22323a"
+        gray: "#5f727c"
+        darkgray: "#cbd7dd"
+        dark: "#eef4f7"
+        secondary: "#5cb8c6"
+        tertiary: "#7fcdbb"
+        highlight: rgba(92, 184, 198, 0.10)
+        textHighlight: "#b38f0088"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -230,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Inicio: https://drdemiank.github.io/boveda-enarm/
+        Índice maestro: https://drdemiank.github.io/boveda-enarm/02_wiki/indice-maestro
     layout:
       position: footer
       priority: 50

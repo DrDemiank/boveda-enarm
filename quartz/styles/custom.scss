@@ -1,3 +1,359 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ============================================================
+// Bóveda ENARM — estilo "clínico sobrio"
+// Paleta azul petróleo, tipografía limpia, tarjetas por especialidad
+// ============================================================
+
+// ---------- Paleta (refuerza la de quartz.config.yaml) ----------
+:root {
+  --light: #f8fafb;
+  --lightgray: #e2e9ed;
+  --gray: #94a3ad;
+  --darkgray: #3a4953;
+  --dark: #0f2530;
+  --secondary: #0b6b7a;
+  --tertiary: #2a9d8f;
+  --highlight: rgba(11, 107, 122, 0.08);
+  --textHighlight: #ffe39a99;
+  --surface: #ffffff;
+  --shadow: 0 1px 2px rgba(15, 37, 48, 0.06), 0 4px 14px rgba(15, 37, 48, 0.05);
+
+  // Acentos por especialidad
+  --esp-psiq: #6d5bd0;
+  --esp-mi: #0b6b7a;
+  --esp-cir: #c0392b;
+  --esp-ped: #2e86de;
+  --esp-go: #c2417b;
+  --esp-urg: #d35400;
+  --esp-sp: #27ae60;
+}
+
+:root[saved-theme="dark"] {
+  --light: #0e171c;
+  --lightgray: #22323a;
+  --gray: #5f727c;
+  --darkgray: #cbd7dd;
+  --dark: #eef4f7;
+  --secondary: #5cb8c6;
+  --tertiary: #7fcdbb;
+  --highlight: rgba(92, 184, 198, 0.1);
+  --textHighlight: #b38f0088;
+  --surface: #13212a;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 14px rgba(0, 0, 0, 0.25);
+
+  --esp-psiq: #a597f2;
+  --esp-mi: #5cb8c6;
+  --esp-cir: #f08272;
+  --esp-ped: #74b3f2;
+  --esp-go: #f08bb8;
+  --esp-urg: #f5a25d;
+  --esp-sp: #6fd49a;
+}
+
+// ---------- Tipografía y lectura ----------
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+article {
+  line-height: 1.7;
+  font-size: 1.02rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -0.01em;
+  color: var(--dark);
+}
+
+article h1.article-title,
+.article-title {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+article h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+article h3 {
+  color: var(--secondary);
+}
+
+// Enlaces internos más limpios
+a.internal {
+  background-color: transparent;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 35%, transparent);
+  border-radius: 0;
+  padding: 0;
+  transition:
+    border-color 0.15s ease,
+    color 0.15s ease;
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+    color: var(--tertiary);
+  }
+
+  &.tag-link {
+    border: none;
+    border-radius: 999px;
+    padding: 0.1rem 0.55rem;
+    background: var(--highlight);
+  }
+}
+
+// Título del sitio
+.page-title {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+
+  a {
+    color: var(--secondary);
+  }
+}
+
+// ---------- Tablas ----------
+article table {
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+
+  th {
+    background: var(--highlight);
+    color: var(--dark);
+    font-weight: 700;
+    text-align: left;
+  }
+
+  th,
+  td {
+    padding: 0.55rem 0.8rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+}
+
+// ---------- Citas, código y callouts ----------
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  border-radius: 0 8px 8px 0;
+  padding: 0.4rem 1rem;
+}
+
+.callout {
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
+
+code {
+  border-radius: 5px;
+}
+
+kbd {
+  font-family: var(--codeFont);
+  font-size: 0.8em;
+  padding: 0.1rem 0.4rem;
+  border: 1px solid var(--lightgray);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  background: var(--surface);
+}
+
+// ---------- Barra lateral ----------
+.left.sidebar,
+.right.sidebar {
+  .search .search-button {
+    border-radius: 8px;
+    border: 1px solid var(--lightgray);
+    background: var(--surface);
+  }
+}
+
+.graph .graph-outer {
+  border-radius: 10px;
+  border-color: var(--lightgray);
+}
+
+// ---------- Portada ----------
+.enarm-hero {
+  margin: 0.5rem 0 2rem;
+  padding: 1.6rem 1.6rem 1.4rem;
+  border-radius: 14px;
+  border: 1px solid var(--lightgray);
+  background:
+    radial-gradient(120% 140% at 0% 0%, color-mix(in srgb, var(--secondary) 14%, transparent) 0%, transparent 60%),
+    var(--surface);
+  box-shadow: var(--shadow);
+
+  p {
+    margin: 0;
+  }
+}
+
+.enarm-kicker {
+  font-family: var(--headerFont);
+  font-size: 0.78rem !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.enarm-lead {
+  margin-top: 0.5rem !important;
+  font-size: 1.12rem;
+  color: var(--darkgray);
+  max-width: 60ch;
+}
+
+.enarm-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1.3rem 0 1.2rem;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    padding: 0.7rem 0.8rem;
+    border-radius: 10px;
+    background: var(--highlight);
+  }
+
+  strong {
+    font-family: var(--headerFont);
+    font-size: 1.6rem;
+    line-height: 1.1;
+    color: var(--secondary);
+    font-variant-numeric: tabular-nums;
+  }
+
+  span {
+    font-size: 0.82rem;
+    color: var(--gray);
+  }
+
+  @media #{$mobile} {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.enarm-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+a.enarm-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--surface);
+  color: var(--dark);
+  font-weight: 600;
+  text-decoration: none;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+    transform: translateY(-1px);
+  }
+
+  &.enarm-btn-primary {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: var(--light);
+  }
+}
+
+.enarm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0 1.5rem;
+
+  &.enarm-grid-compact {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+}
+
+a.enarm-card {
+  --acc: var(--secondary);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1rem 0.95rem 1.15rem;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  color: var(--dark);
+  text-decoration: none;
+  overflow: hidden;
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 4px;
+    background: var(--acc);
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb, var(--acc) 55%, var(--lightgray));
+  }
+
+  &[data-esp="psiq"] { --acc: var(--esp-psiq); }
+  &[data-esp="mi"] { --acc: var(--esp-mi); }
+  &[data-esp="cir"] { --acc: var(--esp-cir); }
+  &[data-esp="ped"] { --acc: var(--esp-ped); }
+  &[data-esp="go"] { --acc: var(--esp-go); }
+  &[data-esp="urg"] { --acc: var(--esp-urg); }
+  &[data-esp="sp"] { --acc: var(--esp-sp); }
+
+  &.enarm-card-plain::before {
+    background: var(--lightgray);
+  }
+}
+
+.enarm-card-title {
+  font-family: var(--headerFont);
+  font-weight: 700;
+  font-size: 1.02rem;
+}
+
+.enarm-card-meta {
+  font-size: 0.85rem;
+  color: var(--gray);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  a.enarm-card,
+  a.enarm-btn {
+    transition: none;
+    &:hover {
+      transform: none;
+    }
+  }
+}
