@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infografía — Hemorragia Obstétrica</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #1a1a2e; color: #eee; padding: 20px; max-width: 800px; margin: auto; }
+.header { background: linear-gradient(135deg, #c0392b, #0f3460); padding: 25px; border-radius: 12px; text-align: center; margin-bottom: 20px; }
+.header h1 { font-size: 28px; color: #fff; }
+.header p { color: #ccc; margin-top: 8px; }
+.section { background: #16213e; border-radius: 10px; padding: 20px; margin-bottom: 15px; border-left: 4px solid #c0392b; }
+.section h2 { color: #c0392b; font-size: 18px; margin-bottom: 12px; }
+.section h3 { color: #53d8fb; font-size: 15px; margin: 10px 0 6px; }
+.datos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.dato { background: #0f3460; padding: 12px; border-radius: 8px; text-align: center; }
+.dato .num { font-size: 24px; color: #e74c3c; font-weight: bold; }
+.dato .label { font-size: 12px; color: #aaa; }
+table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+th, td { border: 1px solid #333; padding: 8px; text-align: left; font-size: 13px; }
+th { background: #c0392b; color: #fff; }
+td { background: #0f3460; }
+.highlight { background: #c0392b; color: #fff; padding: 4px 8px; border-radius: 4px; font-weight: bold; }
+.alert { background: #c0392b; padding: 12px; border-radius: 8px; margin: 10px 0; text-align: center; font-weight: bold; }
+.comparativa { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 12px 0; }
+.card { background: #0f3460; border-radius: 8px; padding: 15px; border-top: 3px solid; }
+.card-previa { border-color: #e74c3c; }
+.card-despre { border-color: #f39c12; }
+.card h3 { margin-bottom: 8px; }
+.footer { text-align: center; padding: 15px; color: #555; font-size: 12px; margin-top: 20px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>HEMORRAGIA OBSTÉTRICA</h1>
+  <p>Primera causa de mortalidad materna en México</p>
+</div>
+
+<div class="section">
+  <h2>📊 Datos clave</h2>
+  <div class="datos">
+    <div class="dato"><div class="num">≥1000 ml</div><div class="label">Definición HPP</div></div>
+    <div class="dato"><div class="num">17.8%</div><div class="label">Mortalidad materna MX 2024</div></div>
+    <div class="dato"><div class="num">24 h</div><div class="label">Período posparto</div></div>
+    <div class="dato"><div class="num">80%</div><div class="label">Evitable con manejo adecuado</div></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>🩸 Causas anteparto</h2>
+  <table>
+    <tr><th>Comunes</th><th>Infrecuentes</th></tr>
+    <tr><td class="highlight">Placenta previa</td><td>Ruptura uterina</td></tr>
+    <tr><td class="highlight">Desprendimiento placentario</td><td>Ruptura vasos fetales</td></tr>
+    <tr><td>Trabajo de parto pretérmino</td><td>Laceraciones cervicales/vaginales</td></tr>
+    <tr><td></td><td>Trastorno hemorragíparo congénito</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>⚖️ Comparación: Placenta Previa vs Desprendimiento</h2>
+  <div class="comparativa">
+    <div class="card card-previa">
+      <h3 style="color:#e74c3c">PLACENTA PREVIA</h3>
+      <p><strong>Sangrado:</strong> Indoloro (70%)</p>
+      <p><strong>Útero:</strong> No doloroso, normotónico</p>
+      <p><strong>Inicio:</strong> 3er trimestre</p>
+      <p><strong>FR principal:</strong> Cesáreas previas</p>
+      <p><strong>Dx:</strong> USG transvaginal (estándar oro)</p>
+      <p><strong>OCI:</strong> Borde cubre el orificio</p>
+      <p><strong>Inserción baja:</strong> <20 mm sin obstruir</p>
+      <p><strong>Normal:</strong> ≥20 mm del OCI</p>
+      <p><strong>Contraindicado:</strong> Tacto vaginal</p>
+      <p><strong>Cesárea:</strong> 34-36 semanas</p>
+    </div>
+    <div class="card card-despre">
+      <h3 style="color:#f39c12">DESPRENDIMIENTO</h3>
+      <p><strong>Sangrado:</strong> Doloroso (80%)</p>
+      <p><strong>Útero:</strong> Doloroso, hipertónico (66%)</p>
+      <p><strong>FR principal:</strong> Hipertensión materna</p>
+      <p><strong>Sufrimiento fetal:</strong> 60%</p>
+      <p><strong>Mortalidad perinatal:</strong> 35%</p>
+      <p><strong>CID:</strong> Causa más común en embarazo</p>
+      <p><strong>Complicación:</strong> Sx. Sheehan</p>
+      <p><strong>Dx USG:</strong> Sensibilidad 80%</p>
+      <p><strong>Contraindicado:</strong> Tacto vaginal</p>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>🔬 Acretismo placentario</h2>
+  <table>
+    <tr><th>Tipo</th><th>Extensión</th></tr>
+    <tr><td>Acreta</td><td>Superficial (adherencia anormal)</td></tr>
+    <tr><td>Increta</td><td>Invade parcialmente miometrio</td></tr>
+    <tr><td>Percreta</td><td class="highlight">Atraviesa serosa uterina</td></tr>
+  </table>
+  <h3>Signos ultrasonográficos</h3>
+  <table>
+    <tr><td>Espacios lacunares ("queso gruyere")</td></tr>
+    <tr><td>Interfase miometrio-placenta <1 mm</td></tr>
+    <tr><td>Adelgazamiento interfase hiperecoica útero-vejiga</td></tr>
+  </table>
+  <h3>Tratamiento</h3>
+  <p>2/3 requieren <span class="highlight">cesárea-histerectomía</span> (semanas 34-36)</p>
+</div>
+
+<div class="section">
+  <h2>💊 Manejo placenta previa</h2>
+  <table>
+    <tr><th>Situación</th><th>Conducta</th></tr>
+    <tr><td>Sangrado excesivo</td><td class="highlight">Cesárea urgente (cualquier edad gestacional)</td></tr>
+    <tr><td>Sin sangrado, 24-34 sem</td><td>Corticoides + manejo expectante</td></tr>
+    <tr><td>Con sangrado previo</td><td>Cesárea programada 34-36 semanas</td></tr>
+    <tr><td>Sin FR ni comorbilidades</td><td>Cesárea 36-37 semanas</td></tr>
+    <tr><td>Tacto vaginal</td><td class="highlight">CONTRAINDICADO</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>🎯 Lo que pregunta el ENARM</h2>
+  <table>
+    <tr><th>Pregunta típica</th><th>Respuesta clave</th></tr>
+    <tr><td>Definición HPP</td><td class="highlight">≥1000 ml o hipovolemia</td></tr>
+    <tr><td>% mortalidad materna MX</td><td class="highlight">17.8%</td></tr>
+    <tr><td>Distancia normal borde-OCI</td><td class="highlight">≥20 mm</td></tr>
+    <tr><td>Estándar oro placenta previa</td><td class="highlight">USG transvaginal</td></tr>
+    <tr><td>Causa más común CID en embarazo</td><td class="highlight">Desprendimiento placentario</td></tr>
+    <tr><td>Desprendimiento: sangrado doloroso</td><td class="highlight">80%</td></tr>
+    <tr><td>Acretismo: procedimiento de elección</td><td class="highlight">Cesárea-histerectomía</td></tr>
+    <tr><td>Parto vaginal en inserción baja</td><td class="highlight">Posible si >10 mm del OCI</td></tr>
+  </table>
+</div>
+
+<div class="alert">
+  ⚠️ TACTO VAGINAL = CONTRAINDICADO EN PLACENTA PREVIA
+</div>
+
+<div class="footer">
+  ENARM Cerebro Demiank — La Mole (GLM-5.2) | Basado en: Manual Dr. Prieto ENARM 14a ed.
+</div>
+
+</body>
+</html>

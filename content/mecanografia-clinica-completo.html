@@ -1,0 +1,2346 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mecanografía clínica</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --papel:#E7EDE9;
+    --papel-hondo:#DAE3DE;
+    --superficie:#FFFFFF;
+    --tinta:#16211D;
+    --tinta-suave:#5C6B65;
+    --quirofano:#2F6E5E;
+    --quirofano-claro:#CBE0D7;
+    --error:#B0332A;
+    --ambar:#B57A18;
+    --linea:#C3D0CA;
+    --radio:2px;
+    --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    --sans:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --cond:"IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--papel);
+    color:var(--tinta);
+    font-family:var(--sans);
+    font-size:16px;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  button{font-family:inherit;color:inherit;}
+  :focus-visible{outline:2px solid var(--quirofano);outline-offset:2px;}
+
+  .lienzo{max-width:960px;margin:0 auto;padding:28px 20px 72px;}
+
+  /* --- Encabezado --- */
+  .cabecera{
+    display:flex;align-items:flex-end;justify-content:space-between;
+    gap:16px;flex-wrap:wrap;
+    border-bottom:2px solid var(--tinta);
+    padding-bottom:10px;margin-bottom:26px;
+  }
+  .marca{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;}
+  .marca h1{
+    font-family:var(--cond);font-weight:700;font-size:26px;
+    letter-spacing:.02em;margin:0;text-transform:uppercase;
+  }
+  .marca .sello{
+    font-family:var(--mono);font-size:11px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--quirofano);
+    border:1px solid var(--quirofano);padding:2px 7px;border-radius:var(--radio);
+  }
+  .cabecera .resumen-global{
+    font-family:var(--mono);font-size:12px;color:var(--tinta-suave);
+    letter-spacing:.04em;
+  }
+
+  /* --- Etiquetas y utilidades --- */
+  .rotulo{
+    font-family:var(--mono);font-size:11px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--tinta-suave);
+  }
+  .oculto{display:none !important;}
+
+  .boton{
+    font-family:var(--cond);font-weight:600;font-size:14px;
+    letter-spacing:.06em;text-transform:uppercase;
+    background:var(--tinta);color:var(--papel);
+    border:1px solid var(--tinta);border-radius:var(--radio);
+    padding:9px 16px;cursor:pointer;transition:background .15s,color .15s;
+  }
+  .boton:hover{background:var(--quirofano);border-color:var(--quirofano);}
+  .boton.secundario{background:transparent;color:var(--tinta);border-color:var(--linea);}
+  .boton.secundario:hover{background:var(--quirofano-claro);border-color:var(--quirofano);color:var(--tinta);}
+  .boton.pequeno{padding:6px 11px;font-size:12px;}
+
+  /* --- Barra de controles --- */
+  .controles{
+    display:flex;gap:10px;flex-wrap:wrap;align-items:center;
+    justify-content:space-between;margin-bottom:18px;
+  }
+  .grupo-filtros{display:flex;gap:7px;flex-wrap:wrap;}
+  .filtro{
+    font-family:var(--mono);font-size:12px;letter-spacing:.04em;
+    background:transparent;border:1px solid var(--linea);
+    border-radius:var(--radio);padding:5px 11px;cursor:pointer;
+  }
+  .filtro[aria-pressed="true"]{background:var(--tinta);color:var(--papel);border-color:var(--tinta);}
+
+  /* --- Lista de resúmenes --- */
+  .expediente{border-top:1px solid var(--linea);}
+  .ficha{
+    display:grid;
+    grid-template-columns:44px 1fr auto;
+    gap:16px;align-items:center;
+    padding:15px 4px;border-bottom:1px solid var(--linea);
+    background:transparent;transition:background .15s;
+  }
+  .ficha:hover{background:var(--superficie);}
+  .ficha .folio{
+    font-family:var(--mono);font-size:12px;color:var(--tinta-suave);
+    letter-spacing:.04em;
+  }
+  .ficha .cuerpo{min-width:0;}
+  .ficha h3{
+    font-family:var(--cond);font-weight:600;font-size:18px;
+    margin:0 0 3px;letter-spacing:.01em;
+  }
+  .ficha .meta{
+    font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave);
+    letter-spacing:.05em;display:flex;gap:14px;flex-wrap:wrap;
+  }
+  .ficha .meta .marca-previa{color:var(--quirofano);}
+  .ficha .acciones{display:flex;gap:7px;align-items:center;}
+  .vacio{
+    padding:40px 4px;color:var(--tinta-suave);font-size:15px;
+    border-bottom:1px solid var(--linea);
+  }
+
+  /* --- Vista de práctica --- */
+  .barra-sesion{
+    display:flex;justify-content:space-between;align-items:flex-start;
+    gap:16px;flex-wrap:wrap;margin-bottom:20px;
+  }
+  .barra-sesion h2{
+    font-family:var(--cond);font-weight:600;font-size:21px;margin:0;
+  }
+
+  .tablero{
+    display:grid;grid-template-columns:repeat(4,1fr);
+    border:1px solid var(--linea);background:var(--superficie);
+    border-radius:var(--radio);margin-bottom:2px;
+  }
+  .indicador{padding:11px 14px;border-right:1px solid var(--linea);}
+  .indicador:last-child{border-right:none;}
+  .indicador .valor{
+    font-family:var(--mono);font-weight:600;font-size:26px;
+    line-height:1.1;letter-spacing:-.02em;
+  }
+  .indicador .valor small{font-size:12px;font-weight:400;color:var(--tinta-suave);margin-left:3px;}
+  .indicador.alerta .valor{color:var(--error);}
+
+  .progreso{
+    height:4px;background:var(--papel-hondo);
+    border:1px solid var(--linea);border-top:none;
+    border-radius:0 0 var(--radio) var(--radio);margin-bottom:18px;
+  }
+  .progreso span{display:block;height:100%;background:var(--quirofano);width:0;transition:width .18s;}
+
+  .pizarra{
+    position:relative;background:var(--superficie);
+    border:1px solid var(--linea);border-left:3px solid var(--quirofano);
+    border-radius:var(--radio);padding:26px 28px;cursor:text;
+  }
+  .pizarra .fragmento-rotulo{margin-bottom:14px;display:flex;justify-content:space-between;gap:12px;}
+  #texto-objetivo{
+    font-family:var(--mono);font-size:19px;line-height:2.05;
+    letter-spacing:.01em;white-space:pre-wrap;word-break:break-word;
+  }
+  #texto-objetivo .c{color:#9AA8A2;position:relative;}
+  #texto-objetivo .c.ok{color:var(--tinta);}
+  #texto-objetivo .c.mal{color:var(--error);background:rgba(176,51,42,.11);border-radius:1px;}
+  #texto-objetivo .c.mal.esp{background:rgba(176,51,42,.24);}
+  #texto-objetivo .c.actual::before{
+    content:"";position:absolute;left:-1px;top:.1em;bottom:.1em;
+    width:2px;background:var(--quirofano);animation:latido 1s steps(1) infinite;
+  }
+  @keyframes latido{0%,49%{opacity:1}50%,100%{opacity:0}}
+
+  #campo{
+    position:absolute;opacity:0;pointer-events:none;
+    width:1px;height:1px;left:-9999px;
+  }
+  .velo{
+    position:absolute;inset:0;background:rgba(231,237,233,.88);
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--cond);font-weight:600;letter-spacing:.06em;
+    text-transform:uppercase;font-size:14px;color:var(--tinta-suave);
+  }
+
+  /* --- Trazo (firma visual) --- */
+  .trazo{
+    margin-top:2px;border:1px solid var(--linea);border-top:none;
+    background:var(--superficie);border-radius:0 0 var(--radio) var(--radio);
+    position:relative;
+  }
+  .trazo canvas{display:block;width:100%;height:78px;}
+  .trazo .leyenda{
+    position:absolute;left:10px;top:7px;
+    font-family:var(--mono);font-size:10px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--tinta-suave);
+  }
+  .trazo-estatico{display:flex;gap:2px;padding:16px 12px;align-items:flex-end;height:78px;}
+  .trazo-estatico i{flex:1;background:var(--quirofano-claro);height:30%;}
+  .trazo-estatico i.mal{background:var(--error);height:70%;}
+  .trazo-estatico i.ok{background:var(--quirofano);}
+
+  .pie-practica{
+    margin-top:20px;display:flex;justify-content:space-between;
+    gap:14px;flex-wrap:wrap;align-items:center;
+  }
+  .atajos{font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave);letter-spacing:.03em;}
+  .atajos kbd{
+    font-family:var(--mono);border:1px solid var(--linea);
+    border-bottom-width:2px;border-radius:var(--radio);
+    padding:1px 5px;background:var(--superficie);font-size:11px;
+  }
+
+  /* --- Resultados --- */
+  .acta{background:var(--superficie);border:1px solid var(--linea);border-radius:var(--radio);padding:26px 28px;}
+  .acta h2{font-family:var(--cond);font-weight:700;font-size:24px;margin:0 0 4px;text-transform:uppercase;letter-spacing:.03em;}
+  .acta .subtitulo{font-family:var(--mono);font-size:12px;color:var(--tinta-suave);letter-spacing:.05em;margin-bottom:22px;}
+  .cifras{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--linea);border:1px solid var(--linea);margin-bottom:24px;}
+  .cifras div{background:var(--superficie);padding:14px 16px;}
+  .cifras .n{font-family:var(--mono);font-weight:600;font-size:30px;line-height:1.1;}
+  .cifras .n small{font-size:13px;font-weight:400;color:var(--tinta-suave);}
+  .desglose{display:grid;grid-template-columns:1fr 1fr;gap:26px;}
+  .desglose h4{font-family:var(--cond);font-size:15px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 10px;}
+  .tabla-errores{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:13px;}
+  .tabla-errores td{padding:5px 0;border-bottom:1px solid var(--linea);}
+  .tabla-errores td:last-child{text-align:right;color:var(--error);}
+  .tabla-errores .tecla{background:var(--papel-hondo);padding:2px 8px;border-radius:var(--radio);}
+  .nota-marca{font-family:var(--mono);font-size:13px;line-height:1.8;color:var(--tinta-suave);}
+  .nota-marca b{color:var(--quirofano);font-weight:600;}
+
+  /* --- Diálogo de captura --- */
+  dialog{
+    border:1px solid var(--tinta);border-radius:var(--radio);
+    padding:0;max-width:640px;width:calc(100% - 32px);
+    background:var(--superficie);color:var(--tinta);
+  }
+  dialog::backdrop{background:rgba(22,33,29,.42);}
+  .dialogo-cuerpo{padding:24px 26px;}
+  .dialogo-cuerpo h3{font-family:var(--cond);font-size:20px;text-transform:uppercase;letter-spacing:.04em;margin:0 0 16px;}
+  .campo{margin-bottom:14px;display:block;}
+  .campo span{display:block;margin-bottom:5px;}
+  .campo input,.campo textarea,.campo select{
+    width:100%;font-family:var(--mono);font-size:14px;
+    padding:9px 11px;border:1px solid var(--linea);
+    border-radius:var(--radio);background:var(--papel);color:var(--tinta);
+  }
+  .campo textarea{min-height:170px;resize:vertical;line-height:1.6;}
+  .dialogo-pie{display:flex;justify-content:flex-end;gap:9px;margin-top:6px;}
+  .aviso{font-family:var(--mono);font-size:12px;color:var(--error);min-height:18px;}
+
+
+  /* --- Rejilla de especialidades --- */
+  .rejilla{
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(228px,1fr));
+    gap:1px;background:var(--linea);border:1px solid var(--linea);
+  }
+  .tarjeta{
+    background:var(--superficie);padding:20px 18px;text-align:left;
+    border:none;cursor:pointer;display:flex;flex-direction:column;
+    gap:10px;min-height:158px;transition:background .15s;
+  }
+  .tarjeta:hover{background:var(--quirofano-claro);}
+  .tarjeta h3{
+    font-family:var(--cond);font-weight:700;font-size:19px;
+    text-transform:uppercase;letter-spacing:.03em;margin:0;line-height:1.15;
+  }
+  .tarjeta .conteo{font-family:var(--mono);font-size:12px;color:var(--tinta-suave);letter-spacing:.04em;}
+  .tarjeta .avance{margin-top:auto;}
+  .tarjeta .riel{height:3px;background:var(--papel-hondo);}
+  .tarjeta .riel span{display:block;height:100%;background:var(--quirofano);}
+  .tarjeta .pie{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);margin-top:7px;letter-spacing:.04em;}
+
+  .migaja{display:flex;align-items:baseline;gap:12px;margin-bottom:18px;flex-wrap:wrap;}
+  .migaja button{
+    background:none;border:none;padding:0;cursor:pointer;
+    font-family:var(--mono);font-size:11px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--tinta-suave);text-decoration:underline;
+  }
+  .migaja button:hover{color:var(--quirofano);}
+  .migaja span{
+    font-family:var(--cond);font-weight:700;font-size:23px;
+    text-transform:uppercase;letter-spacing:.03em;
+  }
+
+  @media (max-width:720px){
+    .tablero,.cifras{grid-template-columns:repeat(2,1fr);}
+    .indicador{border-bottom:1px solid var(--linea);}
+    .desglose{grid-template-columns:1fr;}
+    #texto-objetivo{font-size:17px;line-height:1.95;}
+    .pizarra{padding:20px 18px;}
+    .ficha{grid-template-columns:1fr;gap:9px;}
+    .ficha .folio{display:none;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation-duration:.001ms !important;transition-duration:.001ms !important;}
+  }
+</style>
+</head>
+<body>
+<div class="lienzo">
+
+  <header class="cabecera">
+    <div class="marca">
+      <h1>Mecanografía clínica</h1>
+      <span class="sello">Entrenamiento</span>
+    </div>
+    <div class="resumen-global" id="resumen-global"></div>
+  </header>
+
+  <!-- ============ VISTA 1A: ESPECIALIDADES ============ -->
+  <section id="vista-especialidades">
+    <div class="controles">
+      <div class="rotulo">Seleccione una especialidad</div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;">
+        <button class="boton secundario pequeno" id="btn-modo-estricto" aria-pressed="false">Modo estricto: no</button>
+        <button class="boton pequeno" id="btn-agregar">Agregar resumen</button>
+      </div>
+    </div>
+    <div class="rejilla" id="rejilla"></div>
+  </section>
+
+  <!-- ============ VISTA 1B: TEMAS DE LA ESPECIALIDAD ============ -->
+  <section id="vista-temas" class="oculto">
+    <div class="migaja">
+      <button id="btn-todas">Todas las especialidades</button>
+      <span id="titulo-especialidad"></span>
+    </div>
+    <div class="controles">
+      <div class="grupo-filtros" id="filtros"></div>
+      <button class="boton pequeno" id="btn-agregar-2">Agregar resumen</button>
+    </div>
+    <div class="expediente" id="expediente"></div>
+  </section>
+
+  <!-- ============ VISTA 2: PRÁCTICA ============ -->
+  <section id="vista-practica" class="oculto">
+    <div class="barra-sesion">
+      <div>
+        <div class="rotulo" id="practica-especialidad"></div>
+        <h2 id="practica-titulo"></h2>
+      </div>
+      <button class="boton secundario pequeno" id="btn-salir">Salir de la sesión</button>
+    </div>
+
+    <div class="tablero">
+      <div class="indicador"><div class="rotulo">Pulsaciones por minuto</div><div class="valor" id="m-ppm">0</div></div>
+      <div class="indicador"><div class="rotulo">Precisión</div><div class="valor" id="m-precision">100<small>%</small></div></div>
+      <div class="indicador"><div class="rotulo">Errores</div><div class="valor" id="m-errores">0</div></div>
+      <div class="indicador"><div class="rotulo">Tiempo</div><div class="valor" id="m-tiempo">0<small>s</small></div></div>
+    </div>
+    <div class="progreso"><span id="barra-progreso"></span></div>
+
+    <div class="pizarra" id="pizarra">
+      <div class="fragmento-rotulo">
+        <span class="rotulo" id="fragmento-indice"></span>
+        <span class="rotulo" id="fragmento-restante"></span>
+      </div>
+      <div id="texto-objetivo"></div>
+      <input id="campo" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Área de escritura">
+      <div class="velo oculto" id="velo">Haz clic aquí para continuar</div>
+    </div>
+
+    <div class="trazo" id="trazo">
+      <span class="leyenda">Ritmo de pulsación</span>
+      <canvas id="lienzo-trazo"></canvas>
+    </div>
+
+    <div class="pie-practica">
+      <div class="atajos">
+        <kbd>Retroceso</kbd> corrige · <kbd>Esc</kbd> reinicia el fragmento · <kbd>Tab</kbd> salta al siguiente
+      </div>
+      <button class="boton secundario pequeno" id="btn-reiniciar">Reiniciar fragmento</button>
+    </div>
+  </section>
+
+  <!-- ============ VISTA 3: RESULTADOS ============ -->
+  <section id="vista-resultados" class="oculto">
+    <div class="acta">
+      <h2>Sesión concluida</h2>
+      <div class="subtitulo" id="acta-subtitulo"></div>
+      <div class="cifras">
+        <div><div class="rotulo">PPM netas</div><div class="n" id="r-ppm">0</div></div>
+        <div><div class="rotulo">Precisión</div><div class="n" id="r-precision">0<small>%</small></div></div>
+        <div><div class="rotulo">Errores</div><div class="n" id="r-errores">0</div></div>
+        <div><div class="rotulo">Duración</div><div class="n" id="r-tiempo">0<small>s</small></div></div>
+      </div>
+      <div class="desglose">
+        <div>
+          <h4>Teclas con más fallos</h4>
+          <table class="tabla-errores"><tbody id="r-tabla"></tbody></table>
+        </div>
+        <div>
+          <h4>Registro</h4>
+          <div class="nota-marca" id="r-nota"></div>
+        </div>
+      </div>
+      <div class="dialogo-pie" style="margin-top:26px;">
+        <button class="boton secundario" id="btn-volver">Volver a la lista</button>
+        <button class="boton" id="btn-repetir">Repetir este resumen</button>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- ============ DIÁLOGO: AGREGAR RESUMEN ============ -->
+<dialog id="dlg-agregar">
+  <div class="dialogo-cuerpo">
+    <h3>Agregar resumen</h3>
+    <label class="campo"><span class="rotulo">Título</span><input id="in-titulo" placeholder="Tema del resumen"></label>
+    <label class="campo"><span class="rotulo">Especialidad</span><input id="in-especialidad" list="lista-especialidades" placeholder="Medicina Interna"><datalist id="lista-especialidades"></datalist></label>
+    <label class="campo"><span class="rotulo">Área o sistema</span><input id="in-area" placeholder="Cardiología"></label>
+    <label class="campo"><span class="rotulo">Texto del resumen</span><textarea id="in-texto" placeholder="Pegue aquí el resumen completo. El programa lo dividirá en fragmentos por oraciones."></textarea></label>
+    <div class="aviso" id="aviso-dlg"></div>
+    <div class="dialogo-pie">
+      <button class="boton secundario" id="btn-cancelar-dlg">Cancelar</button>
+      <button class="boton" id="btn-guardar-dlg">Guardar en la lista</button>
+    </div>
+  </div>
+</dialog>
+
+<script>
+/* ══════════════════════════════════════════════════════════════════
+   1. BANCO DE RESÚMENES
+   Cada objeto: { id, especialidad, titulo, texto }
+   Para cargar los suyos, agregue objetos a este arreglo o utilice el
+   botón "Agregar resumen" de la interfaz.
+   ══════════════════════════════════════════════════════════════════ */
+const RESUMENES_BASE = [
+  {
+    "id": "gin-aborto",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Aborto",
+    "texto": "Pérdida gestacional antes de la viabilidad fetal. El espectro clínico del aborto incluye la amenaza de aborto, el aborto en evolución o inevitable, el aborto incompleto, el aborto completo, el aborto diferido, el aborto habitual (recurrente) y el aborto séptico. Presencia, antes de la semana de gestación, de sangrado transvaginal en ausencia de dilatación cervical, acompañado o no de dolor abdominal. Temprana: embarazo menos de semanas. Tardía: entre las semanas y 22."
+  },
+  {
+    "id": "gin-adenomiosis",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Adenomiosis",
+    "texto": "Frecuentemente se le ha referido como \"endometriosis interna\", término impreciso porque ambas entidades se encuentran en la misma mujer en menos de 20% de los casos. De hecho, son enfermedades clínicamente distintas, cuya única característica común es la presencia de glándulas y estroma endometrial ectópicos. Véase Endometriosis para la entidad homónima externa. Los factores relacionados con un aumento en su incidencia son la paridad elevada y los antecedentes de cirugía y trauma uterino (curetaje, aborto inducido - véase Aborto)."
+  },
+  {
+    "id": "gin-amenorrea-y-oligomenorrea",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Amenorrea y Oligomenorrea",
+    "texto": "La amenorrea (ausencia de la menstruación) es una manifestación común a varios estados fisiopatológicos. Tradicionalmente se ha dividido en: Amenorrea primaria: ausencia de la menarca a la edad de años. Amenorrea secundaria: ausencia de la menstruación por mayor de 3- meses en mujeres que previamente tenían ciclos regulares, o mayor de meses en quienes tenían ciclos irregulares (de acuerdo con diferentes referencias). La oligomenorrea se define como la presencia de ciclos menstruales con intervalos mayor de 35- días."
+  },
+  {
+    "id": "gin-anticoncepción-y-planificación-familiar",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Anticoncepción y Planificación Familiar",
+    "texto": "La salud sexual y reproductiva es considerada un derecho humano fundamental, asentado en las declaraciones internacionales de la Organización de las Naciones Unidas, suscrito por el Estado Mexicano y reconocido y garantizado a través del Artículo 4º constitucional."
+  },
+  {
+    "id": "gin-cervicovaginitis---generalidades",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Cervicovaginitis - Generalidades",
+    "texto": "La cervicovaginitis es una infección pélvica común causada por levaduras, bacterias o tricomónidos que, al cursar sin ser diagnosticada, puede ser el origen (junto con muchas otras infecciones de transmisión sexual) de la Enfermedad Pélvica Inflamatoria. Múltiples factores son capaces de alterar la microflora protectora vaginal normal (pH 3.5-4.5). Antibióticos: suprimen el crecimiento de los organismos comensales, permitiendo el predominio de cepas patógenas. Duchas con agua o soluciones no amortiguadas: alteran el pH o suprimen selectivamente a las bacterias endógenas."
+  },
+  {
+    "id": "gin-clamidiasis-chlamydia-trachomatis",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Clamidiasis (Chlamydia trachomatis)",
+    "texto": "Causa más frecuente de infección de transmisión sexual de origen bacteriano. Uretritis, cervicitis, linfogranuloma venéreo (LGV). El LGV se caracteriza por úlcera indolora acompañada de adenopatías dolorosas. NAAT (prueba de amplificación de ácidos nucleicos). En el LGV, serología positiva para serotipos L1-L3. Doxiciclina o eritromicina durante días. Gonorrea (Neisseria gonorrhoeae) (coinfección frecuente) Sífilis (Treponema pallidum) No aplica en esta nota. 1."
+  },
+  {
+    "id": "gin-condiciones-mamarias-benignas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Condiciones Mamarias Benignas",
+    "texto": "La GPC las define como un grupo de alteraciones (sin capacidad de diseminación) del tejido mamario que responden a estímulos hormonales y factores externos (hábitos nutricionales, estilos de vida), los cuales interactúan para producir un grupo de manifestaciones (dolor o masas mamarias, nodularidad, turgencia, irritabilidad, secreción y descarga a través del pezón, inflamación, infección) y que, en algunos casos, pueden elevar el riesgo de Cáncer Mamario."
+  },
+  {
+    "id": "gin-cáncer-cervicouterino",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Cáncer Cervicouterino",
+    "texto": "Tumor maligno originado por la pérdida de control del crecimiento de las células del endocérvix y exocérvix, que puede invadir estructuras adyacentes. Es la segunda causa más común de muerte por cáncer en mujeres mayores de años en México (de acuerdo con el INEGI y la GPC); la edad media de aparición es de años. La introducción del escrutinio con citología de Papanicolaou redujo la incidencia y mortalidad por cáncer cervicouterino invasor casi 75% durante los últimos años; sin embargo, 86% de los casos se presenta en países en desarrollo, donde el escrutinio puede no estar disponible."
+  },
+  {
+    "id": "gin-cáncer-endometrial",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Cáncer Endometrial",
+    "texto": "Es la neoplasia ginecológica más común en Estados Unidos; la edad media de presentación es a los años. El proceso neoplásico se origina en la proliferación endometrial producida por estimulación estrogénica prolongada o sin oposición por progestágenos."
+  },
+  {
+    "id": "gin-cáncer-mamario",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Cáncer Mamario",
+    "texto": "De acuerdo con la GPC, es una proliferación acelerada e incontrolada de células del epitelio glandular, que adquiere los fenotipos de inmortalidad, angiogénesis, invasión vascular y metástasis ganglionar regional y distante. El cáncer de mama es el tumor maligno más frecuente en la mujer en países desarrollados y en vías de desarrollo. De acuerdo con la OMS, en los últimos años se duplicó el número de nuevos casos anuales."
+  },
+  {
+    "id": "gin-cáncer-vulvar",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Cáncer Vulvar",
+    "texto": "El cáncer vulvar es la cuarta neoplasia ginecológica más común, correspondiendo al 5% de los cánceres del tracto genital femenino, al 0.4% de los diagnósticos de cáncer y al 0.2% de las muertes por cáncer. Es una neoplasia infrecuente (menos de 5% de las neoplasias genitales femeninas). Aproximadamente 90% de los tumores malignos de la vulva corresponden a histología epidermoide; el resto se distribuye entre: Melanomas (5-10%). Adenocarcinomas de las glándulas de Bartholin. Sarcomas (1-2%). Carcinomas de células basales (2%)."
+  },
+  {
+    "id": "gin-depresión-perinatal-prenatal-y-posparto",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Depresión Perinatal (Prenatal y Posparto)",
+    "texto": "Término utilizado para describir un episodio de Trastorno Depresivo Mayor durante el embarazo (periodo anteparto o prenatal) o después del nacimiento o adopción de un bebé (periodo posparto o posnatal). Esta nota se enfoca en las particularidades del periodo perinatal; para los criterios diagnósticos generales, la fisiopatología y el abordaje farmacológico completo de la depresión mayor fuera del embarazo y el puerperio, véase Trastorno Depresivo Mayor."
+  },
+  {
+    "id": "gin-disfunción-genitourinaria",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Disfunción Genitourinaria",
+    "texto": "Descenso de uno o más órganos pélvicos -útero, vagina, uretra, vejiga, recto, colon sigmoides o intestino delgado- desde su posición anatómica habitual. Los órganos pélvicos (vagina, útero, vejiga y recto) son mantenidos dentro de la pelvis por los músculos elevadores del ano, dispuestos bilateralmente y fusionados en su extremo posterior. La separación anterior entre los elevadores del ano se llama hiato elevador; en su cara inferior está cubierto por el diafragma urogenital. La uretra, vagina y recto atraviesan el hiato elevador y el diafragma urogenital para salir de la pelvis."
+  },
+  {
+    "id": "gin-dismenorrea",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Dismenorrea",
+    "texto": "La GPC la define como el dolor de tipo cólico que se presenta durante la menstruación, en el abdomen bajo, por mayor de ciclos menstruales, con una evolución clínica que dura 4- horas. Es la forma más común de dolor pélvico. Se distinguen formas primarias (sin una causa identificable) y secundarias (originadas por una enfermedad pélvica orgánica)."
+  },
+  {
+    "id": "gin-distocias-y-parto-vaginal-instrumentado",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Distocias y Parto Vaginal Instrumentado",
+    "texto": "Los términos \"distocia\" y \"trabajo de parto disfuncional\" se usan indistintamente para referirse a un trabajo de parto que no progresa normalmente. Las distocias complican 8-11% de los trabajos de parto con presentación cefálica en el primer y segundo estadios. Para la fisiología normal del trabajo de parto y sus estadios, véase Trabajo de Parto Normal."
+  },
+  {
+    "id": "gin-embarazo-ectópico",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Embarazo Ectópico",
+    "texto": "Implantación del blastocisto fuera de la cavidad uterina, más frecuentemente en la porción ampular de las salpinges. Es la causa más común de muerte materna en el primer trimestre. Se presenta en 1.5% de los embarazos clínicamente reconocidos. Los factores de riesgo reconocidos por la GPC son antecedentes de cirugía tubaria, enfermedad pélvica inflamatoria, embarazo tubario previo, exposición a dietilestilbestrol, uso de dispositivo intrauterino o de técnicas de fertilización asistida y tabaquismo."
+  },
+  {
+    "id": "gin-embarazo-múltiple",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Embarazo Múltiple",
+    "texto": "El embarazo múltiple se define por el desarrollo simultáneo en el útero de dos o más fetos. Representa actualmente el 3% del total de recién nacidos vivos, con incidencia creciente en las últimas décadas: incremento de 40% en la tasa de embarazos gemelares y aumento de 3- veces en embarazos múltiples de alto orden (más de dos fetos)."
+  },
+  {
+    "id": "gin-emergencias-obstétricas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Emergencias Obstétricas",
+    "texto": "La Guía de Práctica Clínica (GPC) las define como los estados nosológicos que ponen en peligro la vida de la mujer durante la etapa grávido-puerperal o del producto de la concepción, requiriendo atención médica o quirúrgica inmediata por personal calificado en hospitales con capacidad resolutiva."
+  },
+  {
+    "id": "gin-endometriosis",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Endometriosis",
+    "texto": "La GPC define la endometriosis como la presencia de tejido endometrial funcional fuera de la cavidad uterina, principalmente en el peritoneo pélvico, en la superficie de los ovarios y en el tabique rectovaginal, donde induce una reacción inflamatoria y dolor pélvico crónicos. Se reconocen subtipos: superficial o peritoneal, ovárica o endometrioma, y profunda o extrapélvica. Su prevalencia es desconocida, pero se estima que afecta entre 6-10% de las mujeres en edad reproductiva. Los factores de riesgo identificados en la GPC son: Dismenorrea. Alteraciones menstruales (hipermenorrea)."
+  },
+  {
+    "id": "gin-enfermedad-pélvica-inflamatoria",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Enfermedad Pélvica Inflamatoria",
+    "texto": "La enfermedad pélvica inflamatoria (EPI) es un espectro de trastornos caracterizados por la infección del tracto genital femenino superior, que puede alcanzar al peritoneo pélvico en las formas graves. Los órganos que pueden afectarse incluyen el útero (endometritis, parametritis), las salpinges (salpingitis), los ovarios (ooforitis, absceso tubo-ovárico) y el peritoneo pélvico. La EPI se encuentra habitualmente en mujeres de 15- años, con una incidencia particularmente alta en las de 15- años; hasta el 20% de los casos corresponde a pacientes adolescentes."
+  },
+  {
+    "id": "gin-enfermedad-trofoblástica-gestacional",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Enfermedad Trofoblástica Gestacional",
+    "texto": "La enfermedad trofoblástica gestacional (ETG) representa un espectro de enfermedades que incluye la mola hidatidiforme (benigna) y la neoplasia trofoblástica gestacional (maligna), que a su vez comprende la mola invasora o corioadenoma destruens (con capacidad metastásica) y el coriocarcinoma gestacional (variedad francamente maligna). La mayoría de los embarazos molares ocurre de forma espontánea, aunque existe un síndrome familiar de mola hidatidiforme recurrente. Incidencia de 1:1500- en mujeres caucásicas, hasta 1: en asiáticas."
+  },
+  {
+    "id": "gin-enfermedades-de-la-vulva---generalidades",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Enfermedades de la Vulva - Generalidades",
+    "texto": "La GPC define a los trastornos de la vulva como un conjunto de síntomas y signos referidos en la vulva, siendo el prurito y el dolor los más frecuentes, que requieren una exploración clínica y paraclínica dirigida a identificar su causa. Las enfermedades benignas de la vulva constituyen un conjunto de padecimientos con causas y comportamiento clínico diferentes, cuyas manifestaciones se ubican en la región vulvar. Infecciones: tricomoniasis (véase Cervicovaginitis - Generalidades), candidiasis, molusco contagioso, infestaciones. Dermatitis por contacto."
+  },
+  {
+    "id": "gin-fístula-vesico-vaginal",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Fístula Vesico-vaginal",
+    "texto": "La GPC la define como una comunicación anómala entre las superficies epiteliales de la vejiga y la vagina, clasificándolas como congénitas y adquiridas (estas últimas subdivididas en iatrógenas y no-iatrógenas). Antecedente de histerectomía, cirugía ginecológica, laparoscopia pélvica, biopsias ginecológicas, lesiones por radiación, carcinomas pélvicos avanzados (véase Cáncer Cervicouterino), parto traumático, violencia sexual, presencia de cuerpos exógenos intravaginales o intravesicales (sondas) e infecciones (tuberculosis, esquistosomiasis)."
+  },
+  {
+    "id": "gin-gonorrea-neisseria-gonorrhoeae",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Gonorrea (Neisseria gonorrhoeae)",
+    "texto": "Infección de transmisión sexual causada por Neisseria gonorrhoeae, con alto riesgo en adolescentes y adultos jóvenes. Periodo de incubación: 2- días. Hombres: descarga uretral, disuria. Mujeres: hasta 50% asintomáticas; flujo vaginal, dolor abdominal, metrorragia. Complicaciones: enfermedad pélvica inflamatoria (EPI), abscesos tuboováricos, salpingitis. Tinción de Gram (sensibilidad alta en hombres), cultivo, pruebas de amplificación de ácidos nucleicos (NAAT). Ceftriaxona más azitromicina, para cubrir la coinfección frecuente con Chlamydia trachomatis."
+  },
+  {
+    "id": "gin-hemorragia-obstétrica",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Hemorragia Obstétrica",
+    "texto": "Pérdida sanguínea mayor o igual a1000 ml o pérdida de sangre con signos o síntomas de hipovolemia, que puede ocurrir anteparto o dentro de las horas posteriores al parto (cesárea o parto vaginal). La hemorragia posparto (HPP) persistente se define como una hemorragia en curso de al menos ml dentro de las horas posteriores al nacimiento, refractaria al tratamiento de primera línea (uterotónicos). A nivel mundial, la HPP ocupa 8% de la mortalidad materna en países desarrollados y 20% en países en vías de desarrollo."
+  },
+  {
+    "id": "gin-hemorragia-uterina-anormal",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Hemorragia Uterina Anormal",
+    "texto": "La hemorragia uterina anormal (HUA), de acuerdo con la GPC, es la presentación aumentada en duración y cantidad del sangrado uterino. Duración normal del sangrado menstrual: a días. Regularidad: variación normal de ciclo a ciclo de mas o menos días. Cantidad normal: 5- ml por ciclo. Frecuencia menstrual normal: intervalos de sangrado de a días. Las causas de HUA se clasifican en anatómicas y no-anatómicas."
+  },
+  {
+    "id": "gin-hiperplasia-endometrial",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Hiperplasia Endometrial",
+    "texto": "La GPC define a la hiperplasia endometrial como un crecimiento endometrial excesivo, provocado por un estímulo estrogénico sostenido que no es contrarrestado por la acción de la progesterona. Se encuentra con mayor frecuencia en los extremos de la vida reproductiva, cuando la ovulación es infrecuente. Los factores de riesgo para el desarrollo de hiperplasia endometrial incluyen: Síndrome de Ovarios Poliquísticos. Obesidad (por aumento de la conversión periférica de andrógenos en estrógenos). Uso de tamoxifeno. Edad mayor de años o posmenopausia. Historia familiar de cáncer endometrial o colónico."
+  },
+  {
+    "id": "gin-infección-por-virus-de-la-inmunodeficiencia-humana",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Infección por Virus de la Inmunodeficiencia Humana (VIH)",
+    "texto": "Sexual, sanguínea y vertical (materno-fetal). Fase aguda: fiebre, adenopatías, odinofagia. Fase crónica: infecciones oportunistas (candidiasis, neumonía por Pneumocystis jirovecii, toxoplasmosis, sarcoma de Kaposi). ELISA seguido de confirmación por Western blot. Terapia antirretroviral combinada (TARV). En México la prevalencia del VIH es de 0.1-0.5%; se han notificado 315, casos entre y 2020, de los cuales las mujeres representan 18.8% (59, casos), con mayor frecuencia entre los y años (77% de los casos en mujeres)."
+  },
+  {
+    "id": "gin-infección-por-virus-del-papiloma-humano-vph",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Infección por Virus del Papiloma Humano (VPH)",
+    "texto": "Los genotipos oncogénicos y se asocian a riesgo de cáncer cervicouterino. Condilomas acuminados (verrugas genitales), displasias cervicales. Citología cervical, prueba de detección de ADN viral. Vacunación tetravalente o nonavalente. Sífilis (Treponema pallidum) (por lesiones tipo condiloma plano) No aplica en esta nota. 1. Nota de verificación: la fuente original no incluye referencias bibliográficas explícitas; se recomienda fundamentar con la GPC mexicana vigente de VPH y cáncer cervicouterino antes del examen."
+  },
+  {
+    "id": "gin-infertilidad",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Infertilidad",
+    "texto": "Incapacidad de las parejas en edad reproductiva para conseguir un embarazo teniendo coitos sin el uso de métodos anticonceptivos, durante un año en el caso de las menores de años, o durante meses para las mayores de años. Se considera primaria si la mujer nunca ha estado embarazada y secundaria si ocurre después de uno o más embarazos. La edad de la paciente es la variable con mayor impacto en el pronóstico de una pareja infértil."
+  },
+  {
+    "id": "gin-isoinmunización-al-factor-rh",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Isoinmunización al Factor Rh",
+    "texto": "Trastorno inmunológico que ocurre en gestantes negativas al factor Rh (Rhesus) con un producto positivo a dicho factor. El sistema inmunológico materno es estimulado a producir anticuerpos contra el factor Rh, los cuales cruzan la placenta y destruyen los eritrocitos fetales. Cuando un individuo negativo al factor Rh es expuesto a este, resulta sensibilizado en un proceso que inicia con la producción de IgM por un periodo breve, seguido de la producción de IgG capaz de cruzar la placenta."
+  },
+  {
+    "id": "gin-liquen-plano-vulvar",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Liquen Plano Vulvar",
+    "texto": "El liquen plano es una enfermedad dermatológica infrecuente (0.5-2% de la población) con subtipos que pueden afectar piel, mucosas, uñas y cuero cabelludo. El liquen plano vulvar se caracteriza por lesiones erosivas, papulares o hipertróficas de la vulva, que pueden acompañarse de lesiones vaginales. Es una de las entidades incluidas dentro de las enfermedades crónicas de la vulva. Incidencia máxima a los 50- años. Etiología desconocida; se cree que las lesiones surgen de una respuesta inmunológica mediada por linfocitos T contra los queratinocitos basales."
+  },
+  {
+    "id": "gin-malformaciones-müllerianas-uterinas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Malformaciones Müllerianas Uterinas",
+    "texto": "Son anomalías congénitas que afectan el desarrollo y la morfología del útero y o o la vagina y las trompas de Falopio, con o sin anomalías asociadas de ovario, tracto urinario, esqueléticas o de otros órganos. Su prevalencia real es desconocida. En una revisión sistemática que incluyó estudios con métodos de diagnóstico actuales, la prevalencia media de malformaciones congénitas en la población general femenina fue superior al 7%, aumentando al 16.7% en el grupo de mujeres con abortos recurrentes."
+  },
+  {
+    "id": "gin-menopausia",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Menopausia",
+    "texto": "Cesación permanente de la menstruación debido al agotamiento folicular ovárico, con pérdida de la actividad hormonal ovárica. Se diagnostica de forma retrospectiva tras meses consecutivos de amenorrea sin causa patológica. Edad media de aparición: años. Rango normal: 45- años. Menopausia precoz: antes de los años. Según el manual de Prieto (apoyado en la GPC mexicana), la menopausia se considera natural o fisiológica a partir de los años, y en la mayoría de las mujeres mexicanas ocurre a los años (véase la sección de contradicción detectada más abajo)."
+  },
+  {
+    "id": "gin-miomatosis-uterina",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Miomatosis Uterina",
+    "texto": "Los leiomiomas uterinos (fibroides) son tumores benignos del músculo liso que pueden presentarse entre los y años (pico de incidencia a los 35- años) y que se malignizan en menos de 1% de los casos. Son dependientes de estrógenos, por lo que crecen durante el embarazo y generalmente sufren regresión posmenopáusica. Los factores de riesgo para su desarrollo incluyen: Nuliparidad. Sobrepeso o obesidad."
+  },
+  {
+    "id": "gin-muerte-fetal",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Muerte Fetal",
+    "texto": "Definida por la OMS como la muerte del feto antes de la expulsión o extracción completa de la madre, independientemente de la duración del embarazo; la muerte se evidencia por el hecho de que, tras la separación, el feto no respira ni muestra otra evidencia de vida (latido cardiaco, pulso del cordón umbilical o movimientos definitivos de músculos voluntarios). Según la edad gestacional, se establece a partir de las semanas de gestación o un peso al nacimiento mayor de gramos. En México también se utiliza el término \"óbito fetal\"."
+  },
+  {
+    "id": "gin-neoplasias-ováricas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Neoplasias Ováricas",
+    "texto": "Los tumores malignos del ovario se clasifican de acuerdo con su origen histológico como epiteliales (80-85% de los casos, principalmente en posmenopáusicas), de los cordones sexuales (en cualquier grupo etario) y germinales (mujeres jóvenes). Los tumores de origen mesenquimal inespecífico incluyen fibroma, hemangioma, leiomioma, lipoma, linfoma y sarcomas."
+  },
+  {
+    "id": "gin-parto-pretérmino",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Parto Pretérmino",
+    "texto": "El nacimiento pretérmino se define como aquel que ocurre a la edad gestacional de 22.0-36. semanas; el trabajo de parto pretérmino es el que se presenta a esta misma edad gestacional. A nivel mundial, el trabajo de parto y el nacimiento pretérmino son la principal causa de morbilidad y mortalidad perinatales; su prevención es una prioridad de salud pública. Causas de parto pretérmino y su proporción aproximada: Proporción en aumento por la edad materna avanzada y las tecnologías de reproducción asistida."
+  },
+  {
+    "id": "gin-poliposis-endometrial",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Poliposis Endometrial",
+    "texto": "Los pólipos endometriales se forman a partir del endometrio, creando protrusiones anormales de tejido friable hacia la cavidad endometrial. Pueden causar menorragia y sangrado espontáneo durante la vida reproductiva y, posteriormente, sangrado posmenopáusico (véase Hemorragia Uterina Anormal). En el ultrasonido, los pólipos pueden aparecer como engrosamientos focales de la línea endometrial. Pueden reconocerse más fácilmente mediante ultrasonido con infusión salina o ser visualizados por histeroscopia."
+  },
+  {
+    "id": "gin-puerperio",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Puerperio",
+    "texto": "El puerperio es el periodo posterior al parto durante el cual los cambios anatómicos y fisiológicos maternos inducidos por el embarazo regresan al estado no gestacional. Su duración es inexacta, pero se considera que ocurre entre y semanas. De acuerdo con el tiempo de evolución se clasifica en: Puerperio temprano (precoz o inmediato): primeras horas; periodo en el que pueden ocurrir complicaciones agudas graves, en particular la hemorragia. Puerperio mediato: del segundo al séptimo día. Puerperio tardío (remoto): del octavo día hasta el final de la semana ( días)."
+  },
+  {
+    "id": "gin-restricción-del-crecimiento-intrauterino",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Restricción del Crecimiento Intrauterino",
+    "texto": "Existen múltiples factores que determinan el crecimiento intrauterino del feto, dependientes de la interacción madre-placenta-feto y del medio ambiente. Este crecimiento puede ser óptimo o subóptimo según el peso alcanzado por el feto en relación con los valores estandarizados para cada edad gestacional en condiciones normales. Feto pequeño para la edad gestacional (PEG): peso insuficiente para la edad gestacional según las estadísticas de cada población. Punto de corte: percentil menos de pero mayor de para peso fetal y o o circunferencia abdominal."
+  },
+  {
+    "id": "gin-ruptura-prematura-de-membranas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Ruptura Prematura de Membranas",
+    "texto": "La ruptura prematura de membranas (RPM) se define como la amniorrexis que ocurre antes del inicio del trabajo de parto, en cualquier momento de la gestación. La RPM pretérmino (RPPM) es la que ocurre antes de cumplirse las semanas de gestación (véase Parto Pretérmino). No está claramente establecida, pero se cree que contribuyen infecciones vaginales y cervicales, anormalidades en la fisiología membranal, incompetencia cervical y deficiencias nutricionales. Se basa en la historia de pérdida transvaginal de líquido y su confirmación mediante visualización directa en la vagina."
+  },
+  {
+    "id": "gin-sífilis-treponema-pallidum",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Sífilis (Treponema pallidum)",
+    "texto": "Primaria: chancro indoloro. Secundaria: exantema palmoplantar, condilomas planos. Terciaria: gomas, neurosífilis, afectación cardiovascular. VDRL más FTA-ABS (prueba treponémica confirmatoria). Penicilina G benzatínica intramuscular. Gonorrea (Neisseria gonorrhoeae) Virus del Papiloma Humano (VPH) (por lesiones tipo condiloma) No aplica en esta nota. 1. Nota de verificación: la fuente original no incluye referencias bibliográficas explícitas ni esquema posológico completo de penicilina por estadio; se recomienda fundamentar con la GPC mexicana vigente de sífilis antes del examen."
+  },
+  {
+    "id": "gin-síndrome-de-ovarios-poliquísticos",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Síndrome de Ovarios Poliquísticos",
+    "texto": "El síndrome de ovarios poliquísticos (SOP) es una condición crónica definida como la presencia de anovulación u oligoovulación con evidencia clínica o laboratorial de hiperandrogenismo, en ausencia de cualquier otra condición subyacente que lo justifique. Se considera un diagnóstico de exclusión que usualmente se manifiesta al inicio de la pubertad. Aproximadamente 6-10% de las mujeres en edad reproductiva presenta alguna forma de SOP, con un riesgo mayor cuando existe afectación de una familiar de primer grado."
+  },
+  {
+    "id": "gin-trastornos-hipertensivos-del-embarazo",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Obstetricia",
+    "titulo": "Trastornos Hipertensivos del Embarazo",
+    "texto": "Los trastornos hipertensivos del embarazo representan la segunda causa de mortalidad materna en México (12.7% de las defunciones maternas en 2024, véase Hemorragia Obstétrica para el contexto epidemiológico completo). En la gestante pueden provocar disfunción multiorgánica (insuficiencia renal, insuficiencia hepática, hemorragia e isquemia del sistema nervioso central, edema pulmonar), desprendimiento placentario y coagulación intravascular diseminada."
+  },
+  {
+    "id": "gin-trastornos-de-las-glándulas-vestibulares-mayores-b",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Trastornos de las Glándulas Vestibulares Mayores (Bartolinitis)",
+    "texto": "La Guía de Práctica Clínica (GPC) define a la bartolinitis como la inflamación e infección de las glándulas vestibulares mayores (glándulas de Bartholin). Dentro de este espectro se distinguen dos entidades: Absceso de la glándula de Bartholin: acumulación de pus secundaria a la infección, que forma una protuberancia dolorosa de la glándula. Quiste de la glándula de Bartholin: corresponde a la retención de las secreciones glandulares, cuyo crecimiento produce una tumoración vaginal generalmente asintomática."
+  },
+  {
+    "id": "gin-tricomoniasis-trichomonas-vaginalis",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Tricomoniasis (Trichomonas vaginalis)",
+    "texto": "Infección de transmisión sexual causada por el protozoo anaerobio Trichomonas vaginalis, una de las tres causas principales de vaginitis infecciosa (véase Cervicovaginitis - Generalidades), representando menos de 15% de los casos. Aproximadamente el 50% de las mujeres cursan asintomáticas y la mayoría de los hombres son asintomáticos. Múltiples parejas sexuales. Puede ser asintomática (50% en mujeres; los varones suelen encontrarse asintomáticos). Leucorrea profusa y maloliente, dispareunia, irritación vulvovaginal, disuria ocasional."
+  },
+  {
+    "id": "gin-vulvodinia",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecología",
+    "titulo": "Vulvodinia",
+    "texto": "Dolor vulvar referido con una evolución mayor de meses, caracterizado por ardor, picazón o irritación en ausencia de lesiones evidentes o alteraciones neurológicas o cutáneas. Actualmente se considera un síndrome doloroso complejo regional, de forma similar a la cistitis intersticial y la fibromialgia. Según el área afectada: generalizada o localizada; ambas formas pueden presentar episodios de dolor provocados, espontáneos o mixtos."
+  },
+  {
+    "id": "ped-alergia-a-la-proteina-de-la-leche-de-vaca",
+    "especialidad": "Pediatria",
+    "area": "Inmunologia",
+    "titulo": "Alergia a la Proteína de la Leche de Vaca",
+    "texto": "La proteína de la leche de vaca es considerada el alimento más alergénico. La GPC la define como una reacción de hipersensibilidad iniciada por un mecanismo inmunitario específico contra la proteína de la leche de vaca, la cual puede mediarse por IgE, por mecanismos mixtos o ser independiente de IgE. Las intervenciones recomendadas incluyen: Retiro de la leche de vaca. Ingesta de calcio de 1 gramos por dia. Lactancia materna exclusiva."
+  },
+  {
+    "id": "ped-amigdalectomia-en-el-paciente-pediatrico",
+    "especialidad": "Pediatria",
+    "area": "Otorrinolaringologia",
+    "titulo": "Amigdalectomía en el Paciente Pediátrico",
+    "texto": "Extracción quirúrgica de las amígdalas palatinas. Se considera dentro del manejo de la faringoamigdalitis recurrente y de la apnea obstructiva del sueño. Obstrucción de la vía aérea superior por hipertrofia amigdalina grado III-IV."
+  },
+  {
+    "id": "ped-anomalia-de-ebstein",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Anomalía de Ebstein",
+    "texto": "Cardiopatía congénita compleja caracterizada por diferentes grados de desplazamiento y adherencia de las valvas displásicas septal y posterior de la válvula tricúspide hacia la cavidad del ventrículo derecho. Parte del ventrículo derecho se introduce en la aurícula derecha, \"atrializándose\". En su forma grave pertenece al grupo de las Cardiopatías Congénitas cianóticas. Dependen de la severidad: Etapa neonatal (forma grave): cianosis grave, acidosis metabólica e insuficiencia cardiaca congestiva, en el contexto de regurgitación severa de la válvula tricúspide e hipertensión vascular pulmonar."
+  },
+  {
+    "id": "ped-anormalidades-del-tracto-urinario-y-genital",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Anormalidades del Tracto Urinario y Genital",
+    "texto": "Alteraciones adquiridas durante el desarrollo embrionario que ocasionan alteración morfológica y funcional del tracto urinario; pueden verse afectados los riñones, uréteres, vejiga y uretra. Pueden provocar trastornos renales e insuficiencia renal. Casi el 50% de los niños con enfermedad renal terminal tienen riñones asimétricos e irregulares. Las condiciones más serias son las obstrucciones de la salida vesical; muchas anormalidades pueden detectarse con antelación (escrutinio prenatal)."
+  },
+  {
+    "id": "ped-apendicitis-pediatrica",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Apendicitis (Pediátrica)",
+    "texto": "Inflamación del apéndice cecal producida por el aumento de la presión intraluminal, aunado a la poca elasticidad de la serosa. Es la emergencia quirúrgica más común en la niñez, alcanzando su pico de incidencia en la adolescencia tardía; la GPC indica que ocurre a los 6-10 años. Solo el 5% de los casos se presentan en menores de 5 años. La apendicitis clásica inicia con dolor visceral localizado en la región periumbilical, acompañado de náusea, vómito y fiebre, que evoluciona a dolor somático (migración a la fosa iliaca derecha) antes de 24 horas, con la irritación del peritoneo parietal."
+  },
+  {
+    "id": "ped-asfixia-neonatal",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Asfixia Neonatal",
+    "texto": "Al momento del nacimiento, en el recién nacido (RN) se producen cambios fisiológicos rápidos y complejos que, en la mayoría de los casos, ocurren sin problemas y sin necesidad de intervención del personal de salud. Sin embargo, entre el 5-10% de los RN requieren algún grado de reanimación, desde estimulación simple hasta asistencia mecánica a la ventilación. En México, la asfixia neonatal es considerada la principal causa de muerte en el periodo neonatal, representando el 49.4% de las defunciones."
+  },
+  {
+    "id": "ped-aspiracion-e-ingestion-de-cuerpo-extrano",
+    "especialidad": "Pediatria",
+    "area": "Otorrinolaringologia",
+    "titulo": "Aspiración e Ingestión de Cuerpo Extraño",
+    "texto": "La Guía de Práctica Clínica (GPC) considera cuerpo extraño a cualquier elemento que entra al organismo, ya sea a través de la piel o de cualquier orificio natural (ojos, nariz, garganta), impidiendo su funcionamiento normal. Esta nota agrupa dos entidades relacionadas pero distintas: la ingestión de cuerpo extraño (tracto digestivo) y la aspiración de cuerpo extraño (vía aérea). En situaciones de urgencia con compromiso de los signos vitales, la reanimación cardiopulmonar con la secuencia ABC debe realizarse antes que cualquier otra intervención."
+  },
+  {
+    "id": "ped-atresia-esofagica",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Atresia Esofágica",
+    "texto": "Defecto congénito que consiste en una falta de continuidad del esófago, con o sin comunicación a la vía aérea (fístula traqueoesofágica). Se presenta en 1 de cada 2,500 a 4,500 nacidos vivos. Puede realizarse después de la semana 18 de gestación; el polihidramnios es el hallazgo más frecuente. La corrección anatómica se realiza mediante toracotomía, con cierre y ligadura de las fístulas y aproximación de los cabos esofágicos."
+  },
+  {
+    "id": "ped-atresia-intestinal-duodenal-y-yeyunal",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Atresia Intestinal (Duodenal y Yeyunal)",
+    "texto": "Obstrucción congénita del intestino delgado por un defecto intrínseco en la formación intestinal (atresia), que puede afectar al duodeno o al yeyuno-íleon. Otras causas de obstrucción congénita del intestino delgado son la compresión extrínseca (páncreas anular, vena porta preduodenal), quistes de duplicación, bandas congénitas asociadas a malrotación, el íleo meconial y la Enfermedad de Hirschsprung de segmentos largos. Estas anormalidades pueden coexistir, por lo que debe mantenerse un índice de sospecha elevado para evitar reoperaciones innecesarias."
+  },
+  {
+    "id": "ped-atresia-de-vias-biliares",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Atresia de Vías Biliares",
+    "texto": "Colangiopatía obliterativa fibro-inflamatoria progresiva del lactante menor que afecta a los conductos biliares intrahepáticos y extrahepáticos, con obliteración y destrucción del tracto biliar como resultado. Es una causa de ictericia neonatal por obstrucción progresiva del flujo biliar que conduce a cirrosis hepática temprana. Es la etiología más frecuente de colestasis crónica quirúrgica del lactante menor y la indicación más frecuente de trasplante hepático en niños."
+  },
+  {
+    "id": "ped-bronquiolitis",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Bronquiolitis",
+    "texto": "Enfermedad respiratoria aguda de etiología viral de las vías respiratorias bajas, en particular los bronquiolos, caracterizada por inflamación, edema y necrosis de células epiteliales con aumento de la producción de moco y broncoespasmo. El periodo de incubación del VSR es de 4-6 días. Se presenta con tos, rinorrea y coriza que progresan en 3-7 días a una respiración ruidosa con sibilancias audibles. Usualmente se encuentran fiebre leve, prolongación de la fase espiratoria, retracciones intercostales y supraclaviculares, y atrapamiento aéreo con hiperexpansión pulmonar."
+  },
+  {
+    "id": "ped-coartacion-aortica",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Coartación Aórtica",
+    "texto": "Estrechamiento de la aorta localizado en la región del ligamento arterioso, adyacente al nacimiento de la arteria subclavia izquierda, que puede relacionarse con hipoplasia difusa del arco aórtico o del istmo. El flujo pulmonar se encuentra normal. Pertenece al grupo de las Cardiopatías Congénitas acianógenas. En recién nacidos con coartación severa: administración de prostaglandina E1 para mantener permeable el conducto arterioso, previo a la corrección quirúrgica. En pacientes con hipertensión arterial se emplean betabloqueadores e inhibidores de la enzima convertidora de angiotensina."
+  },
+  {
+    "id": "ped-comunicaciones-auriculoventriculares",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Comunicaciones Auriculoventriculares",
+    "texto": "Defectos de la septación auricular y o ventricular, situados en la zona del tabique por encima o por debajo de las válvulas auriculoventriculares, que coexisten con diferentes grados de afectación de dichas válvulas. Se catalogan como defectos de los cojinetes endocárdicos. Pertenecen al grupo de las Cardiopatías Congénitas acianógenas. El tratamiento inicial es con digoxina y diuréticos para el manejo de la insuficiencia cardiaca congestiva; generalmente es necesario el cierre quirúrgico."
+  },
+  {
+    "id": "ped-comunicacion-interauricular-cia",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Comunicación Interauricular (CIA)",
+    "texto": "Falta de continuidad en el septo interauricular que permite un cortocircuito entre la aurícula izquierda y la derecha. Pertenece al grupo de las Cardiopatías Congénitas acianógenas. Representa el 10-15% de todas las cardiopatías congénitas y es la que con mayor frecuencia se presenta de forma aislada en adolescentes y adultos, por lo que se considera la cardiopatía congénita más frecuente en el adulto (Manual Dr. Prieto, 14a ed.)."
+  },
+  {
+    "id": "ped-comunicacion-interventricular-civ",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Comunicación Interventricular (CIV)",
+    "texto": "Presencia de uno o más orificios en la pared que separa los ventrículos del corazón. Pertenece al grupo de las Cardiopatías Congénitas acianógenas. Representa el 20-25% de las cardiopatías congénitas; se considera, a nivel mundial, la cardiopatía congénita más común. Soplo holosistólico de intensidad 2-5 o 6 en el borde esternal inferior izquierdo, con irradiación en barra, palpable o no durante la sístole, con o sin retumbo apical diastólico cuando el cortocircuito es grande."
+  },
+  {
+    "id": "ped-craneofaringioma",
+    "especialidad": "Pediatria",
+    "area": "Neurocirugia",
+    "titulo": "Craneofaringioma",
+    "texto": "Tumores benignos surgidos de los remanentes de la bolsa de Rathke, de localización usualmente supraselar, parcialmente calcificados, sólidos o mixtos con un componente quístico. Véase también Tumores Malignos en Pediatría - Generalidades (nota: pese a incluirse en la sección de tumores pediátricos del manual, el craneofaringioma es histológicamente benigno). Generalmente se presentan con cefalea y alteraciones visuales, además de trastornos del crecimiento en los niños o hipopituitarismo en los adultos."
+  },
+  {
+    "id": "ped-defectos-de-la-pared-abdominal-gastrosquisis-y-onfalocele",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Defectos de la Pared Abdominal (Gastrosquisis y Onfalocele)",
+    "texto": "Los defectos de la pared abdominal más comúnmente encontrados en los neonatos son el onfalocele y la gastrosquisis, presentándose aproximadamente en 4 de cada 10,000 nacidos vivos en conjunto. Resultan de diferentes alteraciones del desarrollo y se manifiestan como entidades clínicas distintas: Onfalocele: defecto central de la pared abdominal, de tamaño variable, cubierto por una membrana mesenquimal en forma de domo compuesta de amnios. El cordón umbilical se conecta con la porción central de esta membrana; los órganos subyacentes están protegidos de la exposición al líquido amniótico."
+  },
+  {
+    "id": "ped-desnutricion-infantil",
+    "especialidad": "Pediatria",
+    "area": "Nutriologia",
+    "titulo": "Desnutrición Infantil",
+    "texto": "El estado nutricional normal representa una relación saludable entre la ingesta y los requerimientos nutrimentales; un desequilibrio entre ambos a lo largo del tiempo puede llevar a la malnutrición, manifestada por alteraciones en el metabolismo intermediario, la función orgánica y la composición corporal."
+  },
+  {
+    "id": "ped-displasia-del-desarrollo-de-la-cadera",
+    "especialidad": "Pediatria",
+    "area": "Ortopedia",
+    "titulo": "Displasia del Desarrollo de la Cadera",
+    "texto": "La displasia del desarrollo de la cadera (DDC) integra un conjunto de anormalidades anatómicas que afectan la articulación coxofemoral del niño o la niña, incluyendo el borde anormal del acetábulo (displasia) y la mala posición de la cabeza femoral, causando desde subluxación hasta luxación franca, con afectación del desarrollo normal de la cadera."
+  },
+  {
+    "id": "ped-diverticulo-de-meckel",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Divertículo de Meckel",
+    "texto": "Remanente del conducto onfalomesentérico fetal que forma un divertículo verdadero, ubicado en el borde antimesentérico del íleon terminal, con una conexión fibrosa con la cicatriz umbilical. Aunque la mayoría de los divertículos cursan asintomáticos durante la vida, algunos causan sangrado gastrointestinal masivo e indoloro, debido a la presencia de tejido gástrico heterotópico, cuyas secreciones producen ulceraciones en la mucosa adyacente. El divertículo puede ser el punto guía para una intususcepción, o ser susceptible de rotar el intestino adyacente alrededor de su vasculatura (vólvulo)."
+  },
+  {
+    "id": "ped-dolor-abdominal-agudo-pediatrico",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Dolor Abdominal Agudo (Pediátrico)",
+    "texto": "La entidad de \"abdomen agudo\" se define como dolor abdominal severo, localizado o generalizado, que puede requerir evaluación e intervención quirúrgica urgente. El manejo inicial incluye ayuno e inicio de hidratación; pueden considerarse la descompresión nasogástrica, el examen abdominal seriado, la evaluación quirúrgica, la evaluación ginecológica y la administración de analgésicos y antibióticos según esté indicado. El tratamiento definitivo puede ser quirúrgico o endoscópico."
+  },
+  {
+    "id": "ped-enfermedad-diarreica-aguda-eda",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Enfermedad Diarreica Aguda (EDA)",
+    "texto": "La diarrea aguda se define como la disminución en la consistencia de las heces (líquidas o semilíquidas) y o el incremento de la frecuencia de evacuaciones (mayor de 3 en 24 horas), con duración menor a 14 días. Puede acompañarse de fiebre, vómito y dolor abdominal. Ondansetrón: en pacientes con vómito, ha demostrado disminución significativa de la emesis y mayor efectividad de la terapia de rehidratación oral, en comparación con la metoclopramida. Racecadotrilo: disminuye la cantidad media de heces producidas."
+  },
+  {
+    "id": "ped-enfermedad-hemorragica-del-recien-nacido",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Enfermedad Hemorrágica del Recién Nacido",
+    "texto": "La Enfermedad Hemorrágica del Recién Nacido (EHRN) es una coagulopatía adquirida del recién nacido, secundaria a la deficiencia de los factores de coagulación dependientes de vitamina K. La vitamina K es un cofactor esencial para la activación de los factores de coagulación II, VII, IX y X, así como de la proteína C y la proteína S, mediante la carboxilación de residuos glutamato específicos. La incidencia global de EHRN es de 4.4 a 7.2 casos por 100,000 nacimientos."
+  },
+  {
+    "id": "ped-enfermedad-de-hirschsprung",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Enfermedad de Hirschsprung",
+    "texto": "También llamada megacolon agangliónico, es una anomalía congénita que afecta principalmente el rectosigmoides con disfunción motora: el segmento agangliónico del colon (ausencia de los plexos de Meissner y de Auerbach) no se relaja, lo que provoca una obstrucción funcional. Es la causa más frecuente de obstrucción intestinal distal en neonatos. La mayoría de los pacientes se diagnostican en el periodo neonatal, con síntomas de obstrucción intestinal distal: vómito, distensión abdominal y falta de evacuación de meconio o heces."
+  },
+  {
+    "id": "ped-enfermedades-exantematicas",
+    "especialidad": "Pediatria",
+    "area": "Infectologia",
+    "titulo": "Enfermedades Exantemáticas",
+    "texto": "Grupo de infecciones sistémicas, comúnmente virales y muy contagiosas, que presentan un exantema cutáneo simétrico, con predilección por la infancia. Algunas generan inmunidad permanente. Agente: virus del sarampión (familia Paramyxoviridae)."
+  },
+  {
+    "id": "ped-enterocolitis-necrosante",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Enterocolitis Necrosante",
+    "texto": "La enterocolitis necrosante (ECN) es un proceso inflamatorio intestinal agudo multifactorial que se produce fundamentalmente en neonatos de bajo peso al nacer, caracterizado por la interacción de bacterias invasivas (principalmente especies de Clostridium) sobre un sistema gastrointestinal inmunocomprometido por hipoxia-isquemia y o inmadurez. Esto resulta en necrosis isquémica de la mucosa gastrointestinal y, en ocasiones, de toda la pared intestinal, que puede conducir a perforación y peritonitis."
+  },
+  {
+    "id": "ped-epididimitis-pediatrica",
+    "especialidad": "Pediatria",
+    "area": "Urologia",
+    "titulo": "Epididimitis (Pediátrica)",
+    "texto": "Inflamación del epidídimo, que comienza habitualmente en el conducto deferente y desciende al polo inferior del epidídimo, ocasionando tumefacción e induración que se disemina al polo superior del mismo. El epidídimo es una estructura tubular unida al testículo que sirve de transporte y almacén para los espermatozoides, contribuyendo a su maduración. Se clasifica de acuerdo con el tiempo de evolución en formas agudas (6 semanas)."
+  },
+  {
+    "id": "ped-epiglotitis-pediatrica",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Epiglotitis (Pediátrica)",
+    "texto": "También conocida como supraglotitis, es un proceso inflamatorio que involucra la epiglotis y las estructuras adyacentes (superficie lingual posterior, tejidos blandos contiguos y pliegue aritenoepiglótico). Se considera una infección grave que amenaza la vida (urgencia médica). En el paciente previamente sano se caracteriza por inicio abrupto y progresión rápida de fiebre, dolor faríngeo intenso, estridor, dificultad respiratoria, apariencia tóxica y voz apagada o ausente. Se reconocen las cuatro \"D\" del cuadro clínico clásico: sialorrea (drooling), disfagia, disfonía y disnea."
+  },
+  {
+    "id": "ped-estenosis-pilorica-hipertrofica",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Estenosis Pilórica Hipertrófica",
+    "texto": "Disminución de la luz intestinal a nivel del píloro por hipertrofia e hiperplasia de la capa muscular de la porción antro-pilórica del estómago, que se torna anormalmente engrosada y se manifiesta como obstrucción al vaciamiento gástrico. Es la causa más frecuente de cirugía abdominal en menores de 2 meses, y la causa más común de alcalosis metabólica en pediatría. Suele presentarse entre las 2-8 semanas de vida (rango de 1 semana a 3 meses), de forma más tardía en prematuros."
+  },
+  {
+    "id": "ped-faringoamigdalitis-bacteriana",
+    "especialidad": "Pediatria",
+    "area": "Infectologia",
+    "titulo": "Faringoamigdalitis Bacteriana",
+    "texto": "La faringoamigdalitis aguda (FA) es un proceso agudo febril con inflamación de las mucosas del área faringoamigdalar, que puede presentar eritema, edema, exudado, úlceras o vesículas. Numerosos virus y bacterias son capaces de producirla; la mayoría de los casos en niños (mayor de 90%) son de etiología viral, con evolución benigna y autolimitada. La incidencia de FA vírica es mayor en menores de 3 años. Fiebre. Dolor faríngeo intenso. Inflamación de las mucosas del área faringoamigdalar, que puede presentar eritema, edema, exudado, úlceras o vesículas. Tos. Odinofagia (dolor al tragar)."
+  },
+  {
+    "id": "ped-fenilcetonuria",
+    "especialidad": "Pediatria",
+    "area": "Endocrinologia",
+    "titulo": "Fenilcetonuria",
+    "texto": "Error innato del metabolismo originado por deficiencia parcial o total de la fenilalanina hidroxilasa, enzima que convierte la fenilalanina en tirosina, lo que causa disminución de las concentraciones de tirosina y aumento de las concentraciones de fenilalanina en plasma y orina. Es una enfermedad progresiva. En los recién nacidos la fenilalanina se eleva dentro de las primeras horas de vida, al iniciar la ingesta de leche materna o fórmulas infantiles."
+  },
+  {
+    "id": "ped-fibrosis-quistica",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Fibrosis Quística",
+    "texto": "Pendiente de completar con la fuente correspondiente (parte 9, volumen I, del Manual Dr. Prieto ENARM 14a ed., no disponible en el extracto de Pediatría procesado). Pendiente de completar con la fuente correspondiente. Pendiente de completar con la fuente correspondiente."
+  },
+  {
+    "id": "ped-galactosemia",
+    "especialidad": "Pediatria",
+    "area": "Endocrinologia",
+    "titulo": "Galactosemia",
+    "texto": "La galactosemia clásica es una enfermedad hereditaria autosómica recesiva del metabolismo de los hidratos de carbono (galactosa), ocasionada por una deficiencia enzimática que resulta en la acumulación de metabolitos y de galactosa 1-fosfato. La sintomatología inicia posterior a la ingesta de leche humana o de fórmulas que contienen galactosa, como manifestación de una intoxicación aguda con signos inespecíficos: crisis convulsivas, rechazo al alimento, vómito, diarrea, ictericia, hipotonía, encefalopatía en diferentes grados (irritabilidad, letargia y coma) y acidosis metabólica."
+  },
+  {
+    "id": "ped-hernias-diafragmaticas-congenitas",
+    "especialidad": "Pediatria",
+    "area": "Cirugia Pediatrica",
+    "titulo": "Hernias Diafragmáticas Congénitas",
+    "texto": "El diafragma es una estructura musculotendinosa en forma de cúpula que separa las cavidades torácica y abdominal. Durante su desarrollo embrionario pueden presentarse malformaciones secundarias a la falta de fusión de las estructuras posterolaterales o retroesternales, dando lugar, respectivamente, a la hernia de Bochdalek y a la hernia de Morgagni. El cuadro clínico varía según su asociación con otras anomalías y el grado de hipoplasia pulmonar y herniación visceral."
+  },
+  {
+    "id": "ped-hipotiroidismo-congenito",
+    "especialidad": "Pediatria",
+    "area": "Endocrinologia",
+    "titulo": "Hipotiroidismo Congénito",
+    "texto": "Enfermedad presente al nacimiento, adquirida durante el desarrollo intrauterino, resultado de un desorden metabólico producto de la disminución de la actividad biológica de las hormonas tiroideas; ya sea por producción deficiente, resistencia a su acción en órganos blanco, o alteración en su transporte. Su incidencia es de aproximadamente 1 en cada 4,000 nacidos vivos."
+  },
+  {
+    "id": "ped-infecciones-congenitas-y-perinatales-torch-y-otras",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Infecciones Congénitas y Perinatales (TORCH y otras)",
+    "texto": "Grupo heterogéneo de infecciones adquiridas por el producto durante la gestación (transplacentarias), en el periparto (por contacto con secreciones maternas durante el nacimiento) o en el periodo neonatal inmediato, que comparten con frecuencia manifestaciones clínicas inespecíficas superpuestas (retraso de crecimiento intrauterino, hepatoesplenomegalia, ictericia, trombocitopenia, calcificaciones intracraneales, coriorretinitis y afectación del sistema nervioso central), por lo que clásicamente se agrupan bajo el acrónimo TORCH (Toxoplasma, Otros, Rubéola, Citomegalovirus, Herpes), ampliado."
+  },
+  {
+    "id": "ped-infeccion-de-vias-urinarias-en-pediatria",
+    "especialidad": "Pediatria",
+    "area": "Urologia",
+    "titulo": "Infección de Vías Urinarias en Pediatría",
+    "texto": "La infección de vías urinarias (IVU) se define como el crecimiento de microorganismos en el tracto urinario, adquirido principalmente por vía ascendente (aunque también puede adquirirse por vía hematógena o directa, mediante procedimientos invasivos en la vía urinaria), tras la colonización por patógenos intestinales, asociado a sintomatología clínica compatible. Las IVU pueden involucrar a las vías inferiores o las superiores. Trimetoprim-sulfametoxazol (esquema de elección): 8-12 miligramos de TMP o kilogramos por dia, dividido en 2 dosis."
+  },
+  {
+    "id": "ped-intususcepcion-intestinal",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Intususcepción Intestinal",
+    "texto": "Introducción \"telescópica\" de un segmento de intestino proximal (intususcepto) en el intestino distal (intususcipiente). La mayoría de los casos ocurren en lactantes de 4-9 meses, principalmente en hombres (relación 4:1), y puede encontrarse asociación temporal con una infección vírica (hiperplasia linfoide); casi todos los episodios son idiopáticos en menores de 2 años, y el tipo más frecuente es la ileocecocólica."
+  },
+  {
+    "id": "ped-laringotraqueobronquitis-crup",
+    "especialidad": "Pediatria",
+    "area": "Neumologia",
+    "titulo": "Laringotraqueobronquitis (Crup)",
+    "texto": "Enfermedad respiratoria aguda que causa obstrucción de la vía respiratoria alta. Los agentes causales más frecuentes son los virus parainfluenza (tipos 1, 2 y 3) y el virus sincitial respiratorio. Típicamente se presenta en pacientes de 6 meses a 3 años de edad, durante el otoño y el inicio del invierno, y afecta predominantemente al sexo masculino. La tríada clínica clásica es: tos traqueal (\"perruna\"), estridor inspiratorio y disfonía; se acompaña de fiebre leve y puede presentarse dificultad respiratoria de forma abrupta o gradual."
+  },
+  {
+    "id": "ped-lesiones-graves-por-electricidad",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Lesiones Graves por Electricidad",
+    "texto": "Las lesiones eléctricas graves provocan contractura de la extremidad afectada; una mano fuertemente cerrada con herida de entrada alerta sobre una lesión profunda de tejidos blandos mucho más extensa de lo observable externamente. Generalmente requieren fasciotomías, por lo que estos pacientes deben trasladarse a un centro especializado. Se realiza el ABCDE en quemados. La electricidad puede causar arritmias cardiacas que lleguen al paro cardiaco. Una quemadura por alta tensión mayor a 1000 voltios se considera quemadura grave."
+  },
+  {
+    "id": "ped-lesiones-traumaticas-de-la-cabeza-del-recien-nacido",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Lesiones Traumáticas de la Cabeza del Recién Nacido",
+    "texto": "Conjunto de lesiones del cuero cabelludo y estructuras adyacentes secundarias al paso por el canal del parto o al uso de instrumentación obstétrica (fórceps o ventosa), que incluyen el caput succedaneum, el cefalohematoma y la hemorragia subgaleal. Se diferencian principalmente por el plano anatómico afectado y por su relación con las líneas de sutura craneales. Edema suave, de algunos milímetros de espesor, que puede asociarse con petequias, púrpura o equimosis suprayacentes."
+  },
+  {
+    "id": "ped-lesion-obstetrica-del-plexo-braquial",
+    "especialidad": "Pediatria",
+    "area": "Ortopedia",
+    "titulo": "Lesión Obstétrica del Plexo Braquial",
+    "texto": "La lesión obstétrica del plexo braquial (LOPB) es una parálisis que resulta de la tracción del plexo braquial durante el nacimiento y que genera una parálisis flácida del miembro torácico. Es un problema frecuente en México, con una incidencia de 0.37-0.87 por cada 1,000 nacimientos. Las LOPB se presentan con cuadros clínicos bien delimitados, diferenciados en síndromes según las raíces nerviosas afectadas: superiores (parálisis de Erb-Duchenne), inferiores (parálisis de Klumpke) y totales. En la mayoría de los casos son unilaterales, predominan en el lado derecho y en el sexo masculino."
+  },
+  {
+    "id": "ped-malformaciones-anorrectales",
+    "especialidad": "Pediatria",
+    "area": "Cirugia Pediatrica",
+    "titulo": "Malformaciones Anorrectales",
+    "texto": "Incluyen una serie de anomalías congénitas que van desde una leve mal posición del ano hasta anomalías del rectosigmoides y los órganos urogenitales. La incidencia reportada varía entre 1:3,300-3,500 y 1:5,000 nacidos vivos. En caso de un producto previo con malformación anorrectal (MAR), la probabilidad aumenta a 1:100 en el siguiente embarazo. Suelen ser más frecuentes (55-70%) y más complejas en los varones."
+  },
+  {
+    "id": "ped-malformaciones-mullerianas-uterinas",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Ginecoobstetricia",
+    "titulo": "Malformaciones Müllerianas Uterinas",
+    "texto": "Son anomalías congénitas que afectan el desarrollo y la morfología del útero y o la vagina y las trompas de Falopio, con o sin anomalías asociadas de ovario, tracto urinario, esqueléticas o de otros órganos. La mayoría de las anomalías se presentan de forma asintomática, pero muchas se diagnostican a partir de la pubertad en el contexto de un cuadro de dismenorrea, masa pélvica, alteraciones menstruales e Infertilidad. La inspección de genitales externos es fundamental para el diagnóstico de las aplasias vaginales (tipo I)."
+  },
+  {
+    "id": "ped-mononucleosis-infecciosa",
+    "especialidad": "Pediatria",
+    "area": "Infectologia",
+    "titulo": "Mononucleosis Infecciosa",
+    "texto": "Es originada por la infección del virus Epstein-Barr (VEB, Epstein-Barr virus, EBV) y es frecuente en niños y adolescentes; la prevalencia aumenta con la edad. El VEB se transmite a través de la saliva. Se manifiesta con una erupción eritematosa macular, papular o morbiliforme, acompañada de: Fiebre. Tonsilofaringitis. Linfadenopatía cervical. Esta tríada (fiebre, tonsilofaringitis y linfadenopatía cervical) está presente en el 98% de los casos. También puede presentarse esplenomegalia."
+  },
+  {
+    "id": "ped-neumonia-adquirida-en-la-comunidad-pediatrica",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Neumonía Adquirida en la Comunidad (Pediátrica)",
+    "texto": "La neumonía adquirida en la comunidad (NAC) es una infección aguda del parénquima pulmonar adquirida por la exposición a un microorganismo (viral o bacteriano) presente en la comunidad, o que se manifieste después de las 72 horas del egreso hospitalario. Los síntomas y signos pueden ser sutiles, especialmente en niños pequeños."
+  },
+  {
+    "id": "ped-neuroblastoma",
+    "especialidad": "Pediatria",
+    "area": "Oncologia",
+    "titulo": "Neuroblastoma",
+    "texto": "Neoplasia extracraneal más frecuente en los niños; surge de células del sistema nervioso simpático. Véase también Tumores Malignos en Pediatría - Generalidades. La incidencia en menores de 15 años es de 10.5 casos por millón o año entre caucásicos y de 8.8 casos por millón o año entre afrodescendientes. Alrededor del 40% de los neuroblastomas se localizan en la médula suprarrenal; el resto surge en las cadenas simpáticas. Algunos casos cursan de forma asintomática; las manifestaciones clínicas son variadas."
+  },
+  {
+    "id": "ped-onfalitis",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Onfalitis",
+    "texto": "Infección umbilical del neonato, que se manifiesta como eritema e induración de la piel alrededor del ombligo, pudiendo acompañarse de supuración o secreción sanguinolenta y de mal olor. Se considera como el principal factor de riesgo responsable de la onfalitis las prácticas no higiénicas del cuidado del cordón umbilical."
+  },
+  {
+    "id": "ped-orquitis",
+    "especialidad": "Pediatria",
+    "area": "Urologia",
+    "titulo": "Orquitis",
+    "texto": "Lesión inflamatoria de uno o ambos testículos, que puede ser secundaria o no a un proceso infeccioso vírico o bacteriano. Las manifestaciones en niños suelen incluir dolor, edema, eritema escrotal, fiebre, hiperestesia, mialgias, náusea, cefalea e hipodinamia. En el adolescente con actividad sexual pueden encontrarse dolor, edema escrotal y fiebre. La exploración física puede revelar hiperestesia, induración testicular, elongación del epidídimo y tumefacción de una o ambas parótidas (en el contexto de parotiditis)."
+  },
+  {
+    "id": "ped-otitis-externa",
+    "especialidad": "Pediatria",
+    "area": "Otorrinolaringologia",
+    "titulo": "Otitis Externa",
+    "texto": "La otitis externa, también conocida como \"oído de nadador\", se define como una inflamación difusa del conducto auditivo externo (CAE), que también puede afectar el pabellón auricular o la membrana timpánica (MT), con relación temporal aguda o crónica. Los pacientes suelen presentar otalgia, prurito o sensación de taponamiento en el oído. La aparición de los síntomas suele ser rápida (48 horas). Si el CAE está muy inflamado, el paciente puede referir pérdida de audición. La fiebre es poco frecuente."
+  },
+  {
+    "id": "ped-otitis-media-aguda",
+    "especialidad": "Pediatria",
+    "area": "Otorrinolaringologia",
+    "titulo": "Otitis Media Aguda",
+    "texto": "La otitis media (OM) se divide con frecuencia en dos subgrupos de diagnóstico principal: Otitis media aguda (OMA): infección autolimitada caracterizada por inicio agudo de signos y síntomas de inflamación del oído medio. Ocurre cuando el bloqueo de la trompa de Eustaquio provoca atrapamiento de aire y secreciones. La OMA recurrente se define como tres o más episodios en seis meses, o cuatro o más episodios en doce meses. Otitis media con derrame (OMD): líquido en el oído medio sin signos o síntomas de infección aguda del oído, que puede asociarse a otras manifestaciones como hipoacusia."
+  },
+  {
+    "id": "ped-persistencia-del-conducto-arterioso-pca",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Persistencia del Conducto Arterioso (PCA)",
+    "texto": "Persistencia del conducto arterioso más allá de la sexta semana de vida extrauterina. Pertenece al grupo de las Cardiopatías Congénitas acianógenas (cortocircuito izquierda-derecha). Representa el 5-10% de las cardiopatías congénitas en neonatos a término y el 40-60% en recién nacidos de muy bajo peso al nacer. Según la fuente de origen (GPC), es la cardiopatía congénita más frecuente en México. Soplo mecánico continuo de intensidad 1-4 o 6 en el borde esternal superior izquierdo, con presión de pulso amplia."
+  },
+  {
+    "id": "ped-raquitismo",
+    "especialidad": "Pediatria",
+    "area": "Endocrinologia",
+    "titulo": "Raquitismo",
+    "texto": "Falta de mineralización del hueso y del cartílago en crecimiento, secundaria al déficit de vitamina D. El origen es multifactorial; la causa más frecuente es la disminución en la síntesis de vitamina D, seguida de la disminución en su ingesta (ambas conforman el tipo más común: el raquitismo carencial)."
+  },
+  {
+    "id": "ped-reflujo-gastroesofagico-en-pediatria",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Reflujo Gastroesofágico en Pediatría",
+    "texto": "El reflujo gastroesofágico (RGE) es común en los lactantes menores y, por lo general, no es patológico; la mayoría de los episodios son breves y no causan lesiones esofágicas ni dan lugar a otras complicaciones. Su principal manifestación es la regurgitación, definida como el paso del contenido gástrico hacia el esófago o hacia la boca de forma involuntaria (\"sin esfuerzo alguno\" o \"arcada\"), es decir, sin contracción del diafragma."
+  },
+  {
+    "id": "ped-retinopatia-del-prematuro",
+    "especialidad": "Pediatria",
+    "area": "Oftalmologia",
+    "titulo": "Retinopatía del Prematuro",
+    "texto": "La retinopatía del prematuro (ROP, retinopathy of prematurity), antes conocida como fibroplasia retrolental, es un trastorno proliferativo del desarrollo vascular que ocurre en la retina de neonatos pretérmino con vascularización retiniana incompleta. Junto con la ceguera cortical, la ROP es la causa más común de ceguera infantil en los países desarrollados. Las opciones terapéuticas incluyen crioterapia, cirugía con láser y cirugía vitreorretiniana. La GPC indica que el agente antifactor de crecimiento vascular endotelial (bevacizumab) es de segunda línea."
+  },
+  {
+    "id": "ped-rinosinusitis-aguda",
+    "especialidad": "Pediatria",
+    "area": "Otorrinolaringologia",
+    "titulo": "Rinosinusitis Aguda",
+    "texto": "Proceso infeccioso e inflamatorio agudo a nivel de nariz y senos paranasales, que persiste por más de 10 días y menos de 3 meses; se caracteriza por la presencia y persistencia de signos y síntomas de infección de vías respiratorias altas. Puede ser infecciosa, alérgica o no alérgica. Manifestaciones más comunes: Rinorrea persistente mucopurulenta, uni o bilateral. Congestión nasal. Tos, especialmente durante la noche. Menos frecuentes: voz nasal, halitosis, edema y dolor facial, cefalea."
+  },
+  {
+    "id": "ped-sepsis-neonatal",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Sepsis Neonatal",
+    "texto": "La sepsis representa una de las formas del síndrome de respuesta inflamatoria sistémica (SRIS), en presencia o como resultado de infección sospechada o confirmada. Se carece de una definición por consenso para la sepsis neonatal; sin embargo, en la mayoría de los textos se simplifica como un síndrome clínico en un recién nacido de 28 días de vida o menos, que se manifiesta por signos sistémicos de infección y aislamiento de un patógeno bacteriano en el torrente sanguíneo."
+  },
+  {
+    "id": "ped-sindrome-hemolitico-uremico",
+    "especialidad": "Pediatria",
+    "area": "Nefrologia",
+    "titulo": "Síndrome Hemolítico Urémico",
+    "texto": "El síndrome hemolítico urémico (SHU) se define como la concurrencia simultánea de anemia hemolítica microangiopática, trombocitopenia y lesión renal aguda (LRA). Es una de las principales causas de LRA en la edad pediátrica. Aunque la mayoría de los casos presenta la tríada clásica, existe una variedad importante de etiologías que resultan en diferentes presentaciones, tratamientos y pronósticos. Periodo prodrómico con dolor abdominal, vómito y diarrea que generalmente precede la aparición del SHU entre 5-10 días."
+  },
+  {
+    "id": "ped-sindrome-icterico-neonatal",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Síndrome Ictérico Neonatal",
+    "texto": "La ictericia se define como la coloración amarilla de la piel y las mucosas, que se presenta cuando los niveles sanguíneos de bilirrubina se encuentran elevados (hiperbilirrubinemia). En el recién nacido (RN) se considera que existe hiperbilirrubinemia cuando las concentraciones plasmáticas superan el percentil 95 para la edad gestacional (generalmente mayor de 5 miligramos o dl en el RN de término)."
+  },
+  {
+    "id": "ped-sindrome-de-aspiracion-de-meconio-sam",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Síndrome de Aspiración de Meconio (SAM)",
+    "texto": "El meconio es el contenido intestinal del feto y del recién nacido (RN); es una sustancia viscosa e inodora, conformada por agua, células epiteliales descamadas, vérmix, líquido amniótico, lanugo, enzimas pancreáticas y pigmentos biliares. El síndrome de aspiración de meconio (SAM) se debe al paso de meconio a las vías respiratorias antes (in utero) y o durante el nacimiento. Su presencia en el líquido amniótico no es sinónimo de sufrimiento fetal, en particular en ausencia de otros datos, como cambios en la frecuencia cardiaca o acidosis fetal."
+  },
+  {
+    "id": "ped-sindrome-de-dificultad-respiratoria-neonatal",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Síndrome de Dificultad Respiratoria Neonatal",
+    "texto": "El síndrome de dificultad respiratoria del recién nacido (SDR tipo 1), también conocido como enfermedad de la membrana hialina, es la causa más frecuente de insuficiencia respiratoria en el recién nacido (RN) prematuro, secundaria a deficiencia de factor surfactante."
+  },
+  {
+    "id": "ped-sindrome-de-eisenmenger",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Síndrome de Eisenmenger",
+    "texto": "Desorden multisistémico secundario a hipertensión arterial pulmonar producida por un cortocircuito izquierda-derecha o mixto no corregido, que provoca enfermedad vascular pulmonar con elevación de las resistencias vasculares pulmonares. Esto finalmente condiciona que el cortocircuito se invierta o se vuelva bidireccional (derecha-izquierda). Constituye una complicación evolutiva de las Cardiopatías Congénitas acianógenas no corregidas, como la Comunicación Interauricular (CIA), la Comunicación Interventricular (CIV) y la Persistencia del Conducto Arterioso (PCA)."
+  },
+  {
+    "id": "ped-taquipnea-transitoria-del-recien-nacido",
+    "especialidad": "Pediatria",
+    "area": "Neonatologia",
+    "titulo": "Taquipnea Transitoria del Recién Nacido",
+    "texto": "La taquipnea transitoria del recién nacido (TTRN), también conocida como síndrome de dificultad respiratoria neonatal tipo 2 o \"del pulmón húmedo\", es un proceso respiratorio no infeccioso que inicia en las primeras horas tras el nacimiento. Se presenta con mayor frecuencia en recién nacidos (RN) de término (37-42 SDG) o cercanos a término, y se resuelve entre las primeras 24 y 72 horas posteriores al nacimiento."
+  },
+  {
+    "id": "ped-tetralogia-de-fallot",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Tetralogía de Fallot",
+    "texto": "Cardiopatía congénita cianótica caracterizada por cuatro componentes: defecto del septo interventricular (sub-aórtico), obstrucción del flujo de salida del ventrículo derecho (estenosis pulmonar), hipertrofia ventricular derecha y cabalgamiento aórtico. Pertenece al grupo de las Cardiopatías Congénitas cianóticas. Retirar los estímulos desencadenantes; colocar al paciente en posición de acuclillamiento (genupectoral) sostenido en brazos; administrar oxígeno y morfina. Puede emplearse ketamina, dexmedetomidina y esmolol. Para la prevención de nuevas crisis se puede utilizar propranolol."
+  },
+  {
+    "id": "ped-transposicion-de-grandes-vasos-tgv",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Transposición de Grandes Vasos (TGV)",
+    "texto": "Cardiopatía en la que la aorta nace del ventrículo derecho y la arteria pulmonar del ventrículo izquierdo, existiendo una discordancia ventrículo-arterial. Es incompatible con la vida salvo que exista al menos un cortocircuito bidireccional -persistencia del conducto arterioso, comunicación interventricular, comunicación interauricular, o foramen oval permeable- que permita la mezcla de sangre oxigenada y no oxigenada. Pertenece al grupo de las Cardiopatías Congénitas cianóticas. Es, según el Manual Dr. Prieto (14a ed.), la cardiopatía congénita cianógena más frecuente en menores de un año."
+  },
+  {
+    "id": "ped-tumor-de-wilms-nefroblastoma",
+    "especialidad": "Pediatria",
+    "area": "Cardiologia",
+    "titulo": "Tumor de Wilms (Nefroblastoma)",
+    "texto": "Neoplasia embrionaria trifásica (blastemal, estromal y epitelial). Representa el cáncer renal más frecuente en pediatría. Véase también Tumores Malignos en Pediatría - Generalidades. La incidencia máxima se encuentra a la edad de 2-4 años (80% de los casos se presentan antes de los 5 años). La edad media al momento del diagnóstico es de 44 meses para los tumores unilaterales y de 31 meses para los bilaterales. El 5-10% de los casos presenta involucramiento de ambos riñones, de forma sincrónica o metacrónica."
+  },
+  {
+    "id": "ped-tumores-malignos-en-pediatria---generalidades",
+    "especialidad": "Pediatria",
+    "area": "Gastroenterologia",
+    "titulo": "Tumores Malignos en Pediatría - Generalidades",
+    "texto": "El cáncer es poco frecuente durante la infancia. Su incidencia varía según edad, sexo, raza y localización geográfica; se estima una incidencia anual de 12 a 14 casos por 100,000 habitantes en menores de 15 años. Un 60% corresponde a tumores sólidos y 40% a leucemia o linfoma. Los tumores de la infancia difieren de las neoplasias del adulto en los aspectos clínico, histopatológico y biológico: suelen tener periodos cortos de latencia, frecuentemente son de crecimiento rápido e invasión agresiva, y responden mejor a las modalidades terapéuticas estándar (particularmente la quimioterapia)."
+  },
+  {
+    "id": "cir-lesiones-graves-por-electricidad",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Lesiones Graves por Electricidad",
+    "texto": "Las lesiones eléctricas graves provocan contractura de la extremidad afectada; una mano fuertemente cerrada con herida de entrada alerta sobre una lesión profunda de tejidos blandos mucho más extensa de lo observable externamente. Generalmente requieren fasciotomías, por lo que estos pacientes deben trasladarse a un centro especializado. Se realiza el ABCDE en quemados. La electricidad puede causar arritmias cardiacas que lleguen al paro cardiaco. Una quemadura por alta tensión mayor a 1000 voltios se considera quemadura grave."
+  },
+  {
+    "id": "cir-mordeduras-y-picaduras",
+    "especialidad": "Cirugia",
+    "area": "Urgencias",
+    "titulo": "Mordeduras y Picaduras",
+    "texto": "Lesiones producidas por animales o insectos que implican: Daño local: laceración, inflamación, necrosis. Riesgo de infección secundaria, envenenamiento (toxinas) y o alergia sistémica. Pueden involucrar: Animales domésticos (perros, gatos). Artrópodos (abejas, avispas, arañas, alacranes). Serpientes venenosas. Humanos (especialmente en contexto forense o psiquiátrico). Dolor local, eritema, edema, secreción purulenta. Riesgo de celulitis, absceso, linfangitis, osteomielitis, artritis séptica. Fiebre y escalofríos sugieren diseminación sistémica."
+  },
+  {
+    "id": "cir-quemaduras",
+    "especialidad": "Cirugia",
+    "area": "Cirugia Plastica",
+    "titulo": "Quemaduras",
+    "texto": "Deshidratación súbita del tejido secundaria al calor u otros agentes causales (físicos, químicos, fuego e inhalación, eléctricos, radiación y frío). Presenta desnaturalización proteica, destrucción celular y abolición del metabolismo celular, provocando pérdida de la continuidad de la piel u otros tejidos. Su extensión y profundidad son variables, y se acompañan de un síndrome humoral complejo; la magnitud de la respuesta inflamatoria a la lesión determina sus consecuencias."
+  },
+  {
+    "id": "cir-trauma-abdominal",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Trauma Abdominal",
+    "texto": "Constituye un reto en la valoración inicial del paciente politraumatizado. La valoración del estado hemodinámico en el primer acercamiento debe incluir la posibilidad de hemorragia oculta en abdomen y o pelvis en cualquier paciente con trauma cerrado. Las lesiones penetrantes del torso entre los pezones y el periné deben considerarse causa potencial de lesión intraabdominal. Es determinante valorar el mecanismo, la fuerza con que se produjo y la zona afectada para elegir el mejor método de evaluación."
+  },
+  {
+    "id": "cir-trauma-maxilofacial",
+    "especialidad": "Cirugia",
+    "area": "Cirugia Maxilofacial",
+    "titulo": "Trauma Maxilofacial",
+    "texto": "Generalmente ocasionado en accidentes automovilísticos cuando el paciente no lleva cinturón de seguridad y se impacta contra el tablero o parabrisas. Debe descartarse lesión de columna cervical, la cual debe inmovilizarse. Igual que el tratamiento general de trauma maxilofacial (ver abajo)."
+  },
+  {
+    "id": "cir-trauma-nasal",
+    "especialidad": "Cirugia",
+    "area": "Otorrinolaringologia",
+    "titulo": "Trauma Nasal",
+    "texto": "La fractura nasal es la más común del esqueleto craneomaxilofacial, secundaria a lesiones en deportes, caídas y agresiones; el consumo de alcohol puede ser un factor contribuyente. El antecedente de rinoplastia aumenta el riesgo de fractura en esa zona. Más frecuente en hombres, entre la segunda y tercera décadas de la vida. Signos sugestivos: deformidad, hinchazón, epistaxis, obstrucción nasal y equimosis periorbital. El diagnóstico adecuado se realiza valorando la crepitación ósea y la movilidad del segmento nasal."
+  },
+  {
+    "id": "cir-trauma-pelvico",
+    "especialidad": "Cirugia",
+    "area": "Traumatologia",
+    "titulo": "Trauma Pélvico",
+    "texto": "Los huesos sacro, ilion, isquion y pubis, en conjunto con complejos ligamentos, forman la pelvis. Las fracturas y disrupciones ligamentosas de la pelvis sugieren un mecanismo de alta energía. Las lesiones pélvicas se relacionan en gran medida con lesiones peritoneales y retroperitoneales, así como con estructuras vasculares. No se recomienda la palpación prostática para el abordaje de lesiones uretrales. Debe estabilizarse o cerrarse la pelvis utilizando sistemas de compresión o una sábana para disminuir el sangrado y el volumen pélvico."
+  },
+  {
+    "id": "cir-trauma-raquimedular-y-sindromes-medulares",
+    "especialidad": "Cirugia",
+    "area": "Neurocirugia",
+    "titulo": "Trauma Raquimedular y Síndromes Medulares",
+    "texto": "Ante traumas contusos debe sospecharse trauma cervical. Las lesiones medulares completas a ese nivel pueden causar cuadriplejía o paraplejía, según el nivel de la lesión, con pérdida de la función motora y de la sensibilidad dos o más niveles debajo de la lesión ósea. Existe riesgo de choque medular por disrupción de las fibras simpáticas. Si se sospecha trauma en médula espinal, se deben tomar medidas para minimizar el daño y trasladar al paciente de forma segura para diagnóstico y tratamiento oportunos."
+  },
+  {
+    "id": "cir-trauma-toracico",
+    "especialidad": "Cirugia",
+    "area": "Cirugia de Torax",
+    "titulo": "Trauma Torácico",
+    "texto": "Lesiones causadas en la pared torácica, órganos o estructuras intratorácicas por fuerzas externas de aceleración, desaceleración, compresión, impacto de baja o alta velocidad, penetración y electrocución, ya sea fuera del hospital o de origen iatrogénico. Se caracterizan por disnea, con consecuencias fisiológicas de hipoxia, hipercapnia y acidosis respiratoria."
+  },
+  {
+    "id": "cir-trauma-de-cuello",
+    "especialidad": "Cirugia",
+    "area": "Cirugia de Cuello",
+    "titulo": "Trauma de Cuello",
+    "texto": "Inestabilidad hemodinámica. Hemorragia externa significativa. Evidencia de lesión aerodigestiva. Deben buscarse lesiones con sangrado pulsátil, hematomas expansivos y o obstrucción de la vía aérea. Se consideran penetrantes las que traspasan el platisma."
+  },
+  {
+    "id": "cir-traumatismo-craneoencefalico",
+    "especialidad": "Cirugia",
+    "area": "Neurocirugia",
+    "titulo": "Traumatismo Craneoencefálico",
+    "texto": "Lesión directa de las estructuras craneales, encefálicas o meníngeas secundaria al efecto mecánico de un agente físico externo, que puede ocasionar deterioro funcional del cráneo. El 90% de las muertes relacionadas con trauma se debe a lesión cerebral. Prevenir la lesión cerebral secundaria, asegurando oxigenación y presión sanguínea adecuadas para la perfusión cerebral."
+  },
+  {
+    "id": "psi-crisis-de-angustia-trastorno-de-pnico",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Crisis de Angustia (Trastorno de Pánico)",
+    "texto": "Etiología Se atribuye a disfunción noradrenérgica mediada por el locus ceruleus. Epidemiología Según las notas de origen, el 35% de la población experimenta un episodio de este tipo en el transcurso de un año. Nota de verificación: esta cifra corresponde a los apuntes personales de origen; contrastar contra la GPC/bibliografía vigente, ya que suele reportarse una prevalencia anual de trastorno de pánico considerablemente menor en la literatura internacional."
+  },
+  {
+    "id": "psi-delirium",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Delirium",
+    "texto": "Definicion El delirium es un sindrome neurocognitivo agudo que se caracteriza por una alteracion de la atencion y la conciencia acompanada de un cambio cognitivo con respecto a la situacion basal que no se explica mejor por un trastorno neurocognitivo (TNC) preexistente o en curso. La alteracion aparece en poco tiempo, habitualmente en unas horas o pocos dias, y tiende a fluctuar a lo largo del dia."
+  },
+  {
+    "id": "psi-depresin-perinatal-prenatal-y-posparto",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Depresión Perinatal (Prenatal y Posparto)",
+    "texto": "Definición Término utilizado para describir un episodio de Trastorno Depresivo Mayor durante el embarazo (periodo anteparto o prenatal) o después del nacimiento o adopción de un bebé (periodo posparto o posnatal). Esta nota se enfoca en las particularidades del periodo perinatal; para los criterios diagnósticos generales, la fisiopatología y el abordaje farmacológico completo de la depresión mayor fuera del embarazo y el puerperio, véase Trastorno Depresivo Mayor."
+  },
+  {
+    "id": "psi-esquizofrenia",
+    "especialidad": "Psiquiatria",
+    "area": "Psicosis",
+    "titulo": "Esquizofrenia",
+    "texto": "Definición Trastorno psicótico crónico que afecta el funcionamiento afectivo, intelectual y del comportamiento. Es el trastorno psicótico más común. Epidemiología Más frecuente en zonas urbanas e industrializadas y en grupos socioeconómicos bajos. Suele iniciar antes de los 45 años: entre los 15-25 años en hombres y entre los 25-35 años en mujeres. Etiología Poco conocida, pero se identifican: factores hereditarios; desbalance de neurotransmisores (disrupción de circuitos neuronales y vías dopaminérgicas del sistema límbico); déficits neurocognitivos (p."
+  },
+  {
+    "id": "psi-sndrome-neurolptico-maligno-snm",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Síndrome Neuroléptico Maligno (SNM)",
+    "texto": "Urgencia médica asociada al uso de antipsicóticos, caracterizada por una tétrada clínica: hipertermia, rigidez muscular, alteración mental y disfunción autonómica. Definición Reacción idiosincrática grave relacionada con el bloqueo dopaminérgico central, especialmente de receptores D2, que genera disfunción autonómica y motora potencialmente mortal."
+  },
+  {
+    "id": "psi-trastorno-bipolar-i",
+    "especialidad": "Psiquiatria",
+    "area": "Trastornos del Estado de Animo",
+    "titulo": "Trastorno Bipolar I",
+    "texto": "Definicion El trastorno bipolar I representa la conceptualizacion moderna del clasico trastorno maniaco-depresivo. El rasgo esencial es la presencia de al menos un episodio maniaco a lo largo de la vida (Criterio A). Antes o despues del episodio maniaco pueden haber existido episodios hipomaniacos o episodios de depresion mayor, aunque estos ultimos no son necesarios para el diagnostico."
+  },
+  {
+    "id": "psi-trastorno-bipolar-ii",
+    "especialidad": "Psiquiatria",
+    "area": "Trastornos del Estado de Animo",
+    "titulo": "Trastorno Bipolar II",
+    "texto": "Definicion El trastorno bipolar II se caracteriza por un curso clinico con episodios afectivos recurrentes consistentes en uno o mas episodios de depresion mayor y, al menos, un episodio hipomaniaco. El episodio depresivo mayor debe durar al menos 2 semanas y el episodio hipomaniaco debe durar al menos 4 dias para que se cumplan los criterios diagnosticos. Durante el episodio afectivo, los sintomas requeridos deben estar presentes la mayor parte del dia, casi todos los dias, y deben suponer un cambio apreciable del funcionamiento y la conducta habituales del sujeto."
+  },
+  {
+    "id": "psi-trastorno-de-estres-postraumatico",
+    "especialidad": "Psiquiatria",
+    "area": "Psicopatologia",
+    "titulo": "Trastorno de Estres Postraumatico",
+    "texto": "Definicion El trastorno de estres postraumatico (TEPT) se caracteriza por el desarrollo de sintomas especificos tras la exposicion a uno o mas eventos traumaticos. La caracteristica esencial es el desarrollo de sintomas de intrusion, evitacion, alteraciones negativas en la cognicion y el estado de animo, y alteracion de la alerta y reactividad, que comienzan o empeoran despues de la exposicion al evento traumatico."
+  },
+  {
+    "id": "psi-trastorno-depresivo-mayor",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Trastorno Depresivo Mayor",
+    "texto": "Definición Trastorno del estado de ánimo caracterizado por disforia y anhedonia, con afectación global de la vida psíquica que incluye, en menor medida, componentes cognitivos, volitivos y somáticos. Epidemiología Prevalencia puntual de 3% en varones y 4-9% en mujeres. El riesgo a lo largo de toda la vida es de 9-12% en varones y 20-26% en mujeres. Puede presentarse a cualquier edad, con pico de incidencia entre los 30 y 40 años."
+  },
+  {
+    "id": "psi-trastorno-neurocognitivo-mayor",
+    "especialidad": "Psiquiatria",
+    "area": "Neuropsiquiatria",
+    "titulo": "Trastorno Neurocognitivo Mayor",
+    "texto": "Definicion Los trastornos neurocognitivos (TNC) son sindromes cuya patologia subyacente, y a menudo tambien la etiologia, podrian en principio determinarse. La categoria de los TNC engloba los trastornos en que el deficit clinico principal es de la funcion cognitiva y que son adquiridos y no del desarrollo. Los TNC son aquellos en los que la disfuncion cognitiva no ha estado presente desde el nacimiento o la infancia temprana y, por tanto, representa un declive desde un nivel de funcionamiento adquirido previamente."
+  },
+  {
+    "id": "psi-trastorno-obsesivo-compulsivo-toc",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Trastorno Obsesivo Compulsivo (TOC)",
+    "texto": "Definición Las obsesiones son ideas intrusivas, imágenes o impulsos repetitivos. Los rituales compulsivos son pensamientos o actos repetidos que se ejecutan habitualmente para disminuir la ansiedad u otro malestar relacionado con las obsesiones. Etiología Se atribuye a disfunción de la neurotransmisión de serotonina en un circuito que involucra la corteza orbitofrontal, el núcleo caudado, el globo pálido y el tálamo. Epidemiología El riesgo de presentar el trastorno a lo largo de la vida es de 2.5% en población general, con pico de incidencia a los 30 años."
+  },
+  {
+    "id": "psi-trastorno-de-ansiedad-generalizada-tag",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Trastorno de Ansiedad Generalizada (TAG)",
+    "texto": "Definición Sensación difusa no placentera, relacionada con molestias físicas como opresión retroesternal, taquicardia y sudoración. Forma parte de los Trastornos de Ansiedad, que se consideran patológicos cuando se presentan de forma irracional (sin estímulo, de intensidad excesiva en relación con el estímulo, de duración injustificadamente prolongada o con recurrencia inmotivada), generando disfuncionalidad."
+  },
+  {
+    "id": "psi-trastornos-disociativos",
+    "especialidad": "Psiquiatria",
+    "area": "Psicopatologia",
+    "titulo": "Trastornos Disociativos",
+    "texto": "Definicion Los trastornos disociativos se caracterizan por una interrupcion y/o discontinuidad en la integracion normal de la conciencia, la memoria, la identidad propia y subjetiva, la emocion, la percepcion, la identidad corporal, el control motor y el comportamiento. Los sintomas disociativos pueden alterar posiblemente todas las areas de funcionamiento psicologico."
+  },
+  {
+    "id": "psi-trastornos-de-la-conducta-alimentaria",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Trastornos de la Conducta Alimentaria",
+    "texto": "Definicion Los trastornos de la conducta alimentaria y de la ingesta de alimentos se caracterizan por una alteracion persistente en la alimentacion o en el comportamiento relacionado con la alimentacion que lleva a una alteracion en el consumo o en la absorcion de los alimentos y que causa un deterioro significativo de la salud fisica o del funcionamiento psicosocial. El DSM-5 incluye la pica, el trastorno de rumiacion, el trastorno de evitacion/restriccion de la ingesta de alimentos, la anorexia nerviosa, la bulimia nerviosa y el trastorno de atracones."
+  },
+  {
+    "id": "med-amiloidosis",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Amiloidosis",
+    "texto": "Definición Grupo heterogéneo de enfermedades caracterizadas por el depósito extracelular de proteínas mal plegadas (amiloide), que forman fibrillas insolubles y alteran la arquitectura y función de los órganos afectados. Clasificación (según proteína precursora) AL (amiloidosis primaria): cadenas ligeras de inmunoglobulinas (plasmocitomas, mieloma múltiple). AA (amiloidosis secundaria): proteína SAA elevada en procesos inflamatorios crónicos (tuberculosis, artritis reumatoide)."
+  },
+  {
+    "id": "med-anemia-aplsica",
+    "especialidad": "Medicina Interna",
+    "area": "Hematologia",
+    "titulo": "Anemia Aplásica",
+    "texto": "Véase también Anemias - Generalidades y Clasificación. Definición El término anemia aplásica abarca un grupo de desórdenes caracterizados por pancitopenia, causados por insuficiencia de la médula ósea (provocada por exposición adquirida o asociación familiar). Epidemiología La mayoría de los casos no se asocia con ninguna exposición identificable, y alrededor del 90% son verdaderamente idiopáticos. Se encuentra más frecuentemente en individuos con edad mayor de 60 años, aunque existe otro pico de incidencia a los 15-25 años."
+  },
+  {
+    "id": "med-anemia-hemoltica",
+    "especialidad": "Medicina Interna",
+    "area": "Hematologia",
+    "titulo": "Anemia Hemolítica",
+    "texto": "Véase también Anemias - Generalidades y Clasificación. Definición Implica la destrucción de los eritrocitos; puede asociarse con el hallazgo de aumentos en los niveles de bilirrubina no conjugada, conteo reticulocitario y deshidrogenasa láctica, o cifras indetectables de haptoglobina."
+  },
+  {
+    "id": "med-anemia-hemoltica-autoinmune",
+    "especialidad": "Medicina Interna",
+    "area": "Hematologia",
+    "titulo": "Anemia Hemolítica Autoinmune",
+    "texto": "Véase también Anemias - Generalidades y Clasificación y Anemia Hemolítica. Definición Es causada por la hemolisis inducida por anticuerpos (destrucción prematura de los eritrocitos circulantes), usualmente idiopática, aunque también puede asociarse con infecciones, trastornos linfoproliferativos, enfermedades autoinmunes y ciertos fármacos."
+  },
+  {
+    "id": "med-anemia-de-enfermedad-crnica",
+    "especialidad": "Medicina Interna",
+    "area": "Hematologia",
+    "titulo": "Anemia de Enfermedad Crónica",
+    "texto": "Véase también Anemias - Generalidades y Clasificación. Definición La anemia de enfermedad crónica (AEC) es un proceso anémico de intensidad leve a moderada que acompaña a enfermedades infecciosas, inflamatorias o neoplásicas, caracterizándose por la presencia de hierro abundante en el sistema reticuloendotelial, indisponible para los precursores eritroides."
+  },
+  {
+    "id": "med-anemia-por-deficiencia-de-hierro",
+    "especialidad": "Medicina Interna",
+    "area": "Hematologia",
+    "titulo": "Anemia por Deficiencia de Hierro",
+    "texto": "Véase también Anemias - Generalidades y Clasificación. Definición y epidemiología La causa más común de anemia a nivel mundial es la deficiencia de hierro (ferropenia); se asume generalmente que el 50% de los casos de anemia son por deficiencia de hierro. Es resultado de la reducción en las reservas férricas, producida por ingesta insuficiente de hierro, alteraciones en su absorción o pérdida sanguínea."
+  },
+  {
+    "id": "med-carcinoma-hepatocelular",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Carcinoma Hepatocelular",
+    "texto": "Definición El hepatoma (carcinoma hepatocelular) es el tumor hepático primario más común. Etiología / factores de riesgo La incidencia presenta una elevación entre los pacientes con Cirrosis Hepática, infección crónica por los virus de la hepatitis B o C (véase Hepatitis Viral), Hemocromatosis Hereditaria o alcoholismo crónico (véase Hepatopatía Alcohólica). Otros agentes relacionados con el desarrollo de esta enfermedad: torotrasto, cloruro de vinilo, esteroides anabólicos, arsénico y aflatoxinas."
+  },
+  {
+    "id": "med-cardiopata-isqumica-crnica-angina-estable",
+    "especialidad": "Medicina Interna",
+    "area": "Cardiologia",
+    "titulo": "Cardiopatía Isquémica Crónica (Angina Estable)",
+    "texto": "Definición La cardiopatía isquémica es el conjunto de manifestaciones clínicas derivadas de la obstrucción o estenosis de una o más arterias coronarias por una placa ateromatosa, cuya obstrucción puede provocar isquemia e infarto cardiaco, con síntomas asociados de angina, isquemia, remodelación cardiaca, falla cardiaca, complicaciones arrítmicas y, finalmente, la muerte."
+  },
+  {
+    "id": "med-cirrosis-heptica",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Cirrosis Hepática",
+    "texto": "Definición La cirrosis hepática representa un estadio tardío de un proceso de fibrosis difusa y conversión de la arquitectura hepática normal en nódulos estructuralmente anormales. Constituye la vía final común de múltiples hepatopatías crónicas."
+  },
+  {
+    "id": "med-cncer-tiroideo",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Cáncer Tiroideo",
+    "texto": "Definición Las neoplasias tiroideas tienen un espectro de conducta que va de los microcarcinomas detectados incidentalmente, con conducta indolente, hasta las neoplasias malignas anaplásicas agresivas y virtualmente intratables. Cuando son detectados en forma temprana, el tratamiento es efectivo para la mayoría de los tipos. Epidemiología y factores de riesgo La incidencia de cáncer es mayor entre niños, adultos menores de 30 años y mayores de 60 años conocidos con Nódulo Tiroideo (5-10% de los nódulos tiroideos son malignos)."
+  },
+  {
+    "id": "med-deficiencia-de-g6pd",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Deficiencia de G6PD",
+    "texto": "Véase también Anemias - Generalidades y Clasificación y Anemia Hemolítica. Definición La deficiencia de la deshidrogenasa de glucosa-6-fosfato (G6PD) corresponde a un grupo de trastornos de herencia ligada al cromosoma X, en los que los eritrocitos son susceptibles a la hemolisis inducida por estrés oxidativo (infecciones, consumo de habas o ciertos medicamentos, infarto miocárdico, cetoacidosis diabética). Epidemiología Es más frecuente en poblaciones africanas, del Medio Oriente, mediterráneas y asiáticas."
+  },
+  {
+    "id": "med-diabetes-mellitus-tipo-2",
+    "especialidad": "Medicina Interna",
+    "area": "Endocrinologia",
+    "titulo": "Diabetes Mellitus Tipo 2",
+    "texto": "Definición Enfermedad metabólica caracterizada por hiperglucemia persistente debida a resistencia a la insulina, disminución de la secreción de insulina, y glucotoxicidad/lipotoxicidad que dañan órganos diana. Epidemiología Representa el 90-95% de los casos de diabetes. Alta prevalencia en México (20-22%). Asociada a sobrepeso, obesidad y envejecimiento. Manifestaciones clínicas Curso frecuentemente asintomático. Cuando hay síntomas: poliuria, polidipsia, polifagia, fatiga, pérdida de peso, infecciones recurrentes, visión borrosa."
+  },
+  {
+    "id": "med-drepanocitosis",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Drepanocitosis",
+    "texto": "Véase también Anemias - Generalidades y Clasificación y Anemia Hemolítica. Definición La anemia de células falciformes (ACF) es una enfermedad eritrocitaria causada por una mutación autosómica recesiva de un gen único en la cadena beta de globina (sustitución de ácido glutámico por valina en la posición 6) de la hemoglobina adulta (HbA), que produce una forma mutante llamada hemoglobina falciforme (HbS). La ACF ocurre si la HbS es heredada de ambos progenitores (genotipo HbSS)."
+  },
+  {
+    "id": "med-enfermedad-pulmonar-obstructiva-crnica-epoc",
+    "especialidad": "Medicina Interna",
+    "area": "Neumologia",
+    "titulo": "Enfermedad Pulmonar Obstructiva Crónica (EPOC)",
+    "texto": "Definición Enfermedad tratable y prevenible que se caracteriza por la presencia de síntomas respiratorios persistentes (disnea, tos, expectoración y/o exacerbaciones) debido a una o más anomalías de las vías respiratorias (bronquitis/bronquiolitis) y/o alvéolos (enfisema), que provocan una obstrucción persistente, a menudo progresiva, del flujo de aire, generalmente causada por exposición significativa a gases o partículas nocivas. Epidemiología y factores de riesgo Actualmente es la cuarta causa de muerte en el mundo."
+  },
+  {
+    "id": "med-enfermedad-renal-crnica-erc",
+    "especialidad": "Medicina Interna",
+    "area": "Nefrologia",
+    "titulo": "Enfermedad Renal Crónica (ERC)",
+    "texto": "Definición Disminución de la función renal demostrada por tasa de filtrado glomerular (TFG) menos de 60 mL/min/1.73 m2, marcadores de daño renal, o ambos, con duración mayor o igual a3 meses, independientemente de la causa subyacente. Marcadores de daño renal Albuminuria (mayor de 30 mg/24 h); anormalidades en el sedimento urinario; trastornos hidroelectrolíticos de origen tubular; anormalidades estructurales en estudios de imagen; hallazgos histológicos; historia de trasplante renal."
+  },
+  {
+    "id": "med-enfermedad-vascular-cerebral",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Enfermedad Vascular Cerebral",
+    "texto": "Definición La Enfermedad Vascular Cerebral (EVC) se define como un episodio (o más) súbito de disfunción focal cerebral, de retina o médula espinal, con duración mayor de 24 horas, o sin importar la duración, si en la imagen o en la autopsia se observa infarto o hemorragia en asociación con los síntomas y/o signos. Se trata de una emergencia médica que es tiempo dependiente, y el retraso en su atención se asocia con menor recuperación y mayor riesgo de complicaciones."
+  },
+  {
+    "id": "med-enfermedad-vascular-cerebral-hemorrgica",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Enfermedad Vascular Cerebral Hemorrágica",
+    "texto": "Definición Ver también Enfermedad Vascular Cerebral para la definición general y epidemiología global de la EVC. La EVC hemorrágica comprende alrededor del 20-30% de todos los EVC. Sus dos formas principales son: Hemorragia intracerebral (HIC): sangrado directamente en el parénquima cerebral. Hemorragia subaracnoidea (HSA): sangrado en el líquido cefalorraquídeo (LCR) dentro del espacio subaracnoideo que rodea el cerebro; representa un tercio de la EVC hemorrágica."
+  },
+  {
+    "id": "med-enfermedad-vascular-cerebral-isqumica",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Enfermedad Vascular Cerebral Isquémica",
+    "texto": "Definición Ver también Enfermedad Vascular Cerebral para la definición general y epidemiología global de la EVC. La EVC isquémica aguda (EVCisag) es causada por una limitación del flujo sanguíneo arterial, ocasionada por una oclusión trombótica o embólica. Se divide en el infarto cerebral establecido y la isquemia cerebral transitoria (ICT), esta última ocupando un 25% de los casos. Infarto cerebral establecido: existe un infarto demostrado en el estudio de imagen."
+  },
+  {
+    "id": "med-enfermedad-de-wilson",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Enfermedad de Wilson",
+    "texto": "Definición Trastorno de herencia autosómica recesiva por mutación de ATP7B (transportador de cobre dependiente de ATP), cuya consecuencia es la excreción biliar inadecuada del cobre, provocando la acumulación del metal en el hígado, el cerebro, el riñón y la córnea. Epidemiología La incidencia se aproxima a 1 en 30,000 a 40,000 nacimientos vivos, siendo mayor en poblaciones donde la consanguinidad es común. Se ha estimado que la prevalencia del estado de portador heterocigoto es de 1 en 90 a 180 individuos."
+  },
+  {
+    "id": "med-esferocitosis-hereditaria",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Esferocitosis Hereditaria",
+    "texto": "Véase también Anemias - Generalidades y Clasificación y Anemia Hemolítica. Definición Es un trastorno de agrupamiento familiar caracterizado por hemolisis con heterogeneidad clínica marcada. El origen de la hemolisis se encuentra en anormalidades de las proteínas membranales eritrocitarias (espectrina alfa, espectrina beta, ankirina, banda 3, proteína 4.2). La GPC indica que esta es la anemia hemolítica hereditaria más frecuente en México. Cuadro clínico Síndrome anémico de intensidad variable e ictericia recurrente, con o sin esplenomegalia."
+  },
+  {
+    "id": "med-hemocromatosis-hereditaria",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Hemocromatosis Hereditaria",
+    "texto": "Definición La hemocromatosis es un trastorno relativamente común del metabolismo del hierro, en el que este mineral es absorbido excesivamente y se acumula en los tejidos. La hemocromatosis primaria o hereditaria es causada por la mutación del gen HFE, actualmente reconocida como la enfermedad hepática hereditaria más frecuente entre los caucásicos, con un patrón autosómico recesivo. Epidemiología Frecuencia de 1:200 en su forma homocigota y de 1:8 para la heterocigota."
+  },
+  {
+    "id": "med-hepatitis-autoinmune",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Hepatitis Autoinmune",
+    "texto": "Definición La hepatitis autoinmune (HA) es un trastorno hepático inflamatorio crónico de etiología desconocida, caracterizado desde el punto de vista histológico por hepatitis de interfase e infiltración portal de células plasmáticas, y a nivel sérico por la presencia de autoanticuerpos, concentraciones elevadas de inmunoglobulinas séricas (en su mayoría de clase IgG) y una asociación frecuente con otras enfermedades autoinmunes."
+  },
+  {
+    "id": "med-hepatitis-viral",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Hepatitis Viral",
+    "texto": "Definición Los virus de la hepatitis constituyen un grupo heterogéneo de virus hepatotropos que causan síntomas de hepatitis semejantes. Dado que no son virus citolíticos, se cree que el daño hepático es originado por una potente reacción mediada por linfocitos T citotóxicos contra los hepatocitos infectados que expresan los antígenos virales en su superficie. La eliminación inmunológica exitosa puede llevar a la depuración vírica, que puede o no asociarse al desarrollo de inmunidad vitalicia, dependiendo del agente infectante."
+  },
+  {
+    "id": "med-hepatopata-alcohlica",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Hepatopatía Alcohólica",
+    "texto": "Definición La hepatopatía relacionada con el alcohol abarca un espectro de daño hepático que va desde la esteatosis simple hasta la cirrosis franca. El alcohol permanece como una causa mayor de enfermedad hepática a nivel mundial y comparte factores de riesgo con otras formas de daño hepático que pueden presentarse simultáneamente (Hepatopatía Grasa No Alcohólica, hepatitis vírica crónica). Los tres estadios histológicos reconocidos son la esteatosis simple, la hepatitis alcohólica y la hepatitis crónica con fibrosis o Cirrosis Hepática."
+  },
+  {
+    "id": "med-hepatopata-grasa-no-alcohlica",
+    "especialidad": "Medicina Interna",
+    "area": "Hepatologia",
+    "titulo": "Hepatopatía Grasa No Alcohólica",
+    "texto": "Definición La enfermedad hepática grasa no-alcohólica (HGNA) es una entidad clínico-patológica compleja favorecida por factores genéticos, ambientales, conductuales y sociales, caracterizada por la acumulación excesiva de lípidos en forma de triglicéridos en el hígado, en ausencia del antecedente de consumo etílico significativo. El continuo del trastorno pasa por el hígado graso no-alcohólico (HGNA) y la esteatohepatitis no-etílica (non-alcoholic steatohepatitis, NASH)."
+  },
+  {
+    "id": "med-hipertensin-arterial-sistmica-has",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Hipertensión Arterial Sistémica (HAS)",
+    "texto": "Definición Enfermedad crónica caracterizada por cifras de presión arterial (PA) persistentemente elevadas por encima de los valores normales: PA sistólica mayor o igual a140 mmHg y/o PA diastólica mayor o igual a90 mmHg. Clasificación Etiología Esencial o primaria (90-95%): sin causa identificable, de origen multifactorial. Secundaria (5-10%): causa identificable (renal, endocrina, farmacológica, entre otras)."
+  },
+  {
+    "id": "med-hipotiroidismo",
+    "especialidad": "Medicina Interna",
+    "area": "Endocrinologia",
+    "titulo": "Hipotiroidismo",
+    "texto": "Definición Síndrome producido por un grupo heterogéneo de trastornos que ocasionan alteraciones en la producción o acción de las hormonas tiroideas. Epidemiología y etiología La enfermedad tiroidea es más frecuente entre mujeres, ancianos, pacientes con trastornos autoinmunes y personas con una fuerte historia familiar de disfunción tiroidea. La ingestión diaria de yodo recomendada es 150-250 microg para adultos, 250 microg para gestantes y lactantes, y 90-120 microg para niños."
+  },
+  {
+    "id": "med-infarto-agudo-de-miocardio-con-elevacin-del-st",
+    "especialidad": "Medicina Interna",
+    "area": "Cardiologia",
+    "titulo": "Infarto Agudo de Miocardio con Elevación del ST",
+    "texto": "Definición El término \"infarto agudo de miocardio\" se refiere a la evidencia de daño miocárdico con elevación de troponinas cardiacas mayor al percentil 99 del límite superior de referencia, en un contexto clínico compatible con isquemia miocárdica (p. ej., dolor torácico característico). Se considera infarto agudo de miocardio con elevación del segmento ST (IAMCEST) en pacientes con dolor torácico persistente u otros síntomas que indiquen isquemia y elevación del segmento ST en al menos 2 derivaciones electro-anatómicas contiguas."
+  },
+  {
+    "id": "med-nefropata-diabtica",
+    "especialidad": "Medicina Interna",
+    "area": "Nefrologia",
+    "titulo": "Nefropatía Diabética",
+    "texto": "Definición Complicación microvascular de la diabetes mellitus que afecta progresivamente la estructura y función renal, caracterizada por glomeruloesclerosis difusa y lesiones nodulares de Kimmelstiel-Wilson. Terminología actualizada (ADA, según fuente de origen) Se ha sustituido el término microalbuminuria por albuminuria de 30-299 mg/g, y macroalbuminuria por albuminuria mayor o igual a300 mg/g. Diagnóstico Detección inicial Examen general de orina en todo paciente con diagnóstico de diabetes mellitus."
+  },
+  {
+    "id": "med-ndulo-tiroideo",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Nódulo Tiroideo",
+    "texto": "Definición Aumento focal en el volumen o consistencia del tejido tiroideo, identificado mediante la exploración física o un estudio de imagen. Epidemiología Hallazgo común: prevalencia de 3-7% en la exploración física y de 20-76% en ultrasonidos y necropsias de la población general. Más frecuentes entre mujeres (razón 6:1), personas de edad avanzada, residentes de áreas deficientes de yodo y personas con antecedente de exposición a radiación de cabeza y cuello; el 82.4% de los nódulos se encuentran en mujeres."
+  },
+  {
+    "id": "med-sepsis-y-choque-sptico",
+    "especialidad": "Medicina Interna",
+    "area": "Infectologia",
+    "titulo": "Sepsis y Choque Séptico",
+    "texto": "Definiciones Sepsis: disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección. Choque séptico: subconjunto de sepsis con alteraciones circulatorias, celulares y metabólicas profundas, asociado a mayor mortalidad, que requiere vasopresores para mantener presión arterial media mayor o igual a65 mmHg y lactato mayor de 2 mmol/L a pesar de resucitación hídrica adecuada."
+  },
+  {
+    "id": "med-sndrome-coronario-agudo-sin-elevacin-del-st",
+    "especialidad": "Medicina Interna",
+    "area": "Cardiologia",
+    "titulo": "Síndrome Coronario Agudo sin Elevación del ST",
+    "texto": "Definición El término síndrome coronario agudo (SCA) se usa para describir un continuo de isquemia (angina inestable) o infarto miocárdico (con o sin elevación concomitante del segmento ST). El paciente con angina inestable tiene dolor torácico nuevo, progresivo (más grave, prolongado o frecuente que los episodios previos de angina), que ocurre en reposo, sin evidencia serológica de necrosis de los miocitos (ausencia de elevación en los niveles séricos de troponina o la isoenzima MB de la cinasa de creatina (CK-MB))."
+  },
+  {
+    "id": "med-sndrome-de-dificultad-respiratoria-aguda-sdra",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Síndrome de Dificultad Respiratoria Aguda (SDRA)",
+    "texto": "Definición Forma grave de daño pulmonar agudo caracterizada por edema pulmonar no cardiogénico, infiltrados pulmonares bilaterales, e hipoxemia severa (PaO2/FiO2 menor o igual a200), en ausencia de hipertensión capilar pulmonar (presión capilar pulmonar en cuña, PCWP, menos de 18 mmHg)."
+  },
+  {
+    "id": "med-talasemia",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Talasemia",
+    "texto": "Véase también Anemias - Generalidades y Clasificación y Anemia Hemolítica. Definición El término engloba a un conjunto de trastornos congénitos (heredados en patrón autosómico recesivo) caracterizados por la deficiencia en la síntesis de una o más de las cadenas polipeptídicas de la hemoglobina; en la mayoría de los casos, la deficiencia de globinas es cuantitativa y las moléculas son estructuralmente normales."
+  },
+  {
+    "id": "med-tirotoxicosis-hipertiroidismo",
+    "especialidad": "Medicina Interna",
+    "area": "Endocrinologia",
+    "titulo": "Tirotoxicosis (Hipertiroidismo)",
+    "texto": "Definición La tirotoxicosis es un síndrome clínico caracterizado por la exposición a cantidades excesivas de hormonas tiroideas. El hipertiroidismo es un concepto más estrecho, referido a la tirotoxicosis ocasionada por producción y liberación excesivas de hormonas tiroideas por el tejido tiroideo funcional. Epidemiología y etiología El hipertiroidismo puede detectarse en el 2% de las mujeres y el 0.2% de los varones. Causas subyacentes más frecuentes: Enfermedad de Graves (EG): 60-70% de los casos."
+  },
+  {
+    "id": "con-cardiopatas-congnitas-generalidades",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Cardiopatías Congénitas (generalidades)",
+    "texto": "Definición Malformaciones cardiacas o de los grandes vasos presentes al nacimiento, originadas en las primeras semanas de gestación por factores que alteran o detienen el desarrollo embriológico del sistema cardiovascular. Epidemiología Son las malformaciones congénitas más frecuentes, con una incidencia de 4 a 12 por cada 1000 nacidos vivos. El 60% se diagnostica. Los pacientes con cromosomopatías tienen un 25-30% más de riesgo de presentarlas. Factores de riesgo Antecedentes familiares de cardiopatías congénitas y enfermedades o exposiciones maternas."
+  },
+  {
+    "id": "con-esquema-nacional-de-vacunacin-cartilla-nacional-de-vacunacin",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Esquema Nacional de Vacunación (Cartilla Nacional de Vacunación)",
+    "texto": "Nota metodológica sobre el OCR de origen: la fuente escaneada presenta numerosos cuadros con columnas superpuestas o interpoladas por el proceso de reconocimiento óptico. Se reconstruyeron las tablas triangulando el contenido tabular con las secciones narrativas (\"Descripción de las principales vacunas y toxoides\") de la misma fuente, que suelen estar mejor conservadas."
+  },
+  {
+    "id": "con-crecimiento-y-desarrollo-infantil-normal",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Crecimiento y Desarrollo Infantil Normal",
+    "texto": "Evaluación del niño sano Tamizajes obligatorios y recomendados Tamiz neonatal metabólico (NOM-007, NOM-034): obligatorio por ley en México. Su objetivo es detectar una enfermedad o deficiencia congénita antes de que se manifieste clínicamente, para iniciar tratamiento oportuno y evitar complicaciones. Se realiza mediante análisis de gotas de sangre en papel filtro (tarjeta de Guthrie). El tamiz para hipotiroidismo congénito es obligatorio por ley para todos los centros de atención materno-infantil en México."
+  },
+  {
+    "id": "con-el-neonato-de-trmino-normal",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "El Neonato de Término Normal",
+    "texto": "Definición La edad gestacional (EG) es el tiempo transcurrido desde el primer día de la última menstruación hasta el nacimiento, considerando siempre semanas completas. Convencionalmente la gestación dura 40 semanas. Se considera neonato de término al que tiene 37-42 semanas de gestación; los que tienen menos de 36 semanas se consideran pretérmino, y los de mayor de 42 semanas, postérmino. La GPC indica que el periodo neonatal comprende los 28 días posteriores al nacimiento, periodo que acumula mayor de 50% de la mortalidad infantil."
+  },
+  {
+    "id": "con-escalas-de-valoracin-neonatal",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Escalas de Valoración Neonatal",
+    "texto": "Definición Conjunto de sistemas de puntuación empleados en el periodo neonatal inmediato para evaluar la adaptación a la vida extrauterina, el esfuerzo respiratorio, la edad gestacional y el estado nutricional/ponderal del recién nacido (RN). Su dominio es indispensable para la valoración sistemática del neonato descrita en El Neonato de Término Normal."
+  },
+  {
+    "id": "con-trastornos-del-desarrollo-psicomotor",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Trastornos del Desarrollo Psicomotor",
+    "texto": "Esta nota complementa a Crecimiento y Desarrollo Infantil Normal y describe los signos de alarma y las principales entidades a considerar en el diagnóstico diferencial de un retraso del desarrollo psicomotor. Signos de alerta en la evaluación del desarrollo psicomotor (Cuadro 14) 1er mes: irritabilidad persistente, trastornos de succión, ausencia de fijación momentánea de la mirada, ausencia de reacción a ruidos. 2 meses: persistencia de la irritabilidad, sobresalto exagerado al ruido, aducción del pulgar, ausencia de sonrisa social."
+  },
+  {
+    "id": "con-lactancia-materna-y-sucedneos-de-la-leche-materna",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Lactancia Materna y Sucedáneos de la Leche Materna",
+    "texto": "Importancia y beneficios La buena nutrición es una condición fundamental para el Crecimiento y Desarrollo Infantil Normal. La infancia, especialmente los primeros 6 meses, es un periodo de crecimiento excepcionalmente rápido y de requerimientos nutrimentales elevados en relación con el peso corporal. La lactancia natural es la forma más efectiva de proporcionar un alimento ideal para el crecimiento y desarrollo sano de los lactantes, y es parte integral del proceso reproductivo con repercusiones en la salud materna."
+  },
+  {
+    "id": "con-alimentacin-complementaria-y-destete",
+    "especialidad": "Pediatria",
+    "area": "Pediatria General",
+    "titulo": "Alimentación Complementaria y Destete",
+    "texto": "Definición La alimentación complementaria (previamente llamada \"ablactación\") se refiere a la introducción de alimentos diferentes a la leche materna, recomendada a partir de los 6 meses de edad para asegurar un aporte suficiente de nutrientes. A esta edad, el infante que ha recibido Lactancia Materna y Sucedáneos de la Leche Materna requiere fuentes adicionales de proteínas, hierro y zinc; aunque la tasa de crecimiento disminuye, los requerimientos energéticos aumentan a expensas del incremento de la actividad física."
+  },
+  {
+    "id": "con-anemias-generalidades-y-clasificacin",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Anemias - Generalidades y Clasificación",
+    "texto": "Definición La anemia se define como la presencia de un hematocrito menos de 37% en las mujeres y menos de 40% en los varones, o de una concentración de hemoglobina menos de 12 g/dl en las mujeres o menos de 14 g/dl (menos de 13 g/dl según la GPC) en los hombres. Estos niveles de corte son arbitrarios, por lo que deben evaluarse con base en la edad, sexo y lugar de vivienda del individuo. Los individuos más comúnmente afectados son los niños, las gestantes y los ancianos."
+  },
+  {
+    "id": "con-cambios-fisiolgicos-del-embarazo",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Gineco-Obstetricia",
+    "titulo": "Cambios Fisiológicos del Embarazo",
+    "texto": "Definición El embarazo induce modificaciones anatómicas y fisiológicas adaptativas en prácticamente todos los aparatos y sistemas maternos, en preparación para el crecimiento fetal, el parto y la lactancia. Conocer estos cambios es indispensable para diferenciar la fisiología normal de la patología obstétrica durante el Diagnóstico y Control del Embarazo."
+  },
+  {
+    "id": "con-diagnstico-y-control-del-embarazo",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Gineco-Obstetricia",
+    "titulo": "Diagnóstico y Control del Embarazo",
+    "texto": "Definición El embarazo normal se define como el estado fisiológico de la mujer que se inicia con la fecundación y termina con el parto y el nacimiento de un producto de término. Véase Cambios Fisiológicos del Embarazo para las adaptaciones anatómicas y fisiológicas maternas asociadas. Diagnóstico clínico y paraclínico del embarazo Manifestaciones clínicas Determinación de hCG La hCG puede detectarse en suero 6-8 días después de la fecundación."
+  },
+  {
+    "id": "con-operacin-cesrea",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Gineco-Obstetricia",
+    "titulo": "Operación Cesárea",
+    "texto": "Definición La operación cesárea es el procedimiento quirúrgico mediante el cual el feto y los anexos ovulares son extraídos después de las 28 semanas de gestación, a través de una incisión en el abdomen y en el útero. Epidemiología y problemática de salud pública El incremento en la práctica innecesaria de la operación cesárea es un problema de salud pública a nivel mundial, particularmente en países en vías de desarrollo como México, donde su frecuencia rebasa el 50%."
+  },
+  {
+    "id": "con-pruebas-de-bienestar-fetal",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Gineco-Obstetricia",
+    "titulo": "Pruebas de Bienestar Fetal",
+    "texto": "Definición y clasificación El término \"sufrimiento fetal\" (pérdida de las variables biofísicas intrauterinas normales) ha sido reemplazado por \"estado fetal no tranquilizante\" o \"riesgo de pérdida del bienestar fetal\", definido como la interpretación anormal de una o más pruebas que impide asegurar el bienestar fetal. Las pruebas se clasifican en anteparto e intraparto."
+  },
+  {
+    "id": "con-trabajo-de-parto-normal",
+    "especialidad": "Gineco-Obstetricia",
+    "area": "Gineco-Obstetricia",
+    "titulo": "Trabajo de Parto Normal",
+    "texto": "Definición El trabajo de parto es el proceso que permite una serie de cambios fisiológicos maternos para el nacimiento del feto a través del canal de parto; se define como la dilatación y el borramiento cervicales progresivos que resultan de contracciones uterinas regulares (3-4 en 10 minutos, con duración de 30-60 segundos). El parto es el conjunto de fenómenos activos y pasivos que permiten la expulsión del feto por vía vaginal a una edad gestacional mayor de 22 semanas, incluyendo la placenta y sus anexos."
+  },
+  {
+    "id": "con-atencin-inicial-del-paciente-politraumatizado",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Atención Inicial del Paciente Politraumatizado",
+    "texto": "Definición y objetivo El paciente traumatizado grave requiere una evaluación rápida de las lesiones y el establecimiento inmediato de las medidas terapéuticas que salvan la vida. El abordaje sigue una secuencia estandarizada (esquema tipo ATLS) que prioriza identificar y tratar primero lo que mata primero. Fases de la atención Fase prehospitalaria Debe organizarse de forma que el hospital receptor sea notificado antes de la llegada del paciente."
+  },
+  {
+    "id": "con-escala-de-coma-de-glasgow",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Escala de Coma de Glasgow",
+    "texto": "Definición y uso Escala clínica empleada para valorar el nivel de conciencia del paciente con traumatismo craneoencefálico (TCE) y otras alteraciones neurológicas agudas. Permite clasificar la gravedad del TCE en leve, moderado y severo, y forma parte de los criterios diagnósticos de muerte cerebral. Ver Traumatismo Craneoencefálico y Muerte Cerebral. Referencia visual La fuente original incluye una imagen con el detalle de los tres componentes de la escala (respuesta ocular, verbal y motora) y su puntuación."
+  },
+  {
+    "id": "con-muerte-cerebral",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Muerte Cerebral",
+    "texto": "Definición Implica que no existe posibilidad de recuperar la función cerebral. Criterios diagnósticos (según notas de origen) Deben estar presentes todos los siguientes: Calificación de 3 puntos en la Escala de Coma de Glasgow. Ausencia de reactividad pupilar. Ausencia de reflejos de tallo cerebral (oculocefálico, oculovestibular, nauseoso y corneal). Ausencia de esfuerzo ventilatorio espontáneo en el examen formal de apnea."
+  },
+  {
+    "id": "con-regla-de-los-9-de-wallace-y-esquema-de-lund-and-browder",
+    "especialidad": "Cirugia",
+    "area": "Cirugia General",
+    "titulo": "Regla de los 9 de Wallace y Esquema de Lund and Browder",
+    "texto": "Definición y uso Ambos son instrumentos gráficos para estimar el porcentaje de superficie corporal total afectada por una quemadura, paso necesario para el cálculo de la reanimación hídrica y la clasificación de gravedad. Ver Quemaduras. Regla de los 9 de Wallace: se utiliza para valorar la extensión de la quemadura en adultos."
+  },
+  {
+    "id": "con-trastornos-de-ansiedad-generalidades",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Trastornos de Ansiedad (generalidades)",
+    "texto": "Definición Estado emocional displacentero acompañado de cambios somáticos y psíquicos. Puede manifestarse como reacción adaptativa o como síntoma/síndrome relacionado con diversos padecimientos médicos y psiquiátricos. Consideraciones La ansiedad se considera patológica cuando se presenta de forma irracional: por ausencia del estímulo que la provoca, por intensidad excesiva en relación con dicho estímulo, por duración injustificadamente prolongada, o por recurrencia inmotivada - generando un grado de disfuncionalidad en el individuo."
+  },
+  {
+    "id": "con-terapia-cognitivoconductual-tcc",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Terapia Cognitivo-Conductual (TCC)",
+    "texto": "Definición Intervención psicoterapéutica de uso temprano e importante en la intervención inicial de distintos trastornos psiquiátricos. Relevancia clínica En Esquizofrenia, su uso temprano en conjunto con clozapina debe considerarse en caso de fracaso terapéutico después de 6 semanas con 2 antipsicóticos (incluyendo al menos 1 atípico) o con riesgo suicida elevado; en cuadros persistentes, se combina con un agente potenciador como el litio al reinstalar el tratamiento previo."
+  },
+  {
+    "id": "con-terapia-electroconvulsiva-tec",
+    "especialidad": "Medicina Interna",
+    "area": "Medicina Interna General",
+    "titulo": "Terapia Electroconvulsiva (TEC)",
+    "texto": "Definición Procedimiento terapéutico reservado para casos específicos y refractarios en psiquiatría, indicado en tercer nivel de atención con valoración especializada. Indicaciones Depresión refractaria Riesgo suicida elevado Depresión psicótica Casos refractarios de Síndrome Neuroléptico Maligno Relevancia clínica Se valora en el manejo de tercer nivel de Trastorno Depresivo Mayor, tras monitorización del tratamiento farmacológico establecido."
+  },
+  {
+    "id": "far-antidepresivos-de-segunda-linea",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Antidepresivos de Segunda Linea",
+    "texto": "Definicion Antidepresivos utilizados cuando los inhibidores selectivos de la recaptura de serotonina (ISRS) fracasan tras un periodo minimo de 6 semanas. Incluyen farmacos con mecanismos de accion duales o alternativos. Farmacos del grupo Venlafaxina (inhibidor de la recaptura de serotonina y noradrenalina - IRSN) Anfebutamona (bupropion - inhibidor de la recaptura de noradrenalina y dopamina) Mirtazapina (antagonista alpha-2 presinaptico) Imipramina (antidepresivo triciclico) Indicaciones Trastorno Depresivo Mayor Segunda linea tras fracaso de ISRS."
+  },
+  {
+    "id": "far-antipsicticos-tpicos",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Antipsicóticos Típicos",
+    "texto": "Grupo farmacológico Antipsicóticos de primera generación. Fármacos del grupo mencionados en las fuentes: haloperidol, flufenazina. Indicaciones Se consideran cuando los efectos secundarios de los antipsicóticos atípicos (alteraciones del desempeño sexual, ganancia ponderal) superan su beneficio. Dosis Nota de verificación: la fuente original no especifica rangos de dosis; consultar ficha técnica o GPC vigente antes de prescribir."
+  },
+  {
+    "id": "far-benzodiacepinas",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Benzodiacepinas",
+    "texto": "Definicion Las benzodiacepinas son depresores del sistema nervioso central que actuan sobre el receptor GABA-A, potenciando el efecto inhibidor del acido gamma-aminobutirico (GABA). Son el grupo farmacologico de eleccion para el manejo agudo de los trastornos de ansiedad y crisis de panico. Farmacos del grupo Alprazolam Lorazepam Diazepam Clonazepam Indicaciones Trastorno de Ansiedad Generalizada Inicio temprano del tratamiento, en combinacion con ISRS, por un periodo breve."
+  },
+  {
+    "id": "far-inhibidores-selectivos-de-la-recaptura-de-serotonina-isrs",
+    "especialidad": "Psiquiatria",
+    "area": "Psicofarmacologia",
+    "titulo": "Inhibidores Selectivos de la Recaptura de Serotonina (ISRS)",
+    "texto": "Definicion Los inhibidores selectivos de la recaptura de serotonina (ISRS) son el grupo farmacologico de primera linea para el tratamiento de los trastornos depresivos y de ansiedad. Actuan inhibiendo selectivamente la recaptura de serotonina (5-HT) en la sinapsis, aumentando su disponibilidad en el espacio sinaptico. Farmacos del grupo Fluoxetina Sertralina Paroxetina Citalopram Escitalopram Fluvoxamina Indicaciones Trastorno Depresivo Mayor Primera linea para formas moderadas y severas. Periodo minimo de prueba: 6 semanas."
+  }
+];
+/* ══════════════════════════════════════════════════════════════════
+   2. ALMACENAMIENTO (persistente si está disponible; si no, en memoria)
+   ══════════════════════════════════════════════════════════════════ */
+const memoriaLocal = {};
+const almacen = {
+  async leer(clave){
+    try{
+      if(window.storage){ const r = await window.storage.get(clave); return r ? JSON.parse(r.value) : null; }
+    }catch(e){ /* clave inexistente o almacenamiento no disponible */ }
+    return memoriaLocal[clave] !== undefined ? memoriaLocal[clave] : null;
+  },
+  async escribir(clave, valor){
+    memoriaLocal[clave] = valor;
+    try{ if(window.storage){ await window.storage.set(clave, JSON.stringify(valor)); } }
+    catch(e){ /* se conserva únicamente en memoria */ }
+  }
+};
+const CLAVE_RESUMENES = "mecclin:resumenes";
+const CLAVE_MARCAS = "mecclin:marcas";
+
+/* ══════════════════════════════════════════════════════════════════
+   3. ESTADO
+   ══════════════════════════════════════════════════════════════════ */
+const estado = {
+  resumenes: [],
+  marcas: {},
+  especialidad: null,
+  indiceEsp: [],
+  filtro: "Todas",
+  estricto: false,
+  sesion: null
+};
+
+/* ══════════════════════════════════════════════════════════════════
+   4. UTILIDADES
+   ══════════════════════════════════════════════════════════════════ */
+const $ = s => document.querySelector(s);
+
+function normalizar(t){
+  return t.replace(/\s+/g, " ").replace(/[“”]/g, '"').replace(/[‘’]/g, "'").trim();
+}
+
+function fragmentar(texto, largoMax = 190){
+  const limpio = normalizar(texto);
+  const oraciones = limpio.match(/[^.;!?]+[.;!?]*\s*/g) || [limpio];
+  const bloques = [];
+  let actual = "";
+  for(const o of oraciones){
+    const pieza = o.trim();
+    if(!pieza) continue;
+    if(actual && (actual.length + 1 + pieza.length) > largoMax){
+      bloques.push(actual); actual = pieza;
+    }else{
+      actual = actual ? actual + " " + pieza : pieza;
+    }
+    while(actual.length > largoMax * 1.6){
+      let corte = actual.lastIndexOf(" ", largoMax);
+      if(corte < 40) corte = largoMax;
+      bloques.push(actual.slice(0, corte).trim());
+      actual = actual.slice(corte).trim();
+    }
+  }
+  if(actual) bloques.push(actual);
+  return bloques;
+}
+
+function segundos(ms){ return Math.max(0, ms) / 1000; }
+
+/* ══════════════════════════════════════════════════════════════════
+   5. VISTA 1 · LISTA DE RESÚMENES
+   ══════════════════════════════════════════════════════════════════ */
+function mostrarVista(cual){
+  $("#vista-especialidades").classList.toggle("oculto", cual !== "especialidades");
+  $("#vista-temas").classList.toggle("oculto", cual !== "temas");
+  $("#vista-practica").classList.toggle("oculto", cual !== "practica");
+  $("#vista-resultados").classList.toggle("oculto", cual !== "resultados");
+}
+
+function pintarResumenGlobal(){
+  const n = estado.resumenes.length;
+  const esp = new Set(estado.resumenes.map(r => r.especialidad)).size;
+  const marcas = Object.values(estado.marcas);
+  const mejor = marcas.length ? Math.max(...marcas.map(m => m.ppm)) : 0;
+  $("#resumen-global").textContent =
+    esp + (esp === 1 ? " especialidad" : " especialidades") + " · " +
+    n + (n === 1 ? " tema" : " temas") + " · mejor marca " + mejor + " PPM";
+}
+
+function pintarEspecialidades(){
+  const mapa = new Map();
+  for(const r of estado.resumenes){
+    if(!mapa.has(r.especialidad)) mapa.set(r.especialidad, []);
+    mapa.get(r.especialidad).push(r);
+  }
+  estado.indiceEsp = [...mapa.keys()].sort((a, b) => a.localeCompare(b, "es"));
+  $("#lista-especialidades").innerHTML =
+    estado.indiceEsp.map(e => '<option value="' + e + '"></option>').join("");
+
+  const cont = $("#rejilla");
+  if(!estado.indiceEsp.length){
+    cont.innerHTML = '<div class="vacio">Aún no hay resúmenes cargados. Utilice «Agregar resumen» para crear la primera especialidad.</div>';
+    return;
+  }
+  cont.innerHTML = estado.indiceEsp.map((esp, i) => {
+    const lista = mapa.get(esp);
+    const areas = new Set(lista.map(r => r.area || "General")).size;
+    const practicados = lista.filter(r => estado.marcas[r.id]).length;
+    const pct = Math.round((practicados / lista.length) * 100);
+    return '' +
+      '<button class="tarjeta" data-i="' + i + '">' +
+        "<h3>" + esp + "</h3>" +
+        '<div class="conteo">' + lista.length + (lista.length === 1 ? " tema" : " temas") +
+          " · " + areas + (areas === 1 ? " área" : " áreas") + "</div>" +
+        '<div class="avance">' +
+          '<div class="riel"><span style="width:' + pct + '%"></span></div>' +
+          '<div class="pie">' + practicados + " de " + lista.length + " con registro</div>" +
+        "</div>" +
+      "</button>";
+  }).join("");
+
+  cont.querySelectorAll(".tarjeta").forEach(b =>
+    b.addEventListener("click", () => abrirEspecialidad(estado.indiceEsp[+b.dataset.i])));
+}
+
+function abrirEspecialidad(esp){
+  estado.especialidad = esp;
+  estado.filtro = "Todas";
+  $("#titulo-especialidad").textContent = esp;
+  pintarFiltros();
+  pintarTemas();
+  mostrarVista("temas");
+}
+
+function temasDeEspecialidad(){
+  return estado.resumenes.filter(r => r.especialidad === estado.especialidad);
+}
+
+function pintarFiltros(){
+  const areas = [...new Set(temasDeEspecialidad().map(r => r.area || "General"))].sort((a, b) => a.localeCompare(b, "es"));
+  const cont = $("#filtros");
+  if(areas.length < 2){ cont.innerHTML = ""; estado.filtro = "Todas"; return; }
+  cont.innerHTML = ["Todas", ...areas].map((a, i) =>
+    '<button class="filtro" data-i="' + i + '" aria-pressed="' + (a === estado.filtro) + '">' + a + "</button>"
+  ).join("");
+  const etiquetas = ["Todas", ...areas];
+  cont.querySelectorAll(".filtro").forEach(b =>
+    b.addEventListener("click", () => { estado.filtro = etiquetas[+b.dataset.i]; pintarFiltros(); pintarTemas(); }));
+}
+
+function pintarTemas(){
+  const lista = temasDeEspecialidad()
+    .filter(r => estado.filtro === "Todas" || (r.area || "General") === estado.filtro);
+  const cont = $("#expediente");
+  if(!lista.length){
+    cont.innerHTML = '<div class="vacio">No hay temas en esta área.</div>';
+    return;
+  }
+  cont.innerHTML = lista.map((r, i) => {
+    const bloques = fragmentar(r.texto).length;
+    const chars = normalizar(r.texto).length;
+    const marca = estado.marcas[r.id];
+    const previo = marca
+      ? '<span class="marca-previa">Mejor: ' + marca.ppm + " PPM · " + marca.precision + "% </span>"
+      : "<span>Sin registro</span>";
+    return '' +
+      '<div class="ficha">' +
+        '<div class="folio">' + String(i + 1).padStart(2, "0") + "</div>" +
+        '<div class="cuerpo">' +
+          "<h3>" + r.titulo + "</h3>" +
+          '<div class="meta">' +
+            "<span>" + (r.area || "General") + "</span>" +
+            "<span>" + chars + " caracteres</span>" +
+            "<span>" + bloques + (bloques === 1 ? " fragmento" : " fragmentos") + "</span>" +
+            previo +
+          "</div>" +
+        "</div>" +
+        '<div class="acciones">' +
+          (r.propio ? '<button class="boton secundario pequeno" data-borrar="' + r.id + '">Eliminar</button>' : "") +
+          '<button class="boton pequeno" data-practicar="' + r.id + '">Practicar</button>' +
+        "</div>" +
+      "</div>";
+  }).join("");
+
+  cont.querySelectorAll("[data-practicar]").forEach(b =>
+    b.addEventListener("click", () => iniciarSesion(b.dataset.practicar)));
+  cont.querySelectorAll("[data-borrar]").forEach(b =>
+    b.addEventListener("click", async () => {
+      estado.resumenes = estado.resumenes.filter(r => r.id !== b.dataset.borrar);
+      await almacen.escribir(CLAVE_RESUMENES, estado.resumenes.filter(r => r.propio));
+      pintarEspecialidades(); pintarResumenGlobal();
+      if(temasDeEspecialidad().length){ pintarFiltros(); pintarTemas(); }
+      else{ mostrarVista("especialidades"); }
+    }));
+}
+
+function volverATemas(){
+  if(estado.especialidad && temasDeEspecialidad().length){
+    pintarFiltros(); pintarTemas(); mostrarVista("temas");
+  }else{
+    pintarEspecialidades(); mostrarVista("especialidades");
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   6. VISTA 2 · SESIÓN DE PRÁCTICA
+   ══════════════════════════════════════════════════════════════════ */
+function iniciarSesion(id){
+  const resumen = estado.resumenes.find(r => r.id === id);
+  if(!resumen) return;
+  estado.sesion = {
+    resumen,
+    bloques: fragmentar(resumen.texto),
+    indice: 0,
+    escrito: "",
+    inicio: null,
+    fin: null,
+    pulsaciones: 0,
+    errores: 0,
+    correctos: 0,
+    mapaErrores: {},
+    eventos: [],
+    terminado: false
+  };
+  $("#practica-titulo").textContent = resumen.titulo;
+  $("#practica-especialidad").textContent = resumen.especialidad + " · " + (resumen.area || "General");
+  mostrarVista("practica");
+  pintarFragmento();
+  enfocar();
+  arrancarReloj();
+  arrancarTrazo();
+}
+
+function objetivoActual(){
+  const s = estado.sesion;
+  return s ? s.bloques[s.indice] || "" : "";
+}
+
+function pintarFragmento(){
+  const s = estado.sesion;
+  $("#fragmento-indice").textContent = "Fragmento " + (s.indice + 1) + " de " + s.bloques.length;
+  const restantes = s.bloques.slice(s.indice).join(" ").length - s.escrito.length;
+  $("#fragmento-restante").textContent = restantes + " caracteres restantes";
+  pintarTexto();
+  pintarMetricas();
+}
+
+function pintarTexto(){
+  const s = estado.sesion;
+  const objetivo = objetivoActual();
+  const esc = s.escrito;
+  let html = "";
+  for(let i = 0; i < objetivo.length; i++){
+    const ch = objetivo[i];
+    const visible = ch === " " ? "&nbsp;" : ch.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    let clase = "c";
+    if(i < esc.length){ clase += esc[i] === ch ? " ok" : (ch === " " ? " mal esp" : " mal"); }
+    else if(i === esc.length){ clase += " actual"; }
+    html += '<span class="' + clase + '">' + visible + "</span>";
+  }
+  $("#texto-objetivo").innerHTML = html;
+}
+
+function pintarMetricas(){
+  const s = estado.sesion;
+  const t = s.inicio ? segundos((s.fin || performance.now()) - s.inicio) : 0;
+  const ppm = t > 0.6 ? Math.round((s.correctos / 5) / (t / 60)) : 0;
+  const precision = s.pulsaciones ? Math.round((s.correctos / s.pulsaciones) * 100) : 100;
+  $("#m-ppm").textContent = ppm;
+  $("#m-precision").innerHTML = precision + "<small>%</small>";
+  $("#m-errores").textContent = s.errores;
+  $("#m-tiempo").innerHTML = Math.round(t) + "<small>s</small>";
+  $("#m-precision").parentElement.classList.toggle("alerta", precision < 90);
+
+  const total = s.bloques.join(" ").length;
+  const hecho = s.bloques.slice(0, s.indice).join(" ").length + s.escrito.length;
+  $("#barra-progreso").style.width = Math.min(100, (hecho / total) * 100) + "%";
+}
+
+let relojID = null;
+function arrancarReloj(){
+  clearInterval(relojID);
+  relojID = setInterval(() => { if(estado.sesion && !estado.sesion.terminado) pintarMetricas(); }, 200);
+}
+
+function enfocar(){ $("#campo").focus({ preventScroll: true }); }
+
+$("#pizarra").addEventListener("mousedown", e => { e.preventDefault(); enfocar(); });
+$("#velo").addEventListener("click", enfocar);
+$("#campo").addEventListener("blur", () => {
+  if(estado.sesion && !estado.sesion.terminado) $("#velo").classList.remove("oculto");
+});
+$("#campo").addEventListener("focus", () => $("#velo").classList.add("oculto"));
+
+$("#campo").addEventListener("input", e => {
+  const s = estado.sesion;
+  if(!s || s.terminado) return;
+  const objetivo = objetivoActual();
+  let valor = e.target.value;
+  if(valor.length > objetivo.length) valor = valor.slice(0, objetivo.length);
+
+  if(valor.length > s.escrito.length){
+    for(let i = s.escrito.length; i < valor.length; i++){
+      const esperado = objetivo[i];
+      const bueno = valor[i] === esperado;
+      if(estado.estricto && !bueno && i === s.escrito.length){
+        s.pulsaciones++; s.errores++;
+        s.mapaErrores[esperado] = (s.mapaErrores[esperado] || 0) + 1;
+        s.eventos.push({ t: performance.now(), ok: false });
+        valor = valor.slice(0, i);
+        break;
+      }
+      s.pulsaciones++;
+      if(bueno){ s.correctos++; }
+      else{
+        s.errores++;
+        s.mapaErrores[esperado] = (s.mapaErrores[esperado] || 0) + 1;
+      }
+      s.eventos.push({ t: performance.now(), ok: bueno });
+    }
+  }
+
+  if(!s.inicio && valor.length > 0) s.inicio = performance.now();
+  s.escrito = valor;
+  e.target.value = valor;
+  pintarFragmento();
+
+  if(valor.length === objetivo.length && objetivo.length > 0){
+    const perfecto = valor === objetivo;
+    if(perfecto || !estado.estricto) setTimeout(avanzar, 220);
+  }
+});
+
+document.addEventListener("keydown", e => {
+  if($("#vista-practica").classList.contains("oculto")) return;
+  if(e.key === "Escape"){ e.preventDefault(); reiniciarFragmento(); }
+  if(e.key === "Tab"){ e.preventDefault(); avanzar(); }
+});
+
+function reiniciarFragmento(){
+  const s = estado.sesion; if(!s) return;
+  s.escrito = ""; $("#campo").value = "";
+  pintarFragmento(); enfocar();
+}
+
+function avanzar(){
+  const s = estado.sesion; if(!s || s.terminado) return;
+  if(s.indice < s.bloques.length - 1){
+    s.indice++; s.escrito = ""; $("#campo").value = "";
+    pintarFragmento(); enfocar();
+  }else{
+    concluir();
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   7. TRAZO DE RITMO (firma visual)
+   ══════════════════════════════════════════════════════════════════ */
+const reducirMovimiento = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+let trazoID = null;
+
+function arrancarTrazo(){
+  cancelAnimationFrame(trazoID);
+  if(reducirMovimiento){ dibujarEstatico(); return; }
+  const cv = $("#lienzo-trazo");
+  const ctx = cv.getContext("2d");
+  const px = 0.085; // píxeles por milisegundo
+
+  function ciclo(){
+    const dpr = window.devicePixelRatio || 1;
+    const w = cv.clientWidth, h = cv.clientHeight;
+    if(cv.width !== w * dpr || cv.height !== h * dpr){
+      cv.width = w * dpr; cv.height = h * dpr;
+    }
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, w, h);
+    const base = h / 2;
+
+    ctx.strokeStyle = "#C3D0CA"; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(0, base); ctx.lineTo(w, base); ctx.stroke();
+
+    const s = estado.sesion;
+    if(s){
+      const ahora = performance.now();
+      s.eventos = s.eventos.filter(ev => (ahora - ev.t) * px < w + 40);
+      for(const ev of s.eventos){
+        const x = w - (ahora - ev.t) * px;
+        ctx.lineWidth = 1.6;
+        ctx.strokeStyle = ev.ok ? "#2F6E5E" : "#B0332A";
+        ctx.beginPath();
+        ctx.moveTo(x - 7, base);
+        ctx.lineTo(x - 4, base + (ev.ok ? 4 : -4));
+        ctx.lineTo(x, base + (ev.ok ? -(h * 0.32) : (h * 0.34)));
+        ctx.lineTo(x + 4, base + (ev.ok ? 6 : -6));
+        ctx.lineTo(x + 7, base);
+        ctx.stroke();
+      }
+    }
+    trazoID = requestAnimationFrame(ciclo);
+  }
+  ciclo();
+}
+
+function dibujarEstatico(){
+  const cont = $("#trazo");
+  cont.innerHTML = '<span class="leyenda">Ritmo de pulsación</span><div class="trazo-estatico" id="tiras"></div>';
+  setInterval(() => {
+    const s = estado.sesion; if(!s) return;
+    const ult = s.eventos.slice(-40);
+    $("#tiras").innerHTML = ult.map(ev => '<i class="' + (ev.ok ? "ok" : "mal") + '"></i>').join("");
+  }, 400);
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   8. VISTA 3 · RESULTADOS
+   ══════════════════════════════════════════════════════════════════ */
+async function concluir(){
+  const s = estado.sesion;
+  s.terminado = true;
+  s.fin = performance.now();
+  clearInterval(relojID);
+  cancelAnimationFrame(trazoID);
+
+  const t = segundos(s.fin - (s.inicio || s.fin));
+  const ppm = t > 0.6 ? Math.round((s.correctos / 5) / (t / 60)) : 0;
+  const precision = s.pulsaciones ? Math.round((s.correctos / s.pulsaciones) * 100) : 100;
+
+  $("#acta-subtitulo").textContent = s.resumen.especialidad + " · " + (s.resumen.area || "General") + " · " + s.resumen.titulo;
+  $("#r-ppm").textContent = ppm;
+  $("#r-precision").innerHTML = precision + "<small>%</small>";
+  $("#r-errores").textContent = s.errores;
+  $("#r-tiempo").innerHTML = Math.round(t) + "<small>s</small>";
+
+  const top = Object.entries(s.mapaErrores).sort((a, b) => b[1] - a[1]).slice(0, 6);
+  $("#r-tabla").innerHTML = top.length
+    ? top.map(([k, v]) => '<tr><td><span class="tecla">' + (k === " " ? "espacio" : k) + "</span></td><td>" + v + "</td></tr>").join("")
+    : '<tr><td colspan="2">Sin errores registrados.</td></tr>';
+
+  const previa = estado.marcas[s.resumen.id];
+  let nota = "Pulsaciones registradas: " + s.pulsaciones + "<br>Caracteres correctos: " + s.correctos + "<br>";
+  if(previa){
+    const dif = ppm - previa.ppm;
+    nota += "Marca anterior: " + previa.ppm + " PPM · " + previa.precision + "%<br>" +
+            (dif > 0 ? "<b>Mejora de " + dif + " PPM.</b>" : dif === 0 ? "Mismo rendimiento que la vez anterior." : "Descenso de " + Math.abs(dif) + " PPM.");
+  }else{
+    nota += "<b>Primer registro de este resumen.</b>";
+  }
+  $("#r-nota").innerHTML = nota;
+
+  if(!previa || ppm > previa.ppm){
+    estado.marcas[s.resumen.id] = { ppm, precision, fecha: new Date().toISOString() };
+    await almacen.escribir(CLAVE_MARCAS, estado.marcas);
+  }
+  pintarResumenGlobal();
+  mostrarVista("resultados");
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   9. CONTROLES GENERALES
+   ══════════════════════════════════════════════════════════════════ */
+$("#btn-salir").addEventListener("click", () => {
+  clearInterval(relojID); cancelAnimationFrame(trazoID);
+  estado.sesion = null; volverATemas();
+});
+$("#btn-reiniciar").addEventListener("click", reiniciarFragmento);
+$("#btn-volver").addEventListener("click", volverATemas);
+$("#btn-todas").addEventListener("click", () => { pintarEspecialidades(); mostrarVista("especialidades"); });
+$("#btn-repetir").addEventListener("click", () => { if(estado.sesion) iniciarSesion(estado.sesion.resumen.id); });
+
+$("#btn-modo-estricto").addEventListener("click", e => {
+  estado.estricto = !estado.estricto;
+  e.target.textContent = "Modo estricto: " + (estado.estricto ? "sí" : "no");
+  e.target.setAttribute("aria-pressed", String(estado.estricto));
+});
+
+const dlg = $("#dlg-agregar");
+function abrirDialogo(){
+  $("#aviso-dlg").textContent = "";
+  if(estado.especialidad) $("#in-especialidad").value = estado.especialidad;
+  dlg.showModal();
+}
+$("#btn-agregar").addEventListener("click", abrirDialogo);
+$("#btn-agregar-2").addEventListener("click", abrirDialogo);
+$("#btn-cancelar-dlg").addEventListener("click", () => dlg.close());
+$("#btn-guardar-dlg").addEventListener("click", async () => {
+  const titulo = $("#in-titulo").value.trim();
+  const especialidad = $("#in-especialidad").value.trim() || "General";
+  const area = $("#in-area").value.trim() || "General";
+  const texto = $("#in-texto").value.trim();
+  if(!titulo || texto.length < 40){
+    $("#aviso-dlg").textContent = "Escriba un título y un texto de al menos 40 caracteres.";
+    return;
+  }
+  const nuevo = { id: "usr-" + Date.now(), especialidad, area, titulo, texto, propio: true };
+  estado.resumenes.push(nuevo);
+  await almacen.escribir(CLAVE_RESUMENES, estado.resumenes.filter(r => r.propio));
+  $("#in-titulo").value = ""; $("#in-area").value = ""; $("#in-texto").value = "";
+  dlg.close();
+  pintarEspecialidades(); pintarResumenGlobal();
+  abrirEspecialidad(especialidad);
+});
+
+/* ══════════════════════════════════════════════════════════════════
+   10. ARRANQUE
+   ══════════════════════════════════════════════════════════════════ */
+(async function iniciar(){
+  const guardados = await almacen.leer(CLAVE_RESUMENES);
+  const marcas = await almacen.leer(CLAVE_MARCAS);
+  estado.resumenes = RESUMENES_BASE.concat(Array.isArray(guardados) ? guardados : []);
+  estado.marcas = marcas && typeof marcas === "object" ? marcas : {};
+  pintarEspecialidades(); pintarResumenGlobal();
+  mostrarVista("especialidades");
+})();
+</script>
+</body>
+</html>
