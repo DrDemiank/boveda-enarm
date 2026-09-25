@@ -1,14 +1,8 @@
-.DS_Store
-.gitignore
-node_modules
-public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
+# Binarios pesados fuera del repo (limite GitHub 2GB/push)
+content/00_raw/
+content/resumenes_pdf/
+content/test_jarvis.mp3
+content/mecanografia_js/biblioteca-virtual-v1.html
+node_modules/
+public/
 .quartz/
-quartz/cli/tui/dist/
-.turbo/
