@@ -6,3 +6,5 @@ content/mecanografia_js/biblioteca-virtual-v1.html
 node_modules/
 public/
 .quartz/
+.DS_Store
+.obsidian/
